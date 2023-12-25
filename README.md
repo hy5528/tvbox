@@ -5,6 +5,6 @@
 - 设置——配置地址——输入你的站源规则——确定即可；
  设置——配置地址，输入 https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/XC.json
 
-### 2. 下载地址
- - [TVbox开源版](https://wws.lanzouv.com/b03j4ulyh#999)   
+
+
 
