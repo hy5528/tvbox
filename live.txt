@@ -514,7 +514,7 @@ CETV-04,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m
 康巴卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-🐶少儿#genre#
+🐶少儿,#genre#
 CCTV14少儿[1920*1080],http://192.168.2.1:4022/rtp/239.81.0.120:4056
 CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
 金鹰卡通[1920*1080],http://192.168.2.1:4022/rtp/239.81.0.148:4056
