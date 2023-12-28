@@ -472,6 +472,44 @@ IPTV,http://192.168.2.1:4022/udp/239.81.0.100:4056
 龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw3143044227_-926148572/ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8?icpid=3&RTS=1668597937&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
+网络电台,#genre#
+怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
+高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
+清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
+老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
+亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
+厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
+浙江动听,http://ls.qingting.fm/live/4866.m3u8
+四川岷江音乐广播,http://ls.qingting.fm/live/1110.m3u8
+北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
+广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
+深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
+北京好音乐,http://ls.qingting.fm/live/2131011.m3u8
+北京经典,http://live.funhillrm.com/4/sd/live.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+古典音乐台,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+卷卷猫电台,http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+民谣 蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+沐耳电台,http://mplay.muearfm.cn/muearfm/fm666.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+天籁之音 Hi-Fi Radio,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁之音-国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+心灵音乐馆,http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+摇滚天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+萤火虫网络台,http://211.149.226.193:8066/1022.mp3
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+
 🐶少儿,#genre#
 CCTV14少儿[1920*1080],http://192.168.2.1:4022/rtp/239.81.0.120:4056
 CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
