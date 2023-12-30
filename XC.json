@@ -142,6 +142,16 @@
       "ext": "http://52bsj.vip:81/api/v3/file/get/784/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0",
       "spider": "http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },	
+     {
+      "key": "MV_vod",
+      "name": "🎼MV|视频",
+      "type": 1,
+      "viewType": 2,
+      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },		
     {
     "key": "MTV转点播",
     "name": "🎶16万MV",
