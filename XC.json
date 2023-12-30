@@ -256,7 +256,7 @@
 {"key":"csp_Yj1211","name":"📽️在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Aid","name":"🚑急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
-
+{"key": "csp_XYQHikerAL_我的小站","name":"📕我的小站","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/我的小站.json","jar":"https://download.kstore.space/download/4127/Xiang.txt"},
 {"key":"YiSo","name":"🆎易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"Zhaozy","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$Yoursmile$$$abcd1234"},
 {"key":"PanSou","name":"📀盘搜","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
