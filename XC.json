@@ -234,21 +234,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
     },
      {
-      "key": "drpy_js_JangoIndex",
-      "name": "音频 | JangoIndex[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JangoIndex.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_种子音乐",
-      "name": "音频 | 种子音乐[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/种子音乐.js"
-    },
-    {
       "key": "drpy_js_蜻蜓FM",
       "name": "广播 | 蜻蜓FM[js]",
       "type": 3,
