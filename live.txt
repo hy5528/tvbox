@@ -1,4 +1,4 @@
-央视频道,#genre#
+🇨🇳 央视频道,#genre#
 CCTV1,https://tv.smart-chat.net/iptv.php?id=100100&num=1
 CCTV1,https://tv.smart-chat.net/iptv.php?id=100100&num=2
 CCTV1,https://tv.smart-chat.net/iptv.php?id=100100&num=3
@@ -74,7 +74,7 @@ CCTV-女性时尚,https://tv.smart-chat.net/iptv.php?id=103200&num=2
 CCTV-女性时尚,https://tv.smart-chat.net/iptv.php?id=103200&num=3
 CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=1
 CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
-卫视频道,#genre#
+🇨🇳 卫视频道,#genre#
 湖南卫视,https://tv.smart-chat.net/iptv.php?id=200100&num=1
 湖南卫视,https://tv.smart-chat.net/iptv.php?id=200100&num=2
 湖南卫视,https://tv.smart-chat.net/iptv.php?id=200100&num=3
