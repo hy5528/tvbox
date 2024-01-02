@@ -370,6 +370,18 @@ CETV-1[1920*1080],http://192.168.2.1:4022/udp/239.81.0.92:4056
 梧州新闻综合[1920*1080],http://192.168.2.1:4022/udp/239.81.0.176:4056
 玉林新闻综合[1920*1080],http://192.168.2.1:4022/udp/239.81.0.177:4056
 
+🐼  经典音乐,#genre#
+《宝丽金15周年群星演唱会完整版》,https://vd4.bdstatic.com/mda-pbndmfww1uvvr7hh/cae_h264/1677147471612943557/mda-pbndmfww1uvvr7hh.mp4
+《宝丽金20周年群星演唱会完整版》,https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/sc/cae_h264/1677214872183868613/mda-pbp4sapcn5kmpxhg.mp4
+《宝丽金25周年群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbq9cde2ii3ti6dc/sc/cae_h264/1677313014207602418/mda-pbq9cde2ii3ti6dc.mp4
+《宝丽金30周年群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbr4g2edssnu2heu/720p/h264/1677381477864191175/mda-pbr4g2edssnu2heu.mp4
+陈慧娴 谁可改变,https://vd4.bdstatic.com/mda-pe8mpintgpb8dgjz/sc/cae_h264/1683686453932813197/mda-pe8mpintgpb8dgjz.mp4
+邓丽君演唱会(收藏精品),https://txmov2.a.kwimgs.com/bs3/video-hls/5250352781639513597_hlsb.m3u8
+蔡琴16首无损CD歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5214886992445211245_hlsb.m3u8
+张韵涵18首无损音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5191806046722568971_hlsb.m3u8
+经典粤语CD发烧音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5205316846721176820_hlsb.m3u8
+邓紫棋专辑,https://txmov2.a.kwimgs.com/bs3/video-hls/5233745817961799164_hlsb.m3u8
+
 🇨🇳 网络电台,#genre#
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
