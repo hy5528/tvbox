@@ -202,7 +202,7 @@ CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
 广西影视,https://tv.smart-chat.net/iptv.php?id=301600&num=2
 黑龙江影视,https://tv.smart-chat.net/iptv.php?id=301900&num=1
 黑龙江影视,https://tv.smart-chat.net/iptv.php?id=301900&num=2
-数字频道,#genre#
+🇨🇳 数字频道,#genre#
 中国教育1,https://tv.smart-chat.net/iptv.php?id=400100&num=1
 中国教育1,https://tv.smart-chat.net/iptv.php?id=400100&num=2
 中国教育1,https://tv.smart-chat.net/iptv.php?id=400100&num=3
@@ -280,7 +280,7 @@ CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
 凤凰资讯,https://tv.smart-chat.net/iptv.php?id=500200&num=1
 凤凰资讯,https://tv.smart-chat.net/iptv.php?id=500200&num=2
 凤凰资讯,https://tv.smart-chat.net/iptv.php?id=500200&num=3
-电影频道,#genre#
+🇨🇳 电影频道,#genre#
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=1
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=2
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=3
