@@ -190,7 +190,7 @@ CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
 金鹰卡通,https://tv.smart-chat.net/iptv.php?id=204000&num=1
 金鹰卡通,https://tv.smart-chat.net/iptv.php?id=204000&num=2
 金鹰卡通,https://tv.smart-chat.net/iptv.php?id=204000&num=3
-影视频道,#genre#
+🇨🇳 影视频道,#genre#
 东方影视,https://tv.smart-chat.net/iptv.php?id=300500&num=1
 广东影视,https://tv.smart-chat.net/iptv.php?id=300700&num=1
 广东影视,https://tv.smart-chat.net/iptv.php?id=300700&num=2
@@ -273,13 +273,14 @@ CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
 游戏风云,https://tv.smart-chat.net/iptv.php?id=406100&num=1
 游戏风云,https://tv.smart-chat.net/iptv.php?id=406100&num=2
 游戏风云,https://tv.smart-chat.net/iptv.php?id=406100&num=3
-港澳频道,#genre#
+🇨🇳 港澳频道,#genre#
 凤凰中文,https://tv.smart-chat.net/iptv.php?id=500100&num=1
 凤凰中文,https://tv.smart-chat.net/iptv.php?id=500100&num=2
 凤凰中文,https://tv.smart-chat.net/iptv.php?id=500100&num=3
 凤凰资讯,https://tv.smart-chat.net/iptv.php?id=500200&num=1
 凤凰资讯,https://tv.smart-chat.net/iptv.php?id=500200&num=2
 凤凰资讯,https://tv.smart-chat.net/iptv.php?id=500200&num=3
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 🇨🇳 电影频道,#genre#
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=1
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=2
@@ -292,7 +293,7 @@ CHC高清电影,https://tv.smart-chat.net/iptv.php?id=600300&num=2
 CHC高清电影,https://tv.smart-chat.net/iptv.php?id=600300&num=3
 科幻电影,https://tv.smart-chat.net/iptv.php?id=600600&num=1
 华语影院,https://tv.smart-chat.net/iptv.php?id=600800&num=1
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+
 
 🇨🇳  自用组播,#genre#
 CCTV-1综合[1920*1080],http://192.168.2.1:4022/udp/239.81.0.102:4056
