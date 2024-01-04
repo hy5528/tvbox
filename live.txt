@@ -1,4 +1,4 @@
-🇨🇳 央视频道,#genre#
+央视频道,#genre#
 CCTV1,https://tv.smart-chat.net/iptv.php?id=100100&num=1
 CCTV1,https://tv.smart-chat.net/iptv.php?id=100100&num=2
 CCTV1,https://tv.smart-chat.net/iptv.php?id=100100&num=3
@@ -74,7 +74,7 @@ CCTV-女性时尚,https://tv.smart-chat.net/iptv.php?id=103200&num=2
 CCTV-女性时尚,https://tv.smart-chat.net/iptv.php?id=103200&num=3
 CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=1
 CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
-🇨🇳 卫视频道,#genre#
+卫视频道,#genre#
 湖南卫视,https://tv.smart-chat.net/iptv.php?id=200100&num=1
 湖南卫视,https://tv.smart-chat.net/iptv.php?id=200100&num=2
 湖南卫视,https://tv.smart-chat.net/iptv.php?id=200100&num=3
@@ -202,7 +202,7 @@ CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
 广西影视,https://tv.smart-chat.net/iptv.php?id=301600&num=2
 黑龙江影视,https://tv.smart-chat.net/iptv.php?id=301900&num=1
 黑龙江影视,https://tv.smart-chat.net/iptv.php?id=301900&num=2
-🇨🇳 数字频道,#genre#
+数字频道,#genre#
 中国教育1,https://tv.smart-chat.net/iptv.php?id=400100&num=1
 中国教育1,https://tv.smart-chat.net/iptv.php?id=400100&num=2
 中国教育1,https://tv.smart-chat.net/iptv.php?id=400100&num=3
@@ -273,7 +273,7 @@ CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
 游戏风云,https://tv.smart-chat.net/iptv.php?id=406100&num=1
 游戏风云,https://tv.smart-chat.net/iptv.php?id=406100&num=2
 游戏风云,https://tv.smart-chat.net/iptv.php?id=406100&num=3
-🇨🇳 港澳频道,#genre#
+港澳频道,#genre#
 凤凰中文,https://tv.smart-chat.net/iptv.php?id=500100&num=1
 凤凰中文,https://tv.smart-chat.net/iptv.php?id=500100&num=2
 凤凰中文,https://tv.smart-chat.net/iptv.php?id=500100&num=3
@@ -281,7 +281,7 @@ CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
 凤凰资讯,https://tv.smart-chat.net/iptv.php?id=500200&num=2
 凤凰资讯,https://tv.smart-chat.net/iptv.php?id=500200&num=3
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-🇨🇳 电影频道,#genre#
+电影频道,#genre#
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=1
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=2
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=3
@@ -295,7 +295,7 @@ CHC高清电影,https://tv.smart-chat.net/iptv.php?id=600300&num=3
 华语影院,https://tv.smart-chat.net/iptv.php?id=600800&num=1
 
 
-🇨🇳  自用组播,#genre#
+自用组播,#genre#
 CCTV-1综合[1920*1080],http://192.168.2.1:4022/udp/239.81.0.102:4056
 CCTV-2财经[1920*1080],http://192.168.2.1:4022/udp/239.81.0.115:4056
 CCTV-3综艺[1920*1080],http://192.168.2.1:4022/udp/239.81.0.231:4056
@@ -370,7 +370,7 @@ CETV-1[1920*1080],http://192.168.2.1:4022/udp/239.81.0.92:4056
 梧州新闻综合[1920*1080],http://192.168.2.1:4022/udp/239.81.0.176:4056
 玉林新闻综合[1920*1080],http://192.168.2.1:4022/udp/239.81.0.177:4056
 
-🐼  经典音乐,#genre#
+经典音乐,#genre#
 《宝丽金15周年群星演唱会完整版》,https://vd4.bdstatic.com/mda-pbndmfww1uvvr7hh/cae_h264/1677147471612943557/mda-pbndmfww1uvvr7hh.mp4
 《宝丽金20周年群星演唱会完整版》,https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/sc/cae_h264/1677214872183868613/mda-pbp4sapcn5kmpxhg.mp4
 《宝丽金25周年群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbq9cde2ii3ti6dc/sc/cae_h264/1677313014207602418/mda-pbq9cde2ii3ti6dc.mp4
@@ -382,7 +382,7 @@ CETV-1[1920*1080],http://192.168.2.1:4022/udp/239.81.0.92:4056
 经典粤语CD发烧音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5205316846721176820_hlsb.m3u8
 邓紫棋专辑,https://txmov2.a.kwimgs.com/bs3/video-hls/5233745817961799164_hlsb.m3u8
 
-🇨🇳 网络电台,#genre#
+网络电台,#genre#
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
 清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
@@ -420,7 +420,7 @@ CETV-1[1920*1080],http://192.168.2.1:4022/udp/239.81.0.92:4056
 萤火虫网络台,http://211.149.226.193:8066/1022.mp3
 有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
 
-🐶少儿,#genre#
+少儿,#genre#
 CCTV14少儿[1920*1080],http://192.168.2.1:4022/rtp/239.81.0.120:4056
 CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
 金鹰卡通[1920*1080],http://192.168.2.1:4022/rtp/239.81.0.148:4056
@@ -453,7 +453,7 @@ IPTV少儿动画[720*576],http://192.168.2.1:4022/rtp/239.81.0.82:4056
 兔小贝尔歌,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
 儿歌大全,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
 
-🇨🇳Y Y影视,#genre#
+Y Y影视,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
 豪哥带我们发财,https://live.metshop.top/yy/23402146
 纪晓岚,https://live.metshop.top/yy/1354143978
@@ -1180,7 +1180,7 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 10年没洗的地毯,https://live.metshop.top/yy/1354931585
 相声相声搜38528频道,https://live.metshop.top/yy/34025318
 
-🇨🇳  轮播,#genre#
+轮播,#genre#
 神乐影片1,http://epg.112114.xyz/douyu/122402
 神乐影片2,http://epg.112114.xyz/douyu/85894
 贝爷MAX厅,http://epg.12114.xyz/douyu/4332
@@ -1549,7 +1549,7 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 变种人电影[1920*1080],http://epg.112114.xyz/douyu/9651304
 影厅84,http://epg.112114.xyz/douyu/5448413
 
-🐼  斗鱼,#genre#
+斗鱼,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 计划！五一节の快乐,http://epg.112114.xyz/douyu/7528160
@@ -1684,7 +1684,7 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 斗鱼搞笑HD4,http://epg.112114.xyz/douyu/9817729
 斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
 
-🐼  歌星金曲,#genre#
+歌星金曲,#genre#
 歌MV1,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
 歌MV2,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
 歌MV3,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmJbV4gUogpLGkgM.mp4
@@ -1895,7 +1895,7 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 花粥/马雨阳 Ⅰ 盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost%2F79c755e10a28040d25c417fac00f7f489b53a6d21959e047363889876ded1bce
 张碧晨/赵丽颖 Ⅰ 望,https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fbeb15438a125af0e53bc38c98b3f304da2e2c0f1f61103ce81a9df486dc138a3
 
-🐼  MTV流行,#genre#
+MTV流行,#genre#
 怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
 经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
 经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
@@ -2118,7 +2118,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 我和我的祖国,https://ks-xpc4.xpccdn.com/5d8c248a2a2b4.mp4
 
 
-🐼  MTV现场,#genre#
+MTV现场,#genre#
 
 BEYOND-血染的风采,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330UVqF1sc8YPbod665sH.mp4
 许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv
@@ -2202,7 +2202,7 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 刀郎-冲动的惩罚西海情歌驼铃等,https://vdse.bdstatic.com//32366fcdc5f95486daaebcc32bec1135.mp4
 闽南语经典老歌,https://vdse.bdstatic.com//4933aab0ea147ecb82b047c44b4ae055.mp4
 
-🐼  DJ音乐,#genre#
+DJ音乐,#genre#
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4
 怒击摇,https://vd2.bdstatic.com/mda-mkibx9zvknj8d2fu/sc/cae_h264_nowatermark/1637355659217322910/mda-mkibx9zvknj8d2fu.mp4
 新送情郎,https://vd4.bdstatic.com/mda-meq936zru7niwvd2/sc/cae_h264/1621924823247730000/mda-meq936zru7niwvd2.mp4
@@ -2425,7 +2425,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 
 
 
-🇨🇳  MV,#genre#
+MV,#genre#
 蔡琴-今宵多珍重(HD演唱会),http://em.21dtv.com/songs/60023921.mkv
 梅艳芳-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023925.mkv
 谢雷+杨燕-今宵多珍重(演唱会),http://em.21dtv.com/songs/60023926.mkv
@@ -2512,7 +2512,7 @@ dj,https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4M
 凤凰传奇-御龙归字谣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
 凤凰传奇-月亮之上,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_7084968&response=res&format=mp4&type=convert_url
 
-🇨🇳 D J,#genre#
+D J,#genre#
 斗鱼音乐一FHD,http://epg.112114.xyz/douyu/9588891
 模特DJ,http://gcw.bdcdn.shoujiduoduo.com/201805/0247-477.mp4
 MTVYo!,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
@@ -2549,7 +2549,7 @@ MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 
 
 
-🇨🇳 赤焰锦衣卫,#genre#
+赤焰锦衣卫,#genre#
 ﻿赤焰锦衣卫 第01集,https://vip.lz-cdn9.com/20221231/16778_e7666586/index.m3u8
 赤焰锦衣卫 第02集,https://vip.lz-cdn9.com/20221231/16779_38ed83a0/index.m3u8
 赤焰锦衣卫 第03集,https://vip.lz-cdn9.com/20221231/16780_7c9b6742/index.m3u8
@@ -2570,7 +2570,7 @@ MTVBlockParty,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS0
 赤焰锦衣卫 第19集,https://vip.lz-cdn14.com/20230419/22006_68ec6a1e/index.m3u8
 赤焰锦衣卫 第20集,https://vip.lz-cdn14.com/20230426/22408_e50e0fc7/index.m3u8
 
-🇨🇳 课堂,#genre#
+课堂,#genre#
 一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
