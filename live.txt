@@ -190,7 +190,7 @@ CCTV-央视台球,https://tv.smart-chat.net/iptv.php?id=103300&num=2
 金鹰卡通,https://tv.smart-chat.net/iptv.php?id=204000&num=1
 金鹰卡通,https://tv.smart-chat.net/iptv.php?id=204000&num=2
 金鹰卡通,https://tv.smart-chat.net/iptv.php?id=204000&num=3
-🇨🇳 影视频道,#genre#
+影视频道,#genre#
 东方影视,https://tv.smart-chat.net/iptv.php?id=300500&num=1
 广东影视,https://tv.smart-chat.net/iptv.php?id=300700&num=1
 广东影视,https://tv.smart-chat.net/iptv.php?id=300700&num=2
@@ -1535,7 +1535,7 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 虎牙电影22,https://epg.112114.xyz/huya/14015002
 
 
-🐼  影视,#genre#
+影视,#genre#
 神乐影片2,http://epg.112114.xyz/douyu/85894
 特辑影院,http://epg.112114.xyz/douyu/3637778
 豆瓣高分[1920*1080],http://epg.112114.xyz/douyu/8770422
