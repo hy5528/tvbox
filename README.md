@@ -1,5 +1,5 @@
 
-### 这是根据南风的源修改的自用源。
+### 这是根据南风tvbox接口源修改而成的自用源。
 - 设置——配置地址——输入你的站源规则——确定即可；
 - 设置——配置地址，输入 https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/XC.json
 
