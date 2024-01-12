@@ -7,15 +7,6 @@
 
 	"sites":[
 {"key":"csp_DouDou","name":"🔍豆瓣┃本接口免费-🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
-{
-      "key": "MV_vod",
-      "name": "🎸明星MV",
-      "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1
-    },
     {
       "key": "酷奇MV",
       "name": "🎤酷奇MV",
