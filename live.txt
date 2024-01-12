@@ -399,9 +399,6 @@ IPTV少儿动画,http://192.168.2.1:4022/rtp/239.81.0.82:4056
 兔小贝尔歌,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
 儿歌大全,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
 
-电影,#genre#
-国语译制电影轮播,http://epg.112114.xyz/douyu/2436390
-
 Y Y影视,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
 豪哥带我们发财,https://live.metshop.top/yy/23402146
