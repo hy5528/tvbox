@@ -163,22 +163,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
     },
     {
-            "key": "alist",
-            "name": "🦆小鸭网盘",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-				"vodPic": "https://s1.imagehub.cc/images/2023/11/13/98b4ce8284509da2525ddb9d8aac83a0.th.jpeg",
-				"drives": [{
-					"name": "🦆托盘",
-					"server": "https://pan.mediy.cn/"
-				}]
-			}
-		},
- {
       "key": "光速资源",
       "name": "💯光速切片",
       "type": 1,
