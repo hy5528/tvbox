@@ -225,6 +225,15 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/喜马拉雅.js",
       "playerType": "2"
     },
+   {
+			"key": "zibo",
+			"name": "📻直播电台",
+			"type": 3,
+			"api": "https://notabug.org/ygfxz/6/raw/main/is/直播.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1
+	},		
     {
       "key": "drpy_js_六月听书",
       "name": "🧑听书 | 六月听书[js]",
