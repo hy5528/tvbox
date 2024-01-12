@@ -38,20 +38,6 @@
       }
     },
     {
-      "key": "Biliych",
-      "name": "🅱哔哔┃歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/biliych.json"
-    },  
-    {
       "key": "酷狗",
       "name": "🎵酷狗┃音乐",
       "type": 3,
