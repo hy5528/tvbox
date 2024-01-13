@@ -400,6 +400,7 @@ IPTV少儿动画,http://192.168.2.1:4022/rtp/239.81.0.82:4056
 儿歌大全,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
 
 Y Y影视,#genre#
+qw,http://epg.112114.xyz/douyu/5033502
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
 豪哥带我们发财,https://live.metshop.top/yy/23402146
 纪晓岚,https://live.metshop.top/yy/1354143978
