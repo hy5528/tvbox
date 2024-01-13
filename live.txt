@@ -308,7 +308,7 @@ IPTV5+,http://192.168.2.1:4022/udp/239.81.0.133:4056
 欢乐颂电视剧,https://epg.112114.xyz/douyu/3756989
 好先生电视剧,https://epg.112114.xyz/douyu/9650792
 粤语版电影1,https://epg.112114.xyz/douyu/5033502
-粤语版电影2http://epg.112114.xyz/douyu/6566671
+粤语版电影2https://epg.112114.xyz/douyu/6566671
 粤语版电影3,https://epg.112114.xyz/douyu/1226741
 
 
