@@ -265,7 +265,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js",
       "playerType": "2"
     },
-    {"key": "直播转点播1","name": "🎦直播转换","type": 3,"api": "https://download.kstore.space/download/4127/直播﹦点播.js","ext": "./lives/$$$MV直播$https://notabug.org/ygfxz/6/raw/main/TV/mv#唐三直播$http://home.jundie.top:81/Cat/tv/live.txt#饭太硬直播$http://ftyyy.tk/live.txt#肥猫直播$http://我不是.肥猫.love:63/TV/tvzb.txt &&&https://api.caonm.net/api/mc/index.php"},
     {"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},   		
     {
       "key": "drpy_js_短视频",
@@ -282,7 +281,6 @@
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://haozhansou.com/"},
 {"key":"csp_MYYS","name":"👻忍者","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
 {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.hdmyy.com/"},
-{"key":"csp_Bttwoo","name":"✌比特","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.libvio.pro/"},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"360","name":"💘360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
