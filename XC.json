@@ -166,6 +166,7 @@
             "filterable": 1,
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
+{"key":"多云","name":"💖分享蓝天","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttsp.live/api.php/app/"},	
 {"key":"酷云1","name":"💖分享彩云","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
 {"key":"雨晴","name":"💖分享晴天","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
 {"key":"csp_CandyMuj_jxyc","name":"💖自营一站","type":3,"api":"csp_CandyMuj_jxyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xc1080.xn--654a.cc","jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
