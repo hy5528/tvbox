@@ -138,7 +138,7 @@
       "ext": "http://52bsj.vip:81/api/v3/file/get/17181/%E5%90%BE%E7%88%B1%E7%BE%8E%E9%A3%9F0804.m3u?sign=8AZYYTTMZ8XjyAk_BENuUbWe350zHymzMdrG6fGE2H8%3D%3A0",
       "spider": "http://52bsj.vip:81/api/v3/file/get/786/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
     },
- {
+    {
 "key": "csp_xBPQ_jishu",
 "name": "💖分享极速",
 "type": 3,
@@ -147,14 +147,7 @@
 "quickSearch": 1,
 "filterable": 0,
 "ext": "https://jihulab.com/0004/000/-/raw/main/xbpq/极速.json"},
- {
-            "key" : "js_v2-zz",
-            "name" :"💖分享双赞",
-            "type" : 3,
-            "api" : "https://jihulab.com/0004/000/-/raw/main/js/lib/drpy2.min.js",
-            "ext" : "https://notabug.org/ygfxz/6/raw/main/js/zanzan.js"
-        },
-	{
+    {
 			"key": "js",
 			"name": "💖分享加速",
 			"type": 3,
@@ -162,8 +155,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
-		},
-		 {
+	},
+	{
             "key": "2聚合",
             "name": "💖分享遇见",
             "type": 3,
