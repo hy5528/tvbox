@@ -303,6 +303,19 @@ IPTV5+,http://192.168.2.1:4022/udp/239.81.0.133:4056
 独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
 斗鱼影视,#genre#
+神乐影片2,http://epg.112114.xyz/douyu/85894
+特辑影院,http://epg.112114.xyz/douyu/3637778
+豆瓣高分[1920*1080],http://epg.112114.xyz/douyu/8770422
+漫威影片[1920*1080],http://epg.112114.xyz/douyu/6140589
+贝爷影厅1[1920*1080],http://epg.112114.xyz/douyu/252802
+贝爷影厅2[1920*1080],http://epg.112114.xyz/douyu/36337
+贝爷MAX厅-科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
+特辑影院[1280*720],http://epg.112114.xyz/douyu/3637778
+可乐电影[1920*1080],http://epg.112114.xyz/douyu/20415
+霍格影片[1280*720],http://epg.112114.xyz/douyu/8814650
+喜剧电影[1280*720],http://epg.112114.xyz/douyu/9292492
+变种人电影[1920*1080],http://epg.112114.xyz/douyu/9651304
+影厅84,http://epg.112114.xyz/douyu/5448413
 国语译制电影轮播,https://epg.112114.xyz/douyu/2436390
 庆余年电视剧,https://epg.112114.xyz/douyu/9633542
 欢乐颂电视剧,https://epg.112114.xyz/douyu/3756989
@@ -1592,22 +1605,6 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 相声相声搜38528频道,https://live.metshop.top/yy/34025318
 
 
-
-
-影视,#genre#
-神乐影片2,http://epg.112114.xyz/douyu/85894
-特辑影院,http://epg.112114.xyz/douyu/3637778
-豆瓣高分[1920*1080],http://epg.112114.xyz/douyu/8770422
-漫威影片[1920*1080],http://epg.112114.xyz/douyu/6140589
-贝爷影厅1[1920*1080],http://epg.112114.xyz/douyu/252802
-贝爷影厅2[1920*1080],http://epg.112114.xyz/douyu/36337
-特辑影院[1280*720],http://epg.112114.xyz/douyu/3637778
-可乐电影[1920*1080],http://epg.112114.xyz/douyu/20415
-霍格影片[1280*720],http://epg.112114.xyz/douyu/8814650
-喜剧电影[1280*720],http://epg.112114.xyz/douyu/9292492
-变种人电影[1920*1080],http://epg.112114.xyz/douyu/9651304
-影厅84,http://epg.112114.xyz/douyu/5448413
-
 斗鱼,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
@@ -1630,7 +1627,6 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 中二日记搞笑日常更新,http://epg.112114.xyz/douyu/9505575
 铁头与橘子（每周更新一起看霸总）,http://epg.112114.xyz/douyu/9450942
 笑出腹肌动漫0,http://epg.112114.xyz/douyu/8380708
-【贝爷MAX厅】科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
 【西游】由爱故生怨，怨恨交缠，那又何苦,http://epg.112114.xyz/douyu/9518204
 狄仁杰：想听听我的故事吗,http://epg.112114.xyz/douyu/674441
 【牛叔】N分钟带你看完大片,http://epg.112114.xyz/douyu/2758565
