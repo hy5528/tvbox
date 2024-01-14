@@ -51,6 +51,13 @@
       "ext": "https://drpy.cainisi.cf/js/A8音乐.js"
     },
     {
+      "key": "drpy_js_种子音乐",
+      "name": "音频 | 种子音乐[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/种子音乐.js"
+    },	
+    {
       "key": "DJ哟哟音乐网",
       "name": "🎵DJ哟哟┃音乐",
       "type": 3,
