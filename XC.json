@@ -84,6 +84,13 @@
       "changeable": 0,
       "ext": "https://drpy.cainisi.cf/js/啦啦DJ.js"
     },
+     {
+      "key": "drpy_js_音悦网",
+      "name": "MV | 音悦网[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/音悦网.js"
+    },	
     {
       "key": "演唱会",
       "name": "🅱哔哩┃音乐",
