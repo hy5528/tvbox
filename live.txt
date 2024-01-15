@@ -323,7 +323,10 @@ IPTV少儿动画,http://192.168.2.1:4022/rtp/239.81.0.82:4056
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 key=0b292c335e5837e947f9409c59228f3e6
 海绵宝宝,http://epg.112114.xyz/douyu/7528160
-海绵宝宝,http://epg.112114.xyz/douyu/8762358
+海绵宝宝,http://epg.112114.xyz/douyu/8762358柯南,http://epg.112114.xyz/douyu/6484910
+江户川柯南,http://epg.112114.xyz/douyu/5377297
+柯南2,http://epg.112114.xyz/douyu/1783144
+柯南3,http://epg.112114.xyz/douyu/7050342
 
 斗鱼,#genre#
 MV音乐,http://epg.112114.xyz/douyu/3870925
@@ -401,9 +404,7 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 小片说大片,http://epg.112114.xyz/douyu/4258555
 谁语说电影,http://epg.112114.xyz/douyu/8705754
 斗鱼電影166,http://epg.112114.xyz/douyu/5581257
-
 国产经典电视剧1,http://epg.112114.xyz/douyu/6785471
-
 小涛讲电影,http://epg.112114.xyz/douyu/8415464
 港片电视剧1,http://epg.112114.xyz/douyu/5522351
 解说影视剧,http://epg.112114.xyz/douyu/562225
@@ -427,10 +428,7 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 
 海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
 猫和老鼠,http://epg.112114.xyz/douyu/7888428
-柯南,http://epg.112114.xyz/douyu/6484910
-江户川柯南,http://epg.112114.xyz/douyu/5377297
-柯南2,http://epg.112114.xyz/douyu/1783144
-柯南3,http://epg.112114.xyz/douyu/7050342
+
 超级赛亚人,http://epg.112114.xyz/douyu/7190773
 海贼团的直播间,http://epg.112114.xyz/douyu/997925
 全职猎人,http://epg.112114.xyz/douyu/6610883
