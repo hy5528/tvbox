@@ -301,8 +301,21 @@ IPTV5+,http://192.168.2.1:4022/udp/239.81.0.133:4056
 独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
 少儿频道,#genre#
-百视通动画,http://192.168.2.1:4022/udp/239.81.0.166:4056
+CCTV14,http://192.168.2.1:4022/rtp/239.81.0.120:4056
+CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
+金鹰卡通,http://192.168.2.1:4022/rtp/239.81.0.148:4056
+金鹰卡通,http://111.20.35.103:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
+嘉佳卡通,http://192.168.2.1:4022/rtp/239.81.0.64:4056
+嘉佳卡通,http://111.20.35.103:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=00
+KAKU少儿,http://192.168.2.1:4022/rtp/239.81.0.62:4056
+卡酷少儿,http://111.20.35.103:6610/000000001000/7589856436881630561/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=00
+IPTV少儿动画,http://192.168.2.1:4022/rtp/239.81.0.82:4056
+动漫秀场,http://192.168.2.1:4022/rtp/239.81.0.68:4056
+新动漫,http://192.168.2.1:4022/rtp/239.81.0.235:4056
+优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
+哈哈炫动,http://111.20.35.103:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=00
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+百视通动画,http://192.168.2.1:4022/udp/239.81.0.166:4056
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -846,19 +859,7 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
 
 少儿,#genre#
-CCTV14,http://192.168.2.1:4022/rtp/239.81.0.120:4056
-CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
-金鹰卡通,http://192.168.2.1:4022/rtp/239.81.0.148:4056
-金鹰卡通,http://111.20.35.103:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
-嘉佳卡通,http://192.168.2.1:4022/rtp/239.81.0.64:4056
-嘉佳卡通,http://111.20.35.103:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=00
-KAKU少儿,http://192.168.2.1:4022/rtp/239.81.0.62:4056
-卡酷少儿,http://111.20.35.103:6610/000000001000/7589856436881630561/index.m3u8?channel-id=ystenlive&Contentid=7589856436881630561&livemode=1&stbId=00
-IPTV少儿动画,http://192.168.2.1:4022/rtp/239.81.0.82:4056
-动漫秀场,http://192.168.2.1:4022/rtp/239.81.0.68:4056
-新动漫,http://192.168.2.1:4022/rtp/239.81.0.235:4056
-优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
-哈哈炫动,http://111.20.35.103:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=00
+
 猫和老鼠,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
 童年经典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
 玩具乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
