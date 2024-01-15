@@ -322,6 +322,7 @@ IPTV少儿动画,http://192.168.2.1:4022/rtp/239.81.0.82:4056
 熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 key=0b292c335e5837e947f9409c59228f3e6
+海绵宝宝,http://epg.112114.xyz/douyu/7528160
 
 
 斗鱼,#genre#
@@ -399,7 +400,7 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 小片说大片,http://epg.112114.xyz/douyu/4258555
 谁语说电影,http://epg.112114.xyz/douyu/8705754
 斗鱼電影166,http://epg.112114.xyz/douyu/5581257
-海绵宝宝,http://epg.112114.xyz/douyu/7528160
+
 国产经典电视剧1,http://epg.112114.xyz/douyu/6785471
 演唱会,http://epg.112114.xyz/douyu/7537296
 小涛讲电影,http://epg.112114.xyz/douyu/8415464
