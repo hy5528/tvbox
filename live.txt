@@ -323,15 +323,23 @@ IPTV少儿动画,http://192.168.2.1:4022/rtp/239.81.0.82:4056
 狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
 key=0b292c335e5837e947f9409c59228f3e6
 海绵宝宝,http://epg.112114.xyz/douyu/7528160
-海绵宝宝,http://epg.112114.xyz/douyu/8762358柯南,http://epg.112114.xyz/douyu/6484910
+海绵宝宝,http://epg.112114.xyz/douyu/8762358
+怀旧动漫1,http://epg.112114.xyz/douyu/1174353
+怀旧动漫2p://epg.112114.xyz/douyu/206858
+柯南,http://epg.112114.xyz/douyu/6484910
 江户川柯南,http://epg.112114.xyz/douyu/5377297
 柯南2,http://epg.112114.xyz/douyu/1783144
 柯南3,http://epg.112114.xyz/douyu/7050342
 猫和老鼠,http://epg.112114.xyz/douyu/7888428
+名侦探柯南1,http://epg.112114.xyz/douyu/6484910
+名侦探柯南2,http://epg.112114.xyz/douyu/5377297
+名侦探柯南3,http://epg.112114.xyz/douyu/1783144
+名侦探柯南4,http://epg.112114.xyz/douyu/1487654
 名侦探柯南,http://epg.112114.xyz/douyu/1487654
 经典动漫,http://epg.112114.xyz/douyu/9455567
 动画电影童年回忆,http://epg.112114.xyz/douyu/10395973
 动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
+动漫超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
 
 
 
@@ -430,11 +438,8 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
 动漫王者峡谷生活,http://epg.112114.xyz/douyu/9360149
 中二日记搞笑,http://epg.112114.xyz/douyu/9505575
-
 大星与海绵方块,http://epg.112114.xyz/douyu/3949681
-
 海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
-
 超级赛亚人,http://epg.112114.xyz/douyu/7190773
 海贼团的直播间,http://epg.112114.xyz/douyu/997925
 全职猎人,http://epg.112114.xyz/douyu/6610883
@@ -444,11 +449,8 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 松开的手,http://epg.112114.xyz/douyu/10210568
 马飞影桑原,http://epg.112114.xyz/douyu/9938431
 妖精的直播,http://epg.112114.xyz/douyu/5960746
-
-动漫超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
 动漫热血忍者路飞,http://epg.112114.xyz/douyu/206858
 动漫二次元,http://epg.112114.xyz/douyu/9429545
-
 动画童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
 国语超清动画电影,http://epg.112114.xyz/douyu/6449849
 卡面来打,http://epg.112114.xyz/douyu/1218414
@@ -471,18 +473,14 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 牛叔带你看完大片,http://epg.112114.xyz/douyu/2758565
 科幻影视解说连连看,http://epg.112114.xyz/douyu/3508304
 最新奇幻电影解说,http://epg.112114.xyz/douyu/3194372
-猫和老鼠,http://epg.112114.xyz/douyu/7888428
-名侦探柯南1,http://epg.112114.xyz/douyu/6484910
-名侦探柯南2,http://epg.112114.xyz/douyu/5377297
-名侦探柯南3,http://epg.112114.xyz/douyu/1783144
-名侦探柯南4,http://epg.112114.xyz/douyu/1487654
+
+
 超级赛亚人,http://epg.112114.xyz/douyu/7190773
 海贼王,http://epg.112114.xyz/douyu/997925
 全职猎人,http://epg.112114.xyz/douyu/6610883
 圣斗士星矢,http://epg.112114.xyz/douyu/8458270
 童年往事http://epg.112114.xyz/douyu/7256376
-怀旧动漫1,http://epg.112114.xyz/douyu/1174353
-怀旧动漫2p://epg.112114.xyz/douyu/206858
+
 二次元1,http://epg.112114.xyz/douyu/9429545
 二次元2,http://epg.112114.xyz/douyu/8912038
 国语动漫,http://epg.112114.xyz/douyu/6449849
