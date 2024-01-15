@@ -266,7 +266,6 @@ IPTV5+,http://192.168.2.1:4022/udp/239.81.0.133:4056
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 
 百视,#genre#
-百视通动画,http://192.168.2.1:4022/udp/239.81.0.166:4056
 直播间1,http://192.168.2.1:4022/udp/239.81.0.185:4056
 直播间,http://192.168.2.1:4022/udp/239.81.0.186:4056
 直播间3,http://192.168.2.1:4022/udp/239.81.0.201:4056
@@ -300,6 +299,17 @@ IPTV5+,http://192.168.2.1:4022/udp/239.81.0.133:4056
 百视独播4,https://bp-caster.bestv.com.cn/944/3/video.m3u8
 百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
 独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
+
+少儿频道,#genre#
+百视通动画,http://192.168.2.1:4022/udp/239.81.0.166:4056
+哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+key=0b292c335e5837e947f9409c59228f3e6
+
 
 斗鱼,#genre#
 MV音乐,http://epg.112114.xyz/douyu/3870925
@@ -784,14 +794,6 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 虎牙电影22,https://epg.112114.xyz/huya/14015002
 
 
-少儿频道,#genre#
-哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-key=0b292c335e5837e947f9409c59228f3e6
 
 经典音乐,#genre#
 《宝丽金15周年群星演唱会完整版》,https://vd4.bdstatic.com/mda-pbndmfww1uvvr7hh/cae_h264/1677147471612943557/mda-pbndmfww1uvvr7hh.mp4
