@@ -327,6 +327,13 @@ key=0b292c335e5837e947f9409c59228f3e6
 江户川柯南,http://epg.112114.xyz/douyu/5377297
 柯南2,http://epg.112114.xyz/douyu/1783144
 柯南3,http://epg.112114.xyz/douyu/7050342
+猫和老鼠,http://epg.112114.xyz/douyu/7888428
+名侦探柯南,http://epg.112114.xyz/douyu/1487654
+经典动漫,http://epg.112114.xyz/douyu/9455567
+动画电影童年回忆,http://epg.112114.xyz/douyu/10395973
+动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
+
+
 
 斗鱼,#genre#
 MV音乐,http://epg.112114.xyz/douyu/3870925
@@ -427,7 +434,6 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 大星与海绵方块,http://epg.112114.xyz/douyu/3949681
 
 海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
-猫和老鼠,http://epg.112114.xyz/douyu/7888428
 
 超级赛亚人,http://epg.112114.xyz/douyu/7190773
 海贼团的直播间,http://epg.112114.xyz/douyu/997925
@@ -438,11 +444,11 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 松开的手,http://epg.112114.xyz/douyu/10210568
 马飞影桑原,http://epg.112114.xyz/douyu/9938431
 妖精的直播,http://epg.112114.xyz/douyu/5960746
-名侦探柯南,http://epg.112114.xyz/douyu/1487654
+
 动漫超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
 动漫热血忍者路飞,http://epg.112114.xyz/douyu/206858
 动漫二次元,http://epg.112114.xyz/douyu/9429545
-动画电影童年回忆,http://epg.112114.xyz/douyu/10395973
+
 动画童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
 国语超清动画电影,http://epg.112114.xyz/douyu/6449849
 卡面来打,http://epg.112114.xyz/douyu/1218414
@@ -450,8 +456,8 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 还有一件事,http://epg.112114.xyz/douyu/7134757
 小叮当,http://epg.112114.xyz/douyu/9445279
 二次元放映室,http://epg.112114.xyz/douyu/8912038
-动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
-经典动漫,http://epg.112114.xyz/douyu/9455567
+
+
 鲁过一世的直播间,http://epg.112114.xyz/douyu/9716515
 星海璃幻V的直播间,http://epg.112114.xyz/douyu/9567313
 铁头与橘子,http://epg.112114.xyz/douyu/9450942
