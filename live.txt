@@ -341,8 +341,12 @@ key=0b292c335e5837e947f9409c59228f3e6
 动画电影童年回忆,http://epg.112114.xyz/douyu/10395973
 动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
 动漫超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
-
-
+动漫,https://live.metshop.top/yy/25055036
+经典动漫,https://live.metshop.top/yy/22777075
+动漫,https://live.metshop.top/yy/1382747970
+动漫,https://live.metshop.top/yy/26664495
+经典动漫,https://live.metshop.top/yy/24180320
+动漫,https://live.metshop.top/yy/23993334
 
 斗鱼,#genre#
 MV音乐,http://epg.112114.xyz/douyu/3870925
@@ -481,7 +485,6 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 全职猎人,http://epg.112114.xyz/douyu/6610883
 圣斗士星矢,http://epg.112114.xyz/douyu/8458270
 童年往事http://epg.112114.xyz/douyu/7256376
-
 二次元1,http://epg.112114.xyz/douyu/9429545
 二次元2,http://epg.112114.xyz/douyu/8912038
 国语动漫,http://epg.112114.xyz/douyu/6449849
@@ -811,11 +814,6 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 虎牙电影21,http://epg.112114.xyz/huya/11602077
 虎牙电影22,https://epg.112114.xyz/huya/14015002
 
-
-
-经典音乐,#genre#
-
-
 网络电台,#genre#
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
@@ -909,9 +907,9 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 港片电影集,https://live.metshop.top/yy/1455225203
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 济公游记,https://live.metshop.top/yy/1355265814
-动漫,https://live.metshop.top/yy/25055036
+
 宰相刘罗锅,https://live.metshop.top/yy/1382745191
-动漫,https://live.metshop.top/yy/26664495
+
 港片电影,https://live.metshop.top/yy/33897188
 高分经典电影,https://live.metshop.top/yy/1382754187
 狄仁杰,https://live.metshop.top/yy/1351755386
@@ -994,7 +992,7 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 薛元帅传奇,https://live.metshop.top/yy/31313785
 24灌篮高手正在直播,https://live.metshop.top/yy/1350984033
 破案港剧,https://live.metshop.top/yy/1350670730
-经典动漫,https://live.metshop.top/yy/22777075
+
 神探狄仁杰,https://live.metshop.top/yy/38338029
 雪儿动漫,https://live.metshop.top/yy/1354143938
 少年歌行【蓝光】,https://live.metshop.top/yy/1450556636
@@ -1007,7 +1005,7 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 双月之城-国漫,https://live.metshop.top/yy/1382736907
 【天龙八部】蓝光超清,https://live.metshop.top/yy/28996058
 德爷单挑荒野,https://live.metshop.top/yy/27772604
-经典动漫,https://live.metshop.top/yy/24180320
+
 案发现场（1-3）,https://live.metshop.top/yy/31368110
 经典港片电影,https://live.metshop.top/yy/1382793140
 鬼片 恐怖片超好看,https://live.metshop.top/yy/1382780025
@@ -1037,7 +1035,7 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 【电影】顶级动作电影,https://live.metshop.top/yy/24923327
 港片 喜剧 动作,https://live.metshop.top/yy/1355480591
 【港台】鬼片 惊悚 喜剧,https://live.metshop.top/yy/1351030377
-动漫,https://live.metshop.top/yy/1382747970
+
 野山鹰-影视剧,https://live.metshop.top/yy/1354932395
 《神雕侠侣》黯然销魂,https://live.metshop.top/yy/1394000563
 女鬼 绝版电影,https://live.metshop.top/yy/1355479289
@@ -1129,7 +1127,7 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 热血战争巨作,https://live.metshop.top/yy/1382745087
 三国演义,https://live.metshop.top/yy/32788000
 中国味道 第4季-美食纪录片,https://live.metshop.top/yy/1382736845
-动漫,https://live.metshop.top/yy/23993334
+
 24小时播放,https://live.metshop.top/yy/29067083
 金婚,https://live.metshop.top/yy/1382736832
 TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
