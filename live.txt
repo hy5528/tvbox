@@ -333,6 +333,7 @@ key=0b292c335e5837e947f9409c59228f3e6
 猫和老鼠,http://epg.112114.xyz/douyu/7888428
 名侦探柯南1,http://epg.112114.xyz/douyu/6484910
 名侦探柯南2,http://epg.112114.xyz/douyu/5377297
+名侦探柯南2,http://epg.112114.xyz/douyu/7620081
 名侦探柯南3,http://epg.112114.xyz/douyu/1783144
 名侦探柯南4,http://epg.112114.xyz/douyu/1487654
 名侦探柯南,http://epg.112114.xyz/douyu/1487654
@@ -434,7 +435,7 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 经典影视剧4,http://epg.112114.xyz/douyu/6582435
 斗鱼电影150,http://epg.112114.xyz/douyu/3980787
 电影解说9,http://epg.112114.xyz/douyu/8788687
-名侦探柯南2,http://epg.112114.xyz/douyu/7620081
+
 搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
 动漫王者峡谷生活,http://epg.112114.xyz/douyu/9360149
 中二日记搞笑,http://epg.112114.xyz/douyu/9505575
@@ -813,16 +814,7 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 
 
 经典音乐,#genre#
-《宝丽金15周年群星演唱会完整版》,https://vd4.bdstatic.com/mda-pbndmfww1uvvr7hh/cae_h264/1677147471612943557/mda-pbndmfww1uvvr7hh.mp4
-《宝丽金20周年群星演唱会完整版》,https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/sc/cae_h264/1677214872183868613/mda-pbp4sapcn5kmpxhg.mp4
-《宝丽金25周年群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbq9cde2ii3ti6dc/sc/cae_h264/1677313014207602418/mda-pbq9cde2ii3ti6dc.mp4
-《宝丽金30周年群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbr4g2edssnu2heu/720p/h264/1677381477864191175/mda-pbr4g2edssnu2heu.mp4
-陈慧娴 谁可改变,https://vd4.bdstatic.com/mda-pe8mpintgpb8dgjz/sc/cae_h264/1683686453932813197/mda-pe8mpintgpb8dgjz.mp4
-邓丽君演唱会(收藏精品),https://txmov2.a.kwimgs.com/bs3/video-hls/5250352781639513597_hlsb.m3u8
-蔡琴16首无损CD歌曲,https://txmov2.a.kwimgs.com/bs3/video-hls/5214886992445211245_hlsb.m3u8
-张韵涵18首无损音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5191806046722568971_hlsb.m3u8
-经典粤语CD发烧音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5205316846721176820_hlsb.m3u8
-邓紫棋专辑,https://txmov2.a.kwimgs.com/bs3/video-hls/5233745817961799164_hlsb.m3u8
+
 
 网络电台,#genre#
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
@@ -1831,6 +1823,14 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 张碧晨/赵丽颖 Ⅰ 望,https://vdse.bdstatic.com/25f5ae931f851bf09c48abaebe5d6f8d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fbeb15438a125af0e53bc38c98b3f304da2e2c0f1f61103ce81a9df486dc138a3
 
 MTV流行,#genre#
+《宝丽金15周年群星演唱会完整版》,https://vd4.bdstatic.com/mda-pbndmfww1uvvr7hh/cae_h264/1677147471612943557/mda-pbndmfww1uvvr7hh.mp4
+《宝丽金20周年群星演唱会完整版》,https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/sc/cae_h264/1677214872183868613/mda-pbp4sapcn5kmpxhg.mp4
+《宝丽金25周年群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbq9cde2ii3ti6dc/sc/cae_h264/1677313014207602418/mda-pbq9cde2ii3ti6dc.mp4
+《宝丽金30周年群星演唱会完整版》,https://vd2.bdstatic.com/mda-pbr4g2edssnu2heu/720p/h264/1677381477864191175/mda-pbr4g2edssnu2heu.mp4
+陈慧娴 谁可改变,https://vd4.bdstatic.com/mda-pe8mpintgpb8dgjz/sc/cae_h264/1683686453932813197/mda-pe8mpintgpb8dgjz.mp4
+邓丽君演唱会(收藏精品),https://txmov2.a.kwimgs.com/bs3/video-hls/5250352781639513597_hlsb.m3u8
+经典粤语CD发烧音乐,https://txmov2.a.kwimgs.com/bs3/video-hls/5205316846721176820_hlsb.m3u8
+邓紫棋专辑,https://txmov2.a.kwimgs.com/bs3/video-hls/5233745817961799164_hlsb.m3u8
 怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
 经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
 经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
