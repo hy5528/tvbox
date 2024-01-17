@@ -616,6 +616,9 @@ KAKU少儿,http://192.168.2.1:4022/rtp/239.81.0.62:4056
 IPTV少儿动画,http://192.168.2.1:4022/rtp/239.81.0.82:4056
 动漫秀场,http://192.168.2.1:4022/rtp/239.81.0.68:4056
 新动漫,http://192.168.2.1:4022/rtp/239.81.0.235:4056
+优漫卡通,https://live-hls.jstv.com/livezhuzhan/ymkt.m3u8?upt=230be0e52510710360
+优漫卡通,https://live-hls.jstv.com/livezhuzhan/ymkt.flv?upt=9d39ec8c2510710360
+优漫卡通,rtmp://live-hls.jstv.com/livezhuzhan/ymkt?upt=7aa6a3472510710360
 优漫卡通,http://111.20.35.103:6610/000000001000/5574405527570022182/index.m3u8?channel-id=ystenlive&Contentid=5574405527570022182&livemode=1&stbId=00
 哈哈炫动,http://111.20.35.103:6610/000000001000/1000000002000000172/index.m3u8?channel-id=ystenlive&Contentid=1000000002000000172&livemode=1&stbId=00
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
