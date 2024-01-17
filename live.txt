@@ -1216,6 +1216,28 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 摇滚天空台,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
 萤火虫网络台,http://211.149.226.193:8066/1022.mp3
 有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+音乐之声,http://yima.eu.org/mf.php?id=641
+经典音乐广播,http://yima.eu.org/mf.php?id=642
+HITFM劲曲调频,http://yima.eu.org/mf.php?id=662
+北京969经典调频,http://yima.eu.org/mf.php?id=1254
+黑龙江音乐广播,http://yima.eu.org/mf.php?id=552
+辽宁音乐广播,http://yima.eu.org/mf.php?id=2256
+内蒙古音乐之声,http://yima.eu.org/mf.php?id=572
+包头汽车音乐广播,http://yima.eu.org/mf.php?id=1299
+乌海交通音乐广播,http://yima.eu.org/mf.php?id=1814
+宁夏音乐广播,http://yima.eu.org/mf.php?id=1701
+西安音乐广播,http://yima.eu.org/mf.php?id=1135
+烟台汽车音乐广播,http://yima.eu.org/mf.php?id=1583
+安徽音乐广播,http://yima.eu.org/mf.php?id=601
+芜湖音乐故事广播,http://yima.eu.org/mf.php?id=940
+南京音乐广播,http://yima.eu.org/mf.php?id=425
+常州音乐广播,http://yima.eu.org/mf.php?id=1610
+温州私家车音乐广播,http://yima.eu.org/mf.php?id=916
+宁波音乐广播,http://yima.eu.org/mf.php?id=923
+
+
+浙江女主播电台,http://yima.eu.org/mf.php?id=465
+
 
 Y Y影视,#genre#
 好久不见-武林外传,https://live.metshop.top/yy/1355914397
