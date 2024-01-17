@@ -607,7 +607,7 @@ CETV4,http://yima.eu.org/bestv.php?id=zgjy4hd8m/8000000
 少儿,#genre#
 CCTV14,http://192.168.2.1:4022/rtp/239.81.0.120:4056
 CCTV14,http://v.1ack.com/ai.php?id=cctv14
-cctv14,http://v.1ack.com/aikanmigu.php?id=cctv14
+CCTV14,http://v.1ack.com/aikanmigu.php?id=cctv14
 CCTV14,http://yima.eu.org/bestv.php?id=cctvsehd8m/8000000
 CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
