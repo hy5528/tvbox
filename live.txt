@@ -542,10 +542,9 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 演唱会,http://epg.112114.xyz/douyu/7537296
 神乐影片2,http://epg.112114.xyz/douyu/85894
 特辑影院,http://epg.112114.xyz/douyu/3637778
-漫威影片[1920*1080],http://epg.112114.xyz/douyu/6140589
-特辑影院[1280*720],http://epg.112114.xyz/douyu/3637778
-霍格影片[1280*720],http://epg.112114.xyz/douyu/8814650
-喜剧电影[1280*720],http://epg.112114.xyz/douyu/9292492
+漫威影片,http://epg.112114.xyz/douyu/6140589
+霍格影片,http://epg.112114.xyz/douyu/8814650
+喜剧电影,http://epg.112114.xyz/douyu/9292492
 变种人电影[1920*1080],http://epg.112114.xyz/douyu/9651304
 影厅84,http://epg.112114.xyz/douyu/5448413
 国语译制电影轮播,https://epg.112114.xyz/douyu/2436390
@@ -578,12 +577,14 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 吟笑扒片,http://epg.112114.xyz/douyu/2987100
 
 点歌搞笑,http://epg.112114.xyz/douyu/3870925
-橙子影视,http://epg.112114.xyz/douyu/4549169
 恐怖电影讲解,http://epg.112114.xyz/douyu/8867878
 经典武侠,http://epg.112114.xyz/douyu/7655471
+橙子影视,http://epg.112114.xyz/douyu/4549169
 港片1,http://epg.112114.xyz/douyu/4290711
 港片2,http://epg.112114.xyz/douyu/338759
 港片电视剧1,http://epg.112114.xyz/douyu/5522351
+粤语电影,http://epg.112114.xyz/douyu/1226741
+港电影院,http://epg.112114.xyz/douyu/9826611
 
 斗鱼電影1,http://epg.112114.xyz/douyu/6566671
 斗鱼電影2,http://epg.112114.xyz/douyu/8475821
@@ -601,13 +602,11 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 经典影视剧2,http://epg.112114.xyz/douyu/7623292
 经典影视6,http://epg.112114.xyz/douyu/5033502
 影视解说1,http://epg.112114.xyz/douyu/8799435
-
+解说影视剧,http://epg.112114.xyz/douyu/562225
 
 小涛讲电影,http://epg.112114.xyz/douyu/8415464
 
-解说影视剧,http://epg.112114.xyz/douyu/562225
-
-
+经典神剧,http://epg.112114.xyz/douyu/3700024
 经典影视剧4,http://epg.112114.xyz/douyu/6582435
 经典影视剧5,http://epg.112114.xyz/douyu/1274132
 
@@ -615,42 +614,29 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 鬼吹灯小说,http://epg.112114.xyz/douyu/7422897
 妖精的直播,http://epg.112114.xyz/douyu/5960746
 
-经典神剧,http://epg.112114.xyz/douyu/3700024
 女神金,http://epg.112114.xyz/douyu/747764
 牛叔带你看完大片,http://epg.112114.xyz/douyu/2758565
 科幻影视解说连连看,http://epg.112114.xyz/douyu/3508304
 最新奇幻电影解说,http://epg.112114.xyz/douyu/3194372
-
-经典神剧,http://epg.112114.xyz/douyu/3700024
-
 女神金60帧极致蓝光,http://epg.112114.xyz/douyu/747764
 科幻Fans精彩科幻,http://epg.112114.xyz/douyu/3508304
 最新奇幻电影解说,http://epg.112114.xyz/douyu/3194372
 神乐影片2,http://epg.112114.xyz/douyu/85894
 特辑影院,http://epg.112114.xyz/douyu/3637778
 刘德华电影2,http://epg.112114.xyz/douyu/8985415
-
 霍格影片,http://epg.112114.xyz/douyu/8814650
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-
-漫威DC电影,http://epg.112114.xyz/douyu/9803994
-东齐君,http://epg.112114.xyz/douyu/7713588
-24h恐喜科灾,http://epg.112114.xyz/douyu/3346305
-林林影院,http://epg.112114.xyz/douyu/9652323
-妞仔Niu,http://epg.112114.xyz/douyu/8211997
-鹿九酱,http://epg.112114.xyz/douyu/7136517
-英叔九叔,http://epg.112114.xyz/douyu/10066371
 
 军旅动作,http://epg.112114.xyz/douyu/431460
 救救小鸭吧,http://epg.112114.xyz/douyu/7925840
 肖胜350,http://epg.112114.xyz/douyu/7338853
 爱情公寓,http://epg.112114.xyz/douyu/6863367
 
-港剧直播,http://epg.112114.xyz/douyu/4549169
+
 宇哥Rebirth,http://epg.112114.xyz/douyu/413573
 
-粤语电影,http://epg.112114.xyz/douyu/1226741
-港电影院,http://epg.112114.xyz/douyu/9826611
+
+
 阿亦影院,http://epg.112114.xyz/douyu/8271651
 鯊籽,http://epg.112114.xyz/douyu/544263
 小梦静,http://epg.112114.xyz/douyu/2288676
@@ -691,7 +677,7 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 工藤媛子,http://epg.112114.xyz/douyu/6003761
 经典巨制,http://epg.112114.xyz/douyu/2793084
 华语厅,http://epg.112114.xyz/douyu/925724
-贝爷影厅,http://epg.112114.xyz/douyu/252802
+
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
 国产青春,http://epg.112114.xyz/douyu/5423
 Firend黎伽嘛,http://epg.112114.xyz/douyu/8603174
@@ -713,8 +699,8 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 神乐影片1,http://epg.112114.xyz/douyu/122402
 神乐影片2,http://epg.112114.xyz/douyu/85894
 特辑影院,http://epg.112114.xyz/douyu/3637778
-贝爷MAX厅,http://epg.112114.xyz/douyu/4332
-漫威影片,http://epg.112114.xyz/douyu/6140589
+
+
 周星驰电影,http://epg.112114.xyz/douyu/3990812
 刘德华电影1,http://epg.112114.xyz/douyu/2516864
 刘德华电影2,http://epg.112114.xyz/douyu/8985415
@@ -753,7 +739,7 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 神乐影片1,http://epg.112114.xyz/douyu/122402
 神乐影片2,http://epg.112114.xyz/douyu/85894
 特辑影院,http://epg.112114.xyz/douyu/3637778
-贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+
 漫威影片,http://epg.112114.xyz/douyu/6140589
 周星驰电影,http://epg.112114.xyz/douyu/3990812
 刘德华电影1,http://epg.112114.xyz/douyu/2516864
