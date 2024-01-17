@@ -749,7 +749,6 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 动画童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
 国语超清动画电影,http://epg.112114.xyz/douyu/6449849
 卡面来打,http://epg.112114.xyz/douyu/1218414
-动漫24小时不间断动漫专场,http://epg.112114.xyz/douyu/7493575
 还有一件事,http://epg.112114.xyz/douyu/7134757
 小叮当,http://epg.112114.xyz/douyu/9445279
 二次元放映室,http://epg.112114.xyz/douyu/8912038
@@ -1156,6 +1155,13 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 虎牙-倩女幽魂,http://43.138.170.29:35455/huya/11601970
 
 动漫,#genre#
+动漫,https://live.metshop.top/yy/25055036
+经典动漫1,https://live.metshop.top/yy/22777075
+动漫1,https://live.metshop.top/yy/1382747970
+动漫2,https://live.metshop.top/yy/26664495
+经典动漫2,https://live.metshop.top/yy/24180320
+动漫3,https://live.metshop.top/yy/23993334
+动漫4,https://live.metshop.top/yy/1382788679
 怀旧动漫1,http://epg.112114.xyz/douyu/1174353
 怀旧动漫2p://epg.112114.xyz/douyu/206858
 柯南,http://epg.112114.xyz/douyu/6484910
@@ -1171,13 +1177,7 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 动画电影童年回忆,http://epg.112114.xyz/douyu/10395973
 动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
 动漫超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
-动漫,https://live.metshop.top/yy/25055036
-经典动漫1,https://live.metshop.top/yy/22777075
-动漫1,https://live.metshop.top/yy/1382747970
-动漫2,https://live.metshop.top/yy/26664495
-经典动漫2,https://live.metshop.top/yy/24180320
-动漫3,https://live.metshop.top/yy/23993334
-动漫4,https://live.metshop.top/yy/1382788679
+
 
 网络电台,#genre#
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
