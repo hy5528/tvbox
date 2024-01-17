@@ -106,23 +106,7 @@ CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212262
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV1,http://yima.eu.org/bestv.php?id=cctv1hd8m/8000000
-CCTV2,http://yima.eu.org/bestv.php?id=cctv2hd8m/8000000
-CCTV3,http://yima.eu.org/bestv.php?id=cctv38m/8000000
-CCTV4,http://yima.eu.org/bestv.php?id=cctv4hd8m/8000000
-CCTV5,http://yima.eu.org/bestv.php?id=cctv58m/8000000
-CCTV5+,http://yima.eu.org/bestv.php?id=cctv5hd8m/8000000
-CCTV5+,http://yima.eu.org/bestv.php?id=cctv5phd8m/8000000
-CCTV6,http://yima.eu.org/bestv.php?id=cctv6hd8m/8000000
-CCTV7,http://yima.eu.org/bestv.php?id=cctv7hd8m/8000000
-CCTV8,http://yima.eu.org/bestv.php?id=cctv8hd8m/8000000
-CCTV9,http://yima.eu.org/bestv.php?id=cctv9hd8m/8000000
-CCTV10,http://yima.eu.org/bestv.php?id=cctv10hd8m/8000000
-CCTV11,http://yima.eu.org/bestv.php?id=cctv11hd8m/8000000
-CCTV12,http://yima.eu.org/bestv.php?id=cctv12hd8m/8000000
-CCTV13,http://yima.eu.org/bestv.php?id=cctv13xwhd8m/8000000
-CCTV14,http://yima.eu.org/bestv.php?id=cctvsehd8m/8000000
-CCTV15,http://yima.eu.org/bestv.php?id=cctv15hd8m/8000000
+
 
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
