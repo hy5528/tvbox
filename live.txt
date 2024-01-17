@@ -567,7 +567,7 @@ MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 港片2,http://epg.112114.xyz/douyu/338759
 港片电视剧1,http://epg.112114.xyz/douyu/5522351
 港电影院,http://epg.112114.xyz/douyu/9826611
-刘德华电影2,http://epg.112114.xyz/douyu/8985415
+
 女神金,http://epg.112114.xyz/douyu/747764
 经典武侠,http://epg.112114.xyz/douyu/7655471
 邵氏影院,http://epg.112114.xyz/douyu/4246519
