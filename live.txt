@@ -1172,11 +1172,12 @@ IMAX影厅,http://epg.112114.xyz/douyu/4332
 动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
 动漫超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
 动漫,https://live.metshop.top/yy/25055036
-经典动漫,https://live.metshop.top/yy/22777075
-动漫,https://live.metshop.top/yy/1382747970
-动漫,https://live.metshop.top/yy/26664495
-经典动漫,https://live.metshop.top/yy/24180320
-动漫,https://live.metshop.top/yy/23993334
+经典动漫1,https://live.metshop.top/yy/22777075
+动漫1,https://live.metshop.top/yy/1382747970
+动漫2,https://live.metshop.top/yy/26664495
+经典动漫2,https://live.metshop.top/yy/24180320
+动漫3,https://live.metshop.top/yy/23993334
+动漫4,https://live.metshop.top/yy/1382788679
 
 网络电台,#genre#
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
@@ -1392,7 +1393,6 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 为什么你一直是单身,https://live.metshop.top/yy/89431014
 鬼片.惊悚.港片,https://live.metshop.top/yy/1355497884
 三国演义94年经典版,https://live.metshop.top/yy/1354936241
-动漫,https://live.metshop.top/yy/1382788679
 怒海潜沙 &重启全集,https://live.metshop.top/yy/1354744544
 港剧《驼枪师姐》,https://live.metshop.top/yy/1382688521
 系列电视剧,https://live.metshop.top/yy/1458015189
