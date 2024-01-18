@@ -918,6 +918,27 @@ HITFM劲曲调频,http://yima.eu.org/mf.php?id=662
 南京音乐广播,http://yima.eu.org/mf.php?id=425
 宁波音乐广播,http://yima.eu.org/mf.php?id=923
 浙江女主播电台,http://yima.eu.org/mf.php?id=465
+北京音乐广播,http://yima.eu.org/mf.php?id=356
+年代音乐889,http://yima.eu.org/mf.php?id=2397
+年代音乐1032,http://yima.eu.org/mf.php?id=2398
+AsiaFM成都96.5,http://yima.eu.org/mf.php?id=1851
+眉山交通音乐广播,http://yima.eu.org/mf.php?id=1549
+泸州音乐广播,http://yima.eu.org/mf.php?id=1111
+贵州音乐广播,http://yima.eu.org/mf.php?id=435
+昆明汽车音乐广播,http://yima.eu.org/mf.php?id=2312
+南宁经典1049,http://yima.eu.org/mf.php?id=1094
+广西音乐台,http://yima.eu.org/mf.php?id=590
+东莞音乐广播,http://yima.eu.org/mf.php?id=1848
+佛山电台906,http://yima.eu.org/mf.php?id=1349
+佛山电台901,http://yima.eu.org/mf.php?id=1351
+佛山电台946,http://yima.eu.org/mf.php?id=1352
+佛山电台883,http://yima.eu.org/mf.php?id=1353
+佛山电台985,http://yima.eu.org/mf.php?id=1354
+广州金曲音乐广播,http://yima.eu.org/mf.php?id=730
+广东音乐之声,http://yima.eu.org/mf.php?id=489
+嘉兴音乐广播,http://yima.eu.org/mf.php?id=925
+台州音乐台,http://yima.eu.org/mf.php?id=906
+城市96.5,http://yima.eu.org/mf.php?id=2401
 
 
 Y Y影视,#genre#
