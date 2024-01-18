@@ -308,6 +308,12 @@ IPTV5+,http://192.168.2.1:4022/udp/239.81.0.133:4056
 江苏卫视,http://v.1ack.com/aikanmigu.php?id=jsws
 广东卫视,http://v.1ack.com/aikanmigu.php?id=gdws
 广东卫视,http://v.1ack.com/aikanmigu.php?id=gdws2
+广州综合,http://yima.eu.org/gz.php?id=zhonghe 
+广州新闻,http://yima.eu.org/gz.php?id=xinwen
+广州竞赛,http://yima.eu.org/gz.php?id=jingsai
+广州影视,http://yima.eu.org/gz.php?id=yingshi
+广州法治,http://yima.eu.org/gz.php?id=fazhi
+广州南国都市,http://yima.eu.org/gz.php?id=shenghuo
 四川卫视,http://v.1ack.com/aikanmigu.php?id=scws
 新疆卫视,http://v.1ack.com/aikanmigu.php?id=xjws
 西藏卫视,http://v.1ack.com/aikanmigu.php?id=xzws
