@@ -580,6 +580,7 @@ r546,http://epg.112114.xyz/douyu/7528160
 海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
 大星与海绵方块,http://epg.112114.xyz/douyu/3949681
 小叮当,http://epg.112114.xyz/douyu/9445279
+进来 陪你看动漫,https://live.metshop.top/yy/1352866135
 
 
 斗鱼,#genre#
@@ -993,16 +994,13 @@ AsiaFM成都96.5,http://yima.eu.org/mf.php?id=1851
 
 
 Y Y影视,#genre#
-好久不见-武林外传,https://live.metshop.top/yy/1355914397
 豪哥带我们发财,https://live.metshop.top/yy/23402146
 纪晓岚,https://live.metshop.top/yy/1354143978
+纪晓岚,https://live.metshop.top/yy/1352227227
 【鹿鼎记】金庸经典,https://live.metshop.top/yy/28265277
 弹幕天团 下饭神剧,https://live.metshop.top/yy/23512910
 【盜暮笔记】24h,https://live.metshop.top/yy/1382702247
 神医喜来乐,https://live.metshop.top/yy/1382714119
-武林外传,https://live.metshop.top/yy/1354752120
-【战狼3吴京】首播,https://live.metshop.top/yy/1456668939
-【济公】游本昌,https://live.metshop.top/yy/25519088
 斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
 超级吓人鬼片 恐怖片,https://live.metshop.top/yy/1355641195
 隋唐英雄传 蓝光,https://live.metshop.top/yy/1352475619
@@ -1010,64 +1008,45 @@ Y Y影视,#genre#
 超喜剧地下交通站男神贾贵,https://live.metshop.top/yy/1353428972
 【新三国】蓝光版,https://live.metshop.top/yy/1382705738
 知否知否应是绿肥红瘦,https://live.metshop.top/yy/21881901
-绝版电影 600部,https://live.metshop.top/yy/1382764593
 正阳门下,https://live.metshop.top/yy/1354931580
 康熙微服私访记,https://live.metshop.top/yy/1352811698
 林正英-经典电影,https://live.metshop.top/yy/34229877
 倚天屠龙记,https://live.metshop.top/yy/1449856066
 举起手来-惊险抗日,https://live.metshop.top/yy/1382736877
-抗日奇侠 首播,https://live.metshop.top/yy/39204655
-情满四合院,https://live.metshop.top/yy/30736888
 【战狼4】吴京老师,https://live.metshop.top/yy/1354784284
 赵本山《超清版》,https://live.metshop.top/yy/1382683959
 我的兄弟叫宝强,https://live.metshop.top/yy/1354752117
-少年包青天1-3蓝光版,https://live.metshop.top/yy/38498680
-朱元璋电视剧,https://live.metshop.top/yy/1382765235
 雍正王朝,https://live.metshop.top/yy/26650882
-经典港片800部,https://live.metshop.top/yy/1382800018
-绝版电影 女鬼,https://live.metshop.top/yy/1454587259
 电影 古惑仔全集,https://live.metshop.top/yy/1354507447
 笑傲江湖 4K超清,https://live.metshop.top/yy/1354282410
-【火蓝刀锋】臭鱼,https://live.metshop.top/yy/1354784966
 我和僵尸有个约会,https://live.metshop.top/yy/1354143966
 宰相刘罗锅,https://live.metshop.top/yy/1353892468
 燕双鹰,https://live.metshop.top/yy/1354143942
-恐怖鬼片,https://live.metshop.top/yy/1355485328
-鬼片恐怖片 美女陪你看,https://live.metshop.top/yy/1335509613
 雍正王朝 高清 护眼版,https://live.metshop.top/yy/23206872
-YY恐怖电影,https://live.metshop.top/yy/24066336
 封神榜,https://live.metshop.top/yy/1353426319
 放羊的星星,https://live.metshop.top/yy/1355260662
 武侠电视剧,https://live.metshop.top/yy/1459331991
-大秧歌,https://live.metshop.top/yy/1460463356
-纪晓岚,https://live.metshop.top/yy/1352227227
 英叔僵尸 3000部,https://live.metshop.top/yy/1353685311
 经典鬼片3000部,https://live.metshop.top/yy/29460894
 【赌神片 动作片 港片】,https://live.metshop.top/yy/1355112116
-港片电影集,https://live.metshop.top/yy/1455225203
 新白娘子传奇,https://live.metshop.top/yy/1354490667
 济公游记,https://live.metshop.top/yy/1355265814
-
 宰相刘罗锅,https://live.metshop.top/yy/1382745191
-
-港片电影,https://live.metshop.top/yy/33897188
 高分经典电影,https://live.metshop.top/yy/1382754187
 狄仁杰,https://live.metshop.top/yy/1351755386
 83射雕英雄传,https://live.metshop.top/yy/1354210357
-丫头动漫 斗罗斗破,https://live.metshop.top/yy/1458722520
+
 东北一家人,https://live.metshop.top/yy/1355273385
 【新三国】萌儿陪看,https://live.metshop.top/yy/29216766
 66车讯,https://live.metshop.top/yy/1382571192
 【战狼3吴京】独播,https://live.metshop.top/yy/37999586
 雪中悍刀行,https://live.metshop.top/yy/1382660835
 速度与激情全集,https://live.metshop.top/yy/1382749892
-港片鬼片电影,https://live.metshop.top/yy/1355364378
-【二炮手】孙红雷,https://live.metshop.top/yy/1354330324
 欢乐集结号-每天笑不停,https://live.metshop.top/yy/1382741642
 《仙侠》开局无敌了,https://live.metshop.top/yy/29600150
-吕小羊鬼片 正在直播,https://live.metshop.top/yy/1354792118
+
 林正英 僵尸 鬼片,https://live.metshop.top/yy/1351505899
-进来 陪你看动漫,https://live.metshop.top/yy/1352866135
+
 神雕侠侣,https://live.metshop.top/yy/1351762426
 赵本山《蓝光版》,https://live.metshop.top/yy/32160832
 《石敢当》六耳猕猴,https://live.metshop.top/yy/1394156613
