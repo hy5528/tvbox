@@ -681,6 +681,8 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 斗鱼电影18,http://epg.112114.xyz/douyu/7314294
 斗鱼电影19,http://epg.112114.xyz/douyu/6582435
 斗鱼电影20,http://epg.112114.xyz/douyu/323876
+斗鱼电影21,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
+斗鱼电影22,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 斗鱼电影130,http://epg.112114.xyz/douyu/8014467
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 斗鱼电影HD1,http://epg.112114.xyz/douyu/20415
@@ -730,6 +732,7 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 斗鱼搞笑HD3,http://epg.112114.xyz/douyu/9067836
 斗鱼搞笑HD4,http://epg.112114.xyz/douyu/9817729
 斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
+
 
 虎牙,#genre#
 虎牙电影1,http://epg.112114.xyz/huya/11336719
@@ -1666,35 +1669,6 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 星爷合集,https://live.metshop.top/yy/1382833670
 10年没洗的地毯,https://live.metshop.top/yy/1354931585
 相声相声搜38528频道,https://live.metshop.top/yy/34025318
-
-
-斗鱼,#genre#
-【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
-【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
-计划！五一节の快乐,http://epg.112114.xyz/douyu/7528160
-美味！蟹黄堡,http://epg.112114.xyz/douyu/8762358
-海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
-【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
-宝可梦加油。感谢大家。,http://epg.112114.xyz/douyu/9765742
-星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
-松开的手0.0,http://epg.112114.xyz/douyu/10210568
-妖精的直播间,http://epg.112114.xyz/douyu/5960746
-【动画电影】童年回忆,http://epg.112114.xyz/douyu/10395973
-【星星动画】童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
-【追忆】国语超清动画电影,http://epg.112114.xyz/douyu/6449849
-【动漫】24小时不间断动漫专场,http://epg.112114.xyz/douyu/7493575
-老爹:还有一件事,http://epg.112114.xyz/douyu/7134757
-开心锤锤，开心快乐每一天！,http://epg.112114.xyz/douyu/9018297
-舔狗波比的幸福生活,http://epg.112114.xyz/douyu/7620081
-最好看的搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
-中二日记搞笑日常更新,http://epg.112114.xyz/douyu/9505575
-铁头与橘子（每周更新一起看霸总）,http://epg.112114.xyz/douyu/9450942
-笑出腹肌动漫0,http://epg.112114.xyz/douyu/8380708
-【西游】由爱故生怨，怨恨交缠，那又何苦,http://epg.112114.xyz/douyu/9518204
-狄仁杰：想听听我的故事吗,http://epg.112114.xyz/douyu/674441
-【牛叔】N分钟带你看完大片,http://epg.112114.xyz/douyu/2758565
-斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
-斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 
 
 歌星金曲,#genre#
