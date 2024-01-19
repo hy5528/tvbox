@@ -193,6 +193,15 @@
 "综艺",
 "动漫"
 ]},
+  {
+      "key": "TVB云播",
+      "name": "TVB┃影视",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/TVB云播.js"
+    },		
 {
       "key": "drpy_js_兔小贝",
       "name": "动漫 | 兔小贝[js]",
