@@ -111,8 +111,7 @@
     "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
-  {"key":"da_ry","name":"👑音乐MV👑", "type": 4,"playerType":2,"api":"http://120.53.102.254/dsp/","searchable": 1,"quickSearch": 1,"filterable":1},
-
+ 
     {
 			"key": "js",
 			"name": "💖分享加速",
@@ -214,25 +213,7 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js",
       "playerType": "2"
     },
-    {
-      "key": "drpy_js_有声小说吧",
-      "name": "👑有声小说吧",
-      "type": 3,
-      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/有声小说吧.js"
-    },
-    {
-      "key": "drpy_js_i275听书",
-      "name": "👓听书 | i275听书[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/i275听书.js",
-      "playerType": "2"
-    },
+   
     {
       "key": "drpy_js_喜马拉雅",
       "name": "📻听书 | 喜马拉雅[js]",
@@ -241,46 +222,7 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/喜马拉雅.js",
       "playerType": "2"
     },		
-    {
-      "key": "drpy_js_六月听书",
-      "name": "🧑听书 | 六月听书[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六月听书.js",
-      "playerType": "2"
-    },
-   {
-      "key": "drpy_js_博看听书",
-      "name": "🐦听书 | 博看听书[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/博看听书.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_海洋听书",
-      "name": "🦊听书 | 海洋听书[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/海洋听书.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_听书网",
-      "name": "👀听书 | 听书网[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/听书网.js",
-      "playerType": "2"
-    },
-    {
-      "key": "drpy_js_有声小说",
-      "name": "🔥听书 | 有声小说[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js",
-      "playerType": "2"
-    }, 		
+   
     {
       "key": "drpy_js_短视频",
       "name": "🎀聚合 | 短视频[js]",
