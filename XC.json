@@ -263,6 +263,7 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六月听书.js",
       "playerType": "2"
     },
+    {"key":"drpy_js_海盗听书","name":"🏴‍☠海盗听书","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/海盗听书.js"},		
     {
       "key": "drpy_js_博看听书",
       "name": "🐦听书 | 博看听书[js]",
@@ -295,7 +296,7 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/有声小说吧.js",
       "playerType": "2"
     },
-     		
+    {"key":"drpy_js_广播迷FM","name":"📻️广播迷FM","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/广播迷FM.js"}, 		
     {
       "key": "drpy_js_短视频",
       "name": "🎀聚合 | 短视频[js]",
