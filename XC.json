@@ -111,14 +111,7 @@
     "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
-   {
-            "key": "dr_263",
-            "name": "👑高清MV👑",
-            "type": 3,
-            "playerType":2,
-            "api": "https://jihulab.com/ymz1231/lib/-/raw/main/drpy2.min.js",
-            "ext": "https://jihulab.com/ymz1231/js/-/raw/main/MV263.js"},
-            
+  {"key":"da_ry","name":"👑音乐MV👑", "type": 4,"playerType":2,"api":"http://120.53.102.254/dsp/","searchable": 1,"quickSearch": 1,"filterable":1},
 
     {
 			"key": "js",
