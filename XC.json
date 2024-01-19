@@ -221,6 +221,16 @@
       "playerType": "2"
     },
     {
+      "key": "meowtv_ysxs",
+      "name": "有声┃小说",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://cdn.teyonds.com/js/有声小说.js"
+    },		
+    {
       "key": "drpy_js_i275听书",
       "name": "👓听书 | i275听书[js]",
       "type": 3,
