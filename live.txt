@@ -566,8 +566,7 @@ IPTV少儿动画,http://192.168.2.1:4022/udp/239.81.0.82:4056
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 百视通动画,http://192.168.2.1:4022/udp/239.81.0.166:4056
 萌鸡小队S1-国漫,https://live.metshop.top/yy/1382736904
-熊出没-国漫,https://live.metshop.top/yy/1354936157
-熊出没之探险日记S1-国漫,https://live.metshop.top/yy/1354930977
+熊出没之探险日记S1-国漫,http://43.138.170.29:35455/yy/1354930977
 倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
 雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
 反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
@@ -1123,7 +1122,7 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 丛林敢死队-国内电影,https://live.metshop.top/yy/1354936214
 国内动作片,https://live.metshop.top/yy/1382735561
 战争大片,https://live.metshop.top/yy/1382736798
-
+国产电影,https://live.metshop.top/yy/1354936157
 
 
 忠烈杨家将,https://live.metshop.top/yy/1382749909
