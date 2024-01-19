@@ -204,6 +204,16 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
       "playerType": "2"
     },
+ {
+      "key": "有声小说吧",
+      "name": "👂有声小说吧",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/youshengxiaoshuoba.json"
+    },		
     {
       "key": "drpy_js_相声随身听",
       "name": "🏂相声 | 相声随身听[js]",
