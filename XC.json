@@ -111,7 +111,7 @@
       },
       "ext": "http://cdn.teyonds.com/xp/明星MV.json"
     },	
-   {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 	
+  	
     {
 			"key": "js",
 			"name": "💖分享加速",
@@ -204,16 +204,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蜻蜓FM.js",
       "playerType": "2"
     },
-  {
-      "key": "有声小说吧",
-      "name": "👂有声小说吧",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/yueer/yueera/-/raw/main/9.25/vip/youshengxiaoshuoba.json"
-    },	
     {
       "key": "drpy_js_相声随身听",
       "name": "🏂相声 | 相声随身听[js]",
