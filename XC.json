@@ -96,17 +96,6 @@
     "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
-       {
-      "key": "赞赞",
-      "name": "➕赞赞┃切片",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://111.230.51.151:9696//api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
     {
 "key": "csp_xBPQ_jishu",
 "name": "💖分享极速",
@@ -150,7 +139,18 @@
 {"key":"qj","name":"💖分享一站","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
 {"key":"qj2","name":"💖分享二站","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
 {"key":"qj3","name":"💖分享三站","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3","jar":"https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads"},
-   {
+ {
+      "key": "赞赞",
+      "name": "➕赞赞┃切片",
+      "type": 3,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYsV2",
+      "ext": "http://111.230.51.151:9696//api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },  
+{
       "key": "drpy_js_兔小贝",
       "name": "动漫 | 兔小贝[js]",
       "type": 3,
