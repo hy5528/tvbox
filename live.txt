@@ -585,6 +585,7 @@ r546,http://epg.112114.xyz/douyu/7528160
 小叮当,http://epg.112114.xyz/douyu/9445279
 进来陪你看动漫,https://live.metshop.top/yy/1352866135
 神厨小福贵,https://live.metshop.top/yy/1382736860
+宇宙护卫队--国漫,https://live.metshop.top/yy/1382736837
 
 
 
@@ -1300,7 +1301,13 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 老广的味道 第3季-美食纪录片,https://live.metshop.top/yy/1382735565
 一分钟学道菜,https://live.metshop.top/yy/1382736901
 探秘中华美食,https://live.metshop.top/yy/1354930954
+馋哭了！川味来袭,https://live.metshop.top/yy/1382736913
+一城一味（舌尖姐妹篇）,https://live.metshop.top/yy/1382745179
+舌尖上的中国第一季,https://live.metshop.top/yy/1354930952
+赶海新发现,https://live.metshop.top/yy/1382749912
 
+
+来看修牛蹄,https://live.metshop.top/yy/1382749887
 
 
 小沈阳春晚小品,https://live.metshop.top/yy/1382749941
@@ -1314,14 +1321,12 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 赵本山爆笑小品2,https://live.metshop.top/yy/1354936217
 雷神系列,https://live.metshop.top/yy/1354932441
 飓风营救,https://live.metshop.top/yy/1382735547
-
 外国科幻大片,https://live.metshop.top/yy/1382747628
 喜剧闹翻天,https://live.metshop.top/yy/1382735548
 非诚勿扰,https://live.metshop.top/yy/1382735583
 缉妖法海传-国内电影,https://live.metshop.top/yy/1354936203
 法证先锋Ⅲ,https://live.metshop.top/yy/1382736802
 我比你更懂车 你偏不信,https://live.metshop.top/yy/85042287
-
 大汉天子S2,https://live.metshop.top/yy/1382736807
 致敬星爷致敬经典,https://live.metshop.top/yy/1354889048
 炊事班的故事,https://live.metshop.top/yy/1382749901
@@ -1331,10 +1336,8 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 重生之超级赛亚人,https://live.metshop.top/yy/1354936124
 怪医文三块-影视剧,https://live.metshop.top/yy/1354936154
 脑洞大开的精彩科幻片,https://live.metshop.top/yy/1382736723
-
 黄大妮-电视剧,https://live.metshop.top/yy/1354930904
 鹿鼎记-陈小春版,https://live.metshop.top/yy/1382736920
-馋哭了！川味来袭,https://live.metshop.top/yy/1382736913
 原始人大挑战,https://live.metshop.top/yy/1382736884
 精彩动作电影享不停,https://live.metshop.top/yy/1382736809
 穿越时空的爱恋,https://live.metshop.top/yy/1382735567
@@ -1344,7 +1347,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 一起合租的快乐生活~,https://live.metshop.top/yy/38525272
 【荒野求生】德爷 贝爷,https://live.metshop.top/yy/39123221
 名媛望族-精彩港剧,https://live.metshop.top/yy/1354932431
-名媛望族-精彩港剧,https://live.metshop.top/yy/1354932431
 觅食者-美食纪录片,https://live.metshop.top/yy/1382736841
 国外科幻片,https://live.metshop.top/yy/1382735585
 古装喜剧合集，还能玩起穿越？！,https://live.metshop.top/yy/1382749905
@@ -1352,7 +1354,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 大江大河2-高分影视推荐,https://live.metshop.top/yy/1382736797
 欢乐集结号,https://live.metshop.top/yy/1382749911
 学生兵,https://live.metshop.top/yy/1354658003
-宇宙护卫队--国漫,https://live.metshop.top/yy/1382736837
 第8号当铺,https://live.metshop.top/yy/1382736905
 俺娘田小草,https://live.metshop.top/yy/1382741638
 本山快乐营,https://live.metshop.top/yy/1382736852
@@ -1362,13 +1363,9 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 哈利波特全集,https://live.metshop.top/yy/1382745105
 中国第一神探-狄仁杰,https://live.metshop.top/yy/1354932438
 绝美！航拍中国第1季,https://live.metshop.top/yy/1354936136
-超精彩！系列动作电影,https://live.metshop.top/yy/1382745096
-魔域桃源-刘德华主演,https://live.metshop.top/yy/1382749904
 战争大片,https://live.metshop.top/yy/1382736798
-《一剑开天门》,https://live.metshop.top/yy/34313906
 精彩动作电影,https://live.metshop.top/yy/1382736823
 国内动作片,https://live.metshop.top/yy/1382735561
-特种兵之霹雳火，剧版战狼,https://live.metshop.top/yy/1356047090
 碟中谍系列-国外动作大片,https://live.metshop.top/yy/1354930181
 天下第一,https://live.metshop.top/yy/1382736838
 笑傲帮,https://live.metshop.top/yy/1382735555
@@ -1380,13 +1377,11 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 笑声传奇,https://live.metshop.top/yy/1382736880
 冲上云霄-经典港剧,https://live.metshop.top/yy/1382736833
 谈判专家,https://live.metshop.top/yy/1382735560
-给孩子补补榜吧,https://live.metshop.top/yy/1451337875
 来自星星的你,https://live.metshop.top/yy/1354930976
 喜剧电影合集,https://live.metshop.top/yy/1354926637
 9.8分！这部纪录片封神了,https://live.metshop.top/yy/1382736825
 国内科幻片来袭,https://live.metshop.top/yy/1354930821
 香港动作大片,https://live.metshop.top/yy/1382736816
-史诗级战争大片,https://live.metshop.top/yy/1382745092
 本山快乐营-爆笑小品,https://live.metshop.top/yy/1354930948
 小鬼当家-童年回忆,https://live.metshop.top/yy/1382745104
 岳云鹏宋小宝也来演电影了？,https://live.metshop.top/yy/1354926612
@@ -1394,12 +1389,10 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 金玉满堂：精彩港剧,https://live.metshop.top/yy/1382736881
 法外风云,https://live.metshop.top/yy/1382736805
 火线追凶-侦探系列电影,https://live.metshop.top/yy/1382745090
-经典动作电影,https://live.metshop.top/yy/1370293254
 动作大片,https://live.metshop.top/yy/1354930887
 从“地瓜嫂”到“杀猪婆”的坚强人生,https://live.metshop.top/yy/1354658062
 缺宅男女-精彩港剧,https://live.metshop.top/yy/1382745088
 美国队长史蒂夫,https://live.metshop.top/yy/1382736813
-隋唐演义,https://live.metshop.top/yy/69968263
 机场超燃警匪片,https://live.metshop.top/yy/1382735576
 华子系列,https://live.metshop.top/yy/1354888726
 冕加电影院 正在直播,https://live.metshop.top/yy/1339157813
@@ -1411,68 +1404,50 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 野性欧洲,https://live.metshop.top/yy/1354926622
 欢乐集结号58-70,https://live.metshop.top/yy/1382745119
 无敌解压,https://live.metshop.top/yy/1382736897
-一城一味（舌尖姐妹篇）,https://live.metshop.top/yy/1382745179
 爱的迫降-韩剧,https://live.metshop.top/yy/1354889042
 外国战争大片,https://live.metshop.top/yy/1382736872
-【陪你看】金刚葫芦娃,https://live.metshop.top/yy/1353323999
 漫画解说,https://live.metshop.top/yy/1382735568
 吐槽大会 第2季,https://live.metshop.top/yy/1354936145
 小生物的故事,https://live.metshop.top/yy/1382736834
 顺娘-影视剧,https://live.metshop.top/yy/1354930945
-
 流金岁月-经典港剧,https://live.metshop.top/yy/1382736891
-王者归来亲情演绎,https://live.metshop.top/yy/1353327982
 国内科幻电影,https://live.metshop.top/yy/1354932444
 老表，你好Hea！-精彩港剧,https://live.metshop.top/yy/1382736873
 国外高分大片,https://live.metshop.top/yy/1382736867
 叛逆者,https://live.metshop.top/yy/1382736868
 通天狄仁杰,https://live.metshop.top/yy/1382749906
-来看修牛蹄,https://live.metshop.top/yy/1382749887
 大江大河-高分影视推荐,https://live.metshop.top/yy/1382736806
 百家讲坛-之女皇武则天,https://live.metshop.top/yy/1354889015
-加勒比海盗系列,https://live.metshop.top/yy/1382749914
 传奇之王-影视剧,https://live.metshop.top/yy/1354926735
 心理追凶-港剧,https://live.metshop.top/yy/1354936207
 白夜追凶第一季,https://live.metshop.top/yy/1354932359
 大唐双龙传,https://live.metshop.top/yy/1354930979
 功夫婆媳-影视剧,https://live.metshop.top/yy/1382736883
-知否,https://live.metshop.top/yy/1351537467
 国内科幻,https://live.metshop.top/yy/1354936170
 国产动作电影,https://live.metshop.top/yy/1382736858
 娘亲舅大,https://live.metshop.top/yy/1354932360
-舌尖上的中国第一季,https://live.metshop.top/yy/1354930952
 刺激！国外战争,https://live.metshop.top/yy/1354936142
 编辑部的故事,https://live.metshop.top/yy/1354936120
 德鲁纳酒店-韩剧,https://live.metshop.top/yy/1354931488
 笑傲江湖 第1季,https://live.metshop.top/yy/1382749896
-港片经典百万部,https://live.metshop.top/yy/1355122314
 深海利剑,https://live.metshop.top/yy/1382736906
 热播国内侦探片,https://live.metshop.top/yy/1382736820
-强盛高启强 正在直播,https://live.metshop.top/yy/37347905
 苦乐村官,https://live.metshop.top/yy/1382736864
 奇缘39262港台影院,https://live.metshop.top/yy/1354889234
 百家讲坛――之明太祖朱元璋,https://live.metshop.top/yy/1354936149
-金星脱口秀-敢说会道,https://live.metshop.top/yy/1354932407
+国外影视,https://live.metshop.top/yy/1354932407
 真心想让你幸福,https://live.metshop.top/yy/1382736876
 国外动作大片,https://live.metshop.top/yy/1382735540
 飞虎之雷霆极战,https://live.metshop.top/yy/1382736869
 欢迎来到爆笑剧场,https://live.metshop.top/yy/1382736916
 丁大命,https://live.metshop.top/yy/1382735579
 国外侦探,https://live.metshop.top/yy/1382736896
-【B82】晨晨,https://live.metshop.top/yy/1355733616
 家有九凤-影视剧,https://live.metshop.top/yy/1354930894
 红色经典影视剧-风语,https://live.metshop.top/yy/1354926671
-电影 正在直播,https://live.metshop.top/yy/1355370824
-敏敏正在直播,https://live.metshop.top/yy/1355226280
-敏敏正在直播,https://live.metshop.top/yy/1355226280
 炊事班的故事,https://live.metshop.top/yy/1382646846
 法证先锋,https://live.metshop.top/yy/1354930965
 笑傲江湖 第2季,https://live.metshop.top/yy/1382736914
-战狼3,https://live.metshop.top/yy/1355913027
-仙女影视,https://live.metshop.top/yy/1356038038
 记忆中的TVB,https://live.metshop.top/yy/1382749951
-爱宝鬼片 陪你丫丫,https://live.metshop.top/yy/1356072278
-憨豆先生-经典喜剧,https://live.metshop.top/yy/1354936239
 失忆24小时,https://live.metshop.top/yy/1382741640
 金三角大营救,https://live.metshop.top/yy/1354930924
 本山快乐营,https://live.metshop.top/yy/1354933529
@@ -1485,8 +1460,6 @@ X战警系列电影,https://live.metshop.top/yy/1382736893
 无罪推定,https://live.metshop.top/yy/1354936208
 开心俱乐部,https://live.metshop.top/yy/1382735541
 憨豆先生,https://live.metshop.top/yy/1354930189
-聪明的顺溜之雄鹰小子S1-国漫,https://live.metshop.top/yy/1382736902
-余zui,https://live.metshop.top/yy/31809939
 公主嫁到-电视剧,https://live.metshop.top/yy/1354930957
 缺宅男女,https://live.metshop.top/yy/1354930937
 经典二战,https://live.metshop.top/yy/1354936238
@@ -1508,7 +1481,7 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 一起来笑吧,https://live.metshop.top/yy/1454859415
 宫心计-港剧-古装,https://live.metshop.top/yy/1354933540
 攻壳机动队,https://live.metshop.top/yy/1382745089
-热播喜剧,https://live.metshop.top/yy/1354936169
+
 花儿开心吧-小品,https://live.metshop.top/yy/1382736917
 非诚勿扰,https://live.metshop.top/yy/1382745106
 丈夫在外有人？真相竟然是！,https://live.metshop.top/yy/1354932375
@@ -1522,7 +1495,7 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 吾儿可教,https://live.metshop.top/yy/1354932391
 李茶的姑妈-开心麻花,https://live.metshop.top/yy/1354936191
 国内侦探电影大全,https://live.metshop.top/yy/1354936134
-赶海新发现,https://live.metshop.top/yy/1382749912
+
 翡翠凤凰-影视剧,https://live.metshop.top/yy/1354926666
 大家都在看的警匪片,https://live.metshop.top/yy/1354930964
 百家讲坛-红楼梦篇,https://live.metshop.top/yy/1382741639
