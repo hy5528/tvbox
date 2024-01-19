@@ -99,7 +99,7 @@
   },
  {
       "key": "meowtv_mxmv",
-      "name": "明星┃ MV ",
+      "name": "🎸明星┃ MV ",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -111,7 +111,16 @@
       },
       "ext": "http://cdn.teyonds.com/xp/明星MV.json"
     },	
-    		
+    {
+      "key": "meowtv_77yy",
+      "name": "😾七七┃影视",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
+    },		
     {
 			"key": "js",
 			"name": "💖分享加速",
