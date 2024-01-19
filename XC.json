@@ -214,7 +214,17 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/相声随身听.js",
       "playerType": "2"
     },
-    {"key":"drpy_js_有声小说吧","name":"👓有声小说吧","type":3,"api":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/%E6%9C%89%E5%A3%B0%E5%B0%8F%E8%AF%B4%E5%90%A7.js/js/lib/drpy2.min.js","playerType":"2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/有声小说吧.js"},	
+    {
+      "key": "drpy_js_有声小说吧",
+      "name": "💖有声小说吧",
+      "type": 3,
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "playerType": "2",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/有声小说吧.js"
+    },
     {
       "key": "drpy_js_i275听书",
       "name": "👓听书 | i275听书[js]",
