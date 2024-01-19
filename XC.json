@@ -112,19 +112,7 @@
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
    {
-      "key": "直播转点播2",
-      "name": "🎹 直播.音乐T4 ",
-      "type": 4,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "api": "http://120.53.102.254/dsp",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+   
     {
 			"key": "js",
 			"name": "💖分享加速",
