@@ -111,16 +111,7 @@
       },
       "ext": "http://cdn.teyonds.com/xp/明星MV.json"
     },	
-    {
-      "key": "meowtv_77yy",
-      "name": "😾七七┃影视",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "http://meowtv.cn/meow3;md5;893D0391C828FD753EE4055EB5D4751A"
-    },		
+   {"key":"csp_Kunyu77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 	
     {
 			"key": "js",
 			"name": "💖分享加速",
