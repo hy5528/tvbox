@@ -15,7 +15,21 @@
       "searchable": 0,
       "changeable": 0,
       "ext": "https://tvbox.cainisi.cf/json/哔哩哔哩音乐.json"
-    }, 
+    },
+   {
+      "key": "meowtv_mxmv",
+      "name": "🎸明星┃ MV ",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "http://cdn.teyonds.com/xp/明星MV.json"
+    },			
     {
       "key": "酷奇MV",
       "name": "🎤酷奇MV",
@@ -97,20 +111,7 @@
     "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
- {
-      "key": "meowtv_mxmv",
-      "name": "🎸明星┃ MV ",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "ext": "http://cdn.teyonds.com/xp/明星MV.json"
-    },	
+ 
   	
     {
 			"key": "js",
