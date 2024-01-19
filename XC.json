@@ -111,7 +111,17 @@
     "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
- 
+   {
+            "key": "酷狗",
+            "name": "👑酷狗听歌👑",
+            "type": 3,"jar":"https://jihulab.com/ymz1231/jar/-/raw/main/bulei.jar",
+            "api": "csp_Kugou",
+            "searchable": 0,
+            "changeable": 0
+        },
+
+{"key":"MV_vod","name":"👑字母点歌👑","type":1,"api":"https://tvbox-mv--leosam2048.repl.co/mv/vod"},
+
   	
     {
 			"key": "js",
