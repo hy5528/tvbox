@@ -110,7 +110,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json"
-      "jar": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/yydf.jar;md5;f362e434223a9b67903f9fe0c1f98c40"
+      "jar": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/yydf.jar"
     },	
     
      {"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},  	
