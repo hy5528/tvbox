@@ -101,17 +101,7 @@
       "changeable": 0,
       "ext": "https://drpy.cainisi.cf/js/啦啦DJ.js"
     },
-   {
-      "key": "吾爱乐器",
-      "name": "🥁 我爱乐器 ",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json"
-    },	
-    
+   
      {"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},  	
     {
     "key": "MTV转点播",
