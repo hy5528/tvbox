@@ -101,7 +101,16 @@
       "changeable": 0,
       "ext": "https://drpy.cainisi.cf/js/啦啦DJ.js"
     },
-   	
+    {
+      "key": "py_cctvyy",
+      "name": "[PY]音乐⬇",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvyy.py"
+    },	
   
    
      {"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},  	
