@@ -111,7 +111,16 @@
     "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
- 
+  {
+      "key": "MV_vod",
+      "name": "🎼MV|视频",
+      "type": 1,
+      "viewType": 2,
+      "api": "https://tvbox-mv--leosam2048.repl.co/mv/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
 "key": "csp_xBPQ_jishu",
 "name": "💖分享极速",
