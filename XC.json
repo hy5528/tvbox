@@ -111,7 +111,14 @@
     "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
-    
+ {
+      "key": "歌手_MV",
+      "name": "🎵歌手┃MV┃测试",
+      "type": 1,
+      "changeable": 0,
+      "searchable": 0,
+      "api": "https://mv.wogg.link/mv/vod"
+    },   
     {
 "key": "csp_xBPQ_jishu",
 "name": "💖分享极速",
