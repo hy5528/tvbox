@@ -236,7 +236,20 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/兔小贝.js"
     },
-  
+  {
+      "key": "zycj_天天",
+      "name": "📅天天┃影视┃测试",
+      "type": 1,
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "韩国剧",
+        "欧美剧",
+        "大陆综艺"
+      ]
+    }, 
 {"key":"无限影视","name":"🔆无限风光","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.wxtv.net/api.php/app/"},
 {"key": "cj ","name": "🚝特快列車","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","电影","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片",动画片","电视剧","动漫","香港剧","台湾剧","欧美剧","韩国剧","日本剧","海外剧","动漫","国产动漫","日本动漫","欧美动漫","预留","综艺","大陆综艺","日韩综艺","港台综艺","欧美综艺","泰国剧","未分类"]},
 
