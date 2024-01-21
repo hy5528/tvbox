@@ -140,14 +140,7 @@
             "filterable": 1,
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
-	 {
-      "key": "csp_Live2Vod_1",
-      "name": "💕电视直播",
-      "type": 3,
-      "api": "csp_Live2Vod",
-      "searchable": 0,
-      "ext": "南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt#饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://cdn.jsdelivr.net/gh/zhixc/CatVodTVSpider/pic/live.png"
-    },	
+	
     {
       "key": "爱看影视",
       "name": "❤┃爱看┃影视",
