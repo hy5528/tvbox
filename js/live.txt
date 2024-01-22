@@ -682,7 +682,7 @@ AsiaFM成都96.5,http://yima.eu.org/mf.php?id=1851
 
 
 YY影视,#genre#
-高分经典电影1,https://43.138.170.29:35455/yy/1382754187
+高分经典电影,https://live.metshop.top/yy/1382754187
 布丁-玄幻电影正在直播,https://live.metshop.top/yy/1455460998
 地心历险记-科幻,https://live.metshop.top/yy/1382736911
 超燃动作片,https://live.metshop.top/yy/1354936199
