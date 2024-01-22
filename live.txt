@@ -1008,7 +1008,7 @@ AsiaFM成都96.5,http://yima.eu.org/mf.php?id=1851
 城市96.5,http://yima.eu.org/mf.php?id=2401
 
 
-Y Y影视,#genre#
+YY影视,#genre#
 高分经典电影,https://live.metshop.top/yy/1382754187
 布丁-玄幻电影正在直播,https://live.metshop.top/yy/1455460998
 地心历险记-科幻,https://live.metshop.top/yy/1382736911
