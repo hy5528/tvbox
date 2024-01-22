@@ -6,7 +6,7 @@ CCTV2,http://v.1ack.com/aikanmigu.php?id=cctv2
 CCTV3,http://192.168.2.1:4022/udp/239.81.0.231:4056
 CCTV3,http://v.1ack.com/aikanmigu.php?id=cctv3
 CCTV4,http://192.168.2.1:4022/udp/239.81.0.96:4056
-CCTV4,http://demo.v2.hls.timetv.cn/live/hndx.m3u8?token=TV35174627HNDX06142105&channel=275
+CCTV4,http://v.1ack.com/aikanmigu.php?id=cctv4
 CCTV5,http://192.168.2.1:4022/udp/239.81.0.232:4056
 CCTV5,http://demo.v2.hls.timetv.cn/live/hndx.m3u8?token=TV35174627HNDX06142105&channel=628
 CCTV5+,http://192.168.2.1:4022/udp/239.81.0.101:4056
