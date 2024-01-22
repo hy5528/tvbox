@@ -42,7 +42,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 湖南卫视,http://v.1ack.com/aikanmigu.php?id=hunws
 江西卫视,http://v.1ack.com/aikanmigu.php?id=jxws
 四川卫视,http://v.1ack.com/aikanmigu.php?id=scws
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
+江苏卫视,http://v.1ack.com/aikanmigu.php?id=jsws
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
