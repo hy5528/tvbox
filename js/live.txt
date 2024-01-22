@@ -24,6 +24,12 @@ CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=32a4e1b241be
 
 卫视,#genre#
 广东卫视,http://v.1ack.com/aikanmigu.php?id=gdws
+广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
+广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
+广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
+广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
 广州综合,http://yima.eu.org/gz.php?id=zhonghe 
 广州新闻,http://yima.eu.org/gz.php?id=xinwen
 广州竞赛,http://yima.eu.org/gz.php?id=jingsai
@@ -44,6 +50,8 @@ CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=32a4e1b241be
 江西卫视,http://v.1ack.com/aikanmigu.php?id=jxws
 四川卫视,http://v.1ack.com/aikanmigu.php?id=scws
 江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=9525d28f2510710360
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
 江苏国际,https://live-hls.jstv.com/livezhuzhan/jsgj.flv?upt=9911a6af2510710360
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 
@@ -232,6 +240,7 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 金鹰卡通,http://yima.eu.org/bestv.php?id=jykt/1300000
 金鹰卡通,http://111.20.35.103:6610/000000001000/1000000002000016601/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=00
 嘉佳卡通,http://192.168.2.1:4022/udp/239.81.0.64:4056
+嘉佳卡通,http://php.jdshipin.com:8880/chudian.php?id=jjkt
 嘉佳卡通,http://192.168.2.1:4022/udp/239.81.1.68:4056
 嘉佳卡通,http://111.20.35.103:6610/000000001000/1000000002000025964/index.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=00
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
