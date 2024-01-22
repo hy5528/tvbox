@@ -20,6 +20,7 @@ CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212262
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=32a4e1b241be
 
 卫视,#genre#
 广东卫视,http://v.1ack.com/aikanmigu.php?id=gdws
@@ -42,8 +43,10 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 湖南卫视,http://v.1ack.com/aikanmigu.php?id=hunws
 江西卫视,http://v.1ack.com/aikanmigu.php?id=jxws
 四川卫视,http://v.1ack.com/aikanmigu.php?id=scws
-江苏卫视,http://v.1ack.com/aikanmigu.php?id=jsws
+江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=9525d28f2510710360
+江苏国际,https://live-hls.jstv.com/livezhuzhan/jsgj.flv?upt=9911a6af2510710360
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
+
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
