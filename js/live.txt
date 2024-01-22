@@ -23,6 +23,12 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 
 卫视,#genre#
 广东卫视,http://v.1ack.com/aikanmigu.php?id=gdws
+广州综合,http://yima.eu.org/gz.php?id=zhonghe 
+广州新闻,http://yima.eu.org/gz.php?id=xinwen
+广州竞赛,http://yima.eu.org/gz.php?id=jingsai
+广州影视,http://yima.eu.org/gz.php?id=yingshi
+广州南国都市,http://yima.eu.org/gz.php?id=shenghuo
+广州法治,http://yima.eu.org/gz.php?id=fazhi
 东方卫视,http://v.1ack.com/aikanmigu.php?id=dfws2
 吉林卫视,http://v.1ack.com/aikanmigu.php?id=jlws
 辽宁卫视,http://v.1ack.com/aikanmigu.php?id=lnws
