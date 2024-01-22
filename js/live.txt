@@ -263,7 +263,7 @@ IPTV少儿动画,http://192.168.2.1:4022/udp/239.81.0.82:4056
 
 
 
-斗鱼,#genre#
+斗鱼影视,#genre#
 MV音乐,http://epg.112114.xyz/douyu/3870925
 MV音乐,http://zzy789.xyz/douyu1.php?id=3870925
 点歌台,http://epg.112114.xyz/douyu/3186217
@@ -464,7 +464,7 @@ Liz陪看,http://epg.112114.xyz/douyu/7254536
 斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
 
 
-虎牙,#genre#
+虎牙影视,#genre#
 虎牙电影1,http://43.138.170.29:35455/huya/11336719
 虎牙电影2,http://43.138.170.29:35455/huya/11352963
 虎牙电影3,http://43.138.170.29:35455/huya/11601986
@@ -680,7 +680,7 @@ AsiaFM成都96.5,http://yima.eu.org/mf.php?id=1851
 城市96.5,http://yima.eu.org/mf.php?id=2401
 
 
-Y Y影视,#genre#
+YY影视,#genre#
 高分经典电影,https://live.metshop.top/yy/1382754187
 布丁-玄幻电影正在直播,https://live.metshop.top/yy/1455460998
 地心历险记-科幻,https://live.metshop.top/yy/1382736911
