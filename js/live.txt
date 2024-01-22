@@ -22,12 +22,27 @@ CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 
 卫视,#genre#
+广东卫视,http://v.1ack.com/aikanmigu.php?id=gdws
+东方卫视,http://v.1ack.com/aikanmigu.php?id=dfws2
+吉林卫视,http://v.1ack.com/aikanmigu.php?id=jlws
+辽宁卫视,http://v.1ack.com/aikanmigu.php?id=lnws
+内蒙古卫视,http://v.1ack.com/aikanmigu.php?id=nmws
+宁夏卫视,http://v.1ack.com/aikanmigu.php?id=nxws
+甘肃卫视,http://v.1ack.com/aikanmigu.php?id=gsws
+青海卫视,http://v.1ack.com/aikanmigu.php?id=qhws
+陕西卫视,http://v.1ack.com/aikanmigu.php?id=sxws
+山东卫视,http://v.1ack.com/aikanmigu.php?id=sdws
+湖北卫视,http://v.1ack.com/aikanmigu.php?id=hubws
+湖南卫视,http://v.1ack.com/aikanmigu.php?id=hunws
+江西卫视,http://v.1ack.com/aikanmigu.php?id=jxws
+四川卫视,http://v.1ack.com/aikanmigu.php?id=scws
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+新疆卫视,http://v.1ack.com/aikanmigu.php?id=xjws
 西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
