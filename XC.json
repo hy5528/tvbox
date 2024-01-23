@@ -165,17 +165,6 @@
     "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
     "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
   },
-  {
-      "key": "电影解说",
-      "name": "⚽️吾爱电影解说",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.json",
-      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar"
-    },
     {
 "key": "csp_xBPQ_jishu",
 "name": "💖分享极速",
