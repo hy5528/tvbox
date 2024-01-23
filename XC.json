@@ -145,7 +145,17 @@
       "ext": "https://github.com/hy5528/tvbox/blob/main/sub/MTV-%E5%93%94%E5%93%A90723.json",
       "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar"
     },
-		
+     {
+      "key": "经典音乐",
+      "name": "💜吾爱经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://github.com/hy5528/tvbox/blob/main/sub/%E5%90%BE%E7%88%B1%E7%BB%8F%E5%85%B8.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar"
+    },	
 		
      {"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},  	
     {
