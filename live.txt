@@ -9,7 +9,6 @@ CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212257
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 CCTV6,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
 CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
@@ -257,7 +256,7 @@ CCTV14,http://v.1ack.com/yw.php?id=cctv14
 甘肃卫视,http://v.1ack.com/aikanmigu.php?id=gsws
 青海卫视,http://v.1ack.com/aikanmigu.php?id=qhws
 陕西卫视,http://v.1ack.com/aikanmigu.php?id=sxws
-山东卫视,http://v.1ack.com/aikanmigu.php?id=sdws
+山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 湖北卫视,http://v.1ack.com/aikanmigu.php?id=hubws
 湖南卫视,http://v.1ack.com/aikanmigu.php?id=hunws
 江西卫视,http://v.1ack.com/aikanmigu.php?id=jxws
