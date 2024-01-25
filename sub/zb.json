@@ -1,14 +1,7 @@
 [
     { "name": "自用源", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/live.txt"},
-    { "name": "Supprise", "url": "https://raw.fgit.cf/Supprise0901/TVBox_live/main/live.txt&&&http://3650000.xyz/api/360.php?cid=5"},
+    { "name": "喵影视", "url": "http://www.weetai.cn/mtvzb.txt"},
     { "name": "肥猫", "url": "http://我不是.肥猫.live/TV/tvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"},
-    { "name": "Ray0", "url": "https://xhdwc.tk/tvlive.txt&&&http://3650000.xyz/api/360.php?cid=7"},
-    { "name": "IPV6", "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u&&&http://3650000.xyz/api/360.php?cid=8"},
-    { "name": "挺快", "url": "http://124.223.177.85:88/svip/直播挺快.txt&&&http://3650000.xyz/api/360.php?cid=8"},
-    {"name":"俊于","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&https://img.xjh.me/random_img.php"},
-    { "name": "菜妮丝", "url": "https://tvbox.cainisi.cf/TV&&&https://cdn.seovx.com/?mom=302"},
-    { "name": "香雅情", "url": "https://raw.fgit.cf/xyq254245/xyqonlinerule/main/live.txt&&&http://3650000.xyz/api/360.php?cid=8"},
-{"name":"范明","url":"https://raw.fgit.cf/fanmingming/live/main/tv/m3u/ipv6.m3u&&&https://api.likepoems.com/img/mc"}, 
-{"name":"潇洒","url":"https://download.kstore.space/download/2863/live.txt&&&https://www.dmoe.cc/random.php"
+    {"name":"潇洒","url":"https://download.kstore.space/download/2863/live.txt&&&https://www.dmoe.cc/random.php"
     }
 ]
