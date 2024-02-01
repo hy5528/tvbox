@@ -253,9 +253,14 @@ CCTV13,http://v.1ack.com/yw.php?id=cctv13
 CCTV14,http://v.1ack.com/yw.php?id=cctv14
 
 卫视,#genre#
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
+南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 四川卫视,http://182.150.31.58:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,,http://182.150.31.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://182.150.31.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
+江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
+江苏国际,https://live-hls.jstv.com/livezhuzhan/jsgj.flv?upt=9911a6af2510710360
 浙江卫视,http://182.150.31.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://182.150.31.58:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://182.150.31.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
