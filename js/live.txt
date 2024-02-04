@@ -66,6 +66,7 @@ CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=32a4e1b241be
 新疆卫视,http://182.150.31.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://182.150.31.58:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://182.150.31.58:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+翡翠台,https://epg.pw/stream/a8d8fb5121cddcc8a8e8a6522fe652c0f9f4a62a76a8730b2f057a7fbf310421.ctv
 
 
 
