@@ -354,6 +354,7 @@ CCTV14,http://v.1ack.com/yw.php?id=cctv14
 河南卫视,http://182.150.31.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://113.123.196.234:9999/udp/239.21.1.19:5002
 河北卫视,http://113.123.196.234:9999/udp/239.21.1.37:5002
+广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
 广西卫视,http://182.150.31.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://182.150.31.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://182.150.31.58:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
