@@ -27,6 +27,24 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=bfe370f153e7
 CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=32a4e1b241be
 
+CCTV1,http://www.liuyunw.com:88/zb/itv.php?id=cctv1
+CCTV2,http://www.liuyunw.com:88/zb/itv.php?id=cctv2
+CCTV3,http://www.liuyunw.com:88/zb/itv.php?id=cctv3
+CCTV4,http://www.liuyunw.com:88/zb/itv.php?id=cctv4
+CCTV5,http://www.liuyunw.com:88/zb/itv.php?id=cctv5
+CCTV5+,http://www.liuyunw.com:88/zb/itv.php?id=cctv5p
+CCTV6,http://www.liuyunw.com:88/zb/itv.php?id=cctv6
+CCTV7,http://www.liuyunw.com:88/zb/itv.php?id=cctv7
+CCTV8,http://www.liuyunw.com:88/zb/itv.php?id=cctv8
+CCTV9,http://www.liuyunw.com:88/zb/itv.php?id=cctv9
+CCTV10,http://www.liuyunw.com:88/zb/itv.php?id=cctv10
+CCTV11,http://www.liuyunw.com:88/zb/itv.php?id=cctv11
+CCTV12,http://www.liuyunw.com:88/zb/itv.php?id=cctv12
+CCTV13,http://www.liuyunw.com:88/zb/itv.php?id=cctv13
+CCTV14,http://www.liuyunw.com:88/zb/itv.php?id=cctv14
+CCTV15,http://www.liuyunw.com:88/zb/itv.php?id=cctv15
+CCTV17,http://www.liuyunw.com:88/zb/itv.php?id=cctv17
+
 CCTV1,http://113.123.196.234:9999/udp/239.21.1.120:5002
 CCTV2,http://113.123.196.234:9999/udp/239.21.1.151:5002
 CCTV3,http://113.123.196.234:9999/udp/239.21.2.45:5002
