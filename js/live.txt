@@ -22,6 +22,17 @@ CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 CHC家庭影院,http://www.liuyunw.com:88/zb/itv.php?id=chcjt
 CHC动作电影,http://www.liuyunw.com:88/zb/itv.php?id=chcdz
 CHC高清电影,http://www.liuyunw.com:88/zb/itv.php?id=chcgq
+CCTV第一剧场,http://223.10.20.234:8085/udp/239.1.1.94:8094
+CCTV怀旧剧场,http://223.10.20.234:8085/udp/239.1.1.95:8095
+CCTV风云剧场,http://223.10.20.234:8085/udp/239.1.1.93:8093
+CCTV风云音乐,http://223.10.20.234:8085/udp/239.1.1.96:8096
+CCTV风云足球,http://223.10.20.234:8085/udp/239.1.1.101:8101
+CCTV电视指南,http://223.10.20.234:8085/udp/239.1.1.90:8090
+CCTV女性时尚,http://223.10.20.234:8085/udp/239.1.1.89:8089
+CCTV文化精品,http://223.10.20.234:8085/udp/239.1.1.91:8091
+CCTV世界地理,http://223.10.20.234:8085/udp/239.1.1.99:8099
+CCTV兵器科技,http://223.10.20.234:8085/udp/239.1.1.97:8097
+CCTV央视台球,http://223.10.20.234:8085/udp/239.1.1.100:8100
 
 
 
