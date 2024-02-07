@@ -24,8 +24,7 @@ CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212262
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=bfe370f153e7
-CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=32a4e1b241be
+CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 
 CCTV1,http://www.liuyunw.com:88/zb/itv.php?id=cctv1
 CCTV2,http://www.liuyunw.com:88/zb/itv.php?id=cctv2
