@@ -19,6 +19,11 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+CHC家庭影院,http://www.liuyunw.com:88/zb/itv.php?id=chcjt
+CHC动作电影,http://www.liuyunw.com:88/zb/itv.php?id=chcdz
+CHC高清电影,http://www.liuyunw.com:88/zb/itv.php?id=chcgq
+
+
 
 卫视,#genre#
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
