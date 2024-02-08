@@ -19,22 +19,6 @@ CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
-CHC家庭影院,http://www.liuyunw.com:88/zb/itv.php?id=chcjt
-CHC动作电影,http://www.liuyunw.com:88/zb/itv.php?id=chcdz
-CHC高清电影,http://www.liuyunw.com:88/zb/itv.php?id=chcgq
-CCTV第一剧场,http://223.10.20.234:8085/udp/239.1.1.94:8094
-CCTV怀旧剧场,http://223.10.20.234:8085/udp/239.1.1.95:8095
-CCTV风云剧场,http://223.10.20.234:8085/udp/239.1.1.93:8093
-CCTV风云音乐,http://223.10.20.234:8085/udp/239.1.1.96:8096
-CCTV风云足球,http://223.10.20.234:8085/udp/239.1.1.101:8101
-CCTV电视指南,http://223.10.20.234:8085/udp/239.1.1.90:8090
-CCTV女性时尚,http://223.10.20.234:8085/udp/239.1.1.89:8089
-CCTV文化精品,http://223.10.20.234:8085/udp/239.1.1.91:8091
-CCTV世界地理,http://223.10.20.234:8085/udp/239.1.1.99:8099
-CCTV兵器科技,http://223.10.20.234:8085/udp/239.1.1.97:8097
-CCTV央视台球,http://223.10.20.234:8085/udp/239.1.1.100:8100
-
-
 
 卫视,#genre#
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
@@ -89,16 +73,7 @@ CCTV央视台球,http://223.10.20.234:8085/udp/239.1.1.100:8100
 新疆卫视,http://182.150.31.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://182.150.31.58:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 海南卫视,http://182.150.31.58:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
-翡翠台,https://epg.pw/stream/a8d8fb5121cddcc8a8e8a6522fe652c0f9f4a62a76a8730b2f057a7fbf310421.ctv
-山东齐鲁,http://920425.xyz:6666/rtp/239.253.240.114:8000
-山东文旅,http://920425.xyz:6666/rtp/239.253.240.160:8000 
-山东生活,http://920425.xyz:6666/rtp/239.253.240.151:8000  
-山东综艺,http://920425.xyz:6666/rtp/239.253.240.159:8000  
-山东体育,http://920425.xyz:6666/rtp/239.253.240.22:8000 
-山东新闻,http://920425.xyz:6666/rtp/239.253.240.23:8000 
-山东农科,http://920425.xyz:6666/rtp/239.253.240.24:8000 
-山东少儿,http://920425.xyz:6666/rtp/239.253.240.25:8000 
-山东文旅,http://920425.xyz:6666/rtp/239.253.240.59:8000
+
 
 
 央视组播,#genre#
@@ -228,36 +203,6 @@ IPTV5+,http://192.168.2.1:4022/udp/239.81.0.133:4056
 农林卫视,http://192.168.2.1:4022/udp/239.81.1.58:4056
 安多卫视,http://192.168.2.1:4022/udp/239.81.1.59:4056
 北京纪实科教,http://192.168.2.1:4022/udp/239.81.1.69:4056
-
-
-百视,#genre#
-直播间1,http://192.168.2.1:4022/udp/239.81.0.185:4056
-直播间,http://192.168.2.1:4022/udp/239.81.0.186:4056
-直播间3,http://192.168.2.1:4022/udp/239.81.0.201:4056
-直播间,http://192.168.2.1:4022/udp/239.81.0.202:4056
-直播间9,http://192.168.2.1:4022/udp/239.81.0.179:4056
-直播间10,http://192.168.2.1:4022/udp/239.81.0.180:4056
-直播间11,http://192.168.2.1:4022/udp/239.81.0.181:4056
-
-百视TV1,https://bp-caster.bestv.com.cn/943/3/video.m3u8
-百视TV2,https://bp-caster.bestv.com.cn/926/3/video.m3u8
-百视TV3,https://bp-caster.bestv.com.cn/945/3/video.m3u8
-百视TV4,https://bp-caster.bestv.com.cn/900/3/video.m3u8
-百视TV5,https://bp-caster.bestv.com.cn/956/3/video.m3u8
-百视TV6,https://bp-caster.bestv.com.cn/947/3/video.m3u8
-百视TV7,https://bp-caster.bestv.com.cn/941/3/video.m3u8
-百视TV8,https://bp-caster.bestv.com.cn/953/3/video.m3u8
-百视TV9,https://bp-caster.bestv.com.cn/939/3/video.m3u8
-百视TV10,https://bp-caster.bestv.com.cn/938/3/video.m3u8
-百视TV11,https://bp-caster.bestv.com.cn/937/3/video.m3u8
-百视TV12,https://bp-caster.bestv.com.cn/954/3/video.m3u8
-百视TV14,https://bp-caster.bestv.com.cn/934/3/video.m3u8
-百视独播1,https://bp-caster.bestv.com.cn/946/3/video.m3u8
-百视独播2,https://bp-caster.bestv.com.cn/955/3/video.m3u8
-百视独播3,https://bp-caster.bestv.com.cn/940/3/video.m3u8
-百视独播4,https://bp-caster.bestv.com.cn/944/3/video.m3u8
-百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
-独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
 少儿,#genre#
 CCTV14,http://192.168.2.1:4022/udp/239.81.0.120:4056
