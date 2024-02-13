@@ -167,6 +167,14 @@
       "filterable": 1,
       "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/%E5%90%BE%E7%88%B1%E7%BE%8E%E9%A3%9F0804.json",
       "spider": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/%E5%85%AC%E4%BC%97%E5%8F%B7%E5%90%BE%E7%88%B1%E6%9C%89%E4%B8%89%E6%97%A5%E6%9C%88%E4%B8%8E%E5%8D%BF0723.jar"
+    },	
+   {
+      "key": "drpy_哔哩",
+      "name": "🅱我的哔哩",
+      "type": 3,
+      "api": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "playerType": 1,
+      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/%E6%88%91%E7%9A%84%E5%93%94%E5%93%A9.js"
     },		
     {
 "key": "csp_xBPQ_jishu",
