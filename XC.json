@@ -172,7 +172,7 @@
       "key": "drpy_哔哩",
       "name": "🅱我的哔哩",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "api": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy.min.js",
       "playerType": 1,
       "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/%E6%88%91%E7%9A%84%E5%93%94%E5%93%A9.js"
     },		
