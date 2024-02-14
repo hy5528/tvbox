@@ -229,17 +229,7 @@
       "filterable": 1,
       "ext": "https://notabug.org/dongchenys/pt/raw/json/json/yingshiche.json"
     },
-    {
-      "key": "Gitcafe",
-      "name": "云盘🧓臻享4K",
-      "type": 3,
-      "api": "csp_Paper",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://notabug.org/dongchenys/pt/raw/json/jar/HeChengChaXiu.jar",
-      "ext": "https://notabug.org/dongchenys/pt/raw/json/json/PG推送.json"
-    },
+    
     {
       "key": "csp_XYQHikerAL_阿里苏苏",
       "name": "苏苏🛰️臻享4K",
