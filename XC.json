@@ -186,7 +186,11 @@
             "filterable": 1,
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
-        pi": "csp_XBiu",
+        {
+      "key": "csp_xb_zxzj",
+      "name": "💖在线之家(XBiu)",
+      "type": 3,
+      "api": "csp_XBiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
