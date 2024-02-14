@@ -19,8 +19,10 @@ CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV9,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
+CCTV11,http://api.52tb.xyz/info?id=13&token=20230314vyrzsx
 CCTV11,http://mmitv.top/pltv/source.php?id=cctv11&token=9fa4d40bd88a
 CCTV11,http://58.23.26.134:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://api.52tb.xyz/info?id=14&token=20230314vyrzsx
 CCTV12,http://mmitv.top/pltv/source.php?id=cctv12&token=5198078418fd
 CCTV12,http://58.23.26.134:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
