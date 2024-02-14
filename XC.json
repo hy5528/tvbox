@@ -207,7 +207,62 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
-
+    {
+      "key": "一青叶我_开心玩偶",
+      "name": "开心🍹臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://notabug.org/dongchenys/pt/raw/json/jar/ttkx.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/dongchenys/pt/raw/json/json/kaixinwogg.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_影视车",
+      "name": "影视车🚛臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://notabug.org/dongchenys/pt/raw/json/jar/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/dongchenys/pt/raw/json/json/yingshiche.json"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "云盘🧓臻享4K",
+      "type": 3,
+      "api": "csp_Paper",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://notabug.org/dongchenys/pt/raw/json/jar/HeChengChaXiu.jar",
+      "ext": "https://notabug.org/dongchenys/pt/raw/json/json/PG推送.json"
+    },
+    {
+      "key": "csp_XYQHikerAL_阿里苏苏",
+      "name": "苏苏🛰️臻享4K",
+      "type": 3,
+      "api": "csp_XYQHikerAL",
+      "jar": "https://notabug.org/dongchenys/pt/raw/json/jar/xyqwogg.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://notabug.org/dongchenys/pt/raw/json/json/alisusu.json"
+    },
+    {
+      "key": "Hdhive",
+      "name": "影巢🚜臻享4K",
+      "type": 3,
+      "api": "csp_Hdhive",
+      "jar": "https://notabug.org/dongchenys/pt/raw/json/jar/PG.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "ext": "https://notabug.org/dongchenys/pt/raw/json/json/PG推送.json$$$null$$$1"
+    },
 		
     {
       "key": "爱看影视",
