@@ -21,7 +21,31 @@
 			"type_name": "MV",
 			"type_id": "MV4K"
 		}, 
-                               {  
+                {
+			"type_name": "搞笑",
+			"type_id": "搞笑超清"
+		},
+		{
+			"type_name": "4K",
+			"type_id": "4K"
+		},
+		{
+			"type_name": "电影",
+			"type_id": "电影"
+		},
+		{
+			"type_name": "电视剧",
+			"type_id": "电视剧"
+		},
+		{
+			"type_name": "相声小品",
+			"type_id": "相声小品超清"
+		},
+		{
+			"type_name": "戏曲",
+			"type_id": "戏曲"
+		},
+		{  
 			"type_name": "沙雕动漫",
 			"type_id": "一口气沙雕动漫"
 		},
@@ -69,10 +93,7 @@
 			"type_name": "鬼畜",
 			"type_id": "鬼畜"
 		},
-		{
-			"type_name": "搞笑",
-			"type_id": "搞笑超清"
-		},
+		
 		{
 			"type_name": "儿童",
 			"type_id": "儿童超清"
@@ -81,14 +102,7 @@
 			"type_name": "动物世界",
 			"type_id": "动物世界超清"
 		},
-		{
-			"type_name": "相声小品",
-			"type_id": "相声小品超清"
-		},
-		{
-			"type_name": "戏曲",
-			"type_id": "戏曲"
-		},
+		
 		{
 			"type_name": "解说",
 			"type_id": "解说"
@@ -132,18 +146,7 @@
 			"type_name": "舞曲",
 			"type_id": "舞曲超清"
 		},
-		{
-			"type_name": "4K",
-			"type_id": "4K"
-		},
-		{
-			"type_name": "电影",
-			"type_id": "电影"
-		},
-		{
-			"type_name": "电视剧",
-			"type_id": "电视剧"
-		},
+		
 		{
 			"type_name": "白噪音",
 			"type_id": "白噪音超清"
