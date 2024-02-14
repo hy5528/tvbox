@@ -1,10 +1,13 @@
 央视,#genre#
 CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
+CCTV1,http://api.52tb.xyz/info?id=2&token=20230314vyrzsx
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV2,http://api.52tb.xyz/info?id=3&token=20230314vyrzsx
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV3,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
@@ -29,6 +32,7 @@ CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212262
 CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
+CCTV15,http://api.52tb.xyz/info?id=17&token=20230314vyrzsx
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
