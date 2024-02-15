@@ -1,5 +1,6 @@
 [
     { "name": "PHP电视源", "url": "http://mmitv.top/pltv/source.php?id=list&token=free"},
+    { "name": "影视", "url": "https://ghproxy.net/"},
     { "name": "自用源", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/live.txt"},
     { "name": "MV", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MV.txt"},
     { "name": "MTV流行", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MTV流行.txt"},
