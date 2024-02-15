@@ -121,6 +121,7 @@ CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
 江苏卫视,http://182.150.31.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://182.150.31.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+浙江卫视,http://117.190.144.101:9901/tsfile/live/1038_1.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
