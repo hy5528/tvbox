@@ -49,22 +49,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV16,http://api.52tb.xyz/info?id=18&token=20230314vyrzsx
 CCTV17,http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
-CCTV高尔夫网球,http://mmitv.top/pltv/source.php?id=cctvgefwq&token=4e624a1dc11c
-CCTV世界地理,http://mmitv.top/pltv/source.php?id=cctvsjdl&token=e8f3ae1b4190
-CCTV第一剧场,http://mmitv.top/pltv/source.php?id=cctvdyjc&token=a836d3ab7c86
-CCTV风云足球,http://mmitv.top/pltv/source.php?id=cctvfyzq&token=4a2e35a14ae8
-CCTV风云剧场,http://mmitv.top/pltv/source.php?id=cctvfyjc&token=e6134b57a586
-CCTV风云音乐,http://mmitv.top/pltv/source.php?id=cctvfyyl&token=f1b48aa12cad
-CCTV怀旧剧场,http://mmitv.top/pltv/source.php?id=cctvhjjc&token=0673364c59f9
-CCTV兵器科技,http://mmitv.top/pltv/source.php?id=cctvbqkj&token=02bb89e9fcae
-CCTV女性时尚,http://mmitv.top/pltv/source.php?id=cctvnxss&token=8cb7964a8e20
-CCTV央视文化精品,http://mmitv.top/pltv/source.php?id=cctvyswhjp&token=9747adc81ec6
-CCTV央视台球,http://mmitv.top/pltv/source.php?id=cctvystq&token=c9ccc91c6167
-CCTV电视指南,http://mmitv.top/pltv/source.php?id=cctvdszn&token=a6128d3979b0
-CGTN,http://mmitv.top/pltv/source.php?id=cgtn&token=49f6954fe6a7
-CETV1,http://mmitv.top/pltv/source.php?id=cetv1&token=4d07d453a18b
-CETV2,http://mmitv.top/pltv/source.php?id=cetv2&token=0e4d3094f38d
-CETV4,http://mmitv.top/pltv/source.php?id=cetv4&token=784682f8e9c4
 
 
 
