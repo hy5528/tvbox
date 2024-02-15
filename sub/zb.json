@@ -1,4 +1,5 @@
 [
+    { "name": "PHP电视源", "url": "http://mmitv.top/pltv/source.php?id=list&token=free"},
     { "name": "自用源", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/live.txt"},
     { "name": "MV", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MV.txt"},
     { "name": "MTV流行", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MTV流行.txt"},
@@ -6,7 +7,6 @@
     { "name": "MTV现场", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MTV现场.txt"},
     { "name": "DJ音乐", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/DJ音乐.txt"},
     { "name": "自用组播", "url": "http://192.168.2.1:9212/tv.txt"},
-     { "name": "PHP", "url": "http://mmitv.top/pltv/source.php?id=list&token=free"},
     { "name": "自用影视", "url": "http://192.168.2.1:9212/Movies.txt"},
     { "name": "喵影视", "url": "http://www.weetai.cn/mtvzb.txt"},
     { "name": "肥猫", "url": "http://我不是.肥猫.live/TV/tvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"},
