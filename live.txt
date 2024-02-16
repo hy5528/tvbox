@@ -38,6 +38,7 @@ CCTV11,http://58.23.26.134:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&au
 CCTV12,http://api.52tb.xyz/info?id=14&token=20230314vyrzsx
 CCTV12,http://mmitv.top/pltv/source.php?id=cctv12&token=5198078418fd
 CCTV12,http://58.23.26.134:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://api.52tb.xyz/info?id=15&token=20230314vyrzsx
