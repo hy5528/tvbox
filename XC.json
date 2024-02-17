@@ -258,7 +258,7 @@
       "key": "虎牙",
       "name": "🎀虎牙┃影视┃",
       "type": 1,
-      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
