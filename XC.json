@@ -253,17 +253,7 @@
 "综艺",
 "动漫"
 ]},
-{
-      "key": "赞赞",
-      "name": "➕赞赞┃切片",
-      "type": 3,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-      "api": "csp_AppYsV2",
-      "ext": "http://111.230.51.151:9696//api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },  
+
  {
       "key": "虎牙",
       "name": "🎀虎牙┃影视┃",
