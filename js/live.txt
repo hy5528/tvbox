@@ -33,7 +33,7 @@ CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 湖南卫视,http://182.150.31.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv
 江苏卫视,http://182.150.31.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://221.213.43.82:8888/newlive/live/hls/24/live.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
