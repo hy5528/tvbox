@@ -253,7 +253,14 @@
 "综艺",
 "动漫"
 ]},
-
+{
+      "key": "暴风",
+      "name": "暴风",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1
+    },
  {
       "key": "虎牙",
       "name": "🎀虎牙┃影视┃",
