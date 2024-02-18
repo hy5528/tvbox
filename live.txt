@@ -56,6 +56,7 @@ CCTV2,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv2.m3u8
 CCTV3,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv3.m3u8  
 CCTV4,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv4.m3u8  
 CCTV5,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv5.m3u8  
+CCTV5+,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv5p.m3u8  
 CCTV6,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv6.m3u8 
 CCTV7,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv7.m3u8 
 CCTV8,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv8.m3u8 
