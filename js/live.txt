@@ -17,7 +17,7 @@ CCTV14,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV15,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv15.m3u8 
 CCTV16,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv16.m3u8 
 CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
-CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+
 
 卫视,#genre#
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
