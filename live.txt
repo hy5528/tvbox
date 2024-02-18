@@ -171,15 +171,16 @@ CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
 广西卫视,http://api.52tb.xyz/info?id=45&token=20230314vyrzsx
 广西卫视,http://182.150.31.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://182.150.31.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://182.150.31.58:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://182.150.31.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://182.150.31.58:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://182.150.31.58:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://182.150.31.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://182.150.31.58:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://182.150.31.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://182.150.31.58:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://182.150.31.58:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://api.52tb.xyz/info?id=47&token=20230314vyrzsx
+山西卫视,http://api.52tb.xyz/info?id=99&token=20230314vyrzsx
+内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
+海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
+西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
+宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
+新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
+甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 
 
 
