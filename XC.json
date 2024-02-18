@@ -289,16 +289,8 @@
         "泰剧"
       ]	
       },
-	{
-      "key": "A8影视",
-      "name": "🚛A8┃秒播",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"
-    },	
+
+      
  {
       "key": "虎牙",
       "name": "🎀虎牙┃影视┃",
