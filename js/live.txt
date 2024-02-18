@@ -74,13 +74,12 @@ CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
 海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
-
-
 
 
 央视组播,#genre#
