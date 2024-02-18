@@ -28,7 +28,6 @@ CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000
 北京国际,http://iptv.8t.cx:8180/udp/239.3.1.235:8000
 体育休闲,http://iptv.8t.cx:8180/udp/239.3.1.243:8000
-南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
 四川卫视,http://182.150.31.58:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://182.150.31.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv
