@@ -71,7 +71,7 @@ CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 广西卫视,http://182.150.31.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://182.150.31.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://182.150.31.58:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://182.150.31.58:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
 内蒙古卫视,http://182.150.31.58:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
 青海卫视,http://182.150.31.58:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://182.150.31.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
