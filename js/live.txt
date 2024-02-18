@@ -33,7 +33,7 @@ CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 湖南卫视,http://182.150.31.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 快乐垂钓,https://epg.pw/stream/f985e0b6d1331e8a6ebe2cd52fc775e56778a8c59df71272881179c511e256cb.ctv
 江苏卫视,http://182.150.31.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://221.213.43.82:8888/newlive/live/hls/24/live.m3u8
+浙江卫视,http://api.52tb.xyz/info?id=22&token=20230314vyrzsx
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -74,11 +74,12 @@ CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 山西卫视,http://api.52tb.xyz/info?id=99&token=20230314vyrzsx
 内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
 海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
-青海卫视,http://182.150.31.58:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://182.150.31.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://182.150.31.58:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://182.150.31.58:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://182.150.31.58:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
+西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
+宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
+新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
+甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 
 
 
