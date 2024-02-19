@@ -262,7 +262,7 @@
     },
 {
       "key": "zycj_天天",
-      "name": "📅天天┃影视┃测试",
+      "name": "📅天天┃影视",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "playUrl": "",
