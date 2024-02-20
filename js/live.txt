@@ -72,12 +72,17 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 东方卫视,http://api2.52tb.xyz/info?id=24&token=20230314vyrzsx
 深圳卫视,http://api2.52tb.xyz/info?id=28&token=20230314vyrzsx
 广东卫视,http://api2.52tb.xyz/info?id=27&token=20230314vyrzsx
+广东4K,http://api2.52tb.xyz/info?id=402&token=20230314vyrzsx
 广州综合,http://php.jdshipin.com:8880/iptv.php?id=gzzh
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+广东影视,http://api2.52tb.xyz/info?id=406&token=20230314vyrzsx
+广东民生,http://api2.52tb.xyz/info?id=408&token=20230314vyrzsx
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
+大湾区卫视,http://api2.52tb.xyz/info?id=412&token=20230314vyrzsx
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
+广东新闻,http://api2.52tb.xyz/info?id=404&token=20230314vyrzsx
 广州综合,http://yima.eu.org/gz.php?id=zhonghe 
 广州新闻,http://yima.eu.org/gz.php?id=xinwen
 广州竞赛,http://yima.eu.org/gz.php?id=jingsai
