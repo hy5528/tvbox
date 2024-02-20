@@ -57,7 +57,7 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 湖南教育,http://php.jdshipin.com:8880/iptv.php?id=hnjy
 江苏卫视,http://182.150.31.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://182.150.31.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+
 浙江卫视,http://117.190.144.101:9901/tsfile/live/1038_1.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -70,7 +70,7 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 东方卫视,http://182.150.31.58:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://182.150.31.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://182.150.31.58:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-广东卫视,http://v.1ack.com/aikanmigu.php?id=gdws
+
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
@@ -82,7 +82,7 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 广州影视,http://yima.eu.org/gz.php?id=yingshi
 广州南国都市,http://yima.eu.org/gz.php?id=shenghuo
 广州法治,http://yima.eu.org/gz.php?id=fazhi
-天津卫视,http://api2.52tb.xyz/info?id=26&token=20230405tndmhg
+
 天津卫视,http://182.150.31.58:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://api2.52tb.xyz/info?id=22&token=20230405tndmhg
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -107,7 +107,7 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 河南卫视,http://182.150.31.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://api2.52tb.xyz/info?id=32&token=20230405tndmhg
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
-广西卫视,http://api.52tb.xyz/info?id=45&token=20230314vyrzsx
+
 广西卫视,http://182.150.31.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://182.150.31.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://api.52tb.xyz/info?id=47&token=20230314vyrzsx
