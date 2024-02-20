@@ -174,7 +174,6 @@ CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
 贵州卫视,http://182.150.31.58:9901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://182.150.31.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://182.150.31.58:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-
 湖北卫视,http://182.150.31.58:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://182.150.31.58:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://182.150.31.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
