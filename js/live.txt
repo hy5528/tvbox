@@ -24,7 +24,6 @@ CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
 1905国内电影,http://192.168.2.1:9212/diyp/1905.php?id=1905b
 
 
-
 卫视,#genre#
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
