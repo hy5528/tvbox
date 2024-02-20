@@ -17,6 +17,8 @@ CCTV14,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv14.m3u8
 CCTV15,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv15.m3u8 
 CCTV16,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv16.m3u8 
 CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+
 
 1905电影,#genre#
 CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
