@@ -19,13 +19,6 @@ CCTV16,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv16.m3u8
 CCTV17,http://61.170.80.241:80/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 
-
-1905电影,#genre#
-CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
-1905国外电影,http://192.168.2.1:9212/diyp/1905.php?id=1905a
-1905国内电影,http://192.168.2.1:9212/diyp/1905.php?id=1905b
-
-
 卫视,#genre#
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
@@ -104,6 +97,10 @@ CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 
+1905电影,#genre#
+CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
+1905国外电影,http://192.168.2.1:9212/diyp/1905.php?id=1905a
+1905国内电影,http://192.168.2.1:9212/diyp/1905.php?id=1905b
 
 央视组播,#genre#
 CCTV1,http://192.168.2.1:4022/udp/239.81.0.102:4056
