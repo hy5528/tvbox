@@ -7,6 +7,7 @@
     { "name": "歌星MV", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/歌星MV.txt"},
     { "name": "MTV现场", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MTV现场.txt"},
     { "name": "DJ音乐", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/DJ音乐.txt"},
+     { "name": "y源", "url": "https://fongmi.cachefly.net/YanG-1989/m3u/main/ya.m3u"},
     { "name": "自用组播", "url": "http://192.168.2.1:9212/tv.txt"},
     { "name": "自用影视", "url": "http://192.168.2.1:9212/Movies.txt"},
     { "name": "喵影视", "url": "http://www.weetai.cn/mtvzb.txt"},
