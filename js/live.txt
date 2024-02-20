@@ -96,7 +96,7 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 江西少儿,http://php.jdshipin.com:8880/iptv.php?id=jxse
 江西教育,http://php.jdshipin.com:8880/iptv.php?id=jxjy
 东南卫视,http://api2.52tb.xyz/info?id=29&token=20230314vyrzsx
-黑龙江卫视,http://182.150.31.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://api2.52tb.xyz/info?id=41&token=20230314vyrzsx
 重庆卫视,http://api2.52tb.xyz/info?id=37&token=20230314vyrzsx
 贵州卫视,http://api2.52tb.xyz/info?id=36&token=20230314vyrzsx
 湖北卫视,http://182.150.31.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -109,6 +109,7 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 吉林卫视,http://182.150.31.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://api.52tb.xyz/info?id=47&token=20230314vyrzsx
 山西卫视,http://api.52tb.xyz/info?id=99&token=20230314vyrzsx
+云南卫视,http://api2.52tb.xyz/info?id=42&token=20230314vyrzsx
 内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
 海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
