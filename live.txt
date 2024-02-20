@@ -156,7 +156,7 @@ CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
 广州法治,http://yima.eu.org/gz.php?id=fazhi
 天津卫视,http://api2.52tb.xyz/info?id=26&token=20230405tndmhg
 天津卫视,http://182.150.31.58:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-
+浙江卫视,http://api2.52tb.xyz/info?id=22&token=20230405tndmhg
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 山东卫视,http://182.150.31.58:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://182.150.31.58:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
