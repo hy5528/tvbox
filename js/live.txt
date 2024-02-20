@@ -23,8 +23,7 @@ CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
 1905国外电影,http://192.168.2.1:9212/diyp/1905.php?id=1905a
 1905国内电影,http://192.168.2.1:9212/diyp/1905.php?id=1905b
 
-ya,#genre#
-ya,https://fongmi.cachefly.net/YanG-1989/m3u/main/ya.m3u
+
 
 卫视,#genre#
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
