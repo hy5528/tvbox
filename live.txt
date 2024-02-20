@@ -149,6 +149,13 @@ CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 山东卫视,http://182.150.31.58:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://182.150.31.58:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西新闻,http://php.jdshipin.com:8880/iptv.php?id=jxxw
+江西都市,http://php.jdshipin.com:8880/iptv.php?id=jxds
+江西经济生活,http://php.jdshipin.com:8880/iptv.php?id=jxjjsh
+江西影视旅游,http://php.jdshipin.com:8880/iptv.php?id=jxysly
+江西公共农业,http://php.jdshipin.com:8880/iptv.php?id=jxggny
+江西少儿,http://php.jdshipin.com:8880/iptv.php?id=jxse
+江西教育,http://php.jdshipin.com:8880/iptv.php?id=jxjy
 东南卫视,http://182.150.31.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://182.150.31.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
