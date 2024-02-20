@@ -21,11 +21,14 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
+第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
-
-
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
+央视高网,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 
 CCTV1,http://api2.52tb.xyz/info?id=2&token=20230314vyrzsx
 CCTV2,http://api2.52tb.xyz/info?id=3&token=20230314vyrzsx
