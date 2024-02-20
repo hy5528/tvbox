@@ -50,6 +50,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212269
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV16,http://api.52tb.xyz/info?id=18&token=20230314vyrzsx
 CCTV17,http://api.52tb.xyz/info?id=19&token=20230314vyrzsx
+CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 
 
 
