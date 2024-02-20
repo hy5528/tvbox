@@ -65,6 +65,13 @@ CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
 天津卫视,http://182.150.31.58:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://182.150.31.58:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 江西卫视,http://182.150.31.58:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+江西新闻,http://php.jdshipin.com:8880/iptv.php?id=jxxw
+江西都市,http://php.jdshipin.com:8880/iptv.php?id=jxds
+江西经济生活,http://php.jdshipin.com:8880/iptv.php?id=jxjjsh
+江西影视旅游,http://php.jdshipin.com:8880/iptv.php?id=jxysly
+江西公共农业,http://php.jdshipin.com:8880/iptv.php?id=jxggny
+江西少儿,http://php.jdshipin.com:8880/iptv.php?id=jxse
+江西教育,http://php.jdshipin.com:8880/iptv.php?id=jxjy
 东南卫视,http://182.150.31.58:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江卫视,http://182.150.31.58:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
 重庆卫视,http://182.150.31.58:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
