@@ -21,27 +21,6 @@
       },
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/%E6%98%8E%E6%98%9FMV.json"
     },			
-   {
-      "key": "酷奇MV",
-      "name": "🎤酷奇MV",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "主页url": "https://www.kuqimv.com",
-        "直接播放": "1",
-        "短视频": "1",
-        "分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
-        "分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
-        "数组": "<li>&&</li>",
-        "标题": "title=\"&&\"",
-        "副标题": "target=\"play\">&&<",
-        "搜索模式": "1",
-        "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
-      }
-    },
     {
       "key": "酷狗",
       "name": "🎵酷狗┃音乐",
@@ -51,47 +30,7 @@
       "changeable": 0,
       "jar": "https://tvbox.cainisi.cf/jar/fm1221.jar;md5;55c157414346e3ff571baad0a223bf15"
     },	
-    {
-      "key": "A8音乐",
-      "name": "🎵A8┃MV",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://drpy.cainisi.cf/js/A8音乐.js"
-    },
-  
-    {
-      "key": "DJ哟哟音乐网",
-      "name": "🎵DJ哟哟┃音乐",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://drpy.cainisi.cf/js/DJ音乐.js"
-    },
-    {
-      "key": "Jango",
-      "name": "🎵Jango┃音乐",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://drpy.cainisi.cf/js/JangoIndex.js"
-    },
-    {
-      "key": "啦啦DJ音乐网",
-      "name": "🎵啦啦DJ┃音乐",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "https://drpy.cainisi.cf/js/啦啦DJ.js"
-    },
+    
  {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
