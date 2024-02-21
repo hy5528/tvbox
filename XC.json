@@ -21,16 +21,13 @@
       },
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/%E6%98%8E%E6%98%9FMV.json"
     },			
-    {
-      "key": "酷狗",
-      "name": "🎵酷狗┃音乐",
+  {
+      "key": "drpy_js_A8音乐",
+      "name": "🍂‍MV|A8音乐[js]",
       "type": 3,
-      "api": "csp_Kugou",
-      "searchable": 0,
-      "changeable": 0,
-      "jar": "https://tvbox.cainisi.cf/jar/fm1221.jar;md5;55c157414346e3ff571baad0a223bf15"
-    },	
-   
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
+    },  
  {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
@@ -283,7 +280,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "内地剧",
+        "国产剧",
         "动作片",
         "科幻片",
         "战争片",
@@ -316,7 +313,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "内地剧",
+        "国产剧",
         "动作片",
         "科幻片",
         "战争片",
@@ -350,7 +347,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "内地剧",
+        "国产剧",
         "动作片",
         "科幻片",
         "战争片",
@@ -383,7 +380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "内地剧",
+        "国产剧",
         "动作片",
         "科幻片",
         "战争片",
@@ -416,7 +413,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
-        "内地剧",
+        "国产剧",
         "动作片",
         "科幻片",
         "战争片",
