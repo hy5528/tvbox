@@ -249,7 +249,7 @@
     },
    {
       "key": "闪电",
-      "name": "🎀闪电资源┃影视┃",
+      "name": "🎀闪电┃影视┃",
       "type": 1,
       "api": "https://sdzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -283,7 +283,7 @@
      },
      {
       "key": "U酷",
-      "name": "🎀U酷资源┃影视┃",
+      "name": "🎀U酷┃影视┃",
       "type": 1,
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -318,7 +318,7 @@
 
      {
       "key": "飞速",
-      "name": "🎀飞速资源┃影视┃",
+      "name": "🎀飞速┃影视┃",
       "type": 1,
       "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -352,7 +352,7 @@
      },
      {
       "key": "百度",
-      "name": "🎀百度资源┃影视┃",
+      "name": "🎀百度┃影视┃",
       "type": 1,
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -386,7 +386,7 @@
      },
      {
       "key": "天空",
-      "name": "🎀天空资源┃影视┃",
+      "name": "🎀天空┃影视┃",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "searchable": 1,
