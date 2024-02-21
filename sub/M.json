@@ -30,7 +30,20 @@
       "changeable": 0,
       "jar": "https://tvbox.cainisi.cf/jar/fm1221.jar;md5;55c157414346e3ff571baad0a223bf15"
     },	
-   
+   {
+      "key": "drpy_js_A8音乐",
+      "name": "MV | A8音乐[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
+    },
+ {
+      "key": "drpy_js_酷奇MV",
+      "name": "MV | 酷奇[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷奇MV.js"
+    },		
  {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
