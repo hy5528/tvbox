@@ -1,6 +1,6 @@
 [
     { "name": "影视", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/Movies.txt"},
-    { "name": "自用源", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/live.txt"},
+    { "name": "自用源", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/BiLI.js"},
     { "name": "广场舞", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/广场舞.txt"},
     { "name": "MV", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MV.txt"},
     { "name": "MV直播", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MV2.txt"},
