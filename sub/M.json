@@ -166,7 +166,16 @@
       "filterable": 1,
       "ext": "https://www.kuin.one/api.php/app/"
     },
-	
+   {
+			"key": "世界",
+			"name": "💖分享世界",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://106.52.241.21:83/api.php/app/"
+		},	
    	
     {
             "key": "2聚合",
