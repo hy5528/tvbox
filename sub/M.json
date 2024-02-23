@@ -108,7 +108,10 @@
       "key": "音乐",
       "name": "🧡音乐合集",
       "type": 3,
-      "api": "csp_musicfree",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": "https://agit.ai/EmdayLive/Emdaytv/src/branch/master/musicfree/plugins.json"
     },	
     {
