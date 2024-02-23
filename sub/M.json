@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://agit.ai/EmdayLive/Emdaytv/src/branch/master/musicfree/plugins.json"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/plugins.json"
     },		
     {
       "key": "直播转点播",
