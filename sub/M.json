@@ -115,26 +115,7 @@
       "filterable": 0,
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },		
-    {
-      "key": "meowtv_qydh",
-      "name": "💡奇艺┃动画",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/奇艺动画.js"
-    },
-    {
-      "key": "meowtv_mgdh",
-      "name": "🌸芒果┃动画",
-      "type": 3,
-      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cdn.teyonds.com/js/芒果动画.js"
-    },
+
     {
       "key": "meowtv_tqss",
       "name": "🍓童趣┃搜视",
