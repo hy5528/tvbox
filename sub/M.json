@@ -21,7 +21,95 @@
       },
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/%E6%98%8E%E6%98%9FMV.json"
     },			
-    
+    {
+    "plugins": [
+        {
+            "name": "5sing",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/5sing/index.js",
+            "version": "0.1.2"
+        },
+        {
+            "name": "Audiomack",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/audiomack/index.js",
+            "version": "0.0.2"
+        },
+        {
+            "name": "快手",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/kuaishou/index.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "bilibili",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/bilibili/index.js",
+            "version": "0.1.10"
+        },
+        {
+            "name": "酷狗",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/kugou/index.js",
+            "version": "0.1.5"
+        },
+        {
+            "name": "酷我",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/kuwo/index.js",
+            "version": "0.1.7"
+        },
+        {
+            "name": "猫耳FM",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/maoer/index.js",
+            "version": "0.1.4"
+        },
+        {
+            "name": "Navidrome",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/navidrome/index.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "咪咕",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/migu/index.js",
+            "version": "0.2.1"
+        },
+        {
+            "name": "网易云",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/wangyiyun/index.js",
+            "version": "0.2.2"
+        },
+        {
+            "name": "千千音乐",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/qianqian/index.js",
+            "version": "0.1.3"
+        },
+        {
+            "name": "QQ音乐",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/qq/index.js",
+            "version": "0.2.2"
+        },
+        {
+            "name": "全民K歌",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/qmkg/index.js",
+            "version": "0.1.1"
+        },
+        {
+            "name": "WebDAV",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/weddav/index.js",
+            "version": "0.0.0"
+        },
+        {
+            "name": "喜马拉雅",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/xmly/index.js",
+            "version": "0.1.6"
+        },
+        {
+            "name": "音悦台",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/yinyuetai/index.js",
+            "version": "0.0.1"
+        },
+        {
+            "name": "Youtube",
+            "url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/youtube/index.js",
+            "version": "0.0.1"
+        }
+    ]
+}
    {
       "key": "drpy_js_A8音乐",
       "name": "🍂‍MV|A8音乐[js]",
