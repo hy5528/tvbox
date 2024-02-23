@@ -1,6 +1,5 @@
 [
     { "name": "影视", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/Movies.txt"},
-    { "name": "5sing","url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/5sing/index.js"},
-    { "name": "酷狗","url": "https://agit.ai/EmdayLive/Emdaytv/raw/branch/master/musicfree/kugou/index.js"  
+    { "name": "MV合集","url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MV2.txt"  
         }
 ]
