@@ -8,6 +8,7 @@
     { "name": "歌星MV", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/歌星MV.txt"},
     { "name": "MTV现场", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MTV现场.txt"},
     { "name": "DJ音乐", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/DJ音乐.txt"},
+    { "name": "音乐合集", "url": "https://agit.ai/EmdayLive/Emdaytv/src/branch/master/musicfree/plugins.json"},
     { "name": "虎牙", "url": "https://live.freetv.top/huyayqk.m3u"},
     { "name": "斗鱼", "url": "https://live.freetv.top/douyuyqk.m3u"},
     { "name": "YY轮播", "url": "https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top"},
