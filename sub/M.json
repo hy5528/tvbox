@@ -29,13 +29,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
     },
- {
-      "key": "音乐",
-      "name": "🧡音乐",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://agit.ai/EmdayLive/Emdaytv/src/branch/master/musicfree/kuwo/index.js"
-    },	
+ 
    {
       "key": "乐器",
       "name": "🖤吾爱乐器",
