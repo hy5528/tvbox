@@ -105,15 +105,13 @@
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/%E6%88%91%E7%9A%84Bili.json"
     },	
     {
-      "key": "音乐",
+      "key": "音乐合集",
       "name": "🧡音乐合集",
       "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://agit.ai/EmdayLive/Emdaytv/src/branch/master/musicfree/plugins.json"
-    },	
+    },
+		
     {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
