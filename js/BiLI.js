@@ -256,6 +256,7 @@ CCTV-4K,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/
 云南卫视,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/ynwshd8m/8000000/mnf.m3u8
 贵州卫视,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/gzwshd8m/8000000/mnf.m3u8
 海南卫视,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/hainanwshd8m/8000000/mnf.m3u8
+海峡卫视,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/hxwshd4m/4000000/mnf.m3u8
 欢笑剧场,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/hxjc8m/8000000/mnf.m3u8
 劲爆体育,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 快乐垂钓,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8
@@ -2130,6 +2131,7 @@ CCTV-4K,http://php.jdshipin.com:8880/bst.php?id=cctv4k/15000000
 云南卫视,http://php.jdshipin.com:8880/bst.php?id=ynwshd8m/8000000
 贵州卫视,http://php.jdshipin.com:8880/bst.php?id=gzwshd8m/8000000
 海南卫视,http://php.jdshipin.com:8880/bst.php?id=hainanwshd8m/8000000
+海峡卫视,http://php.jdshipin.com:8880/bst.php?id=hxwshd4m/4000000
 欢笑剧场,http://php.jdshipin.com:8880/bst.php?id=hxjc8m/8000000
 劲爆体育,http://php.jdshipin.com:8880/bst.php?id=jbtyhd8m/8000000
 快乐垂钓,http://php.jdshipin.com:8880/bst.php?id=klcd8m/8000000
