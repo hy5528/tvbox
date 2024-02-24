@@ -1,5 +1,6 @@
 央视,#genre#
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8 
 CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8 
