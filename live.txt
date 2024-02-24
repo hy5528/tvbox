@@ -1,5 +1,4 @@
 央视,#genre#
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
 CCTV1,http://api.52tb.xyz/info?id=2&token=20230314vyrzsx
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
