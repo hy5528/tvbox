@@ -192,7 +192,38 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/inde
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 
-
+北京卫视,http://222.223.119.21:8888/newlive/live/hls/19/live.m3u8
+东方卫视,http://222.223.119.21:8888/newlive/live/hls/20/live.m3u8
+广东卫视,http://222.223.119.21:8888/newlive/live/hls/21/live.m3u8
+江苏卫视,http://222.223.119.21:8888/newlive/live/hls/22/live.m3u8
+湖南卫视,http://222.223.119.21:8888/newlive/live/hls/23/live.m3u8
+浙江卫视,http://222.223.119.21:8888/newlive/live/hls/24/live.m3u8
+安徽卫视,http://222.223.119.21:8888/newlive/live/hls/25/live.m3u8
+广西卫视,http://222.223.119.21:8888/newlive/live/hls/26/live.m3u8
+云南卫视,http://222.223.119.21:8888/newlive/live/hls/27/live.m3u8
+深证卫视,http://222.223.119.21:8888/newlive/live/hls/28/live.m3u8
+贵州卫视,http://222.223.119.21:8888/newlive/live/hls/29/live.m3u8
+山东卫视,http://222.223.119.21:8888/newlive/live/hls/30/live.m3u8
+重庆卫视,http://222.223.119.21:8888/newlive/live/hls/31/live.m3u8
+四川卫视,http://222.223.119.21:8888/newlive/live/hls/32/live.m3u8
+河南卫视,http://222.223.119.21:8888/newlive/live/hls/33/live.m3u8
+湖北卫视,http://222.223.119.21:8888/newlive/live/hls/34/live.m3u8
+吉林卫视,http://222.223.119.21:8888/newlive/live/hls/35/live.m3u8
+甘肃卫视,http://222.223.119.21:8888/newlive/live/hls/36/live.m3u8
+西藏卫视,http://222.223.119.21:8888/newlive/live/hls/37/live.m3u8
+新疆卫视,http://222.223.119.21:8888/newlive/live/hls/38/live.m3u8
+青海卫视,http://222.223.119.21:8888/newlive/live/hls/39/live.m3u8
+宁夏卫视,http://222.223.119.21:8888/newlive/live/hls/40/live.m3u8
+陕西卫视,http://222.223.119.21:8888/newlive/live/hls/41/live.m3u8
+东南卫视,http://222.223.119.21:8888/newlive/live/hls/42/live.m3u8
+天津卫视,http://222.223.119.21:8888/newlive/live/hls/43/live.m3u8
+辽宁卫视,http://222.223.119.21:8888/newlive/live/hls/44/live.m3u8
+黑龙江卫视,http://222.223.119.21:8888/newlive/live/hls/45/live.m3u8
+江西卫视,http://222.223.119.21:8888/newlive/live/hls/46/live.m3u8
+山西卫视,http://222.223.119.21:8888/newlive/live/hls/47/live.m3u8
+河北卫视,http://222.223.119.21:8888/newlive/live/hls/48/live.m3u8
+卡酷少儿,http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
+金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
 
 
 
