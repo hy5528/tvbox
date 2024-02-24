@@ -69,7 +69,8 @@ CCTV-4K,http://qhbuv52.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/
 
 
 卫视,#genre#
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
+  
+北京卫视,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
 北京新闻频道,https://live.funhillrm.com/5/sd/live.m3u8
 四川卫视,http://182.150.31.58:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://182.150.31.58:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
