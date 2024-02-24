@@ -5,7 +5,7 @@ CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
 CCTV4,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8 
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8 
-CCTV5+,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV5+,http://60.211.167.226:8888/newlive/live/hls/7/live.m3u8
 CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV6,http://api.52tb.xyz/info?id=8&token=20230314vyrzsx
 CCTV7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8 
