@@ -17,8 +17,8 @@ CCTV12,http://60.211.167.226:8888/newlive/live/hls/14/live.m3u8
 CCTV13,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
 CCTV14,http://60.211.167.226:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://60.211.167.226:8888/newlive/live/hls/17/live.m3u8
-CCTV16,http://api2.52tb.xyz/info?id=18&token=20230314vyrzsx
-CCTV17,http://api2.52tb.xyz/info?id=19&token=20230314vyrzsx
+CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8 
+CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8 
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 
 
