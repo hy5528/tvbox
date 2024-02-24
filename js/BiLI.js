@@ -21,6 +21,10 @@ CCTV15,http://60.211.167.226:8888/newlive/live/hls/17/live.m3u8
 CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8 
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8 
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+CHC 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
 
 CCTV1,http://api2.52tb.xyz/info?id=2&token=20230314vyrzsx
