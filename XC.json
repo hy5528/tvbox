@@ -30,6 +30,12 @@
     },  
     {"key":"yingue","name":"📻爱听音乐网","type":"4","api":"https://catbox.n13.club/yyy.php"},
     {"key":"好听轻音乐","name":"🎸好听轻音乐","type":"3","api":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/好听轻音乐.js"},
+     {"key":"纯音乐","name":"🎸纯音乐","type":"3","api":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/纯音乐.js"},
+  {"key":"爱听音乐","name":"🎸爱听音乐","type":"3","api":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/爱听音乐网.js"},
+  
+
+
+		
   {
             "key": "酷奇MV",
             "name": "🎸酷奇MV",
