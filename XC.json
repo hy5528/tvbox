@@ -35,7 +35,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "http://www.lyyytv.cn/yt/bili/ych.json"
+            "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
         },		
     {
             "key": "酷奇MV",
