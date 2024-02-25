@@ -27,7 +27,16 @@
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
-    },  	
+    },  
+    {
+            "key": "演唱会",
+            "name": "音乐鉴赏",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "http://www.lyyytv.cn/yt/bili/ych.json"
+        },		
     {
             "key": "酷奇MV",
             "name": "🎸酷奇MV",
