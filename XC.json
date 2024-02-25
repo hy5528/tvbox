@@ -28,7 +28,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
     },  
-{"key":"csp_xpath_kuqimv","name":"酷奇","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://530.my3v.work/tvbox/微风娱乐/lib/kuqimv.json"},
+{"key": "js_酷狗MV","name": "酷狗","type": 3,"api": "http://530.my3v.work/tvbox/微风娱乐/lib/apiv87drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://530.my3v.work/tvbox/微风娱乐/lib/kugouMV.js"},
 		
   {
             "key": "酷奇MV",
