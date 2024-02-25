@@ -28,8 +28,7 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
     },  
-{"key": "js_酷狗MV","name": "酷狗","type": 3,"api": "http://530.my3v.work/tvbox/微风娱乐/lib/apiv87drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://530.my3v.work/tvbox/微风娱乐/lib/kugouMV.js"},
-		
+	{"key": "py_Yinl2","name": "音悦合集","type": 3,"api": "py_Yinl2","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://530.my3v.work/tvbox/微风娱乐/lib/yinyue.py"}	
   {
             "key": "酷奇MV",
             "name": "🎸酷奇MV",
