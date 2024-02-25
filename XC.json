@@ -28,18 +28,6 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/A8音乐.js"
     },  
-  
-    {
-     "name": "私立直播",
-     "type": 0,
-     "playerType": 1,
-     "boot": false,
-     "timeout": 5,
-     "url": "https://gh.con.sh/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
-    },
-  
-
-
 		
   {
             "key": "酷奇MV",
