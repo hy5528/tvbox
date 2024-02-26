@@ -9,8 +9,8 @@ CCTV6,http://60.211.167.226:8888/newlive/live/hls/8/live.m3u8
 CCTV7,http://60.211.167.226:8888/newlive/live/hls/9/live.m3u8
 CCTV8,http://60.211.167.226:8888/newlive/live/hls/10/live.m3u8
 CCTV9,http://60.211.167.226:8888/newlive/live/hls/11/live.m3u8
-CCTV10,http://mtw.so/6w27Ec
-CCTV11,http://mtw.so/5xSr2D
+CCTV10,http://60.211.167.226:8888/newlive/live/hls/12/live.m3u8
+CCTV11,http://60.211.167.226:8888/newlive/live/hls/13/live.m3u8
 CCTV12,http://mtw.so/5FoDRc
 CCTV13,http://mtw.so/5G9gmF
 CCTV14,http://mtw.so/5NFtrm
