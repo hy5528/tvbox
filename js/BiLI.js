@@ -109,7 +109,7 @@ CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 东方卫视,http://182.150.31.58:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳卫视,http://182.150.31.58:9901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视,http://182.150.31.58:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-
+广东卫视,http://182.107.188.104:8888/newlive/live/hls/19/live.m3u8
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
