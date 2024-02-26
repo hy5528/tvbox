@@ -1,8 +1,8 @@
 央视,#genre#
 CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
-CCTV2,http://mtw.so/5xSr0R
-CCTV3,http://mtw.so/5FoE5y
-CCTV4,http://mtw.so/5G9gkT
+CCTV2,http://60.211.167.226:8888/newlive/live/hls/3/live.m3u8
+CCTV3,http://60.211.167.226:8888/newlive/live/hls/4/live.m3u8
+CCTV4,http://60.211.167.226:8888/newlive/live/hls/5/live.m3u8
 CCTV5,http://mtw.so/5NFtpA
 CCTV5+,http://mtw.so/5VbDSZ
 CCTV6,http://mtw.so/62HqWM
