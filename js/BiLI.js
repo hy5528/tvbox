@@ -31,26 +31,24 @@ CHC 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
   
-CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
-CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
-CCTV2,http://60.211.167.226:8888/newlive/live/hls/3/live.m3u8
-CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
-CCTV4,http://60.211.167.226:8888/newlive/live/hls/5/live.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8 
-CCTV5+,http://60.211.167.226:8888/newlive/live/hls/7/live.m3u8
-CCTV6,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
-CCTV6,http://api.52tb.xyz/info?id=8&token=20230314vyrzsx
-CCTV7,http://60.211.167.226:8888/newlive/live/hls/9/live.m3u8
-CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8 
-CCTV9,http://60.211.167.226:8888/newlive/live/hls/11/live.m3u8
-CCTV10,http://60.211.167.226:8888/newlive/live/hls/12/live.m3u8
-CCTV11,http://60.211.167.226:8888/newlive/live/hls/13/live.m3u8 
-CCTV12,http://60.211.167.226:8888/newlive/live/hls/14/live.m3u8  
-CCTV13,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
-CCTV14,http://60.211.167.226:8888/newlive/live/hls/16/live.m3u8
-CCTV15,http://60.211.167.226:8888/newlive/live/hls/17/live.m3u8
-CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8 
-CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8 
+CCTV1 综合,http://36.129.204.120:880/CCD303.m3u8
+CCTV2 财经,http://36.129.204.120:880/DX2.m3u8
+CCTV3 综艺,http://36.129.204.120:880/DX101.m3u8
+CCTV4 中文国际,http://36.129.204.120:880/DX4.m3u8
+CCTV5 体育,http://36.129.204.120:880/DX99.m3u8
+CCTV5+ 体育赛事,http://36.129.204.120:880/DX5.m3u8
+CCTV6 电影,http://36.129.204.120:880/DX98.m3u8
+CCTV7 国防军事,http://36.129.204.120:880/DX7.m3u8
+CCTV8 电视剧,http://36.129.204.120:880/DX8.m3u8
+CCTV9 记录,http://36.129.204.120:880/DX9.m3u8
+CCTV10 科教,http://36.129.204.120:880/DX11.m3u8
+CCTV11 戏曲,http://36.129.204.120:880/DXX11.m3u8
+CCTV12 社会与法,http://36.129.204.120:880/DX12.m3u8
+CCTV13 新闻,http://36.129.204.120:880/DX92.m3u8
+CCTV14 少儿,http://36.129.204.120:880/DXCCTV14.m3u8
+CCTV15 音乐,http://36.129.204.120:880/WGCCTV15.m3u8
+CCTV16 奥林匹克,http://36.129.204.120:880/WGCCTV16.m3u8
+CCTV17 农业农村,http://36.129.204.120:880/CCN16.m3u8
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 CHC 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
