@@ -72,6 +72,21 @@ CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 
+CCTV1 综合,http://www.furymax.top:85/rtp/239.254.96.96:8550
+CCTV2 财经,http://www.furymax.top:85/rtp/239.69.1.102:10250
+CCTV3 综艺,http://www.furymax.top:85/rtp/239.69.1.122:10370
+CCTV4 中文国际,http://www.furymax.top:85/rtp/239.69.1.138:10466
+CCTV6 电影,http://www.furymax.top:85/rtp/239.69.1.124:10382
+CCTV7 国防军事,http://www.furymax.top:85/rtp/239.69.1.103:10256
+CCTV8 电视剧,http://www.furymax.top:85/rtp/239.69.1.125:10388
+CCTV9 记录,http://www.furymax.top:85/rtp/239.69.1.104:10262
+CCTV10 科教,http://www.furymax.top:85/rtp/239.69.1.105:10268
+CCTV11 戏曲,http://www.furymax.top:85/rtp/239.69.1.154:10560
+CCTV12 社会与法,http://www.furymax.top:85/rtp/239.69.1.106:10274
+CCTV13 新闻,http://www.furymax.top:85/rtp/239.254.96.161:9040
+CCTV15 音乐,http://www.furymax.top:85/rtp/239.69.1.155:10566
+CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
+
 
 
 
