@@ -58,25 +58,22 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 
 
-CCTV1,http://api2.52tb.xyz/info?id=2&token=20230314vyrzsx
-CCTV2,http://api2.52tb.xyz/info?id=3&token=20230314vyrzsx
-CCTV3,http://api2.52tb.xyz/info?id=4&token=20230314vyrzsx
-CCTV4,http://api2.52tb.xyz/info?id=5&token=20230314vyrzsx
-CCTV5,http://api2.52tb.xyz/info?id=6&token=20230314vyrzsx
-CCTV5+,http://api2.52tb.xyz/info?id=7&token=20230314vyrzsx 
-CCTV6,http://api2.52tb.xyz/info?id=8&token=20230314vyrzsx
-CCTV7,http://api2.52tb.xyz/info?id=9&token=20230314vyrzsx
-CCTV8,http://api2.52tb.xyz/info?id=10&token=20230314vyrzsx
-CCTV9,http://api2.52tb.xyz/info?id=11&token=20230314vyrzsx
-CCTV10,http://api2.52tb.xyz/info?id=12&token=20230314vyrzsx
-CCTV11,http://api2.52tb.xyz/info?id=13&token=20230314vyrzsx
-CCTV12,http://api2.52tb.xyz/info?id=14&token=20230314vyrzsx
-CCTV13,http://api2.52tb.xyz/info?id=15&token=20230314vyrzsx
-CCTV14,http://api2.52tb.xyz/info?id=16&token=20230314vyrzsx
-CCTV15,http://api2.52tb.xyz/info?id=17&token=20230314vyrzsx
-CCTV16,http://api2.52tb.xyz/info?id=18&token=20230314vyrzsx
-CCTV17,http://api2.52tb.xyz/info?id=19&token=20230314vyrzsx
+CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
+CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
+CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
+CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
+CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
+CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+
 
 
 
