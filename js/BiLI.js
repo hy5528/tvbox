@@ -25,7 +25,11 @@ CGTN西班牙语,http://mtw.so/5G9gmP
 CGTN纪录国际,http://mtw.so/5NFtrw
 CCTV-4K,http://mtw.so/5VbDUV
 CCTV-8K,http://mtw.so/62HqYI
-
+CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+CHC 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
   
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
