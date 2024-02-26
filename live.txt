@@ -15,8 +15,8 @@ CCTV12,http://60.211.167.226:8888/newlive/live/hls/14/live.m3u8
 CCTV13,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
 CCTV14,http://60.211.167.226:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://60.211.167.226:8888/newlive/live/hls/17/live.m3u8
-CCTV16,http://mtw.so/62HqYy
-CCTV17,http://mtw.so/6adE3f
+CCTV16,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
+CCTV17,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
 CGTN英语,http://mtw.so/6hJR7W
 CGTN法语,http://mtw.so/6pbS3B
 CGTN俄语,http://mtw.so/5xSr2N
