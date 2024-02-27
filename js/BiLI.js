@@ -26,7 +26,6 @@ CGTN西班牙语,http://mtw.so/5G9gmP
 CGTN纪录国际,http://mtw.so/5NFtrw
 CCTV-4K,http://mtw.so/5VbDUV
 CCTV-8K,http://mtw.so/62HqYI
-风云音乐,http://www.furymax.top:85/rtp/239.69.1.90:10180
 CHC家庭影院,http://60.217.221.188:4000/rtp/239.253.242.152:8000
 CHC动作电影,http://60.217.221.188:4000/rtp/239.253.242.153:8000
 CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
