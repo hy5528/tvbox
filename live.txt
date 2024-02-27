@@ -95,7 +95,23 @@ CCTV15,http://117.190.144.101:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 CCTV16,http://117.190.144.101:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$鍔ㄧЩ鐤嗘柊
 CCTV17,http://117.190.144.101:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$鍔ㄧЩ鐤嗘柊
 
-
+CCTV1,http://221.7.175.154:8445/tsfile/live/1000_1.m3u8
+CCTV2,http://221.7.175.154:8445/tsfile/live/1001_1.m3u8
+CCTV3,http://221.7.175.154:8445/tsfile/live/1002_1.m3u8
+CCTV4,http://221.7.175.154:8445/tsfile/live/1003_1.m3u8
+CCTV5,http://221.7.175.154:8445/tsfile/live/0113_1.m3u8
+CCTV5+,http://221.7.175.154:8445/tsfile/live/1018_1.m3u8
+CCTV6,http://221.7.175.154:8445/tsfile/live/1004_1.m3u8
+CCTV7,http://221.7.175.154:8445/tsfile/live/1005_1.m3u8
+CCTV8,http://221.7.175.154:8445/tsfile/live/1006_1.m3u8
+CCTV9,http://221.7.175.154:8445/tsfile/live/1007_1.m3u8
+CCTV10,http://221.7.175.154:8445/tsfile/live/1008_1.m3u8
+CCTV11,http://60.211.167.226:8888/newlive/live/hls/13/live.m3u8
+CCTV12,http://221.7.175.154:8445/tsfile/live/1010_1.m3u8
+CCTV13,http://221.7.175.154:8445/tsfile/live/1011_1.m3u8
+CCTV14,http://221.7.175.154:8445/tsfile/live/1012_1.m3u8
+CCTV15,http://60.211.167.226:8888/newlive/live/hls/17/live.m3u8
+CCTV17,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8
 
 CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
 CCTV2,http://60.211.167.226:8888/newlive/live/hls/3/live.m3u8
