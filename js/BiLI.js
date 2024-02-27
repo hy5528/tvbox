@@ -25,11 +25,22 @@ CGTN西班牙语,http://mtw.so/5G9gmP
 CGTN纪录国际,http://mtw.so/5NFtrw
 CCTV-4K,http://mtw.so/5VbDUV
 CCTV-8K,http://mtw.so/62HqYI
-CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-CHC 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
+星影,http://home4.kmo.ink:8888/rtp/239.3.1.94:4120
+动作影院,http://home4.kmo.ink:8888/rtp/239.3.1.92:4120
+光影,http://home4.kmo.ink:8888/rtp/239.3.1.84:4120
+喜剧影院,http://home4.kmo.ink:8888/rtp/239.3.1.91:4120
+家庭影院,http://home4.kmo.ink:88882/rtp/239.3.1.93:4120
+经典电影,http://home4.kmo.ink:8888/rtp/239.3.1.195:9024
+淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
+淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
+淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
+萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
+快乐垂钓,http://home4.kmo.ink:8888/rtp/239.3.1.164:8001
+风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
+
+
+
   
 CCTV1 综合,http://36.129.204.120:880/CCD303.m3u8
 CCTV2 财经,http://36.129.204.120:880/DX2.m3u8
