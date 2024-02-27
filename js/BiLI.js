@@ -273,10 +273,7 @@ CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 甘肃卫视,http://221.213.43.82:8888/newlive/live/hls/36/live.m3u8
 
-1905电影,#genre#
-CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
-1905国外电影,http://192.168.2.1:9212/diyp/1905.php?id=1905a
-1905国内电影,http://192.168.2.1:9212/diyp/1905.php?id=1905b
+
 
 央视组播,#genre#
 CCTV1,http://192.168.2.1:4022/udp/239.81.0.102:4056
@@ -2069,7 +2066,33 @@ CCTV14,http://192.168.2.1:9212/diyp/toup.php?id=cctv14
 CCTV15,http://192.168.2.1:9212/diyp/toup.php?id=cctv15
 CCTV16,http://192.168.2.1:9212/diyp/toup.php?id=cctv16
 CCTV17,http://192.168.2.1:9212/diyp/toup.php?id=cctv17
+
+CCTV1,http://192.168.2.108/diyp/toup.php?id=cctv1
+CCTV2,http://192.168.2.108/diyp/toup.php?id=cctv2
+CCTV3,http://192.168.2.108/diyp/toup.php?id=cctv3
+CCTV4,http://192.168.2.108/diyp/toup.php?id=cctv4
+CCTV5,http://192.168.2.108/diyp/toup.php?id=cctv5
+CCTV5+,http://192.168.2.108/diyp/toup.php?id=cctv5p
+CCTV6,http://192.168.2.108/diyp/toup.php?id=cctv6
+CCTV7,http://192.168.2.108/diyp/toup.php?id=cctv7
+CCTV8,http://192.168.2.108/diyp/toup.php?id=cctv8
+CCTV9,http://192.168.2.108/diyp/toup.php?id=cctv9
+CCTV10,http://192.168.2.108/diyp/toup.php?id=cctv10
+CCTV11,http://192.168.2.108/diyp/toup.php?id=cctv11
+CCTV12,http://192.168.2.108/diyp/toup.php?id=cctv12
+CCTV13,http://192.168.2.1:9212/diyp/toup.php?id=cctv13
+CCTV14,http://192.168.2.108/diyp/toup.php?id=cctv14
+CCTV15,http://192.168.2.108/diyp/toup.php?id=cctv15
+CCTV16,http://192.168.2.108/diyp/toup.php?id=cctv16
+CCTV17,http://192.168.2.108/diyp/toup.php?id=cctv17
   
+1905电影,#genre#
+CCTV6电影频道,http://192.168.2.1:9212/diyp/1905.php?id=cctv6
+1905国外电影,http://192.168.2.1:9212/diyp/1905.php?id=1905a
+1905国内电影,http://192.168.2.1:9212/diyp/1905.php?id=1905b
+CCTV6电影频道,http://192.168.2.108/diyp/1905.php?id=cctv6
+1905国外电影,http://192.168.2.108/diyp/1905.php?id=1905a
+1905国内电影,http://192.168.2.108/diyp/1905.php?id=1905b
 
 其它PHP,#genre#
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
