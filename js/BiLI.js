@@ -27,18 +27,10 @@ CGTN纪录国际,http://mtw.so/5NFtrw
 CCTV-4K,http://mtw.so/5VbDUV
 CCTV-8K,http://mtw.so/62HqYI
 风云音乐,http://www.furymax.top:85/rtp/239.69.1.90:10180
-淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
-星影,http://home4.kmo.ink:8888/rtp/239.3.1.94:4120
-动作影院,http://home4.kmo.ink:8888/rtp/239.3.1.92:4120
-光影,http://home4.kmo.ink:8888/rtp/239.3.1.84:4120
-喜剧影院,http://home4.kmo.ink:8888/rtp/239.3.1.91:4120
-家庭影院,http://home4.kmo.ink:88882/rtp/239.3.1.93:4120
-经典电影,http://home4.kmo.ink:8888/rtp/239.3.1.195:9024
-淘剧场,http://home4.kmo.ink:8888/rtp/239.3.1.95:8001
-淘娱乐,http://home4.kmo.ink:8888/rtp/239.3.1.100:8001
-淘Baby,http://home4.kmo.ink:8888/rtp/239.3.1.238:8001
-萌宠TV,http://home4.kmo.ink:8888/rtp/239.3.1.102:8001
-快乐垂钓,http://home4.kmo.ink:8888/rtp/239.3.1.164:8001
+CHC家庭影院,http://60.217.221.188:4000/rtp/239.253.242.152:8000
+CHC动作电影,http://60.217.221.188:4000/rtp/239.253.242.153:8000
+CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
+快乐垂钓,http://119.181.96.196:10000/udp/239.253.244.144:8000
 风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
 
 
