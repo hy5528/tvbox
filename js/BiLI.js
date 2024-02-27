@@ -26,6 +26,7 @@ CGTN西班牙语,http://mtw.so/5G9gmP
 CGTN纪录国际,http://mtw.so/5NFtrw
 CCTV-4K,http://mtw.so/5VbDUV
 CCTV-8K,http://mtw.so/62HqYI
+风云音乐,http://www.furymax.top:85/rtp/239.69.1.90:10180
 淘电影,http://home4.kmo.ink:8888/rtp/239.3.1.250:8001
 星影,http://home4.kmo.ink:8888/rtp/239.3.1.94:4120
 动作影院,http://home4.kmo.ink:8888/rtp/239.3.1.92:4120
@@ -2048,6 +2049,25 @@ oh我的鬼神大人-韩剧,https://live.metshop.top/yy/1354936160
 赤焰锦衣卫 第20集,https://vip.lz-cdn14.com/20230426/22408_e50e0fc7/index.m3u8
 
 央视PHP,#genre#
+CCTV1,http://locmjj.cloudns.org/v/toup.php?id=cctv1
+CCTV2,http://locmjj.cloudns.org/v/toup.php?id=cctv2
+CCTV3,http://locmjj.cloudns.org/v/toup.php?id=cctv3
+CCTV4,http://locmjj.cloudns.org/v/toup.php?id=cctv4
+CCTV5,http://locmjj.cloudns.org/v/toup.php?id=cctv5
+CCTV6,http://locmjj.cloudns.org/v/toup.php?id=cctv6
+CCTV7,http://locmjj.cloudns.org/v/toup.php?id=cctv7
+CCTV8,http://locmjj.cloudns.org/v/toup.php?id=cctv8
+CCTV9,http://locmjj.cloudns.org/v/toup.php?id=cctv9
+CCTV10,http://locmjj.cloudns.org/v/toup.php?id=cctv10
+CCTV11,http://locmjj.cloudns.org/v/toup.php?id=cctv11
+CCTV12,http://locmjj.cloudns.org/v/toup.php?id=cctv12
+CCTV13,http://locmjj.cloudns.org/v/toup.php?id=cctv13
+CCTV14,http://locmjj.cloudns.org/v/toup.php?id=cctv14
+CCTV15,http://locmjj.cloudns.org/v/toup.php?id=cctv15
+CCTV16,http://locmjj.cloudns.org/v/toup.php?id=cctv16
+CCTV17,http://locmjj.cloudns.org/v/toup.php?id=cctv17
+
+  
 CCTV1,http://192.168.2.1:9212/diyp/toup.php?id=cctv1
 CCTV2,http://192.168.2.1:9212/diyp/toup.php?id=cctv2
 CCTV3,http://192.168.2.1:9212/diyp/toup.php?id=cctv3
