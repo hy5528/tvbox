@@ -2046,6 +2046,7 @@ CCTV2,http://locmjj.cloudns.org/v/toup.php?id=cctv2
 CCTV3,http://locmjj.cloudns.org/v/toup.php?id=cctv3
 CCTV4,http://locmjj.cloudns.org/v/toup.php?id=cctv4
 CCTV5,http://locmjj.cloudns.org/v/toup.php?id=cctv5
+CCTV5+,http://locmjj.cloudns.org/v/toup.php?id=cctv5p
 CCTV6,http://locmjj.cloudns.org/v/toup.php?id=cctv6
 CCTV7,http://locmjj.cloudns.org/v/toup.php?id=cctv7
 CCTV8,http://locmjj.cloudns.org/v/toup.php?id=cctv8
