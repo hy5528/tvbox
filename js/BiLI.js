@@ -1,5 +1,31 @@
 央视,#genre#
+CCTV1,http://locmjj.cloudns.org/v/toup.php?id=cctv1
+CCTV2,http://locmjj.cloudns.org/v/toup.php?id=cctv2
+CCTV3,http://locmjj.cloudns.org/v/toup.php?id=cctv3
+CCTV4,http://locmjj.cloudns.org/v/toup.php?id=cctv4
+CCTV5,http://locmjj.cloudns.org/v/toup.php?id=cctv5
+CCTV5+,http://locmjj.cloudns.org/v/toup.php?id=cctv5p
+CCTV6,http://locmjj.cloudns.org/v/toup.php?id=cctv6
+CCTV7,http://locmjj.cloudns.org/v/toup.php?id=cctv7
+CCTV8,http://locmjj.cloudns.org/v/toup.php?id=cctv8
+CCTV9,http://locmjj.cloudns.org/v/toup.php?id=cctv9
+CCTV10,http://locmjj.cloudns.org/v/toup.php?id=cctv10
+CCTV11,http://locmjj.cloudns.org/v/toup.php?id=cctv11
+CCTV12,http://locmjj.cloudns.org/v/toup.php?id=cctv12
+CCTV13,http://locmjj.cloudns.org/v/toup.php?id=cctv13
+CCTV14,http://locmjj.cloudns.org/v/toup.php?id=cctv14
+CCTV15,http://locmjj.cloudns.org/v/toup.php?id=cctv15
+CCTV16,http://locmjj.cloudns.org/v/toup.php?id=cctv16
+CCTV17,http://locmjj.cloudns.org/v/toup.php?id=cctv17
+CHC家庭影院,http://60.217.221.188:4000/rtp/239.253.242.152:8000
+CHC动作电影,http://60.217.221.188:4000/rtp/239.253.242.153:8000
+CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
+快乐垂钓,http://gzly.hkychina.com:6002/udp/239.252.220.177:5140
+四海钓鱼,http://110.253.142.191:8888/rtp/239.253.93.243:6421
+来钓鱼吧专区,http://125.71.250.138:8899/rtp/239.93.42.8:5140
+风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
 
+  
 CCTV1,http://mtw.so/6w27E2
 CCTV2,http://mtw.so/5xSr0R
 CCTV3,http://mtw.so/5FoE5y
@@ -26,13 +52,7 @@ CGTN西班牙语,http://mtw.so/5G9gmP
 CGTN纪录国际,http://mtw.so/5NFtrw
 CCTV-4K,http://mtw.so/5VbDUV
 CCTV-8K,http://mtw.so/62HqYI
-CHC家庭影院,http://60.217.221.188:4000/rtp/239.253.242.152:8000
-CHC动作电影,http://60.217.221.188:4000/rtp/239.253.242.153:8000
-CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
-快乐垂钓,http://gzly.hkychina.com:6002/udp/239.252.220.177:5140
-四海钓鱼,http://110.253.142.191:8888/rtp/239.253.93.243:6421
-来钓鱼吧专区,http://125.71.250.138:8899/rtp/239.93.42.8:5140
-风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
+
 
 
 
