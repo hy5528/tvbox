@@ -81,7 +81,24 @@ CCTV10,http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&au
 CCTV12,http://221.226.4.10:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://221.226.4.10:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
+CCTV1,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv1.m3u8
+CCTV2,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv2.m3u8
+CCTV3,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv3.m3u8
+CCTV4,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
+CCTV5,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
+CCTV5+,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
+CCTV6,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv6.m3u8
+CCTV7,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
+CCTV8,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
+CCTV9,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
+CCTV10,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
+CCTV11,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8
+CCTV12,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8
+CCTV13,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv13.m3u8
+CCTV14,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv14.m3u8
+CCTV15,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv15.m3u8
+CCTV16,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8
+CCTV17,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8
 
   
 CCTV1 综合,http://36.129.204.120:880/CCD303.m3u8
