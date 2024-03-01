@@ -141,7 +141,7 @@ CCTV15 音乐,http://www.furymax.top:85/rtp/239.69.1.155:10566
 CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 
 卫视,#genre#
-  
+北京卫视,http://221.226.4.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 
 北京卫视,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
 北京卫视,http://182.107.188.104:8888/newlive/live/hls/19/live.m3u8
 北京新闻频道,https://live.funhillrm.com/5/sd/live.m3u8
