@@ -24,6 +24,20 @@ CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
 四海钓鱼,http://110.253.142.191:8888/rtp/239.253.93.243:6421
 来钓鱼吧专区,http://125.71.250.138:8899/rtp/239.93.42.8:5140
 风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
+CCTV兵器科技,http://cdn.jdshipin.com:8880/ysp.php?id=bqkj
+CCTV第一剧场,http://cdn.jdshipin.com:8880/ysp.php?id=dyjc
+CCTV怀旧剧场,http://cdn.jdshipin.com:8880/ysp.php?id=hjjc
+CCTV风云剧场,http://cdn.jdshipin.com:8880/ysp.php?id=fyjc
+CCTV风云音乐,http://cdn.jdshipin.com:8880/ysp.php?id=fyyy
+CCTV风云足球,http://cdn.jdshipin.com:8880/ysp.php?id=fyzq
+CCTV电视指南,http://cdn.jdshipin.com:8880/ysp.php?id=dszn
+CCTV女性时尚,http://cdn.jdshipin.com:8880/ysp.php?id=nxss
+CCTV央视文化,http://cdn.jdshipin.com:8880/ysp.php?id=whjp
+CCTV世界地理,http://cdn.jdshipin.com:8880/ysp.php?id=sjdl
+CCTV央视台球,http://cdn.jdshipin.com:8880/ysp.php?id=ystq
+CCTV卫生健康,http://cdn.jdshipin.com:8880/ysp.php?id=wsjk
+CCTV高尔夫网球,http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
+
 
   
 CCTV1,http://mtw.so/6w27E2
