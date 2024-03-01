@@ -37,6 +37,9 @@ CCTV世界地理,http://cdn.jdshipin.com:8880/ysp.php?id=sjdl
 CCTV央视台球,http://cdn.jdshipin.com:8880/ysp.php?id=ystq
 CCTV卫生健康,http://cdn.jdshipin.com:8880/ysp.php?id=wsjk
 CCTV高尔夫网球,http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
+凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.0.118:2191
+凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192
+星空音乐,http://wouu.net:9977/udp/239.93.0.157:2194
 
 
   
