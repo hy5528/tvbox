@@ -19,6 +19,10 @@ CCTV15,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv15
 CCTV16,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv16
 CCTV17,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv17
 
+重温经典，http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+
+
+
 CCTV1,http://cfss.cc/ds/ystp.php?id=cctv1&Cf.m3u8
 CCTV2,http://cfss.cc/ds/ystp.php?id=cctv2&Cf.m3u8
 CCTV3,http://cfss.cc/ds/ystp.php?id=cctv3&Cf.m3u8
