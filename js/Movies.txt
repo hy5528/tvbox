@@ -1,5 +1,4 @@
 明星轮播,#genre#
-王者荣耀KPL,http://cfss.cc/cdn/hy/660002.flv
 成龙,http://cfss.cc/cdn/hy/11342386.flv
 洪金宝,http://cfss.cc/cdn/hy/11279251.flv
 李连杰,http://cfss.cc/cdn/hy/11342390.flv
