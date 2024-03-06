@@ -17,6 +17,9 @@ CCTV14,http://locmjj.cloudns.org/v/toup.php?id=cctv14
 CCTV15,http://locmjj.cloudns.org/v/toup.php?id=cctv15
 CCTV16,http://locmjj.cloudns.org/v/toup.php?id=cctv16
 CCTV17,http://locmjj.cloudns.org/v/toup.php?id=cctv17
+CHC高清电影,http://182.107.188.104:8888/newlive/live/hls/55/live.m3u8
+CHC家庭影院,http://182.107.188.104:8888/newlive/live/hls/56/live.m3u8
+CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 CHC家庭影院,http://60.217.221.188:4000/rtp/239.253.242.152:8000
 CHC动作电影,http://60.217.221.188:4000/rtp/239.253.242.153:8000
 CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
@@ -24,27 +27,14 @@ CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
 四海钓鱼,http://110.253.142.191:8888/rtp/239.253.93.243:6421
 来钓鱼吧专区,http://125.71.250.138:8899/rtp/239.93.42.8:5140
 风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
-CCTV兵器科技,http://cdn.jdshipin.com:8880/ysp.php?id=bqkj
-CCTV第一剧场,http://cdn.jdshipin.com:8880/ysp.php?id=dyjc
-CCTV怀旧剧场,http://cdn.jdshipin.com:8880/ysp.php?id=hjjc
-CCTV风云剧场,http://cdn.jdshipin.com:8880/ysp.php?id=fyjc
-CCTV风云音乐,http://cdn.jdshipin.com:8880/ysp.php?id=fyyy
-CCTV风云足球,http://cdn.jdshipin.com:8880/ysp.php?id=fyzq
-CCTV电视指南,http://cdn.jdshipin.com:8880/ysp.php?id=dszn
-CCTV女性时尚,http://cdn.jdshipin.com:8880/ysp.php?id=nxss
-CCTV央视文化,http://cdn.jdshipin.com:8880/ysp.php?id=whjp
-CCTV世界地理,http://cdn.jdshipin.com:8880/ysp.php?id=sjdl
-CCTV央视台球,http://cdn.jdshipin.com:8880/ysp.php?id=ystq
-CCTV卫生健康,http://cdn.jdshipin.com:8880/ysp.php?id=wsjk
-CCTV高尔夫网球,http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
-凤凰资讯,http://nas.jumping.wang:5555/rtp/239.93.0.118:2191
-凤凰中文,http://nas.jumping.wang:5555/rtp/239.93.0.162:2192
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 星空音乐,http://wouu.net:9977/udp/239.93.0.157:2194
+
 重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 华文一套,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=865677643969-0-0-056fcfda749435d4484c1bf76f76062a				
 华文二套,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 华文六套,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
-澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -52,44 +42,6 @@ CCTV高尔夫网球,http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
-  
-CCTV1,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv1
-CCTV2,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv2
-CCTV3,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv3
-CCTV4,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv4
-CCTV5,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv5
-CCTV5+,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv5p
-CCTV6,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv6
-CCTV8,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv8
-CCTV9,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv9
-CCTV10,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv10
-CCTV11,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv11
-CCTV12,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv12
-CCTV13,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv13
-CCTV14,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv14
-CCTV15,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv15
-CCTV16,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv16
-CCTV17,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv17
-CCTV8K,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cctv8k$假8K
-CCTV兵器科技,http://tvbox6.com/tv/dl/dl668/ysp.php?id=bqkj
-CCTV第一剧场,http://tvbox6.com/tv/dl/dl668/ysp.php?id=dyjc
-CCTV怀旧剧场,http://tvbox6.com/tv/dl/dl668/ysp.php?id=hjjc
-CCTV风云剧场,http://tvbox6.com/tv/dl/dl668/ysp.php?id=fyjc
-CCTV风云音乐,http://tvbox6.com/tv/dl/dl668/ysp.php?id=fyyy
-CCTV风云足球,http://tvbox6.com/tv/dl/dl668/ysp.php?id=fyzq
-CCTV电视指南,http://tvbox6.com/tv/dl/dl668/ysp.php?id=dszn
-CCTV女性时尚,http://tvbox6.com/tv/dl/dl668/ysp.php?id=nxss
-CCTV央视文化精品,http://tvbox6.com/tv/dl/dl668/ysp.php?id=whjp
-CCTV世界地理,http://tvbox6.com/tv/dl/dl668/ysp.php?id=sjdl
-CCTV高尔夫网球,http://tvbox6.com/tv/dl/dl668/ysp.php?id=gefwq
-CCTV央视台球,http://tvbox6.com/tv/dl/dl668/ysp.php?id=ystq
-CCTV卫生健康,http://tvbox6.com/tv/dl/dl668/ysp.php?id=wsjk
-CGTN,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cgtn
-CGTN纪录,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cgtnjl
-CGTN西班牙,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cgtne
-CGTN法语,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cgtnf
-CGTN阿拉伯语,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cgtna
-CGTN俄语,http://tvbox6.com/tv/dl/dl668/ysp.php?id=cgtnr
 
 CCTV1,http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://221.226.4.10:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -102,24 +54,7 @@ CCTV10,http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&au
 CCTV12,http://221.226.4.10:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://221.226.4.10:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV1,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv1.m3u8
-CCTV2,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv2.m3u8
-CCTV3,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv3.m3u8
-CCTV4,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv4.m3u8
-CCTV5,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5.m3u8
-CCTV5+,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv5p.m3u8
-CCTV6,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv6.m3u8
-CCTV7,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv7.m3u8
-CCTV8,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv8.m3u8
-CCTV9,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv9.m3u8
-CCTV10,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv10.m3u8
-CCTV11,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv11.m3u8
-CCTV12,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv12.m3u8
-CCTV13,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv13.m3u8
-CCTV14,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv14.m3u8
-CCTV15,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv15.m3u8
-CCTV16,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv16.m3u8
-CCTV17,http://36.156.208.131/liveali-tpgq.cctv.cn/live/cctv17.m3u8
+
 
   
 CCTV1 综合,http://36.129.204.120:880/CCD303.m3u8
@@ -142,9 +77,7 @@ CCTV16 奥林匹克,http://36.129.204.120:880/WGCCTV16.m3u8
 CCTV17 农业农村,http://36.129.204.120:880/CCN16.m3u8
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-CHC 电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+
 
 
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -193,10 +126,9 @@ CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
 湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
 湖南教育,http://php.jdshipin.com:8880/iptv.php?id=hnjy
-江苏卫视,http://182.150.31.58:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江卫视,http://182.150.31.58:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 
-浙江卫视,http://117.190.144.101:9901/tsfile/live/1038_1.m3u8
+浙江卫视,http://125.210.152.21:9121/live/hzgq-zjwsgq-h264.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -248,12 +180,12 @@ CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 
 广西卫视,http://182.150.31.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://182.150.31.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://api.52tb.xyz/info?id=47&token=20230314vyrzsx
-山西卫视,http://api.52tb.xyz/info?id=99&token=20230314vyrzsx
-内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
-海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
+陕西卫视,http://api.52tb.xyz/info?id=47&token=20230405tndmhg
+山西卫视,http://api.52tb.xyz/info?id=99&token=20230405tndmhg
+内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230405tndmhg
+海南卫视,http://api.52tb.xyz/info?id=38&token=20230405tndmhg
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
+内蒙古卫视,http://api.52tb.xyz/info?id=95&token=220230405tndmhg
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
@@ -261,28 +193,11 @@ CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 
 
 
-北京卫视,http://api2.52tb.xyz/info?id=25&token=20230314vyrzsx
-北京新闻,http://iptv.8t.cx:8180/udp/239.3.1.159:8000
-北京财经,http://iptv.8t.cx:8180/udp/239.3.1.116:8000
-北京生活,http://iptv.8t.cx:8180/udp/239.3.1.117:8000
-北京文艺,http://iptv.8t.cx:8180/udp/239.3.1.242:8000
-北京影视,http://iptv.8t.cx:8180/udp/239.3.1.158:8000
-北京国际,http://iptv.8t.cx:8180/udp/239.3.1.235:8000
-体育休闲,http://iptv.8t.cx:8180/udp/239.3.1.243:8000
-四川卫视,http://api2.52tb.xyz/info?id=39&token=20230314vyrzsx
-湖南卫视,http://api2.52tb.xyz/info?id=21&token=20230314vyrzsx
-湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
-湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
-湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
-湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
-湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
-湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
-湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
-湖南教育,http://php.jdshipin.com:8880/iptv.php?id=hnjy
-江苏卫视,http://api2.52tb.xyz/info?id=23&token=20230314vyrzsx
-南京生活,http://api2.52tb.xyz/info?id=468&token=20230314vyrzsx
-南京信息,http://api2.52tb.xyz/info?id=471&token=20230314vyrzsx
-浙江卫视,http://api2.52tb.xyz/info?id=22&token=20230314vyrzsx
+北京卫视,http://api2.52tb.xyz/info?id=25&token=20230405tndmhg
+江苏卫视,http://api2.52tb.xyz/info?id=23&token=20230405tndmhg
+南京生活,http://api2.52tb.xyz/info?id=468&token=20230405tndmhg
+南京信息,http://api2.52tb.xyz/info?id=471&token=20230405tndmhg
+浙江卫视,http://api2.52tb.xyz/info?id=22&token=20230405tndmhg
 浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -291,20 +206,20 @@ CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-东方卫视,http://api2.52tb.xyz/info?id=24&token=20230314vyrzsx
-深圳卫视,http://api2.52tb.xyz/info?id=28&token=20230314vyrzsx
-广东卫视,http://api2.52tb.xyz/info?id=27&token=20230314vyrzsx
-广东4K,http://api2.52tb.xyz/info?id=402&token=20230314vyrzsx
+东方卫视,http://api2.52tb.xyz/info?id=24&token=20230405tndmhg
+深圳卫视,http://api2.52tb.xyz/info?id=28&token=20230405tndmhg
+广东卫视,http://api2.52tb.xyz/info?id=27&token=20230405tndmhg
+广东4K,http://api2.52tb.xyz/info?id=402&token=20230405tndmhg
 广州综合,http://php.jdshipin.com:8880/iptv.php?id=gzzh
 广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
-广东影视,http://api2.52tb.xyz/info?id=406&token=20230314vyrzsx
-广东民生,http://api2.52tb.xyz/info?id=408&token=20230314vyrzsx
+广东影视,http://api2.52tb.xyz/info?id=406&token=20230405tndmhg
+广东民生,http://api2.52tb.xyz/info?id=408&token=20230405tndmhg
 广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
 大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
-大湾区卫视,http://api2.52tb.xyz/info?id=412&token=20230314vyrzsx
+大湾区卫视,http://api2.52tb.xyz/info?id=412&token=20230405tndmhg
 广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
 广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
-广东新闻,http://api2.52tb.xyz/info?id=404&token=20230314vyrzsx
+广东新闻,http://api2.52tb.xyz/info?id=404&token=20230405tndmhg
 广州综合,http://yima.eu.org/gz.php?id=zhonghe 
 广州新闻,http://yima.eu.org/gz.php?id=xinwen
 广州竞赛,http://yima.eu.org/gz.php?id=jingsai
@@ -312,9 +227,9 @@ CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州南国都市,http://yima.eu.org/gz.php?id=shenghuo
 广州法治,http://yima.eu.org/gz.php?id=fazhi
-天津卫视,http://api2.52tb.xyz/info?id=26&token=20230314vyrzsx
-山东卫视,http://api2.52tb.xyz/info?id=30&token=20230314vyrzsx
-江西卫视,http://api2.52tb.xyz/info?id=35&token=20230314vyrzsx
+天津卫视,http://api2.52tb.xyz/info?id=26&token=20230405tndmhg
+山东卫视,http://api2.52tb.xyz/info?id=30&token=20230405tndmhg
+江西卫视,http://api2.52tb.xyz/info?id=35&token=20230405tndmhg
 江西新闻,http://php.jdshipin.com:8880/iptv.php?id=jxxw
 江西都市,http://php.jdshipin.com:8880/iptv.php?id=jxds
 江西经济生活,http://php.jdshipin.com:8880/iptv.php?id=jxjjsh
@@ -322,26 +237,26 @@ CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
 江西公共农业,http://php.jdshipin.com:8880/iptv.php?id=jxggny
 江西少儿,http://php.jdshipin.com:8880/iptv.php?id=jxse
 江西教育,http://php.jdshipin.com:8880/iptv.php?id=jxjy
-东南卫视,http://api2.52tb.xyz/info?id=29&token=20230314vyrzsx
-黑龙江卫视,http://api2.52tb.xyz/info?id=41&token=20230314vyrzsx
-重庆卫视,http://api2.52tb.xyz/info?id=37&token=20230314vyrzsx
-贵州卫视,http://api2.52tb.xyz/info?id=36&token=20230314vyrzsx
+东南卫视,http://api2.52tb.xyz/info?id=29&token=20230405tndmhg
+黑龙江卫视,http://api2.52tb.xyz/info?id=41&token=20230405tndmhg
+重庆卫视,http://api2.52tb.xyz/info?id=37&token=20230405tndmhg
+贵州卫视,http://api2.52tb.xyz/info?id=36&token=20230405tndmhg
 湖北卫视,http://182.150.31.58:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://api2.52tb.xyz/info?id=33&token=20230314vyrzsx
-湖北卫视,http://api2.52tb.xyz/info?id=34&token=20230314vyrzsx
+安徽卫视,http://api2.52tb.xyz/info?id=33&token=20230405tndmhg
+湖北卫视,http://api2.52tb.xyz/info?id=34&token=20230405tndmhg
 辽宁卫视,http://182.150.31.58:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://api2.52tb.xyz/info?id=31&token=20230314vyrzsx
-河北卫视,http://api2.52tb.xyz/info?id=32&token=20230314vyrzsx
-广西卫视,http://api2.52tb.xyz/info?id=45&token=20230314vyrzsx
+河南卫视,http://api2.52tb.xyz/info?id=31&token=20230405tndmhg
+河北卫视,http://api2.52tb.xyz/info?id=32&token=20230405tndmhg
+广西卫视,http://api2.52tb.xyz/info?id=45&token=20230405tndmhg
 吉林卫视,http://182.150.31.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://api.52tb.xyz/info?id=47&token=20230314vyrzsx
-山西卫视,http://api2.52tb.xyz/info?id=48&token=20230314vyrzsx
-云南卫视,http://api2.52tb.xyz/info?id=42&token=20230314vyrzsx
-内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
-海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
+陕西卫视,http://api.52tb.xyz/info?id=47&token=20230405tndmhg
+山西卫视,http://api2.52tb.xyz/info?id=48&token=20230405tndmhg
+云南卫视,http://api2.52tb.xyz/info?id=42&token=20230405tndmhg
+内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230405tndmhg
+海南卫视,http://api.52tb.xyz/info?id=38&token=20230405tndmhg
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-内蒙古卫视,http://api2.52tb.xyz/info?id=44&token=20230314vyrzsx
+内蒙古卫视,http://api2.52tb.xyz/info?id=44&token=20230405tndmhg
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
@@ -364,7 +279,7 @@ CCTV6电影,http://192.168.2.1:4022/udp/239.81.1.7:4056
 CCTV6电影,http://192.168.2.1:4022/udp/239.81.0.233:4056
 CCTV7国防军事,http://192.168.2.1:4022/udp/239.81.1.8:4056
 CCTV7国防军事,http://192.168.2.1:4022/udp/239.81.0.116:4056
-CCTV8电视剧C,http://192.168.2.1:4022/udp/239.81.1.9:4056
+CCTV8电视剧,http://192.168.2.1:4022/udp/239.81.1.9:4056
 CCTV8电视剧,http://192.168.2.1:4022/udp/239.81.0.234:4056
 CCTV9纪录,http://192.168.2.1:4022/udp/239.81.1.10:4056
 CCTV9纪录,http://192.168.2.1:4022/udp/239.81.0.117:4056
