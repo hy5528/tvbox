@@ -23,6 +23,7 @@ CHC家庭影院,http://182.107.188.104:8888/newlive/live/hls/56/live.m3u8
 CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 
 重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
 华文一套,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=865677643969-0-0-056fcfda749435d4484c1bf76f76062a				
 华文二套,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 华文六套,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
