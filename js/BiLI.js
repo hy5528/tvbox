@@ -44,11 +44,12 @@ CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
 星空音乐,http://wouu.net:9977/udp/239.93.0.157:2194
 
 重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
 华文一套,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=865677643969-0-0-056fcfda749435d4484c1bf76f76062a				
 华文二套,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 华文六套,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
