@@ -899,12 +899,10 @@ KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 
 
 少儿,#genre#
-CCTV14,http://192.168.2.1:4022/udp/239.81.0.120:4056
-CCTV14,http://v.1ack.com/ai.php?id=cctv14
-CCTV14,http://v.1ack.com/aikanmigu.php?id=cctv14
-CCTV14,http://yima.eu.org/bestv.php?id=cctvsehd8m/8000000
-CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV14少儿,http://192.168.2.1:4022/udp/239.81.0.120:4056
+CCTV14少儿,http://36.129.204.120:880/DXCCTV14.m3u8
+CCTV14少儿,http://cfss.cc/ds/ystp.php?id=cctv14&Cf.m3u8
+CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
 金鹰卡通,http://36.129.204.120:880/DX27.m3u8
 金鹰卡通,http://192.168.2.1:4022/udp/239.81.0.148:4056
@@ -924,6 +922,7 @@ IPTV少儿动画,http://192.168.2.1:4022/udp/239.81.0.82:4056
 动漫秀场,http://36.129.204.120:880/dx110.m3u8
 动漫秀场,http://192.168.2.1:4022/udp/239.81.0.68:4056
 新动漫,http://36.129.204.120:880/dx87.m3u8
+新动漫,http://gzly.hkychina.com:6005/udp/239.252.220.132:5140
 新动漫,http://192.168.2.1:4022/udp/239.81.0.235:4056
 优曼卡通,http://36.129.204.120:880/DX25.m3u8
 优漫卡通,http://192.168.2.1:4022/udp/239.81.1.67:4056
