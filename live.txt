@@ -905,10 +905,13 @@ CCTV14,http://v.1ack.com/aikanmigu.php?id=cctv14
 CCTV14,http://yima.eu.org/bestv.php?id=cctvsehd8m/8000000
 CCTV14,http://hz752.live:63/vvs/astv.php?id=cctv14hd
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
 金鹰卡通,http://192.168.2.1:4022/udp/239.81.0.148:4056
 金鹰卡通,http://192.168.2.1:4022/udp/239.81.1.65:4056
 嘉佳卡通,http://192.168.2.1:4022/udp/239.81.0.64:4056
 嘉佳卡通,http://192.168.2.1:4022/udp/239.81.1.68:4056
+卡酷少儿,http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
+卡酷少儿,http://182.107.188.104:8888/newlive/live/hls/54/live.m3u8
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.1.64:4056
 IPTV少儿动画,http://192.168.2.1:4022/udp/239.81.0.82:4056
