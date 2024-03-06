@@ -422,15 +422,15 @@ CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
 河南卫视,http://182.150.31.58:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河北卫视,http://api2.52tb.xyz/info?id=32&token=20230405tndmhg
 广西卫视,http://111.59.63.32:9901/tsfile/live/1003_1.m3u8
-广西卫视,http://api.52tb.xyz/info?id=45&token=20230314vyrzsx
+广西卫视,http://api.52tb.xyz/info?id=45&token=20230405tndmhg
 广西卫视,http://182.150.31.58:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://182.150.31.58:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://api.52tb.xyz/info?id=47&token=20230314vyrzsx
-山西卫视,http://api.52tb.xyz/info?id=99&token=20230314vyrzsx
-内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
-海南卫视,http://api.52tb.xyz/info?id=38&token=20230314vyrzsx
+陕西卫视,http://api.52tb.xyz/info?id=47&token=20230405tndmhg
+山西卫视,http://api.52tb.xyz/info?id=99&token=20230405tndmhg
+内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230405tndmhg
+海南卫视,http://api.52tb.xyz/info?id=38&token=20230405tndmhg
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
-内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230314vyrzsx
+内蒙古卫视,http://api.52tb.xyz/info?id=95&token=20230405tndmhg
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 宁夏卫视,http://221.213.43.82:8888/newlive/live/hls/40/live.m3u8
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
@@ -683,7 +683,7 @@ CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
 
 CCTV1综合,http://192.168.2.1:4022/udp/239.81.0.102:4056
 CCTV1综合,http://192.168.2.1:4022/udp/239.81.1.2:4056
-CCTV2综合,http://192.168.2.1:4022/udp/239.81.1.3:4056
+CCTV2财经,http://192.168.2.1:4022/udp/239.81.1.3:4056
 CCTV2财经,http://192.168.2.1:4022/udp/239.81.0.115:4056
 CCTV3综艺,http://192.168.2.1:4022/udp/239.81.1.4:4056
 CCTV3综艺,http://192.168.2.1:4022/udp/239.81.0.231:4056
@@ -697,7 +697,7 @@ CCTV6电影,http://192.168.2.1:4022/udp/239.81.1.7:4056
 CCTV6电影,http://192.168.2.1:4022/udp/239.81.0.233:4056
 CCTV7国防军事,http://192.168.2.1:4022/udp/239.81.1.8:4056
 CCTV7国防军事,http://192.168.2.1:4022/udp/239.81.0.116:4056
-CCTV8电视剧C,http://192.168.2.1:4022/udp/239.81.1.9:4056
+CCTV8电视剧,http://192.168.2.1:4022/udp/239.81.1.9:4056
 CCTV8电视剧,http://192.168.2.1:4022/udp/239.81.0.234:4056
 CCTV9纪录,http://192.168.2.1:4022/udp/239.81.1.10:4056
 CCTV9纪录,http://192.168.2.1:4022/udp/239.81.0.117:4056
