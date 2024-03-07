@@ -16,8 +16,7 @@ CCTV12,http://60.211.167.226:8888/newlive/live/hls/14/live.m3u8
 CCTV13,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
 CCTV14,http://60.211.167.226:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://60.211.167.226:8888/newlive/live/hls/17/live.m3u8
-CCTV16,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
-CCTV17,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
+
 
 
 CCTV1,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv1
