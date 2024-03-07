@@ -1,4 +1,4 @@
-央视,#genre#
+央视1,#genre#
 CCTV1,http://locmjj.cloudns.org/v/toup.php?id=cctv1
 CCTV2,http://locmjj.cloudns.org/v/toup.php?id=cctv2
 CCTV3,http://locmjj.cloudns.org/v/toup.php?id=cctv3
@@ -75,8 +75,7 @@ CCTV10,http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&au
 CCTV12,http://221.226.4.10:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV14,http://221.226.4.10:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
+央视2,#genre#
   
 CCTV1 综合,http://36.129.204.120:880/CCD303.m3u8
 CCTV2 财经,http://36.129.204.120:880/DX2.m3u8
@@ -99,6 +98,51 @@ CCTV17 农业农村,http://36.129.204.120:880/CCN16.m3u8
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 
+CHC高清电影,http://182.107.188.104:8888/newlive/live/hls/55/live.m3u8
+CHC家庭影院,http://182.107.188.104:8888/newlive/live/hls/56/live.m3u8
+CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
+CHC家庭影院,http://60.217.221.188:4000/rtp/239.253.242.152:8000
+CHC动作电影,http://60.217.221.188:4000/rtp/239.253.242.153:8000
+CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
+央视台球,http://171.116.159.178:8085/rtp/226.0.2.216:9640
+央视高网,http://171.116.159.178:8085/rtp/226.0.2.217:9648
+电视指南,http://171.116.159.178:8085/rtp/226.0.2.218:9656
+文化精品,http://171.116.159.178:8085/rtp/226.0.2.219:9664
+风云音乐,http://171.116.159.178:8085/rtp/226.0.2.220:9672
+第一剧场,http://171.116.159.178:8085/rtp/226.0.2.221:9680
+世界地理,http://171.116.159.178:8085/rtp/226.0.2.222:9688
+兵器科技,http://171.116.159.178:8085/rtp/226.0.2.223:9696
+怀旧剧场,http://171.116.159.178:8085/rtp/226.0.2.224:9704
+风云足球,http://171.116.159.178:8085/rtp/226.0.2.225:9712
+女性时尚,http://171.116.159.178:8085/rtp/226.0.2.226:9720
+风云剧场,http://171.116.159.178:8085/rtp/226.0.2.227:9728
+
+快乐垂钓,http://gzly.hkychina.com:6002/udp/239.252.220.177:5140
+四海钓鱼,http://110.253.142.191:8888/rtp/239.253.93.243:6421
+来钓鱼吧专区,http://125.71.250.138:8899/rtp/239.93.42.8:5140
+风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+星空音乐,http://wouu.net:9977/udp/239.93.0.157:2194
+
+重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
+华文一套,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=865677643969-0-0-056fcfda749435d4484c1bf76f76062a				
+华文二套,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+华文六套,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,http://1.62.64.212/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+
 
 
 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -117,6 +161,8 @@ CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 
+央视3,#genre#
+
 CCTV1 综合,http://www.furymax.top:85/rtp/239.254.96.96:8550
 CCTV2 财经,http://www.furymax.top:85/rtp/239.69.1.102:10250
 CCTV3 综艺,http://www.furymax.top:85/rtp/239.69.1.122:10370
@@ -131,6 +177,51 @@ CCTV12 社会与法,http://www.furymax.top:85/rtp/239.69.1.106:10274
 CCTV13 新闻,http://www.furymax.top:85/rtp/239.254.96.161:9040
 CCTV15 音乐,http://www.furymax.top:85/rtp/239.69.1.155:10566
 CCTV17 农业农村,http://www.furymax.top:85/rtp/239.69.1.152:10548
+
+CHC高清电影,http://182.107.188.104:8888/newlive/live/hls/55/live.m3u8
+CHC家庭影院,http://182.107.188.104:8888/newlive/live/hls/56/live.m3u8
+CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
+CHC家庭影院,http://60.217.221.188:4000/rtp/239.253.242.152:8000
+CHC动作电影,http://60.217.221.188:4000/rtp/239.253.242.153:8000
+CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
+央视台球,http://171.116.159.178:8085/rtp/226.0.2.216:9640
+央视高网,http://171.116.159.178:8085/rtp/226.0.2.217:9648
+电视指南,http://171.116.159.178:8085/rtp/226.0.2.218:9656
+文化精品,http://171.116.159.178:8085/rtp/226.0.2.219:9664
+风云音乐,http://171.116.159.178:8085/rtp/226.0.2.220:9672
+第一剧场,http://171.116.159.178:8085/rtp/226.0.2.221:9680
+世界地理,http://171.116.159.178:8085/rtp/226.0.2.222:9688
+兵器科技,http://171.116.159.178:8085/rtp/226.0.2.223:9696
+怀旧剧场,http://171.116.159.178:8085/rtp/226.0.2.224:9704
+风云足球,http://171.116.159.178:8085/rtp/226.0.2.225:9712
+女性时尚,http://171.116.159.178:8085/rtp/226.0.2.226:9720
+风云剧场,http://171.116.159.178:8085/rtp/226.0.2.227:9728
+
+快乐垂钓,http://gzly.hkychina.com:6002/udp/239.252.220.177:5140
+四海钓鱼,http://110.253.142.191:8888/rtp/239.253.93.243:6421
+来钓鱼吧专区,http://125.71.250.138:8899/rtp/239.93.42.8:5140
+风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+星空音乐,http://wouu.net:9977/udp/239.93.0.157:2194
+
+重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
+华文一套,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=865677643969-0-0-056fcfda749435d4484c1bf76f76062a				
+华文二套,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+华文六套,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+澳门莲花,http://php.jdshipin.com:8880/amlh.php
+凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,http://1.62.64.212/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
 卫视,#genre#
 北京卫视,http://221.226.4.10:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0 
