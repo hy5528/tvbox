@@ -21,7 +21,7 @@ CCTV17,http://cdn.jdshipin.com:8880/yspgq.php?id=cctv17
 CHC高清电影,http://182.107.188.104:8888/newlive/live/hls/55/live.m3u8
 CHC家庭影院,http://182.107.188.104:8888/newlive/live/hls/56/live.m3u8
 CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
-
+生活时尚,http://123.132.44.194:8888/udp/239.253.244.99:8000
 重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
 华文一套,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=865677643969-0-0-056fcfda749435d4484c1bf76f76062a				
@@ -40,7 +40,9 @@ CHC动作电影,http://182.107.188.104:8888/newlive/live/hls/57/live.m3u8
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-
+四海钓鱼,http://123.132.44.194:8888/udp/239.253.244.118:8000
+快乐垂钓,http://123.132.44.194:8888/udp/239.253.244.144:8000
+茶频道,http://123.132.44.194:8888/udp/239.253.244.143:8000
 
 CCTV1,http://cfss.cc/ds/ystp.php?id=cctv1&Cf.m3u8
 CCTV2,http://cfss.cc/ds/ystp.php?id=cctv2&Cf.m3u8
