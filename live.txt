@@ -363,7 +363,7 @@ CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
 江西卫视,http://60.211.167.226:8888/newlive/live/hls/47/live.m3u8
 吉林卫视,http://60.211.167.226:8888/newlive/live/hls/35/live.m3u8
 青海卫视,http://60.211.167.226:8888/newlive/live/hls/38/live.m3u8
-卡酷卫视,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
+卡酷少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
 金鹰卡通,http://60.211.167.226:8888/newlive/live/hls/54/live.m3u8
 
 
@@ -920,12 +920,14 @@ CCTV14少儿,http://cfss.cc/ds/ystp.php?id=cctv14&Cf.m3u8
 CCTV14少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 金鹰卡通,http://222.223.119.21:8888/newlive/live/hls/57/live.m3u8
 金鹰卡通,http://36.129.204.120:880/DX27.m3u8
+金鹰卡通,http://60.211.167.226:8888/newlive/live/hls/54/live.m3u8
 金鹰卡通,http://192.168.2.1:4022/udp/239.81.0.148:4056
 金鹰卡通,http://192.168.2.1:4022/udp/239.81.1.65:4056
 嘉佳卡通,http://36.129.204.120:880/DX24.m3u8
 嘉佳卡通,http://192.168.2.1:4022/udp/239.81.0.64:4056
 嘉佳卡通,http://192.168.2.1:4022/udp/239.81.1.68:4056
 KAKU少儿,http://222.223.119.21:8888/newlive/live/hls/56/live.m3u8
+KAKU少儿,http://60.211.167.226:8888/newlive/live/hls/53/live.m3u8
 KAKU少儿,http://182.107.188.104:8888/newlive/live/hls/54/live.m3u8
 KAKU少儿,http://36.129.204.120:880/dx92.m3u8
 KAKU少儿,http://192.168.2.1:4022/udp/239.81.0.62:4056
