@@ -120,24 +120,7 @@ CGTN西班牙语,http://mtw.so/5G9gmP
 CGTN纪录国际,http://mtw.so/5NFtrw
 CCTV-4K,http://mtw.so/5VbDUV
 CCTV-8K,http://mtw.so/62HqYI
-CCTV1,http://60.211.167.226:8888/newlive/live/hls/2/live.m3u8
-CCTV2,http://60.211.167.226:8888/newlive/live/hls/3/live.m3u8
-CCTV3,http://60.211.167.226:8888/newlive/live/hls/4/live.m3u8
-CCTV4,http://60.211.167.226:8888/newlive/live/hls/5/live.m3u8
-CCTV5,http://60.211.167.226:8888/newlive/live/hls/6/live.m3u8
-CCTV5+,http://60.211.167.226:8888/newlive/live/hls/7/live.m3u8
-CCTV6,http://60.211.167.226:8888/newlive/live/hls/8/live.m3u8
-CCTV7,http://60.211.167.226:8888/newlive/live/hls/9/live.m3u8
-CCTV8,http://60.211.167.226:8888/newlive/live/hls/10/live.m3u8
-CCTV9,http://60.211.167.226:8888/newlive/live/hls/11/live.m3u8
-CCTV10,http://60.211.167.226:8888/newlive/live/hls/12/live.m3u8
-CCTV11,http://60.211.167.226:8888/newlive/live/hls/13/live.m3u8
-CCTV12,http://60.211.167.226:8888/newlive/live/hls/14/live.m3u8
-CCTV13,http://60.211.167.226:8888/newlive/live/hls/15/live.m3u8
-CCTV14,http://60.211.167.226:8888/newlive/live/hls/16/live.m3u8
-CCTV15,http://60.211.167.226:8888/newlive/live/hls/17/live.m3u8
-CCTV16,http://60.211.167.226:8888/newlive/live/hls/18/live.m3u8
-CCTV17,http://60.211.167.226:8888/newlive/live/hls/19/live.m3u8
+
 
 CCTV1,http://182.107.188.104:8888/newlive/live/hls/2/live.m3u8
 CCTV2,http://182.107.188.104:8888/newlive/live/hls/3/live.m3u8
