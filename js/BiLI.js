@@ -50,10 +50,17 @@ CHC高清电影,http://60.217.221.188:4000/rtp/239.253.242.154:8000
 华文六套,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
+凤凰资讯,http://1.62.64.212/8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
 
 
