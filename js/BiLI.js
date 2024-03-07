@@ -293,6 +293,9 @@ CDTV6,http://182.138.136.195:4455/udp/239.93.0.21:1251
 广州影视,http://yima.eu.org/gz.php?id=yingshi
 广州南国都市,http://yima.eu.org/gz.php?id=shenghuo
 广州法治,http://yima.eu.org/gz.php?id=fazhi
+广东｜GRTN文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广东｜GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
+广东｜GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
 
 天津卫视,http://182.150.31.58:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
 浙江卫视,http://api2.52tb.xyz/info?id=22&token=20230405tndmhg
