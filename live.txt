@@ -201,6 +201,7 @@ CCTV17,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8
 江苏卫视,http://60.211.167.226:8888/newlive/live/hls/22/live.m3u8
 湖南卫视,http://60.211.167.226:8888/newlive/live/hls/23/live.m3u8
 浙江卫视,http://60.211.167.226:8888/newlive/live/hls/24/live.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 安徽卫视,http://60.211.167.226:8888/newlive/live/hls/25/live.m3u8
 广西卫视,http://60.211.167.226:8888/newlive/live/hls/26/live.m3u8
 云南卫视,http://60.211.167.226:8888/newlive/live/hls/27/live.m3u8
