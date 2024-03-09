@@ -197,12 +197,6 @@
           ]
         }       
       },		
-{"key":"Yingtantv2","name": "💖分享影探","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"https://jihulab.com/0004/c/-/raw/main/YT.txt?ref_type=heads"},		
-{"key": "csp_XYQHikerAL_分享阿里","name":"💖分享阿里","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/ygfxz/6/raw/main/XYQB/分享阿里.json","jar":"https://jihulab.com/0004/0/-/raw/main/Xiang.txt"},    	
-{"key":"酷云1","name":"💖分享彩云","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
-{"key":"雨晴","name":"💖分享晴天","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
-{"key":"csp_CandyMuj_jxyc","name":"💖自营一站","type":3,"api":"csp_CandyMuj_jxyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xc1080.xn--654a.cc","jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
-{"key":"csp_CandyMuj_jxyc1","name":"💖自营二站","type":3,"api":"csp_CandyMuj_jxyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcom.xn--654a.cc","jar":"https://jihulab.com/0004/0/-/raw/main/jx.jar"},
 
      {
       "key": "光速资源",
