@@ -905,6 +905,40 @@
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/蜻蜓FM.js",
       "playerType": "2"
     },
+     {
+      "key": "drpy_js_六月听书",
+      "name": "💖听书 | 六月听书[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/六月听书.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_博看听书",
+      "name": "💖听书 | 博看听书[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/博看听书.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_海洋听书",
+      "name": "💖听书 | 海洋听书[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/海洋听书.js",
+      "playerType": "2"
+    },
+    {
+      "key": "drpy_js_听书网",
+      "name": "💖听书 | 听书网[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/听书网.js",
+      "playerType": "2"
+    },
+
+	  
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
