@@ -43,27 +43,26 @@
             "quickSearch": 0,
             "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
         },		
-  {
-            "key": "酷奇MV",
-            "name": "🎸酷奇MV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "主页url": "https://www.kuqimv.com",
-                "直接播放": "1",
-                "短视频": "1",
-                "分类": "华语高清$1#日韩精选$2#欧美MV$3#高清现场$4#影视MV$5#夜店视频$6#车模视频$7#热舞视频$8#美女写真$9#美女打碟$10",
-                "分类url": "https://www.kuqimv.com/play/{cateId}_{catePg}.html;;z",
-                "数组": "<li>&&</li>",
-                "标题": "title=\"&&\"",
-                "副标题": "target=\"play\">&&<",
-                "搜索模式": "1",
-                "搜索url": "https://www.kuqimv.com/search.php?key={wd}"
-            }
-        },
+   {
+      "key": "Iktv",
+      "name": "🎤KTV音乐",
+      "type": 3,
+      "api": "csp_Iktv",
+      "searchable": 1,
+      "changeable": 0,
+       "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
+    },
+    {
+      "key": "yyt",
+      "name": "🎵音悦台mv",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
    {
       "key": "乐器",
       "name": "🖤吾爱乐器",
