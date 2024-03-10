@@ -40,7 +40,21 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
-        },		
+        },	
+	{
+      "key": "Biliych",
+      "name": "🅱明星┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
+    },	
      {
       "key": "Iktv",
       "name": "🎤KTV音乐",
