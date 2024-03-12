@@ -420,7 +420,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
+      "ext": "https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
     },	
    {
       "key": "Iktv",
@@ -429,7 +429,7 @@
       "api": "csp_Iktv",
       "searchable": 1,
       "changeable": 0,
-       "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
+       "jar":"https://ghproxy.net/https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"
     },
     {
       "key": "yyt",
@@ -441,7 +441,7 @@
       "filterable": 1,
       "timeout": 30,
       "playerType": 1,
-      "jar":"https://agit.ai/66666/mao2/raw/branch/main/jar/YT.txt"},
+      "jar":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"},
    {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
