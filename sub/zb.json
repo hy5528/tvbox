@@ -1,6 +1,4 @@
 [
-    { "name": "影视", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/Movies.txt"},
-    { "name": "自用源", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/BiLI.js"},
     { "name": "广场舞", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/广场舞.txt"},
     { "name": "MV", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MV.txt"},
     { "name": "MV直播", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MV2.txt"},
@@ -9,7 +7,8 @@
     { "name": "MTV现场", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MTV现场.txt"},
     { "name": "DJ音乐", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/DJ音乐.txt"},
     { "name": "16万MV", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MTV.txt"},
-     { "name": "自用影视", "url": "http://192.168.2.1:9212/Movies.txt"},
+     { "name": "自用影视", "url": "http://192.168.2.1:9212/tv1.txt"},
+     { "name": "自用源", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/BiLI.js"},
     { "name": "斗鱼", "url": "https://live.freetv.top/douyuyqk.m3u"},
     { "name": "YY轮播", "url": "https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top"},
     { "name": "喵影视", "url": "http://www.weetai.cn/mtvzb.txt"},
