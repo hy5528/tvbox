@@ -17,61 +17,61 @@
       "key": "Alist",
       "name": "🌟小雅┃高清",
       "type": 3,
-      "api": "http://192.168.2.201:5678/tvbox/libs/alist.min.js",
+      "api": "http://192.168.2.136:5678/tvbox/libs/alist.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": [
         {
           "name": "丫仙女",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/",
           "search": true
         },
         {
           "name": "每日更新",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/每日更新"
         },
         {
           "name": "电影",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/电影"
         },
         {
           "name": "电视剧",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/电视剧"
         },
         {
           "name": "综艺",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/综艺"
         },
         {
           "name": "音乐",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/音乐"
         },
         {
           "name": "有声书",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/有声书"
         },
 
         {
           "name": "纪录片",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/纪录片"
         },
         {
           "name": "动漫",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/动漫"
         },
         {
           "name": "儿童",
-          "server": "http://192.168.2.201:5678/",
+          "server": "http://192.168.2.136:5678/",
           "startPage": "/动漫/儿童"
         }
       ]
