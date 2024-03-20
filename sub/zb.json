@@ -9,9 +9,9 @@
     { "name": "16万MV", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/MTV.txt"},
      { "name": "自用影视", "url": "http://192.168.2.1:9212/tv1.txt"},
      { "name": "自用源", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/BiLI.js"},
-    { "name": "斗鱼", "url": "https://ghproxy.net/https://live.freetv.top/douyuyqk.m3u"},
+    { "name": "斗鱼", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/douyu.txt"},
     { "name": "YY轮播", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/yy.txt"},
-    { "name": "影视", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/Movies.txt"},
+    { "name": "虎牙", "url": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/huya.txt"},
     { "name": "喵影视", "url": "http://www.weetai.cn/mtvzb.txt"},
     { "name": "肥猫", "url": "http://我不是.肥猫.live/TV/tvzb.txt&&&http://3650000.xyz/api/360.php?cid=6"},
     {"name":"潇洒","url":"https://download.kstore.space/download/2863/live.txt&&&https://www.dmoe.cc/random.php"
