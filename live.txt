@@ -78,6 +78,7 @@ CCTV12,http://locmjj.cloudns.org/Client.php?pd=239.253.64.97:5140
 CCTV13,http://locmjj.cloudns.org/Client.php?pd=239.253.64.59:5140
 CCTV14,http://locmjj.cloudns.org/Client.php?pd=239.253.64.115:5140
 CCTV15,http://locmjj.cloudns.org/Client.php?pd=239.253.64.72:5140
+CCTV16,http://locmjj.cloudns.org/Client.php?pd=239.253.64.251:5140
 CCTV16 4K,http://locmjj.cloudns.org/Client.php?pd=239.253.64.126:5140
 CCTV17,http://locmjj.cloudns.org/Client.php?pd=239.253.64.67:5140
 
