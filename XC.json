@@ -41,20 +41,7 @@
             "quickSearch": 0,
             "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
         },	
-	{
-      "key": "Biliych",
-      "name": "🅱明星┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
-    },	
+		
      {
       "key": "Iktv",
       "name": "🎤KTV音乐",
@@ -121,13 +108,7 @@
     },	
 		
      {"key": "MV大全","name": "💽MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},  	
-    {
-    "key": "MTV转点播",
-    "name": "🎶16万MV",
-    "type": 3,
-    "api": "https://agit.ai/66666/mv/raw/branch/master/live_min.js",
-    "ext": "https://agit.ai/66666/mv/raw/branch/master/live_min.txt"
-  },
+    
   {
       "key": "美食",
       "name": " 🧡吾爱美食",
