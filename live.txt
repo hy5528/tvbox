@@ -20,6 +20,8 @@ CCTV15,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
 凤凰中文,https://epg.pw/stream/2cd8b0d0e8b7bda9c76ae4e0d554782532055b48e88e266f743eaa21ca7e44e0.m3u8
 凤凰资讯,https://epg.pw/stream/e3226c760ab2d56fda3a1d41f17e0535e69516977f7210504681cc0b4628b055.m3u8
 凤凰香港台，https://epg.pw/stream/e88363a4ce6a2aa625ab98e3d840c778baec8405e1adb31a1a94f5d6518982ef.m3u8
+凤凰中文,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=1
+凤凰资讯,http://8.137.59.151:99/haioujk041/haiousmtjk666.php?id=2
 重温经典,http://43.141.130.51/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://117.162.34.102/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
