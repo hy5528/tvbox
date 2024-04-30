@@ -84,6 +84,15 @@
       "ext": "https://d.kstore.space/download/2883/sdtv.txt",
       "jar": "https://d.kstore.space/download/2883/sdtv.jar"
     },
+       {
+      "key": "JustLive",
+      "name": "游戏👑直播",
+      "type": 3,
+      "api": "./js/drpy.min.js",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "https://notabug.org/dongchenys/pt/raw/json/js/justlive.js"
+    },
     {
       "key": "酷看",
       "name": "💡酷看┃秒播",
