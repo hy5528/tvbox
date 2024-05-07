@@ -1,109 +1,82 @@
-央视1,#genre#
-CCTV1,http://221.226.4.10:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV2,http://221.226.4.10:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV3,http://221.226.4.10:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV4,http://221.226.4.10:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5,http://221.226.4.10:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV6,http://221.226.4.10:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV9,http://221.226.4.10:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV10,http://221.226.4.10:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV12,http://221.226.4.10:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV14,http://221.226.4.10:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-快乐垂钓,http://gzly.hkychina.com:6002/udp/239.252.220.177:5140
-四海钓鱼,http://110.253.142.191:8888/rtp/239.253.93.243:6421
-来钓鱼吧专区,http://125.71.250.138:8899/rtp/239.93.42.8:5140
-风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-星空音乐,http://wouu.net:9977/udp/239.93.0.157:2194
-
-重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
-
-澳门莲花,http://php.jdshipin.com:8880/amlh.php
-
-凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
-
-凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-
-
-
-
+央卫1,#genre#
+CCTV1,http://locmjj.cloudns.org/ysp.php?id=cctv1
+CCTV2,http://locmjj.cloudns.org/ysp.php?id=cctv2
+CCTV4,http://locmjj.cloudns.org/ysp.php?id=cctv4
+CCTV5,http://locmjj.cloudns.org/ysp.php?id=cctv5
+CCTV5+,http://locmjj.cloudns.org/ysp.php?id=cctv5p
+CCTV7,http://locmjj.cloudns.org/ysp.php?id=cctv7
+CCTV9,http://locmjj.cloudns.org/ysp.php?id=cctv9
+CCTV10,http://locmjj.cloudns.org/ysp.php?id=cctv10
+CCTV11,http://locmjj.cloudns.org/ysp.php?id=cctv11
+CCTV12,http://locmjj.cloudns.org/ysp.php?id=cctv12
+CCTV13,http://locmjj.cloudns.org/ysp.php?id=cctv13
+CCTV14,http://locmjj.cloudns.org/ysp.php?id=cctv14
+CCTV15,http://locmjj.cloudns.org/ysp.php?id=cctv15
+CCTV16,http://locmjj.cloudns.org/ysp.php?id=cctv16
+CCTV17,http://locmjj.cloudns.org/ysp.php?id=cctv17
+北京卫视,http://locmjj.cloudns.org/ysp.php?id=bjws
+东方卫视,http://locmjj.cloudns.org/ysp.php?id=dfws
+天津卫视,http://locmjj.cloudns.org/ysp.php?id=tjws
+重庆卫视,http://locmjj.cloudns.org/ysp.php?id=cqws
+黑龙江卫视,http://locmjj.cloudns.org/ysp.php?id=hljws
+辽宁卫视,http://locmjj.cloudns.org/ysp.php?id=lnws
+河北卫视,http://locmjj.cloudns.org/ysp.php?id=hbws
+山东卫视,http://locmjj.cloudns.org/ysp.php?id=sdws
+安徽卫视,http://locmjj.cloudns.org/ysp.php?id=ahws
+河南卫视,http://locmjj.cloudns.org/ysp.php?id=hnws
+湖北卫视,http://locmjj.cloudns.org/ysp.php?id=hubws
+湖南卫视,http://locmjj.cloudns.org/ysp.php?id=hunws
+江西卫视,http://locmjj.cloudns.org/ysp.php?id=jxws
+江苏卫视,http://locmjj.cloudns.org/ysp.php?id=jsws
+浙江卫视,http://locmjj.cloudns.org/ysp.php?id=zjws
+东南卫视,http://locmjj.cloudns.org/ysp.php?id=dnws
+广东卫视,http://locmjj.cloudns.org/ysp.php?id=gdws
+深圳卫视,http://locmjj.cloudns.org/ysp.php?id=szws
+广西卫视,http://locmjj.cloudns.org/ysp.php?id=gxws
+贵州卫视,http://locmjj.cloudns.org/ysp.php?id=gzws
+四川卫视,http://locmjj.cloudns.org/ysp.php?id=scws
+新疆卫视,http://locmjj.cloudns.org/ysp.php?id=xjws
+海南卫视,http://locmjj.cloudns.org/ysp.php?id=hinws
+CCTV1,http://www.locmjj.cloudns.org/ysp.php?id=cctv1
+CCTV2,http://www.locmjj.cloudns.org/ysp.php?id=cctv2
+CCTV4,http://www.locmjj.cloudns.org/ysp.php?id=cctv4
+CCTV5,http://www.locmjj.cloudns.org/ysp.php?id=cctv5
+CCTV5+,http://www.locmjj.cloudns.org/ysp.php?id=cctv5p
+CCTV7,http://www.locmjj.cloudns.org/ysp.php?id=cctv7
+CCTV9,http://www.locmjj.cloudns.org/ysp.php?id=cctv9
+CCTV10,http://www.locmjj.cloudns.org/ysp.php?id=cctv10
+CCTV11,http://www.locmjj.cloudns.org/ysp.php?id=cctv11
+CCTV12,http://www.locmjj.cloudns.org/ysp.php?id=cctv12
+CCTV13,http://www.locmjj.cloudns.org/ysp.php?id=cctv13
+CCTV14,http://www.locmjj.cloudns.org/ysp.php?id=cctv14
+CCTV15,http://www.locmjj.cloudns.org/ysp.php?id=cctv15
+CCTV16,http://www.locmjj.cloudns.org/ysp.php?id=cctv16
+CCTV17,http://www.locmjj.cloudns.org/ysp.php?id=cctv17
+北京卫视,http://www.locmjj.cloudns.org/ysp.php?id=bjws
+东方卫视,http://www.locmjj.cloudns.org/ysp.php?id=dfws
+天津卫视,http://www.locmjj.cloudns.org/ysp.php?id=tjws
+重庆卫视,http://www.locmjj.cloudns.org/ysp.php?id=cqws
+黑龙江卫视,http://www.locmjj.cloudns.org/ysp.php?id=hljws
+辽宁卫视,http://www.locmjj.cloudns.org/ysp.php?id=lnws
+河北卫视,http://www.locmjj.cloudns.org/ysp.php?id=hbws
+山东卫视,http://www.locmjj.cloudns.org/ysp.php?id=sdws
+安徽卫视,http://www.locmjj.cloudns.org/ysp.php?id=ahws
+河南卫视,http://www.locmjj.cloudns.org/ysp.php?id=hnws
+湖北卫视,http://www.locmjj.cloudns.org/ysp.php?id=hubws
+湖南卫视,http://www.locmjj.cloudns.org/ysp.php?id=hunws
+江西卫视,http://www.locmjj.cloudns.org/ysp.php?id=jxws
+江苏卫视,http://www.locmjj.cloudns.org/ysp.php?id=jsws
+浙江卫视,http://www.locmjj.cloudns.org/ysp.php?id=zjws
+东南卫视,http://www.locmjj.cloudns.org/ysp.php?id=dnws
+广东卫视,http://www.locmjj.cloudns.org/ysp.php?id=gdws
+深圳卫视,http://www.locmjj.cloudns.org/ysp.php?id=szws
+广西卫视,http://www.locmjj.cloudns.org/ysp.php?id=gxws
+贵州卫视,http://www.locmjj.cloudns.org/ysp.php?id=gzws
+四川卫视,http://www.locmjj.cloudns.org/ysp.php?id=scws
+新疆卫视,http://www.locmjj.cloudns.org/ysp.php?id=xjws
+海南卫视,http://www.locmjj.cloudns.org/ysp.php?id=hinws
 
 央视2,#genre#
-  
-CCTV1 综合,http://36.129.204.120:880/CCD303.m3u8
-CCTV2 财经,http://36.129.204.120:880/DX2.m3u8
-CCTV3 综艺,http://36.129.204.120:880/DX101.m3u8
-CCTV4 中文国际,http://36.129.204.120:880/DX4.m3u8
-CCTV5 体育,http://36.129.204.120:880/DX99.m3u8
-CCTV5+ 体育赛事,http://36.129.204.120:880/DX5.m3u8
-CCTV6 电影,http://36.129.204.120:880/DX98.m3u8
-CCTV7 国防军事,http://36.129.204.120:880/DX7.m3u8
-CCTV8 电视剧,http://36.129.204.120:880/DX8.m3u8
-CCTV9 记录,http://36.129.204.120:880/DX9.m3u8
-CCTV10 科教,http://36.129.204.120:880/DX11.m3u8
-CCTV11 戏曲,http://36.129.204.120:880/DXX11.m3u8
-CCTV12 社会与法,http://36.129.204.120:880/DX12.m3u8
-CCTV13 新闻,http://36.129.204.120:880/DX92.m3u8
-CCTV14 少儿,http://36.129.204.120:880/DXCCTV14.m3u8
-CCTV15 音乐,http://36.129.204.120:880/WGCCTV15.m3u8
-CCTV16 奥林匹克,http://36.129.204.120:880/WGCCTV16.m3u8
-CCTV17 农业农村,http://36.129.204.120:880/CCN16.m3u8
-CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-
-
-
-快乐垂钓,http://gzly.hkychina.com:6002/udp/239.252.220.177:5140
-四海钓鱼,http://110.253.142.191:8888/rtp/239.253.93.243:6421
-来钓鱼吧专区,http://125.71.250.138:8899/rtp/239.93.42.8:5140
-风云音乐,http://dms.yryyj.site:8188/udp/239.76.254.51:9000
-风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-星空音乐,http://wouu.net:9977/udp/239.93.0.157:2194
-
-
-重温经典,http://1.62.64.97/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-重温经典,http://tv.dlwmkj.com/php2021/bfy.php?id=635
-
-澳门莲花,http://php.jdshipin.com:8880/amlh.php
-
-凤凰中文,https://dl.zhoujie218.top/new/fhx.php?id=fhzw
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰香港,https://dl.zhoujie218.top/new/fhx.php?id=fhhk
-凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
-凤凰资讯,https://dl.zhoujie218.top/new/fhx.php?id=fhzx
-
-凤凰影视,http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-
-
-
-CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV2,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV5,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5+,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV6,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV7,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225778/1.m3u8
-CCTV8,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV9,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV13,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV14,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV16,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV女性时尚,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
-
-央视3,#genre#
 
 CCTV1 综合,http://www.furymax.top:85/rtp/239.254.96.96:8550
 CCTV2 财经,http://www.furymax.top:85/rtp/239.69.1.102:10250
