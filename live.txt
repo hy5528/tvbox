@@ -1,4 +1,20 @@
 央视,#genre#
+CCTV1,http://www.locmjj.cloudns.org/ysp.php?id=cctv1
+CCTV2,http://www.locmjj.cloudns.org/ysp.php?id=cctv2
+CCTV4,http://www.locmjj.cloudns.org/ysp.php?id=cctv4
+CCTV5,http://www.locmjj.cloudns.org/ysp.php?id=cctv5
+CCTV5+,http://www.locmjj.cloudns.org/ysp.php?id=cctv5p
+CCTV7,http://www.locmjj.cloudns.org/ysp.php?id=cctv7
+CCTV9,http://www.locmjj.cloudns.org/ysp.php?id=cctv9
+CCTV10,http://www.locmjj.cloudns.org/ysp.php?id=cctv10
+CCTV11,http://www.locmjj.cloudns.org/ysp.php?id=cctv11
+CCTV12,http://www.locmjj.cloudns.org/ysp.php?id=cctv12
+CCTV13,http://www.locmjj.cloudns.org/ysp.php?id=cctv13
+CCTV14,http://www.locmjj.cloudns.org/ysp.php?id=cctv14
+CCTV15,http://www.locmjj.cloudns.org/ysp.php?id=cctv15
+CCTV16,http://www.locmjj.cloudns.org/ysp.php?id=cctv16
+CCTV17,http://www.locmjj.cloudns.org/ysp.php?id=cctv17
+
 
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
@@ -84,7 +100,29 @@ CCTV17,http://locmjj.cloudns.org/Client.php?pd=239.253.64.67:5140
 
 
 卫视,#genre#
-
+北京卫视,http://www.locmjj.cloudns.org/ysp.php?id=bjws
+东方卫视,http://www.locmjj.cloudns.org/ysp.php?id=dfws
+天津卫视,http://www.locmjj.cloudns.org/ysp.php?id=tjws
+重庆卫视,http://www.locmjj.cloudns.org/ysp.php?id=cqws
+黑龙江卫视,http://www.locmjj.cloudns.org/ysp.php?id=hljws
+辽宁卫视,http://www.locmjj.cloudns.org/ysp.php?id=lnws
+河北卫视,http://www.locmjj.cloudns.org/ysp.php?id=hbws
+山东卫视,http://www.locmjj.cloudns.org/ysp.php?id=sdws
+安徽卫视,http://www.locmjj.cloudns.org/ysp.php?id=ahws
+河南卫视,http://www.locmjj.cloudns.org/ysp.php?id=hnws
+湖北卫视,http://www.locmjj.cloudns.org/ysp.php?id=hubws
+湖南卫视,http://www.locmjj.cloudns.org/ysp.php?id=hunws
+江西卫视,http://www.locmjj.cloudns.org/ysp.php?id=jxws
+江苏卫视,http://www.locmjj.cloudns.org/ysp.php?id=jsws
+浙江卫视,http://www.locmjj.cloudns.org/ysp.php?id=zjws
+东南卫视,http://www.locmjj.cloudns.org/ysp.php?id=dnws
+广东卫视,http://www.locmjj.cloudns.org/ysp.php?id=gdws
+深圳卫视,http://www.locmjj.cloudns.org/ysp.php?id=szws
+广西卫视,http://www.locmjj.cloudns.org/ysp.php?id=gxws
+贵州卫视,http://www.locmjj.cloudns.org/ysp.php?id=gzws
+四川卫视,http://www.locmjj.cloudns.org/ysp.php?id=scws
+新疆卫视,http://www.locmjj.cloudns.org/ysp.php?id=xjws
+海南卫视,http://www.locmjj.cloudns.org/ysp.php?id=hinws
 
 北京卫视,http://loc.sportsontheweb.net/Best.php?id=bjws
 东方卫视,http://loc.sportsontheweb.net/Best.php?id=dfws
