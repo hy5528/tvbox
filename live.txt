@@ -1,19 +1,4 @@
 央视,#genre#
-CCTV1,http://www.locmjj.cloudns.org/ysp.php?id=cctv1
-CCTV2,http://www.locmjj.cloudns.org/ysp.php?id=cctv2
-CCTV4,http://www.locmjj.cloudns.org/ysp.php?id=cctv4
-CCTV5,http://www.locmjj.cloudns.org/ysp.php?id=cctv5
-CCTV5+,http://www.locmjj.cloudns.org/ysp.php?id=cctv5p
-CCTV7,http://www.locmjj.cloudns.org/ysp.php?id=cctv7
-CCTV9,http://www.locmjj.cloudns.org/ysp.php?id=cctv9
-CCTV10,http://www.locmjj.cloudns.org/ysp.php?id=cctv10
-CCTV11,http://www.locmjj.cloudns.org/ysp.php?id=cctv11
-CCTV12,http://www.locmjj.cloudns.org/ysp.php?id=cctv12
-CCTV13,http://www.locmjj.cloudns.org/ysp.php?id=cctv13
-CCTV14,http://www.locmjj.cloudns.org/ysp.php?id=cctv14
-CCTV15,http://www.locmjj.cloudns.org/ysp.php?id=cctv15
-CCTV16,http://www.locmjj.cloudns.org/ysp.php?id=cctv16
-CCTV17,http://www.locmjj.cloudns.org/ysp.php?id=cctv17
 
 
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
