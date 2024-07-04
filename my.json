@@ -33,8 +33,8 @@
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://github.com/hy5528/tvbox/blob/main/js/drpy2.min.js",
-      "ext": "https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -61,8 +61,8 @@
       "key": "drpy_js_A8音乐",
       "name": "🍂‍MV|A8音乐[js]",
       "type": 3,
-      "api": "https://github.com/hy5528/tvbox/blob/main/js/drpy2.min.js",
-      "ext": "https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js"
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js"
     },  
     {
             "key": "演唱会",
@@ -71,7 +71,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "https://github.com/hy5528/tvbox/blob/main/json/ych.json"
+            "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
         },		
    
    {
@@ -82,8 +82,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/hy5528/tvbox/blob/main/json/吾爱乐器.json",
-      "spider": "https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },
      
       {
@@ -94,8 +94,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/hy5528/tvbox/blob/main/json/演唱会-哔哩0723.json",
-      "spider": "https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },
      
 
@@ -107,8 +107,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/hy5528/tvbox/blob/main/json/MTV-哔哩0723.json",
-      "spider": "https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/MTV-哔哩0723.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },
 
      {
@@ -119,8 +119,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/hy5528/tvbox/blob/main/json/吾爱经典.json",
-      "spider": "https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },			
   {
       "key": "美食",
@@ -130,8 +130,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://github.com/hy5528/tvbox/blob/main/json/吾爱美食0804.json",
-      "spider": "https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },	
   {
       "key": "哔哩哔哩",
@@ -141,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.com/hy5528/tvbox/blob/main/json/我的Bili.json"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json"
     },	
 
    {
@@ -151,7 +151,7 @@
       "api": "csp_Iktv",
       "searchable": 1,
       "changeable": 0,
-       "jar":"https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
+       "jar":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
     },
     {
       "key": "yyt",
@@ -163,13 +163,13 @@
       "filterable": 1,
       "timeout": 30,
       "playerType": 1,
-      "jar":"https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"},
+      "jar":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"},
    {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "playerType": 1,
       "type": 3,
-      "api": "https://github.com/hy5528/tvbox/blob/main/libs/zb.min.js",
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/libs/zb.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
