@@ -3,64 +3,6 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
-      "key": "Alist",
-      "name": "🌟小雅┃高清",
-      "type": 3,
-      "api": "http://192.168.2.136:5678/tvbox/libs/alist.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": [
-        {
-          "name": "丫仙女",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/",
-          "search": true
-        },
-        {
-          "name": "每日更新",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/每日更新"
-        },
-        {
-          "name": "电影",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/电影"
-        },
-        {
-          "name": "电视剧",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/电视剧"
-        },
-        {
-          "name": "短剧",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/每日更新/爽文短剧"
-        },
-        {
-          "name": "综艺",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/综艺"
-        },
-        {
-          "name": "纪录片",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/纪录片"
-        },
-        {
-          "name": "动漫",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/动漫"
-        },
-        {
-          "name": "儿童",
-          "server": "http://192.168.2.136:5678/",
-          "startPage": "/动漫/儿童"
-        }
-      ],
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
-    },
-    {
       "key": "豆豆",
       "name": "全接口智能过滤广告",
       "type": 3,
