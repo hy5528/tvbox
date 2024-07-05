@@ -33,7 +33,7 @@
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/drpy2.min.js",
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
