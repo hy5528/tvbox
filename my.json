@@ -169,7 +169,7 @@
       "name": "📺︎┃电视┃点播",
       "playerType": 1,
       "type": 3,
-      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/libs/zb.min.js",
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
