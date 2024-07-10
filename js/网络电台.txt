@@ -29,5 +29,5 @@
 深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
 北京好音乐,http://ls.qingting.fm/live/2131011.m3u8
 北京经典,http://live.funhillrm.com/4/sd/live.m3u8
-萤火虫网络台,http://211.149.226.193:8066/1022.mp3
+
 
