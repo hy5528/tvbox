@@ -8,13 +8,12 @@
 电台轮播7,http://www.52sw.top:678/play/douyin.php?id=705762495470
 电台轮播8,http://www.52sw.top:678/play/douyin.php?id=908279719506
 电台轮播9,http://www.52sw.top:678/play/douyin.php?id=768502916257
-电台轮播10,http://www.52sw.top:678/play/douyin.php?id=666967738626
+电台轮播10,http://www.52sw.top:678/play/douyin.php?id=956210224256
 电台轮播11,http://www.52sw.top:678/play/douyin.php?id=800454615746
 电台轮播12,http://www.52sw.top:678/play/douyin.php?id=557218097810
 电台轮播13,http://www.52sw.top:678/play/douyin.php?id=976071151530
-电台轮播14,http://www.52sw.top:678/play/douyin.php?id=480633520899
-电台轮播15,http://www.52sw.top:678/play/douyin.php?id=95692777538
-电台轮播16,http://www.52sw.top:678/play/douyin.php?id=956210224256
+电台轮播14,http://www.52sw.top:678/play/douyin.php?id=95692777538
+
 
 
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
