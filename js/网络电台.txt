@@ -30,7 +30,6 @@
 北京好音乐,http://ls.qingting.fm/live/2131011.m3u8
 北京经典,http://live.funhillrm.com/4/sd/live.m3u8
 80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
 潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
 电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 动感音悦台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
