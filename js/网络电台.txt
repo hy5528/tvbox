@@ -14,13 +14,25 @@
 电台轮播13,http://www.52sw.top:678/play/douyin.php?id=976071151530
 电台轮播14,http://www.52sw.top:678/play/douyin.php?id=95692777538
 
+中文流行,http://cpop.bigbradio.net/s
+亚洲流行,http://apop.bigbradio.net/s
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+CRI粤语国际,http://sk.cri.cn/hxfh.m3u8
+广东音乐之声,https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+楚天音乐广播,https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+江苏音乐广播,https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+江苏经典流行音乐广播,https://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+浙江音乐调频·动听968,https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
+亚洲音乐,http://asiafm.hk:8000/asiafm
+亚洲经典,http://goldfm.cn:8000/goldfm
+亚洲天空,http://funradio.cn:8000/funradio
+AsiaFM HD音乐,http://asiafm.hk:8000/asiahd
 
 
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
 清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
 老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
-亚洲经典音乐台,http://live.xmcdn.com:80/live/1005/64.m3u8
 厦门音乐广播,http://ls.qingting.fm/live/1739.m3u8
 浙江动听,http://ls.qingting.fm/live/4866.m3u8
 四川岷江音乐广播,http://ls.qingting.fm/live/1110.m3u8
