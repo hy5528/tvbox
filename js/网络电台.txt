@@ -14,6 +14,23 @@
 电台轮播14,https://ali-adaptive.pull.yximgs.com/gifshow/AoiRPq5vxsw_ma1500.flv?kabr_spts=-5000&pullDomain=ali-adaptive.pull.yximgs.com&sidc=5526&auth_key=1715086536-0-0-e1453d3c4d5cdd604325afad4f3b447c&fd=1&oidc=watchmen&ss=s20&tsc=origin&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn5140&ali_302c=701&ali_st=cn5876&ali_ts=1715000138
 电台轮播15,https://v23b87ognjy7s7n51amrdiopa90263zen.mobgslb.tbcache.com/ali-adaptive.pull.yximgs.com/gifshow/WF-Zsjx2FlI_ma1500.flv?kabr_spts=-5000&pullDomain=ali-adaptive.pull.yximgs.com&sidc=2434&auth_key=1715086595-0-0-cbd2d5e9fe30c01f8109c86e3f55e3e0&fd=1&oidc=watchmen&ss=s19&tsc=origin&ali_dispatch_cold_stream=on&ali_redirect_ex_hot=66666101&ali_stream_type=01&ali_stream_type_ring=&ali_orig_station=cn5140&ali_302c=701&ali_st=cn4667&ali_ts=1715000197
 
+电台粤播1,http://www.52sw.top:678/play/douyin.php?id=746822069525
+电台粤播2,http://www.52sw.top:678/play/douyin.php?id=345386430810
+电台粤播3,http://www.52sw.top:678/play/douyin.php?id=796558607371
+电台粤播4,http://www.52sw.top:678/play/douyin.php?id=766255078143
+电台粤播5,http://www.52sw.top:678/play/douyin.php?id=22211316453
+电台粤播6,http://www.52sw.top:678/play/douyin.php?id=142485995427
+电台轮播7,http://www.52sw.top:678/play/douyin.php?id=705762495470
+电台轮播8,http://www.52sw.top:678/play/douyin.php?id=908279719506
+电台轮播9,http://www.52sw.top:678/play/douyin.php?id=768502916257
+电台轮播10,http://www.52sw.top:678/play/douyin.php?id=666967738626
+电台轮播11,http://www.52sw.top:678/play/douyin.php?id=800454615746
+电台轮播12,http://www.52sw.top:678/play/douyin.php?id=557218097810
+电台轮播13,http://www.52sw.top:678/play/douyin.php?id=976071151530
+电台轮播14,http://www.52sw.top:678/play/douyin.php?id=480633520899
+电台轮播15,http://www.52sw.top:678/play/douyin.php?id=95692777538
+电台轮播16,http://www.52sw.top:678/play/douyin.php?id=956210224256
+
 
 怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
