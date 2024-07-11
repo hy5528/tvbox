@@ -50,7 +50,6 @@ AsiaFM HD音乐,http://asiafm.hk:8000/asiahd
 四川岷江音乐广播,http://ls.qingting.fm/live/1110.m3u8
 北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
 广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
-深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
 北京好音乐,http://ls.qingting.fm/live/2131011.m3u8
 北京经典,http://live.funhillrm.com/4/sd/live.m3u8
 
