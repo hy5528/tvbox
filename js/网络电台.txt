@@ -21,6 +21,8 @@ CRI 怀旧金曲频道,https://lhttp.qingting.fm/live/5022038/64k.mp3
 CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
 CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 广东音乐之声,https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+深圳音乐广播飞扬971,http://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+海南音乐广播,http://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
 楚天音乐广播,https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
 江苏音乐广播,https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
 江苏经典流行音乐广播,https://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
@@ -32,8 +34,14 @@ AsiaFM HD音乐,http://asiafm.hk:8000/asiahd
 500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 广西音乐广播 FM95.0,http://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
 广西女主播电台 FM97.0,http://live.xmcdn.com/live/300/64.m3u8
+南宁经典1049 FM104.9,http://ls.qingting.fm/live/80795.m3u8?aac
+浙江女主播电台 FM104.5,http://ls.qingting.fm/live/4524.m3u8
+浙江动听(音乐调频) FM96.8,http://live.xmcdn.com/live/637/64.m3u8
+保定飞扬1058汽车音乐广播,http://live.xmcdn.com/live/521/64.m3u8
+广西-北海交通音乐广播,https://lhttp.qingting.fm/live/20211621/64k.mp3
+
 广州汽车音乐电台 FM102.7,http://live.xmcdn.com/live/257/64.m3u8
-怀集音乐台,http://live.xmcdn.com:80/live/966/64.m3u8
+怀集音乐之声,http://ls.qingting.fm/live/4804.m3u8
 高清音乐台,http://live.xmcdn.com:80/live/1427/64.m3u8
 清晨音乐台,http://live.xmcdn.com:80/live/1011/64.m3u8
 老歌音乐台,http://live.xmcdn.com:80/live/2628/64.m3u8
