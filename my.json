@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "全接口智能过滤广告",
+      "name": "豆豆全接口",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
