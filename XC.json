@@ -33,8 +33,8 @@
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -42,8 +42,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
     },
     {
       "key": "MTV",
@@ -57,18 +55,15 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json"
-    },
-     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json"
     },
        {
       "key": "drpy_js_A8音乐",
       "name": "🍂‍MV|A8音乐[js]",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/A8%E9%9F%B3%E4%B9%90.js"
-    }, 
-     
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js"
+    },  
     {
             "key": "演唱会",
             "name": "🎸音乐鉴赏",
@@ -76,9 +71,9 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
+            "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
         },		
-         
+   
    {
       "key": "乐器",
       "name": "🖤吾爱乐器",
@@ -87,10 +82,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
-      "spider": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },
-      
+     
       {
       "key": "演唱会自定义",
       "name": "💛吾爱演唱会",
@@ -99,8 +94,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
-      "spider": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },
      
 
@@ -112,10 +107,10 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/MTV-哔哩0723.json",
-      "spider": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/MTV-哔哩0723.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },
-     
+
      {
       "key": "经典音乐",
       "name": "💜吾爱经典",
@@ -124,10 +119,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
-      "spider": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
-    },
-     
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+    },			
   {
       "key": "美食",
       "name": " 🧡吾爱美食",
@@ -136,10 +130,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
-      "spider": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
-    },
-    
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
+      "spider": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+    },	
   {
       "key": "哔哩哔哩",
       "name": "🅱️我的哔哩",
@@ -148,9 +141,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json"
     },	
-     
+
    {
       "key": "Iktv",
       "name": "🎤KTV音乐",
@@ -158,9 +151,8 @@
       "api": "csp_Iktv",
       "searchable": 1,
       "changeable": 0,
-       "jar":"https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
+       "jar":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
     },
-     
     {
       "key": "yyt",
       "name": "🎵音悦台mv",
@@ -171,22 +163,17 @@
       "filterable": 1,
       "timeout": 30,
       "playerType": 1,
-      "jar":"https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
-    },
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
-    }, 
+      "jar":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"},
    {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "playerType": 1,
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
+      "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
-    },
-     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+      "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },
     {
       "key": "短剧",
@@ -386,7 +373,16 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
     },
-    
+    {
+      "key": "比特",
+      "name": "🍄比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+    },
     {
       "key": "南瓜",
       "name": "🎃南瓜┃多线",
@@ -432,8 +428,6 @@
             "filterable": 1,
             "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
         },
-	 "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
-    },
 {
         "key": "分享",
         "name": "💖分享自用",
@@ -446,8 +440,6 @@
           ]
         }       
       },
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
-    },
      {
       "key": "光速资源",
       "name": "💯光速切片",
