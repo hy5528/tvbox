@@ -43,6 +43,8 @@
       "quickSearch": 0,
       "changeable": 0
     },
+	 "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+    },  
     {
       "key": "MTV",
       "name": "🎧明星┃MV",
@@ -57,6 +59,8 @@
       "changeable": 0,
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json"
     },
+	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+    }, 
        {
       "key": "drpy_js_A8音乐",
       "name": "🍂‍MV|A8音乐[js]",
@@ -64,6 +68,8 @@
       "api": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
       "ext": "https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js"
     },  
+	  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1719686854241/fan.txt;md5;5640a8ad5bd5face5679bd8d6d73d44a"
+    }, 
     {
             "key": "演唱会",
             "name": "🎸音乐鉴赏",
