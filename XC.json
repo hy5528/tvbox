@@ -187,7 +187,6 @@
       "changeable": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
-
     {
       "key": "Lib",
       "name": "🌟立播┃秒播",
@@ -202,7 +201,6 @@
       },
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
-
     {
       "key": "原创",
       "name": "☀原创┃不卡",
@@ -238,30 +236,7 @@
       "ext": "https://czzy.top/",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
-    {
-      "key": "视觉",
-      "name": "👓视觉┃多线",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.6080yy3.com/",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },
-    {
-      "key": "蛋蛋",
-      "name": "🍓蛋蛋┃多线",
-      "type": 3,
-      "api": "csp_Cddys",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },
+
     {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -320,17 +295,7 @@
       "changeable": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
-    {
-      "key": "小点",
-      "name": "💥小点┃多线",
-      "type": 3,
-      "api": "csp_Xdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },
+
     {
       "key": "热播",
       "name": "📺热播┃多线",
@@ -399,28 +364,7 @@
       "ext": "https://www.xb6v.com/",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
- {
-            "key": "2聚合",
-            "name": "💖分享遇见",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 2,
-            "filterable": 1,
-            "ext": "http://4k.953365.cn:8090/xgapp.php/v2/"
-        },
-{
-        "key": "分享",
-        "name": "💖分享自用",
-        "type": 3,
-        "api": "https://notabug.org/ygfxz/6/raw/main/js/AppYsV2.js",
-        "ext": {
-          "host": "http://106.52.244.241/api.php/app/",
-          "*": [
-            "https://json.oorl.cn/api/?key=xdLCoyFT4zZGVlI4vj&url="
-          ]
-        }       
-      },
+ 
      {
       "key": "光速资源",
       "name": "💯光速切片",
