@@ -366,7 +366,7 @@
     },
  {
       "key": "csp_xml_ikun",
-      "name": "爱坤🐔蓝光",
+      "name": "🐔爱坤┃蓝光┃",
       "type": 1,
       "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
       "searchable": 1,
@@ -410,7 +410,7 @@
     },
      {
       "key": "光速资源",
-      "name": "💯光速切片",
+      "name": "💯光速┃切片┃",
       "type": 1,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
