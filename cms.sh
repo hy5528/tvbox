@@ -1,7 +1,8 @@
 #!/bin/bash
 rm -rf cms.sh
-sudo mkdir -p /www && cd /www && rm -rf cms
-wget https://mirror.ghproxy.com/https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms10.zip
+sudo mkdir -p /www 
+sudo mkdir -p /www/cms && cd /www/cms
+wget https://gh.con.sh/https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms10.zip
 sudo unzip maccms10.zip
 sudo chmod -R 777 /www/cms
 sudo docker run -d --name=cms --restart=unless-stopped -v /opt/mysql:/var/lib/mysql -e MYSQL_ROOT_PASSWORD:123456 -e MYSQL_USER:admin -e MYSQL_PASSWORD:123456 --network=1panel-network --ip=172.18.0.3 yobasystems/alpine-mariadb:latest /usr/sbin/init
