@@ -1,6 +1,6 @@
 #!/bin/bash
 rm -rf cms.sh
-mkdir -p /www && cd /www && rm -rf cms
+sudo mkdir -p /www && cd /www && rm -rf cms
 wget https://mirror.ghproxy.com/https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms10.zip
 sudo unzip maccms10.zip
 sudo chmod -R 777 /www/cms
