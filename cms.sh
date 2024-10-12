@@ -1,9 +1,9 @@
 #!/bin/bash
 rm -rf cms.sh
-sudo docker network create --subnet 172.19.0.0/16 --gateway 172.19.1.1 --driver bridge film_network
-sudo mkdir -p /www 
-sudo mkdir -p /www/mysql
-sudo mkdir -p /www/cms && cd /www/cms
+docker network create --subnet 172.19.0.0/16 --gateway 172.19.1.1 --driver bridge film_network
+mkdir -p /www 
+mkdir -p /www/mysql
+mkdir -p /www/cms && cd /www/cms
 wget https://gh.con.sh/https://raw.githubusercontent.com/magicblack/maccms_down/master/maccms10.zip
 sudo unzip maccms10.zip
 sudo chmod -R 777 /www
