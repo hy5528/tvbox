@@ -166,15 +166,7 @@
 
     },	
 
-   {
-      "key": "Iktv",
-      "name": "🎤KTV音乐",
-      "type": 3,
-      "api": "csp_Iktv",
-      "searchable": 1,
-      "changeable": 0,
-      "jar":"https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
-    },
+  
     {
       "key": "yyt",
       "name": "🎵音悦台mv",
