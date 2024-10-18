@@ -35,15 +35,14 @@
       "type": 3,
       "api": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
       "ext": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
+     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
-     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
+      "changeable": 0
     },  
     {
       "key": "MTV",
