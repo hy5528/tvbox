@@ -17,6 +17,11 @@
       "block": false
     },
     {
+      "name": "源4 [IPV6]",
+      "m3uUrl": "https://github.com/wwb521/live/blob/main/tv.m3u",
+      "block": false
+    },
+    {
       "name": "广播电台",
       "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/radio.m3u",
       "block": false
