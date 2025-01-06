@@ -18,7 +18,12 @@
     },
     {
       "name": "源4 [IPV6]",
-      "m3uUrl": "https://github.com/wwb521/live/blob/main/tv.m3u",
+      "m3uUrl": "https://mirror.ghproxy.com/https://github.com/wwb521/live/blob/main/tv.m3u",
+      "block": false
+    },
+    {
+      "name": "源5 [组播]",
+      "m3uUrl": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/live.m3u",
       "block": false
     },
     {
