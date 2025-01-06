@@ -17,12 +17,12 @@
       "block": false
     },
     {
-      "name": "源4 [IPV6]",
+      "name": "源v4 [IPV6]",
       "m3uUrl": "https://gh-proxy.com/https://github.com/kimwang1978/collect-tv-txt/blob/main/live_lite.m3u",
       "block": false
     },
     {
-      "name": "源5 [组播]",
+      "name": "源v5 [组播]",
       "m3uUrl": "http://192.168.2.231:3600/web/live.m3u",
       "block": false
     },
