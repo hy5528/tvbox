@@ -7,8 +7,8 @@
       "block": false
     },
     {
-      "name": "源2 [IPV4]",
-      "m3uUrl": "https://mirror.ghproxy.com/https://github.com/hy5528/tvbox/blob/main/sub/iTV.txt",
+      "name": "源2 [IPV6]",
+      "m3uUrl": "https://github.com/wwb521/live/blob/main/ipv6.txt",
       "block": false
     },
     {
