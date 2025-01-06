@@ -23,7 +23,7 @@
     },
     {
       "name": "源5 [组播]",
-      "m3uUrl": "https://gh-proxy.com/github.com/hy5528/tvbox/blob/main/sub/live.m3u",
+      "m3uUrl": "http://192.168.2.231:3600/web/live.m3u",
       "block": false
     },
     {
