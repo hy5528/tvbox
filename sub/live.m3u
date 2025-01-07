@@ -1,4 +1,4 @@
-
+📺央视频道,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💓专享央视",CCTV1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://106.53.99.30/dl/bjyd.php?id=1#http://z.b.bkpcp.top/m.php?id=cctv1#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8#http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💓专享央视",CCTV2
@@ -39,6 +39,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8#http://
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="💓专享央视",CCTV4美洲
 http://z.b.bkpcp.top/m.php?id=cctv4m
+
+📺卫视频道,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💓专享卫视",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="" group-title="💓专享卫视",兵团卫视
@@ -109,6 +111,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💓专享卫视",浙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226342/index.m3u8
+
+📺咪咕直播,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="咪咕1" tvg-logo="" group-title="💓咪咕直播",咪咕1
 http://39.134.136.161:6610/000000001000/3000000001000028638/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000001000028638
 #EXTINF:-1 tvg-id="" tvg-name="咪咕2" tvg-logo="" group-title="💓咪咕直播",咪咕2
@@ -189,10 +193,14 @@ http://39.134.136.161:6610/000000001000/3000000010000031669/index.m3u8?livemode=
 http://39.134.136.161:6610/000000001000/3000000010000032106/index.m3u8?livemode=1&stbId=3&channel-id=FifastbLive&Contentid=3000000010000032106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="💓咪咕直播",视频 8M
 http://39.134.136.161:6610/000000001000/3000000020000011518/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011518#http://39.134.136.161:6610/000000001000/3000000020000011519/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011519#http://39.134.136.161:6610/000000001000/3000000020000011520/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011520#http://39.134.136.161:6610/000000001000/3000000020000011521/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011521#http://39.134.136.161:6610/000000001000/3000000020000011522/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011522#http://39.134.136.161:6610/000000001000/3000000020000011523/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011523#http://39.134.136.161:6610/000000001000/3000000020000011524/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011524#http://39.134.136.161:6610/000000001000/3000000020000011525/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011525#http://39.134.136.161:6610/000000001000/3000000020000011526/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011526#http://39.134.136.161:6610/000000001000/3000000020000011527/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011527#http://39.134.136.161:6610/000000001000/3000000020000011528/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011528#http://39.134.136.161:6610/000000001000/3000000020000011529/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011529#http://39.134.136.161:6610/000000001000/3000000020000011530/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011530#http://39.134.136.161:6610/000000001000/3000000020000011531/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000011531#http://39.134.136.161:6610/000000001000/3000000020000021510/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000021510#http://39.134.136.161:6610/000000001000/3000000020000021511/index.m3u8?livemode=1&stbId=10&channel-id=FifastbLive&Contentid=3000000020000021511#http://39.134.136.161:6610/000000001000/1000000006000270003/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270003#http://39.134.136.161:6610/000000001000/1000000006000270004/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270004#http://39.134.136.161:6610/000000001000/2000000003000000060/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000060#http://39.134.136.161:6610/000000001000/2000000003000000061/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000061#http://39.134.136.161:6610/000000001000/2000000003000000062/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000062#http://39.134.136.161:6610/000000001000/2000000003000000063/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000063#http://39.134.136.161:6610/000000001000/2000000003000000064/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000064#http://39.134.136.161:6610/000000001000/2000000003000000065/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000065
+
+🌐央视频道,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐央视频道",CCTV1
 http://z.b.bkpcp.top/m.php?id=cctv1#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=201#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=484#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=488#http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=489#http://8.138.90.107/公众号【睡眼迷离的猫】/mg.php?id=cctv1#https://fmbox.cc/公众号玉玉软件库/tv/migu.php?id=cctv1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="🌐央视频道",CCTV2
 http://z.b.bkpcp.top/m.php?id=cctv2
+
+🌐电影频道,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="超级电影" tvg-logo="" group-title="🌐电影频道",超级电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="" group-title="🌐电影频道",CHC动作电影
@@ -211,6 +219,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🌐电影频道",龙华电影
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8#http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/litv-longturn03
+
+🌐明星频道,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="周星星" tvg-logo="" group-title="明星",周星星
 http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星",周星驰
@@ -245,6 +255,7 @@ http://kxrj.site:1258/699/hy.php?id=11352935
 http://kxrj.site:1258/699/hy.php?id=21059581
 #EXTINF:-1 tvg-id="" tvg-name="电影_梁家辉" tvg-logo="" group-title="明星",电影_梁家辉
 http://kxrj.site:1258/699/hy.php?id=11342429
+🌐港澳台频道,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",凤凰中文
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw#https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="" group-title="港澳台",凤凰香港
@@ -295,6 +306,8 @@ http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193#http://wouu.net:9977/rtp/239.93.1.10:2193#http://wouu.net:9977/udp/239.93.1.10:2193
+
+🌐综艺音乐频道,#genre#
 #EXTINF:-1 tvg-id="" tvg-name="热门综艺" tvg-logo="" group-title="综艺频道",热门综艺
 http://wouu.net:9977/udp/239.93.0.151:5140
 #EXTINF:-1 tvg-id="" tvg-name="超级综艺" tvg-logo="" group-title="综艺频道",超级综艺
