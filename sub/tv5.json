@@ -22,7 +22,7 @@
       "block": false
     },
     {
-      "name": "源v5 [IPV4]",
+      "name": "源v5 [V4]",
       "m3uUrl": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/live.m3u",
       "block": false
     },
