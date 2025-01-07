@@ -1,147 +1,87 @@
-#EXTM3U x-tvg-url="http://127.0.0.1/diyp/epg.php"
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="" group-title="央视",CCTV-1综合
-http://192.168.2.1:4022/udp/239.81.0.102:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="" group-title="央视",CCTV-2财经
-http://192.168.2.1:4022/udp/239.81.0.115:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="央视",CCTV-3综艺
-http://192.168.2.1:4022/udp/239.81.0.231:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="" group-title="央视",CCTV-4中文国际
-http://192.168.2.1:4022/udp/239.81.0.96:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV-5体育
-http://192.168.2.1:4022/udp/239.81.0.232:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="央视",CCTV5体育IPTV
-http://192.168.2.1:4022/udp/239.81.0.133:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="" group-title="央视",CCTV-5+体育赛事
-http://192.168.2.1:4022/udp/239.81.0.101:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="央视",CCTV-6电影
-http://192.168.2.1:4022/udp/239.81.0.233:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="央视",CCTV-7国防军事
-http://192.168.2.1:4022/udp/239.81.0.116:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="央视",CCTV-8电视剧
-http://192.168.2.1:4022/udp/239.81.0.234:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="央视",CCTV-9纪录
-http://192.168.2.1:4022/udp/239.81.0.117:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="央视",CCTV-10科教
-http://192.168.2.1:4022/udp/239.81.0.118:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="" group-title="央视",CCTV-11戏曲
-http://192.168.2.1:4022/udp/239.81.0.229:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="" group-title="央视",CCTV-12社会与法
-http://192.168.2.1:4022/udp/239.81.0.119:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="央视",CCTV-13新闻
-http://192.168.2.1:4022/udp/239.81.0.206:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="" group-title="央视",CCTV-14少儿
-http://192.168.2.1:4022/udp/239.81.0.120:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="" group-title="央视",CCTV-15音乐
-http://192.168.2.1:4022/udp/239.81.0.230:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="" group-title="央视",CCTV-16奥林匹克
-http://192.168.2.1:4022/udp/239.81.0.142:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="" group-title="央视",CCTV-16奥林匹克4K
-http://192.168.2.1:4022/udp/239.81.0.144:4056
-#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="" group-title="央视",CCTV-17农业农村
-http://192.168.2.1:4022/udp/239.81.0.228:4056
-#EXTINF:-1 tvg-id="" tvg-name="测试4K" tvg-logo="" group-title="央视",测试4K
-http://192.168.2.1:4022/udp/239.81.0.123:4056
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="" group-title="央视",CHC动作电影
-http://192.168.2.1:4022/udp/239.81.0.239:4056
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="" group-title="央视",CHC家庭影院
-http://192.168.2.1:4022/udp/239.81.0.238:4056
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="" group-title="央视",CHC高清电影
-http://192.168.2.1:4022/udp/239.81.0.240:4056
-#EXTINF:-1 tvg-id="" tvg-name="IPTV" tvg-logo="" group-title="卫视",IPTV
-http://192.168.2.1:4022/udp/239.81.0.100:4056
-#EXTINF:-1 tvg-id="" tvg-name="体育（天津IPTV）" tvg-logo="" group-title="卫视",体育（天津IPTV）
-http://192.168.2.1:4022/udp/239.81.0.69:4056
-#EXTINF:-1 tvg-id="" tvg-name="金鹰纪实" tvg-logo="" group-title="卫视",金鹰纪实
-http://192.168.2.1:4022/udp/239.81.0.91:4056
-#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="" group-title="卫视",CETV-1
-http://192.168.2.1:4022/udp/239.81.0.92:4056
-#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="" group-title="卫视",贵州卫视
-http://192.168.2.1:4022/udp/239.81.0.95:4056
-#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="" group-title="卫视",河北卫视
-http://192.168.2.1:4022/udp/239.81.0.94:4056
-#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="卫视",广东卫视
-http://192.168.2.1:4022/udp/239.81.0.104:4056
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="卫视",深圳卫视
-http://192.168.2.1:4022/udp/239.81.0.103:4056
-#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="" group-title="卫视",黑龙江卫视
-http://192.168.2.1:4022/udp/239.81.0.105:4056
-#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="" group-title="卫视",江苏卫视
-http://192.168.2.1:4022/udp/239.81.0.106:4056
-#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="卫视",浙江卫视
-http://192.168.2.1:4022/udp/239.81.0.108:4056
-#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="" group-title="卫视",湖南卫视
-http://192.168.2.1:4022/udp/239.81.0.110:4056
-#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="" group-title="卫视",北京卫视
-http://192.168.2.1:4022/udp/239.81.0.109:4056
-#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="" group-title="卫视",湖北卫视
-http://192.168.2.1:4022/udp/239.81.0.112:4056
-#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="" group-title="卫视",山东卫视
-http://192.168.2.1:4022/udp/239.81.0.114:4056
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="卫视",东方卫视
-http://192.168.2.1:4022/udp/239.81.0.111:4056
-#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="卫视",四川卫视
-http://192.168.2.1:4022/udp/239.81.0.130:4056
-#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="" group-title="卫视",吉林卫视
-http://192.168.2.1:4022/udp/239.81.0.143:4056
-#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="" group-title="卫视",金鹰卡通
-http://192.168.2.1:4022/udp/239.81.0.148:4056
-#EXTINF:-1 tvg-id="" tvg-name="没台标" tvg-logo="" group-title="卫视",没台标
-http://192.168.2.1:4022/udp/239.81.0.166:4056
-#EXTINF:-1 tvg-id="" tvg-name="游戏电子" tvg-logo="" group-title="卫视",游戏电子
-http://192.168.2.1:4022/udp/239.81.0.203:4056
-#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="" group-title="卫视",江西卫视
-http://192.168.2.1:4022/udp/239.81.0.204:4056
-#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="" group-title="卫视",辽宁卫视
-http://192.168.2.1:4022/udp/239.81.0.210:4056
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="" group-title="卫视",安徽卫视
-http://192.168.2.1:4022/udp/239.81.0.211:4056
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="" group-title="卫视",甘肃卫视
-http://192.168.2.1:4022/udp/239.81.0.207:4056
-#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="" group-title="卫视",东南卫视
-http://192.168.2.1:4022/udp/239.81.0.215:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="" group-title="卫视",广西卫视
-http://192.168.2.1:4022/udp/239.81.0.107:4056
-#EXTINF:-1 tvg-id="" tvg-name="南宁都市生活" tvg-logo="" group-title="卫视",南宁都市生活
-http://192.168.2.1:4022/udp/239.81.0.139:4056
-#EXTINF:-1 tvg-id="" tvg-name="南宁影视娱乐" tvg-logo="" group-title="卫视",南宁影视娱乐
-http://192.168.2.1:4022/udp/239.81.0.140:4056
-#EXTINF:-1 tvg-id="" tvg-name="南宁公共" tvg-logo="" group-title="卫视",南宁公共
-http://192.168.2.1:4022/udp/239.81.0.141:4056
-#EXTINF:-1 tvg-id="" tvg-name="南宁新闻综合" tvg-logo="" group-title="卫视",南宁新闻综合
-http://192.168.2.1:4022/udp/239.81.0.241:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西都市" tvg-logo="" group-title="卫视",广西都市
-http://192.168.2.1:4022/udp/239.81.0.247:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西新闻" tvg-logo="" group-title="卫视",广西新闻
-http://192.168.2.1:4022/udp/239.81.0.248:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西影视" tvg-logo="" group-title="卫视",广西影视
-http://192.168.2.1:4022/udp/239.81.0.250:4056
-#EXTINF:-1 tvg-id="" tvg-name="导视" tvg-logo="" group-title="卫视",导视
-http://192.168.2.1:4022/udp/239.81.0.202:4056
-#EXTINF:-1 tvg-id="" tvg-name="广西IPTV导航" tvg-logo="" group-title="卫视",广西IPTV导航
-http://192.168.2.1:4022/udp/239.81.0.208:4056
-#EXTINF:-1 tvg-id="" tvg-name="百色综合" tvg-logo="" group-title="卫视",百色综合
-http://192.168.2.1:4022/udp/239.81.0.150:4056
-#EXTINF:-1 tvg-id="" tvg-name="河池新闻综合" tvg-logo="" group-title="卫视",河池新闻综合
-http://192.168.2.1:4022/udp/239.81.0.168:4056
-#EXTINF:-1 tvg-id="" tvg-name="防城港新闻综合" tvg-logo="" group-title="卫视",防城港新闻综合
-http://192.168.2.1:4022/udp/239.81.0.151:4056
-#EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="" group-title="卫视",求索纪录
-http://192.168.2.1:4022/udp/239.81.0.153:4056
-#EXTINF:-1 tvg-id="" tvg-name="北海新闻综合" tvg-logo="" group-title="卫视",北海新闻综合
-http://192.168.2.1:4022/udp/239.81.0.154:4056
-#EXTINF:-1 tvg-id="" tvg-name="贺州综合" tvg-logo="" group-title="卫视",贺州综合
-http://192.168.2.1:4022/udp/239.81.0.163:4056
-#EXTINF:-1 tvg-id="" tvg-name="钦州综合" tvg-logo="" group-title="卫视",钦州综合
-http://192.168.2.1:4022/udp/239.81.0.164:4056
-#EXTINF:-1 tvg-id="" tvg-name="贵港新闻综合" tvg-logo="" group-title="卫视",贵港新闻综合
-http://192.168.2.1:4022/udp/239.81.0.172:4056
-#EXTINF:-1 tvg-id="" tvg-name="来宾综合" tvg-logo="" group-title="卫视",来宾综合
-http://192.168.2.1:4022/udp/239.81.0.173:4056
-#EXTINF:-1 tvg-id="" tvg-name="桂林新闻综合" tvg-logo="" group-title="卫视",桂林新闻综合
-http://192.168.2.1:4022/udp/239.81.0.174:4056
-#EXTINF:-1 tvg-id="" tvg-name="柳州新闻综合" tvg-logo="" group-title="卫视",柳州新闻综合
-http://192.168.2.1:4022/udp/239.81.0.175:4056
-#EXTINF:-1 tvg-id="" tvg-name="梧州新闻综合" tvg-logo="" group-title="卫视",梧州新闻综合
-http://192.168.2.1:4022/udp/239.81.0.176:4056
-#EXTINF:-1 tvg-id="" tvg-name="玉林新闻综合" tvg-logo="" group-title="卫视",玉林新闻综合
-http://192.168.2.1:4022/udp/239.81.0.177:4056
+💓专享央视,#genre#
+
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+CCTV1,http://106.53.99.30/dl/bjyd.php?id=1
+CCTV2,http://106.53.99.30/dl/bjyd.php?id=2
+CCTV4,http://106.53.99.30/dl/bjyd.php?id=3
+CCTV7,http://106.53.99.30/dl/bjyd.php?id=4
+CCTV9,http://106.53.99.30/dl/bjyd.php?id=5
+CCTV10,http://106.53.99.30/dl/bjyd.php?id=6
+CCTV11,http://106.53.99.30/dl/bjyd.php?id=7
+CCTV12,http://106.53.99.30/dl/bjyd.php?id=8
+CCTV13,http://106.53.99.30/dl/bjyd.php?id=9
+CCTV14,http://106.53.99.30/dl/bjyd.php?id=10
+CCTV15,http://106.53.99.30/dl/bjyd.php?id=11
+CCTV17,http://106.53.99.30/dl/bjyd.php?id=12
+
+CCTV1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m
+CCTV5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV17,http://z.b.bkpcp.top/m.php?id=cctv17
+
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+CCTV2,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8
+CCTV9,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+CCTV10,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225730/index.m3u8
+CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
+CCTV12,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
+CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8
+CCTV14,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
+CCTV15,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225601/index.m3u8
+CCTV17,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
