@@ -212,18 +212,7 @@
       },
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
-    {
-      "key": "原创",
-      "name": "☀原创┃不卡",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },
+
     {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
@@ -340,18 +329,7 @@
       "changeable": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃多线",
-      "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },
+    
     {
       "key": "Auete",
       "name": "🏝奥特┃无广",
@@ -1022,7 +1000,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghfast.top/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+      "url": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv4_5.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
