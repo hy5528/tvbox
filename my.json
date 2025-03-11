@@ -1023,7 +1023,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://ghfast.top/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u",
+      "url": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv4_5.m3u",
       "playerType": 1,
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
