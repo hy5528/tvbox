@@ -26,6 +26,11 @@
       "m3uUrl": "https://gh-proxy.com/github.com/hy5528/tvbox/blob/main/sub/live.m3u",
       "block": false
     },
+     {
+      "name": "源v6 [IPV4]",
+      "m3uUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+      "block": false
+    },
     {
       "name": "广播电台",
       "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/radio.m3u",
