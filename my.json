@@ -33,8 +33,8 @@
       "key": "酷奇",
       "name": "🎤酷奇┃MV",
       "type": 3,
-      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
+      "api": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
       "style": {
         "type": "rect",
@@ -56,7 +56,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json",
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 
     },
@@ -65,8 +65,8 @@
       "key": "drpy_js_A8音乐",
       "name": "🍂‍MV|A8音乐[js]",
       "type": 3,
-      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
+      "api": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 
     },  
@@ -78,7 +78,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/ych.json",
+            "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/ych.json",
            "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 
         },		
@@ -91,8 +91,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 
     },
@@ -105,8 +105,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 
     },
@@ -120,8 +120,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 
     },			
@@ -133,8 +133,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 
     },	
@@ -146,7 +146,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json",
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json",
        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
 
     },	
@@ -161,18 +161,18 @@
       "filterable": 1,
       "timeout": 30,
       "playerType": 1,
-      "jar":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
+      "jar":"https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
      },
    {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
       "playerType": 1,
       "type": 3,
-      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
+      "api": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },
      {
       "key": "原创",
