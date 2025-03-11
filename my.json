@@ -36,16 +36,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-            "key": "演唱会",
-            "name": "🎸音乐鉴赏",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
-
-        },	
+  
     {
       "key": "alllive",
       "name": "📽️一直播┃直播",
