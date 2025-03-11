@@ -218,6 +218,17 @@
       "filterable": 1,
       "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
     },
+    {
+      "key": "csp_MeijuTT",
+      "name": "🧲美剧天堂",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
+    }, 
+	  
      {
       "key": "csp_MeijuMi",
       "name": "🧲美剧迷",
