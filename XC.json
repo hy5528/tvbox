@@ -12,6 +12,16 @@
       "filterable": 0,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
+     {
+      "key": "csp_LiteApple",
+      "name": "🍎苹果",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
+    },  
     {
       "key": "玩偶",
       "name": "👽玩偶哥哥┃4K弹幕",
@@ -186,7 +196,7 @@
       "changeable": 1,
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },
-      {
+    {
       "key": "神车",
       "name": "🚎神车┃秒播",
       "type": 3,
@@ -195,18 +205,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5QqOrsp1OZsTS9wQSSpQpK6jnh0fUMKIu22IxR6Z7/exDifuKH+Agjg9"
-    }, 
-    {
-      "key": "短剧",
-      "name": "🌈上头┃短剧",
-      "type": 3,
-      "api": "csp_Djtt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },
-      {
+    {
       "key": "短剧屋",
       "name": "🎬短剧屋",
       "type": 3,
@@ -217,6 +217,21 @@
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/短剧屋.json",
        "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
     },
+    {
+      "key": "Lib",
+      "name": "🌟立播┃秒播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "quarkCookie": "tvfan/cookie.txt",
+        "from": "4k|auto|fhd"
+      },
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },
+
     {
       "key": "厂长",
       "name": "📔厂长┃不卡",
@@ -230,15 +245,7 @@
       "ext": "https://czzy.top/",
       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
-    {
-      "key": "Wexxpgtv",
-      "name": "🌺苹果┃秒播🌺",
-      "type": 3,
-      "api": "csp_WexxpgtvGuard",
-      "searchable": 1,
-      "changeable": 1,
-        "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741165310578/wex.txt;md5;ced27296fb88b4a9b2dcfad99c5c44d9"
-    },
+
     {
       "key": "文采",
       "name": "💮文采┃秒播",
