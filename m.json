@@ -17,6 +17,7 @@
       "type": 3,
       "api": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
+       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -37,7 +38,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },
 	
        {
@@ -45,8 +47,8 @@
       "name": "🍂‍MV|A8音乐[js]",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js"
-
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },  
 	  
     {
@@ -56,7 +58,8 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
+            "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/ych.json",
+	    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
         },		
    
    {
@@ -68,7 +71,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
-      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },
      
       {
@@ -80,7 +84,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
-      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
       
     },
   
@@ -94,7 +99,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
-      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },			
   {
       "key": "美食",
@@ -105,7 +111,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
-      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },	
   {
       "key": "哔哩哔哩",
@@ -115,7 +122,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json",
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1741066475265/f0304.txt;md5;d7422c79ea5b4479c056b168cdaf95b0"
     },	
 
     {
