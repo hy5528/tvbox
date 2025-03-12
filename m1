@@ -17,7 +17,6 @@
       "type": 3,
       "api": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
-     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -38,9 +37,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json",
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
-
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json"
     },
 	
        {
@@ -48,8 +45,7 @@
       "name": "🍂‍MV|A8音乐[js]",
       "type": 3,
       "api": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js"
 
     },  
 	  
@@ -60,9 +56,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/ych.json",
-           "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
+            "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
         },		
    
    {
@@ -74,9 +68,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
-      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },
      
       {
@@ -88,9 +80,8 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
-      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
+      
     },
   
 
@@ -103,9 +94,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
-      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },			
   {
       "key": "美食",
@@ -116,9 +105,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
-      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
+      "spider": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
     },	
   {
       "key": "哔哩哔哩",
@@ -128,9 +115,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json",
-       "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json"
     },	
 
     {
@@ -331,7 +316,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/可可影视.json"
+      "ext": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/可可影视.json"
     },
     {
       "key": "csp_Ddys",
@@ -368,7 +353,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/jianpian.json"
+      "ext": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/jianpian.json"
     },
     {
       "key": "csp_xlys",
@@ -846,7 +831,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/樱花动漫.json"
+      "ext": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/樱花动漫.json"
     },
     {
       "key": "短剧屋",
@@ -856,7 +841,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/短剧屋.json"
+      "ext": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/短剧屋.json"
     },
     {
       "key": "豆瓣",
@@ -940,7 +925,7 @@
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "https://www.wogg.one/",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/wogg.json"
       }
     },
     {
@@ -979,7 +964,7 @@
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "http://www.xhww.net",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/wogg.json"
       }
     },
     {
@@ -992,7 +977,7 @@
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "http://feimaoai.site",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/wogg.json"
       }
     },
     {
@@ -1005,7 +990,7 @@
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "https://woog.nxog.eu.org",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/wogg.json"
       }
     },
     {
@@ -1018,7 +1003,7 @@
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "https://tv.yydsys.top",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/wogg.json"
       }
     },
     {
@@ -1031,7 +1016,7 @@
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "https://mo.666291.xyz/",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/wogg.json"
       }
     },
     {
@@ -1044,7 +1029,7 @@
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "http://milvdou.fun",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/wogg.json"
       }
     },
     {
@@ -1057,7 +1042,7 @@
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
         "siteUrl": "http://1.95.79.193",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/wogg.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/wogg.json"
       }
     },
     {
@@ -1128,7 +1113,7 @@
       "api": "csp_AList",
       "searchable": 1,
       "changeable": 0,
-      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/alist.json"
+      "ext": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/alist.json"
     },
     {
       "key": "网盘集合",
@@ -1140,7 +1125,7 @@
       "switchable": 0,
       "ext": {
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "share": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/网盘集合.json"
+        "share": "https://github.moeyy.xyz/https://github.com/hy5528/tvbox/blob/main/sub/网盘集合.json"
       }
     },
     {
@@ -1155,7 +1140,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/youtube.json",
+        "json": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/youtube.json",
         "cookie": "http://127.0.0.1:9978/file/TVBox/youtubecookie.json"
       }
     },
@@ -1171,7 +1156,7 @@
         "count": 4,
         "channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json",
-        "filter": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/douban.json"
+        "filter": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/douban.json"
       }
     },
     {
@@ -1284,7 +1269,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/Bili.json",
+        "json": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/Bili.json",
         "cookie": ""
       }
     },
@@ -1301,7 +1286,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/Blixs.json",
+        "json": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/Blixs.json",
         "cookie": ""
       }
     },
@@ -1318,7 +1303,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/Blixq.json",
+        "json": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/Blixq.json",
         "cookie": ""
       }
     },
@@ -1335,7 +1320,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/少儿教育.json",
+        "json": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/少儿教育.json",
         "cookie": ""
       }
     },
@@ -1352,7 +1337,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/小学课堂.json",
+        "json": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/小学课堂.json",
         "cookie": ""
       }
     },
@@ -1369,7 +1354,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/初中课堂.json",
+        "json": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/初中课堂.json",
         "cookie": ""
       }
     },
@@ -1386,7 +1371,7 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/高中课堂.json",
+        "json": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/高中课堂.json",
         "cookie": ""
       }
     }
@@ -1593,7 +1578,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/NanFeng.gif",
+  "logo": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/sub/NanFeng.gif",
   "rules": [
     {
       "name": "proxy",
