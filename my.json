@@ -194,8 +194,7 @@
       "api": "csp_LiteApple",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
+      "filterable": 1
     },
     {
       "key": "旺旺短剧",
@@ -215,8 +214,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/短剧屋.json",
-       "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/sub/短剧屋.json"
     },
     {
       "key": "csp_AppXY",
@@ -225,8 +223,7 @@
       "api": "csp_AppXY",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
+      "filterable": 1
     },
     {
       "key": "csp_MeijuTT",
@@ -235,8 +232,7 @@
       "api": "csp_MeijuTT",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-       "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
+      "filterable": 1
     }, 
 	  
      {
@@ -246,8 +242,7 @@
       "api": "csp_MeijuMi",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
+      "filterable": 1
     }, 
     {
       "key": "Lib",
