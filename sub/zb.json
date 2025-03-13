@@ -10,7 +10,6 @@
     { "name": "自用源", "url": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv4_5.m3u"},
     { "name": "内网组播", "url": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/js/BiLI.js"},
     { "name": "广西移动", "url": "https://gh-proxy.com/https://github.com/Healer-sys/Home/blob/main/iptv/gx.m3u"},
-    { "name": "美影剧", "url": "https://gh-proxy.com/https://github.com/eklins/FDTV/blob/main/tv/%E7%BE%8E%E5%BD%B1%E5%89%A7.m3u"},
     { "name": "斗鱼", "url": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/js/douyu.txt"},
     { "name": "YY轮播", "url": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/js/yy.txt"},
     { "name": "虎牙", "url": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/js/huya.txt"},
