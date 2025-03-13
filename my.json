@@ -196,7 +196,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;a860de706e4bcac71d328bdb75eb37e3"
-    },  
+    },
+    {
+      "key": "旺旺短剧",
+      "name": "🎀旺旺短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+     "短剧"
+     ]},
     {
       "key": "短剧屋",
       "name": "🎬短剧屋",
