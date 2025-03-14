@@ -1,5 +1,6 @@
 {
   "privateKey": "404",
+  "webTvUrl": "https://vod.7na7.com/myApi/liveTV/webtv.json?5",
   "tvSources": [
     {
       "name": "源1 [IPV6]",
@@ -7,28 +8,28 @@
       "block": false
     },
     {
-      "name": "源2 [IPV4]",
-      "m3uUrl": "https://gh-proxy.com/github.com/hy5528/tvbox/blob/main/sub/iTV.m3u",
-      "block": false
-    },
-    {
-      "name": "源3 [IPV6]",
+      "name": "源2 [IPV6]",
       "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv6_2.m3u",
       "block": false
     },
     {
-      "name": "源v4 [IPV6]",
-      "m3uUrl": "https://gh-proxy.com/github.com/kimwang1978/collect-tv-txt/blob/main/merged_output.m3u",
+      "name": "源3 [IPV4]",
+      "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv4_5.m3u",
       "block": false
     },
     {
-      "name": "源v5 [IPV4]",
-      "m3uUrl": "https://gh-proxy.com/github.com/hy5528/tvbox/blob/main/sub/live.m3u",
+      "name": "源4 [IPV4]",
+      "m3uUrl": "http://iptv.mac-cms.com/iptv_m3u/iptv/ipv4_5.m3u",
       "block": false
     },
-     {
-      "name": "源v6 [IPV4]",
-      "m3uUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u",
+    {
+      "name": "广西移动1 [IPV4]",
+      "m3uUrl": "https://gh-proxy.com/https://github.com/Healer-sys/Home/blob/main/iptv/gx.m3u",
+      "block": false
+    },
+    {
+      "name": "广西移动2 [IPV4]",
+      "m3uUrl": "https://gh-proxy.com/https://github.com/wlcmc1972/tvbox/blob/main/tv/live1.txt",
       "block": false
     },
     {
@@ -41,7 +42,7 @@
     {
       "name": "7Na7",
       "url": "https://vod.7na7.com/kapi.php/provide/vod/",
-      "desc": "资源较全"
+      "desc": "资源较全 量子+暴风"
     },
     {
       "name": "暴风资源",
