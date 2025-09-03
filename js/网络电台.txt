@@ -1,21 +1,4 @@
 
-电台粤播1,http://www.52sw.top:678/play/douyin.php?id=746822069525
-电台粤播2,http://www.52sw.top:678/play/douyin.php?id=345386430810
-电台粤播3,http://www.52sw.top:678/play/douyin.php?id=796558607371
-电台粤播4,http://www.52sw.top:678/play/douyin.php?id=766255078143
-电台粤播5,http://www.52sw.top:678/play/douyin.php?id=22211316453
-电台粤播6,http://www.52sw.top:678/play/douyin.php?id=142485995427
-电台轮播7,http://www.52sw.top:678/play/douyin.php?id=705762495470
-电台轮播8,http://www.52sw.top:678/play/douyin.php?id=908279719506
-电台轮播9,http://www.52sw.top:678/play/douyin.php?id=768502916257
-电台轮播10,http://www.52sw.top:678/play/douyin.php?id=956210224256
-电台轮播11,http://www.52sw.top:678/play/douyin.php?id=800454615746
-电台轮播12,http://www.52sw.top:678/play/douyin.php?id=557218097810
-电台轮播13,http://www.52sw.top:678/play/douyin.php?id=976071151530
-电台轮播14,http://www.52sw.top:678/play/douyin.php?id=95692777538
-
-中文流行,http://cpop.bigbradio.net/s
-亚洲流行,http://apop.bigbradio.net/s
 CRI轻松调频,http://sk.cri.cn/915.m3u8
 CRI 怀旧金曲频道,https://lhttp.qingting.fm/live/5022038/64k.mp3
 CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
