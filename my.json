@@ -389,7 +389,7 @@
     },
     {
       "key": "聚合资源",
-      "name": "🎀聚合资源",
+      "name": "🎀聚合资源┃影视┃",
       "type": 1,
       "api": "https://vod.korge.cn/kapi.php/provide/vod/",
       "searchable": 1,
