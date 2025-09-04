@@ -40,11 +40,11 @@
       "changeable": 0
     },
 	
-    {
+     {
       "key": "MTV",
       "name": "🎧明星┃MV",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -52,9 +52,9 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
+      "ext": {
+        "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-861684-ccfca7b2c24d4857a9dcf1e51798109e.json"
+      }
     },
 	
        {
