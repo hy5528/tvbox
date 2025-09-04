@@ -28,15 +28,7 @@
         "danMu": "弹"
       }
     },
-    {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃预告片",
-      "type": 3,
-      "api": "csp_YGPGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+  
     {
       "key": "alllive",
       "name": "📽️一直播┃直播",
@@ -46,6 +38,151 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+	 {
+      "key": "酷奇",
+      "name": "🎤酷奇┃MV",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
+     "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },  
+    {
+      "key": "MTV",
+      "name": "🎧明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json",
+      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+    },
+	
+       {
+      "key": "drpy_js_A8音乐",
+      "name": "🍂‍MV|A8音乐[js]",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
+      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+    },  
+	  
+    {
+            "key": "演唱会",
+            "name": "🎸音乐鉴赏",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/ych.json",
+           "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+        },		
+   
+   {
+      "key": "乐器",
+      "name": "🖤吾爱乐器",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
+      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+    },
+     
+      {
+      "key": "演唱会自定义",
+      "name": "💛吾爱演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
+      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+    },
+  
+
+     {
+      "key": "经典音乐",
+      "name": "💜吾爱经典",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
+      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+    },			
+  {
+      "key": "美食",
+      "name": " 🧡吾爱美食",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
+      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
+      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+    },	
+  {
+      "key": "哔哩哔哩",
+      "name": "🅱️我的哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json",
+       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+
+    },	
+
+    {
+      "key": "yyt",
+      "name": "🎵音悦台mv",
+      "type": 3,
+      "api": "csp_Yinyuetai",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 30,
+      "playerType": 1,
+      "jar":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
+     },
+   {
+      "key": "直播转点播",
+      "name": "📺︎┃电视┃点播",
+      "playerType": 1,
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },
     {
       "key": "seed",
