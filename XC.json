@@ -170,6 +170,16 @@
       "filterable": 0,
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },
+	{
+      "key": "旺旺短剧",
+      "name": "😈旺旺短剧",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+     "短剧"
+      ]},
     {
       "key": "seed",
       "name": "💡聚剧剧┃三盘",
