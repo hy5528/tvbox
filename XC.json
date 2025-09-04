@@ -172,7 +172,7 @@
     },
 	{
       "key": "旺旺短剧",
-      "name": "😈旺旺短剧",
+      "name": "😈旺旺┃短剧",
       "type": 1,
       "api": "https://api.wwzy.tv/api.php/provide/vod/?ac=list",
       "searchable": 1,
