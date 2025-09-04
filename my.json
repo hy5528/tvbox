@@ -706,7 +706,7 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/tree/main/js/lib/drpy2.min.js",
+      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/tree/main/js/有声小说吧.js",
       "style": {
         "type": "rect",
