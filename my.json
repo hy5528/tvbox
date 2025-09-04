@@ -656,12 +656,12 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
+     {
       "key": "斗鱼js",
       "name": "🐟斗鱼┃直播",
       "type": 3,
-      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/tree/main/js/lib/drpy2.min.js",
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/tree/main/js/斗鱼直播.js",
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -676,8 +676,8 @@
       "key": "有声小说js",
       "name": "🎧有声┃小说",
       "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/tree/main/js/有声小说吧.js",
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
@@ -849,20 +849,16 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/20250818-343950-58e67f4fabd947228c2fc158489008c9.json"
       }
     },
-    {
+     {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
+      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
     {
       "key": "少儿教育",
       "name": "📚少儿┃教育",
