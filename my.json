@@ -633,7 +633,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-861684-ccfca7b2c24d4857a9dcf1e51798109e.json"
+        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/明星MV.json"
       }
     },
     {
@@ -683,8 +683,8 @@
       "quickSearch": 0,
       "changeable": 0
     },
-	{"key":"听书","name":"🅰听书┃合集","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"order_num":142,"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/我的哔哩.js?type=url&params=https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bilibili/小说.json"},
-    {
+	
+   {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
