@@ -39,21 +39,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
-	 {
-      "key": "酷奇",
-      "name": "🎤酷奇┃MV",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/酷奇MV.js",
-     "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },  
+	 
     {
       "key": "MTV",
       "name": "🎧明星┃MV",
