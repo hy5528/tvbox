@@ -81,7 +81,7 @@
    
    {
       "key": "乐器",
-      "name": "🖤吾爱乐器",
+      "name": "🖤吾爱┃乐器",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -136,7 +136,7 @@
     },	
   {
       "key": "哔哩哔哩",
-      "name": "🅱️我的哔哩",
+      "name": "🅱️我的┃哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -149,7 +149,7 @@
 
     {
       "key": "yyt",
-      "name": "🎵音悦台mv",
+      "name": "🎵音悦台┃mv",
       "type": 3,
       "api": "csp_Yinyuetai",
       "quickSearch": 1,
