@@ -959,7 +959,7 @@
     {
       "name": "牛播一",
       "type": 0,
-      "url": "http://127.0.0.1:9978/proxy?do=饭太硬&type=liveList",
+      "url": "https://gh-proxy.net/https://github.com/Supprise0901/TVBox_live/blob/main/live.txt",
       "playerType": 2,
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
       "logo": "https://11.112114.xyz/logo/{name}.png"
