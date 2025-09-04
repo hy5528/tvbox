@@ -388,10 +388,10 @@
       "ext": "https://www.xb6v.com/"
     },
     {
-      "key": "7Na7",
-      "name": "🎀7Na7┃影视┃",
+      "key": "聚合资源",
+      "name": "🎀聚合资源",
       "type": 1,
-      "api": "https://vod.7na7.com/kapi.php/provide/vod/",
+      "api": "https://vod.korge.cn/kapi.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
