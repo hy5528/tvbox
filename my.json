@@ -40,32 +40,6 @@
       "changeable": 0
     },
 	
-     {
-      "key": "MTV",
-      "name": "🎧明星┃MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-861684-ccfca7b2c24d4857a9dcf1e51798109e.json"
-      }
-    },
-	
-       {
-      "key": "drpy_js_A8音乐",
-      "name": "🍂‍MV|A8音乐[js]",
-      "type": 3,
-      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
-	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-
-    },  
 	  
     {
             "key": "演唱会",
@@ -154,6 +128,31 @@
       "playerType": 1,
       "jar":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
      },
+	{
+      "key": "MTV",
+      "name": "🎧明星┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-861684-ccfca7b2c24d4857a9dcf1e51798109e.json"
+      }
+    },
+	
+       {
+      "key": "drpy_js_A8音乐",
+      "name": "🍂‍MV|A8音乐[js]",
+      "type": 3,
+      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
+	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+    },  
    {
       "key": "直播转点播",
       "name": "📺︎┃电视┃点播",
