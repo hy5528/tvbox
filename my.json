@@ -28,19 +28,6 @@
         "danMu": "弹"
       }
     },
-  
-    {
-      "key": "alllive",
-      "name": "📽️一直播┃直播",
-      "type": 3,
-      "api": "csp_AllliveGuard",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-	
-	  
     {
             "key": "演唱会",
             "name": "🎸音乐┃鉴赏",
@@ -593,7 +580,16 @@
         "type": "list"
       }
     },
-    
+    {
+      "key": "alllive",
+      "name": "📽️一直播┃直播",
+      "type": 3,
+      "api": "csp_AllliveGuard",
+      "playerType": 2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
     {
       "key": "虎牙直播js",
       "name": "🐯虎牙┃直播",
