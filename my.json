@@ -62,8 +62,7 @@
       "name": "🍂‍MV|A8音乐[js]",
       "type": 3,
       "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js"
 
     },  
 	  
@@ -74,8 +73,7 @@
             "api": "csp_Bili",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/ych.json",
-           "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+            "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/ych.json"
 
         },		
    
@@ -88,8 +86,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
 
     },
      
@@ -102,8 +99,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
 
     },
   
@@ -117,8 +113,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
 
     },			
   {
@@ -130,8 +125,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar"
 
     },	
   {
@@ -142,8 +136,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json",
-       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json"
 
     },	
 
