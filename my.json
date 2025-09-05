@@ -257,17 +257,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "白白",
-      "name": "🐟白白┃秒播",
-      "type": 3,
-      "api": "csp_SbaibaiGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
+  
     {
       "key": "Lib",
       "name": "🌟立播┃秒播",
@@ -314,18 +304,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "萌米",
-      "name": "👀萌米┃多线",
-      "type": 3,
-      "api": "csp_AppTTGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "uqGL1bNENEIVq+dC1p/Y9uWjuA=="
-    },
+
     {
       "key": "热播",
       "name": "📺热播┃多线",
