@@ -138,8 +138,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://github.com/hy5528/tvbox/blob/main/js/明星MV.json"，
-	  "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
+        "json": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/js/明星MV.json"
       }
     },
 	
