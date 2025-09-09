@@ -4,16 +4,11 @@ HITFM劲曲调频,https://radio.0472.org/?id=662
 湖南音乐之声,https://radio.0472.org/?id=1060
 长沙音乐广播,https://radio.0472.org/?id=1531
 深圳音乐频率,https://radio.0472.org/?id=498
-#EXTINF:-1 tvg-name="湖南金鹰955" tvg-logo="https://radio.0472.org/?id=523&logo" group-title="音乐广播",湖南金鹰之声
-https://radio.0472.org/?id=523
-#EXTINF:-1 tvg-name="湖南交通广播" tvg-logo="https://radio.0472.org/?id=1059&logo" group-title="音乐广播",湖南交通广播
-https://radio.0472.org/?id=1059
-#EXTINF:-1 tvg-name="湖南音乐之声" tvg-logo="https://radio.0472.org/?id=1060&logo" group-title="音乐广播",湖南音乐之声
-https://radio.0472.org/?id=1060
-#EXTINF:-1 tvg-name="长沙交通广播" tvg-logo="https://radio.0472.org/?id=1061&logo" group-title="音乐广播",长沙交通广播
-https://radio.0472.org/?id=1061
-#EXTINF:-1 tvg-name="长沙音乐广播" tvg-logo="https://radio.0472.org/?id=1531&logo" group-title="音乐广播",长沙音乐广播
-https://radio.0472.org/?id=1531
+湖南金鹰之声,https://radio.0472.org/?id=523
+湖南交通广播,https://radio.0472.org/?id=1059
+湖南音乐之声,https://radio.0472.org/?id=1060
+长沙交通广播,https://radio.0472.org/?id=1061
+长沙音乐广播,https://radio.0472.org/?id=1531
 #EXTINF:-1 tvg-logo="https://radio.0472.org/?id=381&logo" group-title="音乐广播",河北音乐广播
 https://radio.0472.org/?id=381
 #EXTINF:-1 radio="true" tvg-name="江苏音乐广播" tvg-logo="https://radio.0472.org/?id=415&logo" group-title="音乐广播",江苏音乐广播
@@ -40,20 +35,13 @@ https://radio.0472.org/?id=702
 https://radio.0472.org/?id=601
 #EXTINF:-1 tvg-name="楚天音乐广播" tvg-logo="https://radio.0472.org/?id=533&logo" group-title="音乐广播",楚天音乐广播
 https://radio.0472.org/?id=533
-#EXTINF:-1 tvg-name="浙江音乐调频" tvg-logo="https://radio.0472.org/?id=928&logo" group-title="音乐广播",浙江音乐调频
-https://radio.0472.org/?id=928
-#EXTINF:-1 tvg-name="厦门音乐广播" tvg-logo="https://radio.0472.org/?id=1897&logo" group-title="音乐广播",厦门音乐广播
-https://radio.0472.org/?id=1897
-#EXTINF:-1 tvg-name="云南音乐广播" tvg-logo="https://radio.0472.org/?id=592&logo" group-title="音乐广播",云南音乐广播
-https://radio.0472.org/?id=592
-#EXTINF:-1 tvg-name="广西音乐台" tvg-logo="https://radio.0472.org/?id=590&logo" group-title="音乐广播",广西音乐台
-https://radio.0472.org/?id=590
-#EXTINF:-1 tvg-name="贵州音乐广播" tvg-logo="https://radio.0472.org/?id=435&logo" group-title="音乐广播",贵州音乐广播
-https://radio.0472.org/?id=435
-#EXTINF:-1 tvg-name="新疆音乐广播" tvg-logo="https://radio.0472.org/?id=1158&logo" group-title="音乐广播",新疆音乐广播
-https://radio.0472.org/?id=1158
-#EXTINF:-1 tvg-name="海南音乐广播" tvg-logo="https://radio.0472.org/?id=543&logo" group-title="音乐广播",海南音乐广播
-https://radio.0472.org/?id=543
+浙江音乐调频,https://radio.0472.org/?id=928
+厦门音乐广播,https://radio.0472.org/?id=1897
+云南音乐广播,https://radio.0472.org/?id=592
+广西音乐台,https://radio.0472.org/?id=590
+贵州音乐广播,https://radio.0472.org/?id=435
+新疆音乐广播,https://radio.0472.org/?id=1158
+海南音乐广播,https://radio.0472.org/?id=543
 
 
 CRI轻松调频,http://sk.cri.cn/915.m3u8
