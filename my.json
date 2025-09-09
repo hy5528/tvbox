@@ -133,7 +133,8 @@
             "playerType": 2,
             "ext": {
                 "json": "https://img2.gelonghui.com/library/2b4eb-8fb08a6b-f9f1-48d8-816a-1bc712a85fefnull",
-                "cookie": ""
+                "cookie": "",
+				"jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
             },
             "style": {
                 "type": "rect",
