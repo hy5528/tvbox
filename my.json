@@ -138,7 +138,8 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "https://scrm-community.oss-cn-shenzhen.aliyuncs.com/miniso-vendor/20250818-861684-ccfca7b2c24d4857a9dcf1e51798109e.json"
+        "json": "https://github.com/hy5528/tvbox/blob/main/js/明星MV.json"，
+	  "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
       }
     },
 	
