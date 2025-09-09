@@ -191,16 +191,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "剧九",
-      "name": "🍙剧九┃多线",
-      "type": 3,
-      "api": "csp_AppYsV2Guard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "rfOK0+FRORAJ7epFjN2F5bqpqyOZwM/2zjo8fIu3AAlFJl8e/Co3qKR3f7pI2cY5ozXZZ9dHjiJz7Ht9P/01UpTYurKeSnahWreewemiQ2fux0BkNEtR69ypVhP1Muo4YsZTow4IKQzyEtbS42eHS9QK"
-    },
+    
     {
       "key": "原创",
       "name": "☀原创┃不卡",
@@ -533,19 +524,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "926",
-      "name": "⚽926┃看球",
-      "type": 3,
-      "api": "csp_kanqiu926Guard",
-      "timeout": 15,
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": "uqGL1fpJNAUa4uUHi9iMsef1+C/R"
-    },
+    
     {
       "key": "88",
       "name": "⚽88┃看球",
