@@ -124,16 +124,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        },
-	
-       {
-      "key": "drpy_js_A8音乐",
-      "name": "🍂‍MV|A8音乐",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/js/A8音乐.js",
-	  "jar": "https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },  
+        }, 
    {
       "key": "直播转点播",
       "name": "📺︎电视┃点播",
