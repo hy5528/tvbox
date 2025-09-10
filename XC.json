@@ -591,22 +591,6 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
-      "key": "有声小说js",
-      "name": "🎧有声┃小说",
-      "type": 3,
-      "api": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-      "ext": "https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "timeout": 15,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-	
    {
       "key": "Aid",
       "name": "🚑急救┃教学",
