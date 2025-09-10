@@ -218,16 +218,6 @@
       }
     },
     {
-      "key": "鲸鱼",
-      "name": "👀鲸鱼┃秒播",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/v1TAvdIvuChMackUUvW9kpKB+MLYeh4E6s3acbsBJ32o953hmRr4x"
-    },
-    {
       "key": "原创",
       "name": "☀原创┃不卡",
       "type": 3,
