@@ -11,7 +11,7 @@
 
 ],
 "sites": [
-{"key":"豆瓣2","name":"📢公众号【杰歌软件APP】如有收费,直接找退款！","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"豆瓣【杰歌】如有收费,直接找退款！","type":3,"api":"csp_Douban","searchable":0},
 {"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og;md5;d29b7750dc6fc68cfbd5d40b1503d9d0 ","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org"],"url_key":"woog","threadinfo":{"chunksize":263,"threads":16}}},
 
 {"key": "config", "name": "🐲配置｜中心","type": 3,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf2;md5;dd19c67b72b708f567d94500d7d9ab4e ","api": "csp_Config","searchable": 0},
