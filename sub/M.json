@@ -28,7 +28,7 @@
 
 //jar
        
-
+{"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"ext":"https://ij1men.slsw6.com"},
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
 
 {"key":"浪酷影视","name":"💡浪酷｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"}},
