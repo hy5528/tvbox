@@ -12,7 +12,7 @@
 ],
 "sites": [
 {"key":"豆瓣2","name":"📢公众号【欧歌APP】仅供测试安装24小时后删除！.","type":3,"api":"csp_Douban","searchable":0},
-{"key":"豆瓣1","name":"📢公告❤更新:9/9❤","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=xx;md5;ed61f5e30960fa9d7c4ef6cf81a3f01b","ext": "https://xn--tkh-mf3g9f.v.nxog.top/m/公告.php?b=公众号【欧歌APP】仅供测试安装24小时后删除！."},
+
 {"key":"csp_woog","name":"🐲玩欧｜4K弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og;md5;d29b7750dc6fc68cfbd5d40b1503d9d0 ","ext":{"site_urls":["https://woog.nxog.fun","https://woog.nxog.eu.org"],"url_key":"woog","threadinfo":{"chunksize":274,"threads":16}}},
 
 {"key": "config", "name": "🐲配置｜中心","type": 3,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=cf2;md5;dd19c67b72b708f567d94500d7d9ab4e ","api": "csp_Config","searchable": 0},
