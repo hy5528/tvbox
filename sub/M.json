@@ -502,18 +502,11 @@
 
 //PYapp
 {"key":"猎手影视","name":"🧡猎手｜PY影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-
 {"key":"哔哩直播","name":"🧡哔哩｜直播","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/BLZB.py"},
-
 {"key":"本地","name":"🌸本地｜视频","type":3,"api":"csp_LocalFile"},
 {"key":"预告","name":"🌸新片｜预告","type":3,"api":"csp_DouBan","searchable":0},
-
-
-
 {"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0},
-
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
-
 ],
 
 "parses":
