@@ -444,10 +444,7 @@
 //jar
        
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"ext":"https://ij1men.slsw6.com"},
-
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
-{"key":"天天影视","name":"💡天天｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://tt.ysdqjs.cn"}},
-
 {"key":"瓜子影视","name":"💡瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"低端","name":"💡低端｜影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"苹果影视","name":"💡苹果｜影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -478,14 +475,11 @@
 {"key":"旗星","name":"👑旗星｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
 {"key":"和友","name":"👑和友｜弹幕","type":3,"api":"csp_AppSy","ext":{"url":"","site":"http://qcb.sxtzg.com/api.txt","siteKey":"rectangleadsadxa","listKey":"gHSLmx3JQRasgztO","parsesKey":"gHSLmx3JQRasgztO"}},
 {"key":"鲸鱼","name":"👑鲸鱼｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","dataKey":"AAdgrdghjfgswerA","dataIv":"AAdgrdghjfgswerA","deviceId":"","version":""}},
-{"key":"豆丁","name":"👑豆丁｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"http://45.66.157.77:9427/dd.txt","dataKey":"Xasdasd!123123dd","dataIv":"Xasdasd!123123dd","deviceId":"","version":"","ua":""}},
 {"key":"蔬菜","name":"👑蔬菜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","site":"","dataKey":"huohushipingetap","dataIv":"huohushipingetap","deviceId":"","version":"140","ua":""}},
 {"key":"爱看","name":"👑爱看｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://114.134.185.234","site":"","dataKey":"uI1TkPJC8B46AyN3","dataIv":"uI1TkPJC8B46AyN3","deviceId":"","version":""}},
-{"key":"云端","name":"👑云端｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8k2n5l0i9s8b2m1jj8k2x2l9ff68.ydysapi.cfd:27899","site":"","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"","version":""}},
 {"key":"小猪","name":"👑小猪丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://xz4k.top/url.txt","dataKey":"1785acb6c963184b","dataIv":"1785acb6c963184b","deviceId":"","version":"","ua":""}},
 {"key":"狂人","name":"👑狂人丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.zjkrmv.vip","site":"","dataKey":"vXeyuJFqTKqWUtWU","dataIv":"vXeyuJFqTKqWUtWU","deviceId":"","version":"","ua":""}},
 {"key":"追番","name":"👑追番丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://ysappapi.oss-cn-shenzhen.aliyuncs.com/getapi.txt","dataKey":"A1akVPQmnnE4Fz9Z","dataIv":"A1akVPQmnnE4Fz9Z","deviceId":"","version":"","ua":""}},
-{"key":"零三","name":"👑零三丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://03macapp.01yy.top","site":"","dataKey":"sdfjiweunikfjofj","dataIv":"sdfjiweunikfjofj","deviceId":"","version":"","ua":""}},
 
 
 
@@ -493,8 +487,6 @@
 {"key":"曼波动漫","name":"🤣曼波｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454","deviceId":"","version":""}},
 {"key":"魔都资源","name":"🤣魔都┃动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"稀饭动漫","name":"🤣稀饭｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt","dataKey":"1yZ2Spn9krnzVKoC","dataIv":"1yZ2Spn9krnzVKoC","deviceId":"","version":""}},
-{"key":"派对动漫","name":"🤣派对｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://qjappcms.acg.party","dataKey":"AmtMYFCJDPoTlK7z","dataIv":"AmtMYFCJDPoTlK7z","deviceId":"","version":""}},
-
 {"key":"多多动漫","name":"🤣多多｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://app.cf4k.xyz/1.txt","dataKey":"qqqqqqqqqqqqqqqq","dataIv":"qqqqqqqqqqqqqqqq","deviceId":"","version":""}},
 
 
@@ -551,7 +543,6 @@
 //PYapp
 {"key":"猎手影视","name":"🧡猎手｜PY影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
-{"key":"网络直播","name":"🧡网络｜直播","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/WLZB.py"},
 {"key":"哔哩直播","name":"🧡哔哩｜直播","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/BLZB.py"},
 
 {"key":"本地","name":"🌸本地｜视频","type":3,"api":"csp_LocalFile"},
@@ -561,7 +552,6 @@
 
 {"key":"push_agent","name":"📢手机｜推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0},
 
-{"key":"豆瓣3","name":"📢接口软件永远免费","type":3,"api":"csp_DouBan","searchable":0},
 {"key":"豆瓣4","name":"📢长期维护切勿贩卖","type":3,"api":"csp_Douban","searchable":0}
 
 ],
