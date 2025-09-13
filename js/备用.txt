@@ -220,10 +220,10 @@
       ]
     },
    {
-      "key": "闪电",
-      "name": "🎀闪电┃影视",
+      "key": "卧龙",
+      "name": "🎀卧龙┃影视",
       "type": 1,
-      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "api": "https://wolongzyw.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
