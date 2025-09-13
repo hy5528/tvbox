@@ -412,8 +412,7 @@
 {"key":"鲸鱼","name":"👑鲸鱼｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","dataKey":"AAdgrdghjfgswerA","dataIv":"AAdgrdghjfgswerA","deviceId":"","version":""}},
 {"key":"蔬菜","name":"👑蔬菜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","site":"","dataKey":"huohushipingetap","dataIv":"huohushipingetap","deviceId":"","version":"140","ua":""}},
 {"key":"爱看","name":"👑爱看｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://114.134.185.234","site":"","dataKey":"uI1TkPJC8B46AyN3","dataIv":"uI1TkPJC8B46AyN3","deviceId":"","version":""}},
-{"key":"狂人","name":"👑狂人丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.zjkrmv.vip","site":"","dataKey":"vXeyuJFqTKqWUtWU","dataIv":"vXeyuJFqTKqWUtWU","deviceId":"","version":"","ua":""}},
-{"key":"追番","name":"👑追番丨弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://ysappapi.oss-cn-shenzhen.aliyuncs.com/getapi.txt","dataKey":"A1akVPQmnnE4Fz9Z","dataIv":"A1akVPQmnnE4Fz9Z","deviceId":"","version":"","ua":""}},
+
 {"key":"猎手影视","name":"🧡猎手｜PY影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 	
 //动漫
