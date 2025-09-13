@@ -397,7 +397,7 @@
 
 //App
 {"key":"雄鹰","name":"👑雄鹰｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://122.228.193.2:9988","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","deviceId":"","version":"120"}},
-{"key":"萝卜","name":"👑萝卜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://apiapplbys.lbys.app:5678","dataKey":"apiapplbyskey168","dataIv":"apiapplbyskey168","deviceId":"","version":"107"}},
+
 {"key":"白蛇","name":"👑白蛇｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt","dataKey":"n3l2tx5jdkp9s2c8","dataIv":"n3l2tx5jdkp9s2c8","deviceId":"","version":"361"}},
 {"key":"光影","name":"👑光影｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.guangyingmi.com","dataKey":"230fnsodfsdhfon2","dataIv":"230fnsodfsdhfon2","deviceId":"","version":""}},
 {"key":"丫丫","name":"👑丫丫｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://tv.yy-fun.cc","dataKey":"qkxnwkfjwpcnwycl","dataIv":"qkxnwkfjwpcnwycl","deviceId":"","version":""}},
