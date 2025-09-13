@@ -392,7 +392,7 @@
 {"key":"农民影视","name":"💡农民┃影视","type":3,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},
 {"key":"骚火影视","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 {"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
-{"key":"奇优影视","name":"💡奇优｜影视","type":3,"api":"csp_Qiyou"},
+
 {"key":"1905","name":"💡1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 
 //App
