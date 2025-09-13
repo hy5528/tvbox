@@ -399,7 +399,7 @@
 {"key":"雄鹰","name":"👑雄鹰｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://122.228.193.2:9988","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","deviceId":"","version":"120"}},
 
 {"key":"白蛇","name":"👑白蛇｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt","dataKey":"n3l2tx5jdkp9s2c8","dataIv":"n3l2tx5jdkp9s2c8","deviceId":"","version":"361"}},
-{"key":"光影","name":"👑光影｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.guangyingmi.com","dataKey":"230fnsodfsdhfon2","dataIv":"230fnsodfsdhfon2","deviceId":"","version":""}},
+
 {"key":"丫丫","name":"👑丫丫｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://tv.yy-fun.cc","dataKey":"qkxnwkfjwpcnwycl","dataIv":"qkxnwkfjwpcnwycl","deviceId":"","version":""}},
 {"key":"加菲","name":"👑加菲｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt","dataKey":"dksvndkaAjekakcE","dataIv":"dksvndkaAjekakcE","deviceId":"","version":"","ua":""}},
 {"key":"咖啡","name":"👑咖啡｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","dataKey":"37kj83zs1q16jk6t","dataIv":"37kj83zs1q16jk6t","deviceId":"","version":"101","ua":""}},
