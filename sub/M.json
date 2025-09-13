@@ -408,7 +408,7 @@
 {"key":"蓝鹰","name":"👑蓝鹰｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","deviceId":"","version":"120"}},
 {"key":"莱米","name":"👑莱米｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt","dataKey":"ce032244d093b3e2","dataIv":"ce032244d093b3e2","deviceId":"","version":""}},
 {"key":"旗星","name":"👑旗星｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
-{"key":"和友","name":"👑和友｜弹幕","type":3,"api":"csp_AppSy","ext":{"url":"","site":"http://qcb.sxtzg.com/api.txt","siteKey":"rectangleadsadxa","listKey":"gHSLmx3JQRasgztO","parsesKey":"gHSLmx3JQRasgztO"}},
+
 {"key":"鲸鱼","name":"👑鲸鱼｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","dataKey":"AAdgrdghjfgswerA","dataIv":"AAdgrdghjfgswerA","deviceId":"","version":""}},
 {"key":"蔬菜","name":"👑蔬菜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","site":"","dataKey":"huohushipingetap","dataIv":"huohushipingetap","deviceId":"","version":"140","ua":""}},
 {"key":"爱看","name":"👑爱看｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://114.134.185.234","site":"","dataKey":"uI1TkPJC8B46AyN3","dataIv":"uI1TkPJC8B46AyN3","deviceId":"","version":""}},
