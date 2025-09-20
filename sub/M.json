@@ -393,14 +393,11 @@
 {"key":"农民影视","name":"💡农民┃影视","type":3,"api":"csp_Wwys","ext":"https://www.wwgz.cn"},
 {"key":"骚火影视","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
 {"key":"金牌影视","name":"💡金牌｜影视","type":3,"api":"csp_Jpys","ext":"https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
-
 {"key":"1905","name":"💡1905｜影视","type":3,"api":"csp_Web1905","searchable":1,"quickSearch":0,"filterable":0},
 
 //App
 {"key":"雄鹰","name":"👑雄鹰｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet2","ext":{"url":"http://122.228.193.2:9988","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","deviceId":"","version":"120"}},
-
 {"key":"白蛇","name":"👑白蛇｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt","dataKey":"n3l2tx5jdkp9s2c8","dataIv":"n3l2tx5jdkp9s2c8","deviceId":"","version":"361"}},
-
 {"key":"丫丫","name":"👑丫丫｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://tv.yy-fun.cc","dataKey":"qkxnwkfjwpcnwycl","dataIv":"qkxnwkfjwpcnwycl","deviceId":"","version":""}},
 {"key":"加菲","name":"👑加菲｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt","dataKey":"dksvndkaAjekakcE","dataIv":"dksvndkaAjekakcE","deviceId":"","version":"","ua":""}},
 {"key":"咖啡","name":"👑咖啡｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt","dataKey":"37kj83zs1q16jk6t","dataIv":"37kj83zs1q16jk6t","deviceId":"","version":"101","ua":""}},
@@ -409,11 +406,8 @@
 {"key":"蓝鹰","name":"👑蓝鹰｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt","dataKey":"ca94b06ca359d80e","dataIv":"ca94b06ca359d80e","deviceId":"","version":"120"}},
 {"key":"莱米","name":"👑莱米｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt","dataKey":"ce032244d093b3e2","dataIv":"ce032244d093b3e2","deviceId":"","version":""}},
 {"key":"旗星","name":"👑旗星｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://ys.qist.top","site":"","dataKey":"2SWSPFxugBLPPOKo","dataIv":"2SWSPFxugBLPPOKo","deviceId":"","version":"120"}},
-
-{"key":"鲸鱼","name":"👑鲸鱼｜弹幕","type":3,"quickSearch":1,"api":"csp_AppQi","ext":{"url":"","site":"https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json","dataKey":"AAdgrdghjfgswerA","dataIv":"AAdgrdghjfgswerA","deviceId":"","version":""}},
 {"key":"蔬菜","name":"👑蔬菜｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://huohu.yihn.cc","site":"","dataKey":"huohushipingetap","dataIv":"huohushipingetap","deviceId":"","version":"140","ua":""}},
 {"key":"爱看","name":"👑爱看｜弹幕","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://114.134.185.234","site":"","dataKey":"uI1TkPJC8B46AyN3","dataIv":"uI1TkPJC8B46AyN3","deviceId":"","version":""}},
-
 {"key":"猎手影视","name":"🧡猎手｜PY影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手影视.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
 	
 //动漫
