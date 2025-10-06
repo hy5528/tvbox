@@ -1,7 +1,7 @@
 [
     {
         "name": "聚合资源",
-        "url": "https://vod.korge.cn",
+        "url": "https://vod.korge.cn/kapi.php/provide/vod/",
         "parse_url": "",
         "cate_exclude": "电影|连续剧|综艺|动漫|伦理片|体育|爽文短剧",
         "class_name": "H4sIALGjdWYC/zWRa3aCMBCFd5N9tAvomhRaFHoqcKpYrUd7VEQtCD6rYGAzee6iYYi/8s0kmZl7h/fPFO+RqKa8SKgdIV7chZ0j6qzZ/ReR+4p7Frc7dYLgCVAwUQ9r4t09M9+AIp/eippY22OtAN7Zkb5l3S+S25D7xiSP6j5yNWLXFGi2UemaWBzxslcTwZ/COKCX5yfETIcZY/i8u9A84akidykWUJr2LOoeoIkR88CHYZyU4y1Qu5TjEijfUjwAmiVaD+/DxNTN2K2E/sOQTWKg8x9dBkDHTE9Hl5EcWdqfenY3ewTDUIl4BCDiYWOjtzFTy9MB/NGBuBy5ZyKe7uqDTba0a/F9gURYSXPdWI1Z0FGzw456GSkW0sT0aiDx6rPTtFGP6O2kbvimEhdHu0SKESl/VPAhcKzKgJTwKOc+a7+rDarteHJQyZYl5sk/IOiszA8CAAA=",
