@@ -112,15 +112,6 @@
       "ext": ""
     },
     {
-      "key": "jisu",
-      "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://jszyapi.com"
-    },
-    {
       "key": "mozhua",
       "api": "https://mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源",
