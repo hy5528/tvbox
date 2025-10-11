@@ -32,12 +32,12 @@
     },
     {
       "key": "ruyi",
-      "api": "http://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源",
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": ""
+      "ext": "https://www.ryzyw.com"
     },
     {
       "key": "bfzy",
@@ -55,7 +55,7 @@
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": ""
+      "ext": "https://tyyszy.com"
     },
     {
       "key": "ffzy",
@@ -91,7 +91,7 @@
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": ""
+      "ext": "https://360zy.com"
     },
     {
       "key": "maotaizy",
@@ -100,7 +100,7 @@
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": ""
+      "ext": "https://mtzy.me"
     },
     {
       "key": "wolong",
@@ -113,12 +113,12 @@
     },
     {
       "key": "mozhua",
-      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "api": "https://dl.hafrey.dpdns.org/?url=https://mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源",
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": ""
+      "ext": "https://mozhuazy.com"
     },
     {
       "key": "mdzy",
