@@ -282,15 +282,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "https://www.pgxdy.com"
-    },
-    {
-      "key": "bdzy",
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度资源",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": ""
     }
  ],
 
