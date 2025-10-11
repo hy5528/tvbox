@@ -12,17 +12,7 @@
 ],
 "sites": [
 {"key":"豆瓣2","name":"💒豆瓣｜杰歌","type":3,"api":"csp_Douban","searchable":0},
-
-    {
-      "key": "Td1bzy",
-      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
-      "name": "TV-豆瓣资源1",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://caiji.dbzy.tv"
-    },
-    {
+ {
       "key": "kgzy",
       "api": "https://vod.korge.cn/kapi.php/provide/vod/",
       "name": "聚合资源",
@@ -75,6 +65,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://ffzy5.tv"
+    },
+     {
+      "key": "Td1bzy",
+      "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+      "name": "TV-豆瓣资源1",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://caiji.dbzy.tv"
     },
     {
       "key": "db2zy",
@@ -143,15 +142,6 @@
       "key": "zuid",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "name": "最大资源",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
-    {
-      "key": "yinghua",
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",
-      "name": "樱花资源",
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
