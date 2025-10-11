@@ -165,15 +165,7 @@
       "quickSearch": 1,
       "ext": ""
     },
-    {
-      "key": "ikun",
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": ""
-    },
+
     {
       "key": "lzi",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
