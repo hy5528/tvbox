@@ -32,7 +32,7 @@
     },
     {
       "key": "ruyi",
-      "api": "https://dl.hafrey.dpdns.org/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源",
       "type": 1,
       "searchable": 1,
@@ -113,7 +113,7 @@
     },
     {
       "key": "mozhua",
-      "api": "https://dl.hafrey.dpdns.org/?url=https://mozhuazy.com/api.php/provide/vod",
+      "api": "https://mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源",
       "type": 1,
       "searchable": 1,
