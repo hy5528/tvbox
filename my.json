@@ -115,16 +115,7 @@
       "playerType": 1,
       "jar":"https://gh-proxy.net/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
      },
-	{
-            "key": "MTV合集",
-            "name": "🧡MTV┃合集",
-            "type": 1,
-            "api": "https://open-yaolaikeji.koyeb.app/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
