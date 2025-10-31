@@ -1,18 +1,18 @@
 [
-   {
-    "id": "korgeziyuan",
-    "name": "聚合影视",
-    "api": "https://vod.korge.cn/kapi.php/provide/vod/",
+  {
+    "id": "niuniuziyuan",
+    "name": "牛牛视频",
+    "api": "https://api.niuniuzy.me/api.php/provide/vod",
     "nsfw": false,
     "type": 0,
     "extra": {
       "gfw": false
     }
   },
-  {
-    "id": "niuniuziyuan",
-    "name": "牛牛视频",
-    "api": "https://api.niuniuzy.me/api.php/provide/vod",
+   {
+    "id": "korgeziyuan",
+    "name": "聚合影视",
+    "api": "https://vod.korge.cn/kapi.php/provide/vod/",
     "nsfw": false,
     "type": 0,
     "extra": {
