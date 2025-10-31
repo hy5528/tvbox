@@ -3,7 +3,7 @@
     "id": "kgzy",
     "name": "🎀聚合┃影视",
     "api": "https://vod.korge.cn/kapi.php/provide/vod/",
-    "nsfw": false,
+    "nsfw": true,
     "type": 0,
     "extra": {
       "gfw": false
@@ -12,7 +12,7 @@
     "id": "nnzy",
     "name": "牛牛视频",
     "api": "https://api.niuniuzy.me/api.php/provide/vod",
-    "nsfw": false,
+    "nsfw": true,
     "type": 0,
     "extra": {
       "gfw": false
@@ -22,7 +22,7 @@
     "id": "maotaiziyuan",
     "name": "茅台资源",
     "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn",
-    "nsfw": false,
+    "nsfw": true,
     "type": 0,
     "extra": {
       "gfw": false
@@ -42,39 +42,18 @@
     "id": "mzzy",
     "name": "🎀魔爪┃影视",
     "api": "https://mozhuazy.com/api.php/provide/vod",
-    "nsfw": false,
+    "nsfw": true,
     "type": 0,
     "extra": {
       "gfw": true
     }
   },
-  {
-    "id": "tianyiziyuan",
-    "name": "天翼资源",
-    "api": "https://www.911ysw.top/tianyi.php/provide/vod",
-    "logo": "https://www.911ysw.top/static/jsui/img/logo_max_f.png",
-    "nsfw": false,
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
-  {
-    "id": "feifanziyuan",
-    "name": "非凡资源",
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
-    "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
-    "nsfw": false,
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
+
   {
     "id": "aiqiyiziyuan",
     "name": "爱奇艺资源",
     "api": "https://iqiyizyapi.com/api.php/provide/vod",
-    "nsfw": false,
+    "nsfw": true,
     "type": 0,
     "extra": {
       "gfw": false
