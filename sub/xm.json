@@ -1,7 +1,7 @@
 [
   {
     "id": "kgzy",
-    "name": "🎀聚合┃影视",
+    "name": "聚合影视",
     "api": "https://vod.korge.cn/kapi.php/provide/vod/",
     "nsfw": false,
     "type": 0,
