@@ -41,9 +41,9 @@
     }
   },
   {
-    "id": "360ziyuan",
-    "name": "360资源",
-    "api": "https://360zy.com/api.php/provide/vod",
+    "id": "mozhuazyziyuan",
+    "name": "魔爪影视",
+    "api": "https://mozhuazy.com/api.php/provide/vod",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -51,9 +51,9 @@
     }
   },
   {
-    "id": "tianyiziyuan",
-    "name": "天翼资源",
-    "api": "https://www.911ysw.top/tianyi.php/provide/vod",
+    "id": "dbziyuan",
+    "name": "豆瓣┃影视",
+    "api": "https://caiji.dbzy5.com/api.php/provide/vod",
     "nsfw": false,
     "type": 0,
     "extra": {
@@ -61,9 +61,9 @@
     }
   },
   {
-    "id": "feifanziyuan",
-    "name": "非凡资源",
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
+    "id": "wolongziyuan",
+    "name": "卧龙影视",
+    "api": "https://wolongzyw.com/api.php/provide/vod",
     "nsfw": false,
     "type": 0,
     "extra": {
