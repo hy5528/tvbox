@@ -1,7 +1,7 @@
 [
    {
     "id": "kgzy",
-    "name": "🎀聚合┃影视",
+    "name": "聚合影视",
     "api": "https://vod.korge.cn/kapi.php/provide/vod/",
     "nsfw": true,
     "type": 0,
@@ -30,7 +30,7 @@
   },
   {
     "id": "ryzy",
-    "name": "🎀如意┃影视",
+    "name": "如意影视",
     "api": "http://cj.rycjapi.com/api.php/provide/vod",
     "nsfw": false,
     "type": 0,
@@ -40,7 +40,7 @@
   },
   {
     "id": "mzzy",
-    "name": "🎀魔爪┃影视",
+    "name": "魔爪影视",
     "api": "https://mozhuazy.com/api.php/provide/vod",
     "nsfw": true,
     "type": 0,
