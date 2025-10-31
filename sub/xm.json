@@ -22,10 +22,10 @@
     }
   },
   {
-    "id": "jinyingziyuan",
-    "name": "金鹰资源",
-    "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8",
-    "logo": "https://jyzyapi.com/template/jinying/images/logo.png",
+    "id": "korgeziyuan",
+    "name": "聚合影视",
+    "api": "https://vod.korge.cn/kapi.php/provide/vod/",
+    "logo": "https://vod.korge.cn/template/jinying/images/logo.png",
     "nsfw": false,
     "type": 0,
     "extra": {
