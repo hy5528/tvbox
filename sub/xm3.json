@@ -44,10 +44,10 @@
     }
   },
   {
-    "id": "tianyiziyuan",
-    "name": "天翼资源",
-    "api": "https://www.911ysw.top/tianyi.php/provide/vod",
-    "logo": "https://www.911ysw.top/static/jsui/img/logo_max_f.png",
+    "id": "dbziyuan",
+    "name": "豆瓣资源",
+    "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+    "logo": "https://caiji.dbzy5.com/static/jsui/img/logo_max_f.png",
     "nsfw": false,
     "type": 0,
     "extra": {
