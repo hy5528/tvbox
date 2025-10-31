@@ -52,7 +52,7 @@
   },
   {
     "id": "dbziyuan",
-    "name": "豆瓣┃影视",
+    "name": "豆瓣影视",
     "api": "https://caiji.dbzy5.com/api.php/provide/vod",
     "nsfw": false,
     "type": 0,
