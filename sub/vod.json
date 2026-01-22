@@ -44,9 +44,9 @@
     }
   },
   {
-    "id": "ckziyuan",
-    "name": "193301影视",
-    "api": "https://vod.199301.xyz",
+    "id": "gdziyuan",
+    "name": "gd影视",
+    "api": "https://luna-config.chimiansw.workers.dev/?url=https://www.gdlsp.com/api/json.php",
     "nsfw": false,
     "logo": "",
     "type": 0,
