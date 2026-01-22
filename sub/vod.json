@@ -77,9 +77,9 @@
     }
   },
   {
-    "id": "madoziyuan",
-    "name": "91视频",
-    "api": "https://91jpzyw.com/api.php/provide/vod",
+    "id": "dtziyuan",
+    "name": "天堂视频",
+    "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
     "nsfw": false,
     "logo": "",
     "type": 0,
