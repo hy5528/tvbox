@@ -13,7 +13,7 @@
   {
     "id": "ckziyuan",
     "name": "CK影视",
-    "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
+    "api": "https://ckzy.me/api.php/provide/vod/",
     "nsfw": false,
     "logo": "",
     "type": 0,
