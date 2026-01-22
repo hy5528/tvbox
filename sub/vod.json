@@ -22,9 +22,9 @@
     }
   },
   {
-    "id": "kgziyuan",
-    "name": "联合影视",
-    "api": "https://vod.korge.cn/kapi.php/provide/vod/",
+    "id": "dbziyuan",
+    "name": "DB影视",
+    "api": "https://caiji.dbzy5.com/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
     "type": 0,
