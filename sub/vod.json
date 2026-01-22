@@ -34,7 +34,7 @@
   },
   {
     "id": "hhziyuan",
-    "name": "hh影视",
+    "name": "豪华影视",
     "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
     "nsfw": false,
     "logo": "",
@@ -45,7 +45,7 @@
   },
   {
     "id": "wlziyuan",
-    "name": "wl影视",
+    "name": "卧龙影视",
     "api": "https://wolongzyw.com/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
