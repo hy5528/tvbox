@@ -79,7 +79,7 @@
   {
     "id": "madoziyuan",
     "name": "mado视频",
-    "api": "http://www.madouse.la/api.php/provide/vod/",
+    "api": "https://91md.me/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
     "type": 0,
