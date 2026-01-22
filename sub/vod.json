@@ -44,9 +44,9 @@
     }
   },
   {
-    "id": "souavziyuan",
-    "name": "souav影视",
-    "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
+    "id": "ckziyuan",
+    "name": "ck影视",
+    "api": "https://ckzy.me/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
     "type": 0,
