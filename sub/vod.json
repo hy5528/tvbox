@@ -78,7 +78,7 @@
   },
   {
     "id": "dtziyuan",
-    "name": "天堂视频",
+    "name": "天堂影视",
     "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
     "nsfw": false,
     "logo": "",
