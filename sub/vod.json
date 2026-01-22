@@ -33,6 +33,17 @@
     }
   },
   {
+    "id": "ckziyuan",
+    "name": "CK影视",
+    "api": "https://ckzy.me/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
     "id": "niuniuziyuan",
     "name": "牛牛视频",
     "api": "https://api.niuniuzy.me/api.php/provide/vod",
