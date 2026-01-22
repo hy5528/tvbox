@@ -33,9 +33,9 @@
     }
   },
   {
-    "id": "ckziyuan",
-    "name": "CK影视",
-    "api": "https://ckzy.me/api.php/provide/vod",
+    "id": "hhziyuan",
+    "name": "hh影视",
+    "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
     "nsfw": false,
     "logo": "",
     "type": 0,
