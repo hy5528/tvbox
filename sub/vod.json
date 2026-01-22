@@ -45,8 +45,8 @@
   },
   {
     "id": "ckziyuan",
-    "name": "ck影视",
-    "api": "https://ckzy.me/api.php/provide/vod",
+    "name": "193301影视",
+    "api": "https://vod.199301.xyz",
     "nsfw": false,
     "logo": "",
     "type": 0,
