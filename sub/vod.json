@@ -33,6 +33,16 @@
     }
   },
   {
+    "id": "ffziyuan",
+    "name": "非凡影视",
+    "api": "http://ffzy5.tv/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  {
     "id": "hhziyuan",
     "name": "hh影视",
     "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
