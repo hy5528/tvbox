@@ -44,9 +44,9 @@
     }
   },
   {
-    "id": "gdziyuan",
-    "name": "gd影视",
-    "api": "https://luna-config.chimiansw.workers.dev/?url=https://www.gdlsp.com/api/json.php",
+    "id": "wlziyuan",
+    "name": "wl影视",
+    "api": "https://wolongzyw.com/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
     "type": 0,
