@@ -12,7 +12,7 @@
   },
   {
     "id": "mdziyuan",
-    "name": "MD影视",
+    "name": "魔都影视",
     "api": "https://www.mdzyapi.com/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
@@ -23,7 +23,7 @@
   },
   {
     "id": "dbziyuan",
-    "name": "DB影视",
+    "name": "豆瓣影视",
     "api": "https://caiji.dbzy5.com/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
@@ -45,7 +45,7 @@
   },
   {
     "id": "wwziyuan",
-    "name": "WW视频",
+    "name": "旺旺视频",
     "api": "https://api.wwzy.tv/api.php/provide/vod/",
     "nsfw": false,
     "logo": "",
