@@ -11,9 +11,9 @@
     }
   },
   {
-    "id": "ckziyuan",
-    "name": "CK影视",
-    "api": "https://ckzy.me/api.php/provide/vod/",
+    "id": "mdziyuan",
+    "name": "MD影视",
+    "api": "https://www.mdzyapi.com/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
     "type": 0,
