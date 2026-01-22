@@ -46,7 +46,7 @@
   {
     "id": "wwziyuan",
     "name": "旺旺视频",
-    "api": "https://api.wwzy.tv/api.php/provide/vod/",
+    "api": "https://wwzy.tv/api.php/provide/vod",
     "nsfw": false,
     "logo": "",
     "type": 0,
