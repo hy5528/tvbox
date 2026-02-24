@@ -141,7 +141,8 @@
       "webPlus": {}
     },
 	{
-      "name": "China TV ",
+      "key": "China TV",
+	  "name": "China TV ",
       "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxiWDXgLiDbvrJalOcxFsedP__HwZ-9tTYUA&usqp=CAU",
       "webUrl": "https://github.com/eklins/FDTV/raw/main/tv/tv%20China.json",
       "type": "json",
