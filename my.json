@@ -40,15 +40,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt"
       }
     },
-    {
-      "key": "YGP",
-      "name": "🚀叨观荐影┃预告片",
-      "type": 3,
-      "api": "csp_YGPGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+    
     {
       "key": "MTV1",
       "name": "🎙️易听音乐┃带歌词",
