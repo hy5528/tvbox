@@ -535,20 +535,7 @@
                 "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
             }
         },
-        {
-            "key": "dr_兔小贝",
-            "name": "📚儿童┃启蒙",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/兔小贝.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
+        
         {
             "key": "少儿教育",
             "name": "📚少儿┃教育",
