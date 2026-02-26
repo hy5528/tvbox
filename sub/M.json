@@ -418,7 +418,6 @@
 {"name":"🎂岁岁短剧","key":"岁岁短剧","type":3,"api":"csp_SpdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
 {"key":"哔哩","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/Bili.json","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","cookie":""}},
 
-{"key":"玩偶gg","name":"👽玩偶","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","siteUrl":"https://wogg.xxooo.cf","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json","jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"}},	
 //jar       
 {"key":"荐片","name":"💡荐片｜影视","api":"csp_Jianpian","type":3,"ext":"https://api.ztcgi.com"},
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
