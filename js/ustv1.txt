@@ -1,3 +1,4 @@
+明日传奇,#genre#
 1-01 明日传奇【Legends Of Tomorrow】Pilot 01〘21/01/2016〙💠Caity Lotz（1986）、Ciara Renee（1990）🎙️Amy Pemberton（1988）♦️Katie Cassidy（1986）、Alex Duncan、Alexandra Voicu、Nicole Major（1997）,https://vip.dytt-movies.com/20250305/10837_ab41f0c4/index.m3u8
 1-02 明日传奇★Pilot 02〘2016〙💠Caity Lotz（1986）、Ciara Renee（1990）,https://vip.dytt-movies.com/20250305/10838_157792e4/index.m3u8
 1-03 明日传奇★Blood Ties 2016💠Caity Lotz（1986）、Ciara Renee（1990）,https://vip.dytt-movies.com/20250305/10839_0f79c3f3/index.m3u8
@@ -108,6 +109,7 @@
 7-11 明日传奇★Rage Against The Machines 2022💠Caity Lotz（1986）、Tala Ashe（1984）、Jes Macallan（1982）、Olivia Swann（1992）、Lisseth Chavez（1989）、Amy Pemberton（1988）,https://yzzy.play-cdn10.com/20221109/9418_b3f50370/index.m3u8
 7-12 明日传奇★Too Legit To Quit 2022💠Caity Lotz（1986）、Tala Ashe（1984）、Jes Macallan（1982）、Olivia Swann（1992）、Lisseth Chavez（1989）、Amy Pemberton（1988）,https://yzzy.play-cdn10.com/20221109/9417_c4798b74/index.m3u8
 7-13 明日传奇★Knocked Down，Knocked Up 02/03/2022💠Caity Lotz（1986）、Tala Ashe（1984）、Jes Macallan（1982）、Olivia Swann（1992）、Lisseth Chavez（1989）、Amy Pemberton（1988）【END：110 Episodes】,https://yzzy.play-cdn10.com/20221109/9419_9def02af/index.m3u8
+move2,#genre#
 1-01 Flash vs. Arrow 02/12/2014💠Danielle Panabaker（1987）、Emily Bett Rickards（1991）♦️Anna Hopkins（1987）【Flash S1-08（Arrowverse Crossover）】,https://yzzy.play-cdn8.com/20220704/695_062aefdc/index.m3u8
 1-02 Flash vs. Arrow：The Brave And The Bold 2014💠Danielle Panabaker（1987）、Emily Bett Rickards（1991）、Willa Holland（1991）♦️Audrey Marie Anderson（1975）【Arrow S3-08】,https://yzzy.play-cdn6.com/20220807/8951_8b12cf82/index.m3u8
 2-01 Heroes Join Forces：Legends Of Today 2015💠Ciara Renee（1990）、Danielle Panabaker（1987）、Emily Bett Rickards（1991）、Willa Holland（1991）、Shantel VanSanten（1985）♦️Anna Hopkins（1987）【Flash S2-08】,https://yzzy.play-cdn6.com/20220704/2856_3f6dea00/index.m3u8
@@ -222,6 +224,7 @@
 6-08 Lucifer★Save The Devil，Save The World 2021💠Lauren German（1978）、Lesley-Ann Brandt（1981）、Aimee Garcia（1978）、Brianna Hildebrand（1996）♦️Genevieve Gauss（1985）,https://yzzy.play-cdn8.com/20220816/14060_e7251ed2/index.m3u8
 6-09 Lucifer★Goodbye，Lucifer 2021💠Lauren German（1978）、Lesley-Ann Brandt（1981）、Aimee Garcia（1978）、Brianna Hildebrand（1996）、Scarlett Estevez（2007）,https://yzzy.play-cdn8.com/20220816/14064_ec371251/index.m3u8
 6-10 Lucifer★Partners Til The End 10/09/2021💠Lauren German（1978）、Lesley-Ann Brandt（1981）、Aimee Garcia（1978）、Rachael Harris（1968）、Brianna Hildebrand（1996）、Inbar Lavi（1986）、Scarlett Estevez（2007）♦️Tricia Helfer（1974）【END：93 Episodes】,https://yzzy.play-cdn8.com/20220816/14061_4547358e/index.m3u8
+超市特工,#genre#
 1-01 Chuck【超市特工】The Intersect 24/09/2007💠Yvonne Strahovski（1982）、Sarah Lancaster（1980）、Julia Ling（1983）♦️Wendy Makkena（1958）,https://yzzy.play-cdn10.com/20230125/23933_ae78d128/index.m3u8
 1-02 Chuck★The Helicopter 2007💠Yvonne Strahovski（1982）、Sarah Lancaster（1980）🎦Bonita Friedericy（1961）,https://vip.ffzy-online2.com/20230906/43614_da8570dc/index.m3u8
 1-03 Chuck★Tango 2007💠Yvonne Strahovski（1982）、Sarah Lancaster（1980）、Julia Ling（1983）♦️Lorena Bernal（1981）、Keli Daniels,https://yzzy.play-cdn4.com/20220614/20220_976dd61c/index.m3u8
@@ -313,6 +316,7 @@
 5-11 Chuck★Bullet Train 2012💠Yvonne Strahovski（1982）、Sarah Lancaster（1980）、Mekenna Melvin（1985）♦️Erin Cahill（1980）,https://yzzy.play-cdn4.com/20220614/20215_f03792ed/index.m3u8
 5-12 Chuck★Sarah 2012💠Yvonne Strahovski（1982）、Sarah Lancaster（1980）,https://yzzy.play-cdn4.com/20220614/20216_0ff8d8d5/index.m3u8
 5-13 Chuck★Goodbye 27/01/2012💠Yvonne Strahovski（1982）、Sarah Lancaster（1980）、Mekenna Melvin（1985）、Linda Hamilton（1956）【END：91 Episodes】,https://yzzy.play-cdn4.com/20220614/20217_9c65d4cf/index.m3u8
+海军罪案调查处,#genre#
 01-01 NCIS：Naval Criminal Investigative Service【海军罪案调查处】Yankee White 23/09/2003💠Sasha Alexander（1973）、Pauley Perrette（1969）,https://vip.dytt-video.com/20250226/15861_9c962132/index.m3u8
 01-02 NCIS★Hung Out To Dry 2003💠Sasha Alexander（1973）、Pauley Perrette（1969）♦️Julie Gonzalo（1981）,https://vip.dytt-video.com/20250226/15862_e7d755d1/index.m3u8
 01-03 NCIS★Seadog 2003💠Sasha Alexander（1973）、Pauley Perrette（1969）♦️Eemilie De Ravin（1981）,https://vip.dytt-video.com/20250226/15863_a02f1610/index.m3u8
@@ -801,6 +805,7 @@
 22-18 NCIS★After The Storm 2025💠Katrina Law（1985）、Diona Reasonover（1992）,https://vvip.high26-playback.com/20250425/5267_4cef5b5e/index.m3u8
 22-19 NCIS★Irreconcilable Differences 2025💠Katrina Law（1985）、Diona Reasonover（1992）,https://cdn.yzzy27-play.com/20250501/1629_5c50b4df/index.m3u8
 22-20 NCIS★Nexus 2025💠Katrina Law（1985）、Diona Reasonover（1992）,https://cdn.yzzy27-play.com/20250508/2435_b1301141/index.m3u8
+天堂执法者,#genre#
 01-01 Hawaii Five-O【天堂执法者／夏威夷特勤组】Pilot 20/09/2010💠Grace Park（1974）、Teilor Grubbs（2001）,https://vip.lz-cdn13.com/20221014/14568_cd343a3a/index.m3u8
 01-02 天堂执法者★Family 2010💠Grace Park（1974）、Teilor Grubbs（2001）♦️Ivana Milicevic（1974）,https://vip.lz-cdn13.com/20221014/14566_e222d163/index.m3u8
 01-03 天堂执法者★Respect The Land 2010💠Grace Park（1974）、Teilor Grubbs（2001）,https://vip.lz-cdn13.com/20221014/14567_b6cbdfa3/index.m3u8
@@ -1042,6 +1047,7 @@
 10-20 天堂执法者★A Gripping Cuttlefish 2020💠Meaghan Rath（1986）、Katrina Law（1985）♦️Andrea Bogart（1977）,https://yzzy.play-cdn13.com/20230109/5664_c61240d1/index.m3u8
 10-21 天堂执法者★He Cannot Be Caught For He Is An Ulua Fish Of The Deep Ocean 2020💠Meaghan Rath（1986）、Katrina Law（1985）,https://yzzy.play-cdn13.com/20230109/5665_5a296f90/index.m3u8
 10-22 天堂执法者★Goodbye（Aloha）03/04/2020💠Meaghan Rath（1986）、Katrina Law（1985）、Michelle Borth（1978）♦️Eugenia Yuan（1976）、Amelia Cooke（1979）【END：240 Episodes】,https://yzzy.play-cdn13.com/20230109/5666_2086188b/index.m3u8
+新夏威夷神探,#genre#
 1-01 Magnum P.I.【新夏威夷神探】I Saw The Sun Rise 24/09/2018💠Perdita Weeks（1985）、Kimee Balmilero（1979）♦️Tiffany Hines（1983）、Nadine Nicole（1982）,https://yzzy.play-cdn14.com/20230221/11131_e2df4c6e/index.m3u8
 1-02 Magnum P.I.★From The Head Down 2018💠Perdita Weeks（1985）,https://yzzy.play-cdn14.com/20230221/11133_8d6e6555/index.m3u8
 1-03 Magnum P.I.★The Woman Who Never Died 2018💠Perdita Weeks（1985）🎦Amy Hill（1953）,https://yzzy.play-cdn14.com/20230221/11132_7b6d3edf/index.m3u8
@@ -1232,6 +1238,7 @@
 5-13 MacGyver★Barn Find + Engine Oil + La Punzonatura + Lab Rats + Tachometer 2021💠Tristin Mays（1990）、Levy Tran（1983）,https://vip.ffzy-play10.com/20230210/25732_bcda5835/index.m3u8
 5-14 MacGyver★H2O + Orthophosphates + Mission City + Corrosion + Origins 2021💠Tristin Mays（1990）、Levy Tran（1983）,https://vip.ffzy-play10.com/20230210/25735_e519f2ac/index.m3u8
 5-15 MacGyver★Abduction + Memory + Time + Fireworks + Dispersal 30/04/2021💠Tristin Mays（1990）、Levy Tran（1983）、Meredith Eaton（1974）♦️Shi Ne Nielson（1981）【END：94 Episodes】,https://vip.ffzy-play10.com/20230210/25736_6e8183d2/index.m3u8
+妙女神探,#genre#
 1-01 妙女神探【Rizzoli & Isles】See One，Do One，Teach One 12/07/2010💠Angie Harmon（1972）、Sasha Alexander（1973）、Lorraine Bracco（1954）,https://yzzy.play-cdn4.com/20220616/20899_c51c17af/index.m3u8
 1-02 妙女神探★Boston Strangler Redux 2010💠Angie Harmon（1972）、Sasha Alexander（1973）,https://yzzy.play-cdn4.com/20220616/20898_a3dc4477/index.m3u8
 1-03 妙女神探★Sympathy For The Devil 2010💠Angie Harmon（1972）、Sasha Alexander（1973）,https://yzzy.play-cdn4.com/20220616/20897_28fbaddc/index.m3u8
@@ -1337,6 +1344,7 @@
 7-11 妙女神探★Stiffed 2016💠Angie Harmon（1972）、Sasha Alexander（1973）、Idara Victor（1987）,https://yzzy.play-cdn4.com/20220616/20811_8499cab2/index.m3u8
 7-12 妙女神探★Yesterday，Today，Tomorrow 2016💠Angie Harmon（1972）、Sasha Alexander（1973）、Idara Victor（1987）、Christina Chang（1971）,https://yzzy.play-cdn4.com/20220616/20810_e4053894/index.m3u8
 7-13 妙女神探★Ocean-Frank 05/09/2016💠Angie Harmon（1972）、Sasha Alexander（1973）、Lorraine Bracco（1954）、Idara Victor（1987）、Christina Chang（1971）、Laura Owen、Alexandra Amadio【END：105 Episodes】,https://yzzy.play-cdn4.com/20220616/20809_f80daf26/index.m3u8
+灵书妙探,#genre#
 1-01 Castle【灵书妙探】Flowers For Your Grave 09/03/2009💠Stana Katic（1978）、Molly Caitlyn Quinn（1993）、Susan Sullivan（1942）、Tamala Jones（1974）♦️Monet Mazur（1976）,https://vip.dytt-video.com/20250303/17983_db9488b8/index.m3u8
 1-02 Castle★Nanny McDead 2009💠Stana Katic（1978）、Molly Quinn（1993）、Tamala Jones（1974）,https://vip.dytt-video.com/20250303/17984_eb1e4e49/index.m3u8
 1-03 Castle★Hedge Fund Homeboys 2009💠Stana Katic（1978）、Molly Quinn（1993）、Tamala Jones（1974）♦️Jamie Chung（1983）、Michelle Page（1987）,https://vip.dytt-video.com/20250303/17985_5143cf86/index.m3u8
@@ -1587,6 +1595,7 @@
 5-13 Leverage★Corkscrew Job 2012💠Gina Bellman（1966）、Beth Riesgraf（1978）,https://vip.lz-cdn9.com/20220712/13809_9234f3d8/index.m3u8
 5-14 Leverage★Toy Job 2012💠Gina Bellman（1966）、Beth Riesgraf（1978）,https://vip.lz-cdn9.com/20220712/13811_4ef864c4/index.m3u8
 5-15 Leverage★Long Goodbye Job 25/12/2012💠Gina Bellman（1966）、Beth Riesgraf（1978）【END：77 Episodes】,https://vip.lz-cdn9.com/20220712/13812_93d4c31a/index.m3u8
+都市侠盗,#genre#
 1-01 都市侠盗：救赎【Leverage：Redemption】Too Many Rembrandts Job 09/07/2021💠Gina Bellman（1966）、Beth Riesgraf（1978）♦️Lucy Taylor、Elizabeth Newcomer、Betsy Holt、Jackie Dallas（1984）,https://vip.lzcdn2.com/20220618/12269_8bb6fd1e/index.m3u8
 1-02 都市侠盗：救赎★Panamanian Monkeys Job 2021💠Gina Bellman（1966）、Beth Riesgraf（1978）🎦Aleyse Shannon（1996）,https://vip.lzcdn2.com/20220618/12273_5d660060/index.m3u8
 1-03 都市侠盗：救赎★Rollin' On The River Job 2021💠Gina Bellman（1966）、Beth Riesgraf（1978）、Aleyse Shannon（1996）,https://vip.lzcdn2.com/20220618/12277_c95ac8e7/index.m3u8
@@ -1626,6 +1635,7 @@
 3-08 都市侠盗：救赎★Cooling Off The Mark Job 2025💠Gina Bellman（1966）、Beth Riesgraf（1978）、Aleyse Shannon（1996）,https://vip.dytt-hot.com/20250524/90882_3ad7b3d2/index.m3u8
 3-09 都市侠盗：救赎★The Polygeist Job 2025💠Gina Bellman（1966）、Beth Riesgraf（1978）、Aleyse Shannon（1996）,https://vip.dytt-hot.com/20250531/91828_e4892f3d/index.m3u8
 3-10 都市侠盗：救赎★The Side Job 2025💠Gina Bellman（1966）、Beth Riesgraf（1978）、Aleyse Shannon（1996）,https://vip.dytt-hot.com/20250607/93448_c2d9bd98/index.m3u8
+十三号仓库,#genre#
 1-01+02 Warehouse 13【十三号仓库】Pilot 07/07/2009💠Joanne Kelly（1978）、Genelle Williams（1984）、CCH Pounder（1952）♦️Sarah Allen（1980）,https://vodcnd03.rsfcxq.com/20250419/Q6fWFQUb/index.m3u8
 1-03 Warehouse 13★Resonance 2009💠Joanne Kelly（1978）、Genelle Williams（1984）♦️Tricia Helfer（1974）、Lindy Booth（1979）,https://vodcnd03.rsfcxq.com/20250419/lR0IxywU/index.m3u8
 1-04 Warehouse 13★Magnetism 2009💠Joanne Kelly（1978）、Genelle Williams（1984）,https://vodcnd03.rsfcxq.com/20250419/LEjuu2fO/index.m3u8
@@ -1694,6 +1704,7 @@ The Librarian：Quest For The Spear（图书馆员：寻找命运之矛的探险
 The Librarian 2：Return to King Solomon's Mines（图书馆员 2：所罗门王的宝藏）2006♦️Gabrielle Anwar（1970）,https://vip.lz-cdn3.com/20230225/17890_630bdd0d/index.m3u8
 The Librarian 3：Curse Of The Judas Chalice（图书馆员 3：圣杯的诅咒）2008♦️Stana Katic（1978）,https://vip.lz-cdn7.com/20230226/14566_8276857c/index.m3u8
 1-01+02 The Librarians【图书馆员／探险奇兵／图书奇侠／护宝奇兵】Crown Of King Arthur + Sword In The Stone 07/12/2014💠Rebecca Romijn（1972）、Lindy Booth（1979）、Lesley-Ann Brandt（1981）♦️Jane Curtin（1947）,https://vip.lz-cdn13.com/20221016/14787_1d2991af/index.m3u8
+图书馆员,#genre#
 1-03 图书馆员★Horns Of A Dilemma 2014💠Rebecca Romijn（1972）、Lindy Booth（1979）♦️Tricia Helfer（1974）,https://vip.lz-cdn13.com/20221016/14786_f68ae4c2/index.m3u8
 1-04 图书馆员★Santa's Midnight Run 2014💠Rebecca Romijn（1972）、Lindy Booth（1979）、Lesley-Ann Brandt（1981）,https://vip.lz-cdn13.com/20221016/14788_84912d9b/index.m3u8
 1-05 图书馆员★Apple of Discord 2014💠Rebecca Romijn（1972）、Lindy Booth（1979）、Lesley-Ann Brandt（1981）,https://vip.lz-cdn13.com/20221016/14792_232f25a9/index.m3u8
@@ -1746,6 +1757,7 @@ The Librarian 3：Curse Of The Judas Chalice（图书馆员 3：圣杯的诅咒�
 1-10 图书馆员：下一章★Going Medieval 2025💠Olivia Morris（1997）、Jessica Green（1993）,https://v.cdnlz22.com/20250816/21374_3f5e7f88/index.m3u8
 1-11 图书馆员：下一章★Graffiti Of The Gods 2025💠Olivia Morris（1997）、Jessica Green（1993）♦️Hannah Devlin（2002）,https://v.cdnlz22.com/20250816/21375_22b906b9/index.m3u8
 1-12 图书馆员：下一章★Unfinished Business 2025💠Olivia Morris（1997）、Jessica Green（1993）,https://v.cdnlz22.com/20250816/21376_ad255604/index.m3u8
+吸血鬼猎人巴菲,#genre#
 Buffy The Vampire Slayer（吸血鬼猎人巴菲）1992♦️Kristy Swanson（1969）【缩减版：86分】,https://vodcnd02.rsfcxq.com/20250128/N1fxfcST/index.m3u8
 1-01 Buffy The Vampire Slayer【吸血鬼猎人巴菲】Welcome To The Hellmouth 10/03/1997💠Sarah Michelle Gellar（1977）、Alyson Hannigan（1974）、Charisma Carpenter（1970）、Kristine Sutherland（1955）♦️Julie Benz（1972）、Persia White（1972）,https://vip.dytt-tv.com/20250425/10361_015389e7/index.m3u8
 1-02 Buffy★The Harvest 1997💠Sarah Michelle Gellar（1977）、Alyson Hannigan（1974）、Charisma Carpenter（1970）🎦Mercedes McNab（1980）♦️Julie Benz（1972）,https://vip.dytt-tv.com/20250425/10362_c8b9abff/index.m3u8
@@ -1891,6 +1903,7 @@ Buffy The Vampire Slayer（吸血鬼猎人巴菲）1992♦️Kristy Swanson（19
 7-20 Buffy★Touched 2003💠Sarah Michelle Gellar（1977）、Alyson Hannigan（1974）、Michelle Trachtenberg（1985）、Emma Caulfield（1973）、Eliza Dushku（1980）、Iyari Limon（1976）、Sarah Hagan（1984）、Felicia Day（1979）,https://vip.dytt-tv.com/20250425/10292_dbafb94a/index.m3u8
 7-21 Buffy★End of Days 2003💠Sarah Michelle Gellar（1977）、Alyson Hannigan（1974）、Michelle Trachtenberg（1985）、Emma Caulfield（1973）、Eliza Dushku（1980）、Iyari Limon（1976）、Sarah Hagan（1984）、Felicia Day（1979）,https://vip.dytt-tv.com/20250425/10293_37f2fc94/index.m3u8
 7-22 Buffy★Chosen 20/05/2003💠Sarah Michelle Gellar（1977）、Alyson Hannigan（1974）、Michelle Trachtenberg（1985）、Emma Caulfield（1973）、Eliza Dushku（1980）、Iyari Limon（1976）、Sarah Hagan（1984）、Indigo（1984）、Felicia Day（1979）【END：144 Episodes】,https://vip.dytt-tv.com/20250425/10294_90968598/index.m3u8
+尸家妙探,#genre#
 1-01 iZombie【我是僵尸／我是丧尸／尸家妙探】Pilot 17/03/2015💠Rose McIver（1988）、Aly Michalka（1989）♦️Alexandra Voicu、Elysia Rotaru（1984）、Jenna Berman（1990）、Aliza Vellani（1991）,https://vip.lz-cdn13.com/20221024/15357_c3c2894e/index.m3u8
 1-02 iZombie★Brother，Can You Spare A Brain? 2015💠Rose McIver（1988）、Aly Michalka（1989）,https://vip.lz-cdn13.com/20221024/15355_9a625e97/index.m3u8
 1-03 iZombie★The Exterminator 2015💠Rose McIver（1988）、Aly Michalka（1989）🎦Carrie Anne Fleming（1974）♦️Elise Gatien（1988）、Rebecca Husain（1990）、Aliza Vellani（1991）,https://vip.lz-cdn13.com/20221024/15354_7b4b55f0/index.m3u8
