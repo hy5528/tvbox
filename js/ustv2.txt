@@ -1,3 +1,4 @@
+神盾局特工,#genre#
 1-01 神盾局特工【Agents Of S.H.I.E.L.D.】Pilot 24/09/2013💠Chloe Bennet（汪可盈，1992）、Elizabeth Henstridge（1987）、Ming-Na Wen（温明娜，1963）♦️Cobie Smulders（1982）,https://yzzy.play-cdn4.com/20220528/12612_79d43111/index.m3u8
 1-02 神盾局特工★0-8-4〘2013〙💠Chloe Bennet（1992）、Elizabeth Henstridge（1987）、温明娜（1963）♦️Leonor Varela（1972）,https://yzzy.play-cdn4.com/20220528/12611_de17bf57/index.m3u8
 1-03 神盾局特工★The Asset 2013💠Chloe Bennet（1992）、Elizabeth Henstridge（1987）、温明娜（1963）,https://yzzy.play-cdn4.com/20220528/12610_907d5945/index.m3u8
@@ -132,6 +133,7 @@
 7-11 神盾局特工★Brand New Day 2020💠Chloe Bennet（1992）、Elizabeth Henstridge（1987）、温明娜（1963）、Natalia Cordova-Buckley（1982）、Dianne Doan（1990）,https://yzzy.play-cdn4.com/20220528/12480_d57faf40/index.m3u8
 7-12 神盾局特工★The End Is At Hand 2020💠Chloe Bennet（1992）、Elizabeth Henstridge（1987）、温明娜（1963）、Natalia Cordova-Buckley（1982）、Tamara Taylor（1970）、Dianne Doan（1990）,https://yzzy.play-cdn4.com/20220528/12479_5a4f0e8c/index.m3u8
 7-13 神盾局特工★What We're Fighting For 12/08/2020💠Chloe Bennet（1992）、Elizabeth Henstridge（1987）、温明娜（1963）、Natalia Cordova-Buckley（1982）、Dianne Doan（1990）、Briana Venskus（1987）、Tamara Taylor（1970）【END：136 Episodes】,https://yzzy.play-cdn4.com/20220528/12478_75003228/index.m3u8
+特工卡特,#genre#
 1-01 特工卡特【Agent Carter】Now Is Not The End 06/01/2015💠Hayley Atwell（1982）、Lyndsy Fonseca（1987）、Lesley Boone（1968）♦️Ashley Hinshaw（1988）,https://yzzy.play-cdn11.com/20221118/9575_6f604cc1/index.m3u8
 1-02 特工卡特★Bridge And Tunnel 2015💠Hayley Atwell（1982）、Lyndsy Fonseca（1987）,https://yzzy.play-cdn11.com/20221118/9574_12224aa6/index.m3u8
 1-03 特工卡特★Time And Tide 2015💠Hayley Atwell（1982）、Lyndsy Fonseca（1987）🎦Bridget Regan（1982）,https://yzzy.play-cdn11.com/20221118/9576_e44a4b35/index.m3u8
@@ -150,6 +152,7 @@
 2-08 特工卡特★The Edge Of Mystery 2016💠Hayley Atwell（1982）、Wynn Everett（1978）、Lotte Verbeek（1982）,https://yzzy.play-cdn11.com/20221118/9589_2be15770/index.m3u8
 2-09 特工卡特★A Little Song And Dance 2016💠Hayley Atwell（1982）、Wynn Everett（1978）、Lotte Verbeek（1982）🔚Bridget Regan（1982）、Lyndsy Fonseca（1987）,https://yzzy.play-cdn11.com/20221118/9590_d0c8db25/index.m3u8
 2-10 特工卡特★Hollywood Ending 01/03/2016💠Hayley Atwell（1982）、Wynn Everett（1978）、Lotte Verbeek（1982）、Lesley Boone（1968）【END：18 Episodes】,https://yzzy.play-cdn11.com/20221118/9591_3736f92b/index.m3u8
+女超人,#genre#
 1-01 Supergirl【超级少女／女超人】Pilot 26/10/2015💠Melissa Benoist（1988）、Chyler Leigh（1982）、Calista Flockhart（1964）、Helen Slater（1963）、Malina Weissman（2003）,https://yzzy.play-cdn14.com/20230221/10869_fe789985/index.m3u8
 1-02 Supergirl★Stronger Together 2015💠Melissa Benoist（1988）、Chyler Leigh（1982）、Calista Flockhart（1964）、Malina Weissman（2003）,https://yzzy.play-cdn14.com/20230221/10870_747abb2b/index.m3u8
 1-03 Supergirl★Fight Or Flight 2015💠Melissa Benoist（1988）、Chyler Leigh（1982）、Calista Flockhart（1964）🎦Jenna Dewan（1980）,https://yzzy.play-cdn14.com/20230221/10871_9d9e5447/index.m3u8
@@ -276,6 +279,7 @@
 6-18 Supergirl★Truth Or Consequences 2021💠Melissa Benoist（1988）、Chyler Leigh（1982）、Katie McGrath（1983）、Nicole Maines（1997）、Azie Tesfai（1992）、Julie Gonzalo（1981）、Peta Sergeant（1981）,https://yzzy.play-cdn14.com/20230220/10192_55ac0aa9/index.m3u8
 6-19 Supergirl★The Last Gauntlet 2021💠Melissa Benoist（1988）、Chyler Leigh（1982）、Katie McGrath（1983）、Nicole Maines（1997）、Azie Tesfai（1992）、Julie Gonzalo（1981）、Peta Sergeant（1981）,https://yzzy.play-cdn14.com/20230220/10194_e06d0a66/index.m3u8
 6-20 Supergirl★Kara 09/11/2021💠Melissa Benoist（1988）、Chyler Leigh（1982）、Katie McGrath（1983）、Nicole Maines（1997）、Azie Tesfai（1992）、Julie Gonzalo（1981）、Peta Sergeant（1981）、Brenda Strong（1960）、Helen Slater（1963）♦️Calista Flockhart（1964）【END：126 Episodes】,https://yzzy.play-cdn14.com/20230220/10195_334ad7c9/index.m3u8
+穿越时间线,#genre#
 1-01 Continuum【超越时间线／穿越时间线（加拿大）】A Stitch In Time 27/05/2012💠Rachel Nichols（1980）、Luvia Petersen（1978）、Lexa Doig（1973）、Jennifer Spence（1977）、Janet Kidder（1972）,https://yzzy.play-cdn7.com/20220831/14961_231bd1dd/index.m3u8
 1-02 Continuum★Fast Times 2012💠Rachel Nichols（1980）、Luvia Petersen（1978）、Lexa Doig（1973）、Jennifer Spence（1977）、Janet Kidder（1972）,https://yzzy.play-cdn7.com/20220831/14962_0784a258/index.m3u8
 1-03 Continuum★Wasting Time 2012💠Rachel Nichols（1980）、Luvia Petersen（1978）、Lexa Doig（1973）、Jennifer Spence（1977）、Janet Kidder（1972）,https://yzzy.play-cdn7.com/20220831/14963_03f6aaee/index.m3u8
@@ -318,6 +322,7 @@
 4-04 Continuum★Zero Hour 2015💠Rachel Nichols（1980）、Luvia Petersen（1978）🔚Magda Apanowicz（1985）,https://yzzy.play-cdn7.com/20220831/14958_9392412b/index.m3u8
 4-05 Continuum★The Desperate Hours 2015💠Rachel Nichols（1980）、Catherine Lough Haggquist（1970）,https://yzzy.play-cdn7.com/20220831/14959_074d342e/index.m3u8
 4-06 Continuum★Final Hour 09/10/2015💠Rachel Nichols（1980）、Luvia Petersen（1978）、Catherine Lough Haggquist（1970）【END：42 Episodes】,https://yzzy.play-cdn7.com/20220831/14960_7d166e0e/index.m3u8
+地球异世界,#genre#
 1-01+02 Defiance【抗争／地球异世界】Pilot 15/04/2013💠Julie Benz（1972）、Stephanie Leonidas（1984）、Jaime Murray（1976）、Mia Kirshner（1975）、Trenna Keating（1987）、Nicole Munoz（1994）,https://vip.lz-cdn4.com/20220816/20136_873a5543/index.m3u8
 1-03 Defiance★Down In The Ground Where The Dead Men Go 2013💠Julie Benz（1972）、Stephanie Leonidas（1984）、Jaime Murray（1976）、Mia Kirshner（1975）、Trenna Keating（1987）、Nicole Munoz（1994）,https://vip.lz-cdn4.com/20220816/20140_d23f3628/index.m3u8
 1-04 Defiance★The Devil In The Dark 2013💠Julie Benz（1972）、Stephanie Leonidas（1984）、Jaime Murray（1976）、Mia Kirshner（1975）、Trenna Keating（1987）、Nicole Munoz（1994）,https://vip.lz-cdn4.com/20220816/20138_a0a7592b/index.m3u8
@@ -355,6 +360,7 @@
 3-11 Defiance★Of A Demon In My View 2015💠Julie Benz（1972）、Stephanie Leonidas（1984）、Jaime Murray（1976）、Anna Hopkins（1987）、Nichole Galicia（1975）、Trenna Keating（1987）、Amy Forsyth（1995）,https://vip.dytt-music.com/20250301/17812_8a5d6782/index.m3u8
 3-12 Defiance★The Awakening 2015💠Julie Benz（1972）、Stephanie Leonidas（1984）、Jaime Murray（1976）、Anna Hopkins（1987）、Nichole Galicia（1975）、Trenna Keating（1987）🔚Amy Forsyth（1995）,https://vip.dytt-music.com/20250301/17813_b5f0eccb/index.m3u8
 3-13 Defiance★Upon The March We Fittest Die 28/08/2015💠Julie Benz（1972）、Stephanie Leonidas（1984）、Jaime Murray（1976）、Anna Hopkins（1987）、Nichole Galicia（1975）、Trenna Keating（1987）【END：39 Episodes】,https://vip.dytt-music.com/20250301/17814_acdc2bed/index.m3u8
+太空猎手,#genre#
 1-01 Killjoys【扫兴者／太空猎手（加拿大）】Bangarang 19/06/2015💠Hannah John-Kamen（1989）、Tamsen McDonough,https://yzzy.play-cdn13.com/20230212/12578_001c7971/index.m3u8
 1-02 Killjoys★The Sugar Point Run 2015💠Hannah John-Kamen（1989）♦️Maya Lowe、Irene Poole、Clara Pasieka,https://yzzy.play-cdn13.com/20230212/12577_fb0862a5/index.m3u8
 1-03 Killjoys★The Harvest 2015💠Hannah John-Kamen（1989）🎦Sarah Power（1985）♦️Hannah Anderson（1989）、Elena Juatco（1985）,https://yzzy.play-cdn13.com/20230212/12576_c06e97de/index.m3u8
@@ -405,6 +411,7 @@
 5-08 Killjoys★Don't Stop Beweaving 2019💠Hannah John-Kamen（1989）、Mayko Nguyen（1980）、Kelly McCormack（1991）、Rachael Ancheril（1971）、Alanna Bale（1991）,https://yzzy.play-cdn13.com/20230212/12561_a7aabfd9/index.m3u8
 5-09 Killjoys★Terraformance Anxiety 2019💠Hannah John-Kamen（1989）、Mayko Nguyen（1980）、Kelly McCormack（1991）、Rachael Ancheril（1971）、Alanna Bale（1991）,https://yzzy.play-cdn13.com/20230212/12560_e4ef17c2/index.m3u8
 5-10 Killjoys★Last Dance 20/09/2019💠Hannah John-Kamen（1989）、Mayko Nguyen（1980）、Kelly McCormack（1991）、Rachael Ancheril（1971）、Alanna Bale（1991）【END：50 Episodes】,https://yzzy.play-cdn13.com/20230212/12559_ef305401/index.m3u8
+史前新纪元,#genre#
 1-01+02 Terra Nova【史前新纪元】Genesis 26/09/2011💠Shelley Conn（1976）、Christine Adams（1974）、Allison Miller（1985）、Naomi Scott（1993）、Alana Mansour（2003）、Simone Kessell（1975）,https://cdn.wlcdn88.com:777/20220503/1cUZIlER/index.m3u8
 1-03 Terra Nova★Instinct 2011💠Shelley Conn（1976）、Allison Miller（1985）、Naomi Scott（1993）,https://cdn.wlcdn88.com:777/20220503/05HN0sN2/index.m3u8
 1-04 Terra Nova★What Remains 2011💠Shelley Conn（1976）、Allison Miller（1985）、Naomi Scott（1993）,https://cdn.wlcdn88.com:777/20220503/gt4uRFVz/index.m3u8
@@ -417,6 +424,7 @@
 1-11 Terra Nova★Within 2011💠Shelley Conn（1976）、Allison Miller（1985）、Naomi Scott（1993）,https://cdn.wlcdn88.com:777/20220503/TPVMTOHP/index.m3u8
 1-12 Terra Nova★Occupation 2011💠Shelley Conn（1976）、Allison Miller（1985）、Naomi Scott（1993）,https://cdn.wlcdn88.com:777/20220503/CXD2ElFp/index.m3u8
 1-13 Terra Nova★Resistance 19/12/2011💠Shelley Conn（1976）、Allison Miller（1985）、Naomi Scott（1993）【END：13 Episodes】,https://cdn.wlcdn88.com:777/20220503/pJhpO8LI/index.m3u8
+遗失的世界,#genre#
 1-01 遗失的世界【The Lost World】The Journey Begins 03/04/1999💠Rachel Blakely（1968）、Jennifer O'Dell（1974）♦️Laura Vazquez（1975）,https://yzzy1.play-cdn20.com/20240109/11222_84c56383/index.m3u8
 1-02 遗失的世界★Stranded 1999💠Rachel Blakely（1968）、Jennifer O'Dell（1974）♦️Laura Vazquez（1975）,https://yzzy1.play-cdn20.com/20240109/11223_7d7acff8/index.m3u8
 1-03 遗失的世界★More Than Human 1999💠Rachel Blakely（1968）、Jennifer O'Dell（1974）,https://yzzy1.play-cdn20.com/20240109/11224_29cdeb9f/index.m3u8
@@ -483,6 +491,7 @@
 3-20 遗失的世界★Legacy 2002💠Rachel Blakely（1968）、Jennifer O'Dell（1974）、Lara Cox（1978）,https://vip.dytt-cine.com/20250818/52765_ec8abb9b/index.m3u8
 3-21 遗失的世界★Trapped 2002💠Rachel Blakely（1968）、Jennifer O'Dell（1974）、Lara Cox（1978）,https://vip.dytt-cine.com/20250818/52766_b08ae890/index.m3u8
 3-22 遗失的世界★Heart Of The Storm 13/05/2002💠Rachel Blakely（1968）、Jennifer O'Dell（1974）、Lara Cox（1978）【END：66 Episodes】,https://vip.dytt-cine.com/20250818/52767_116ec56e/index.m3u8
+穿越时间线,#genre#
 1-01 Timeless【穿越时间线／时空守卫】Pilot 03/10/2016💠Abigail Spencer（1981）、Sakina Jaffrey（1962）、Claudia Doumit（1992）、Susanna Thompson（1958）♦️Shantel VanSanten（1985）、Bailey Noble（1990）,https://vip.ffzy-online2.com/20250616/54575_e047568b/index.m3u8
 1-02 Timeless★The Assassination Of Abraham Lincoln 2016💠Abigail Spencer（1981）、Claudia Doumit（1992）、Susanna Thompson（1958）,https://vip.ffzy-online2.com/20250616/54576_338c47a2/index.m3u8
 1-03 Timeless★Atomic City 2016💠Abigail Spencer（1981）、Claudia Doumit（1992）♦️Elena Satine（1987）,https://vip.ffzy-online2.com/20250616/54577_a5d04859/index.m3u8
