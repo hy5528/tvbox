@@ -88,6 +88,17 @@
     }
   },
   {
+    "id": "dtziyuan",
+    "name": "影视1",
+    "api": "https://apidanaizi.com/api.php/provide/vod",
+    "nsfw": false,
+    "logo": "",
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
     "id": "feifanziyuan",
     "name": "非凡资源",
     "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
