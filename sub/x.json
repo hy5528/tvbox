@@ -385,7 +385,15 @@
       "ext": "https://api.niuniuzy.me"
     },
     {"key":"苹果资源1","name":"🎀苹果1┃影视","type":1,"api":"https://apidanaizi.com/api.php/provide/vod","searchable":1,"changeable":1},
-    {"key":"苹果资源1","name":"🎀苹果2┃影视","type":1,"api":"https://lbapi9.com/api.php/provide/vod","searchable":1,"changeable":1},
+    {
+      "key": "lbapi9",
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "name": "🎀苹果2┃影视",
+      "type": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "https://lbapi9.com"
+    },
     {
       "key": "37_Aytzy",
       "api": "https://apiyutu.com/api.php/provide/vod",
