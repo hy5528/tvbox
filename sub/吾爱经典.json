@@ -10,6 +10,7 @@
     {"type_name":"舞曲","type_id":"DJ歌曲"},
     {"type_name":"翻唱","type_id":"网红翻唱歌曲"},
     {"type_name":"音乐","type_id":"音乐 4k"},
+    {"type_name":"抖音热歌","type_id":"抖音热歌"},
 
 {"type_name":"阿黛尔","type_id":"阿黛尔演唱会超清超清"},
 {"type_name":"Blackpink","type_id":"blackpink演唱会超清"},
@@ -801,3 +802,4 @@
         ]
     }
 }
+
