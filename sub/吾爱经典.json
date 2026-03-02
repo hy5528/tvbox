@@ -3,7 +3,7 @@
     "classes": [
     {"type_name":"经典合集","type_id":"经典无损音乐合集"},    
     {"type_name":"粤语","type_id":"粤语歌曲超清"},
-    {"type_name":"热榜","type_id":"2025年热们歌曲"},
+    {"type_name":"热榜","type_id":"2026年热们歌曲"},
     {"type_name":"经典","type_id":"经典老歌"},
     {"type_name":"古风","type_id":"古风歌曲"},
     {"type_name":"闽南","type_id":"闽南语歌曲"},
@@ -11,7 +11,8 @@
     {"type_name":"翻唱","type_id":"网红翻唱歌曲"},
     {"type_name":"音乐","type_id":"音乐 4k"},
     {"type_name":"抖音热歌","type_id":"抖音热歌"},
-
+    {"type_name":"网易音乐","type_id":"网易音乐"},
+     {"type_name":"歌手","type_id":"歌手"},   
 {"type_name":"阿黛尔","type_id":"阿黛尔演唱会超清超清"},
 {"type_name":"Blackpink","type_id":"blackpink演唱会超清"},
 {"type_name":"Beyond","type_id":"beyond演唱会超清"},
@@ -802,4 +803,5 @@
         ]
     }
 }
+
 
