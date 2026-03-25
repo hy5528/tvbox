@@ -98,17 +98,7 @@
       "playerType": 1,
       "jar":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
      },
-	{
-            "name": "GD音乐台",
-            "logo": "https://mpimg.cn/view.php/f28da3eac8f392e9fa2ba91723b2bf4c.png",
-            "version": 4,
-            "remark": "",
-            "webSite": "https://music.gdstudio.xyz/",
-            "codeID": "M9nkucZA62rwJZsCkCkvdxuzYlRmmE4G",
-            "order": "B",
-            "api": "https://cdn.jsdelivr.net/gh/YYDS678/uzVideo-extensions@main/vod/js/Zhi_gdstudio.txt",
-            "type": 101
-        },
+	
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
