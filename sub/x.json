@@ -775,9 +775,9 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "范明明（需开启V6网络）",
+      "name": "央卫视直播",
       "type": 0,
-      "url": "https://nos.netease.com/ysf/3d75a78a0fc7ede372c03598d6d10367.m3u",
+      "url": "https://mpimg.cn/down.php/a34d44c4f0cc14bcb320c89cbb30c3d9.m3u",
       "playerType": 2
     },
     {
