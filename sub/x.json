@@ -412,16 +412,7 @@
       "quickSearch": 1,
       "ext": "https://www.msnii.com"
     },
-	{
-      "key": "63_msnzy",
-      "api": "https://www.msnii.com/api/json.php",
-      "name": "🎀苹果5┃影视",
-      "type": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": "https://19q.cc/api.php/provide/vod"
-    },
-    {
+   {
       "key": "63_msnzy",
       "api": "https://www.msnii.com/api/json.php",
       "name": "AV-美少女资源",
