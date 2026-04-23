@@ -404,13 +404,13 @@
       "ext": "https://apiyutu.com"
     },
     {
-      "key": "63_msnzy",
-      "api": "https://www.msnii.com/api/json.php",
+      "key": "19q",
+      "api": "https://19q.cc/api.php/provide/vod",
       "name": "🎀苹果4┃影视",
       "type": 1,
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "https://www.msnii.com"
+      "ext": "https://19q.cc"
     },
    {
       "key": "63_msnzy",
