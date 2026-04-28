@@ -374,8 +374,7 @@
 {"name":"🍩甜圈短剧","key":"TQdj","type":3,"api":"csp_TQdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"🐱喵喵短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
-{"key":"csp_Kanqiu","name":"⚾看球","type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
-{"key":"csp_Kugou","name":"🐶酷狗","type":3,"api":"csp_Kugou","playerType":2,"ext":{"classes":[{"type_name":"酷狗","type_id":"kugou"}]}},
+
     {
       "key": "云播",
       "name": "⛅️云播┃无搜索",
