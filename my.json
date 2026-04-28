@@ -365,15 +365,16 @@
       "categories": [
      "短剧"
       ]},
-	{"name":"🍉找｜短剧","key":"找短剧","type":3,"api":"csp_HgggAmns","indexs":1,"searchable":0,"filterable":0,"quickSearch":0,"changeable":0,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-    {"name":"🎦豪堪｜短剧","key":"豪堪短剧","type":3,"api":"csp_HHkkAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-	{"name":"📺盒马｜短剧","key":"盒马短剧","type":3,"api":"csp_HemaAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-	{"name":"🎞️拜拜｜短剧","key":"拜拜短剧","type":3,"api":"csp_BddjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-	{"name":"🐠锦鲤｜短剧","key":"锦鲤短剧","type":3,"api":"csp_JLdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-	{"name":"🐱喵喵｜短剧","key":"喵喵短剧","type":3,"api":"csp_QmdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-	{"name":"⭐星星｜短剧","key":"星星短剧","type":3,"api":"csp_XydjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-	{"name":"🎂岁岁｜短剧","key":"岁岁短剧","type":3,"api":"csp_SpdjAmns","searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"jar":"https://jihulab.com/yoursmile2/TVBox/-/raw/master/custom_spider.jar"},
-   
+	{"name":"😈短剧","key":"DjHggg","type":3,"api":"csp_HgggAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"ext":"short_play","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+    {"name":"🍭豪堪短剧","key":"HHkk","type":3,"api":"csp_HHkkAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+    {"name":"🛸盒马短剧","key":"Hema","type":3,"api":"csp_HemaAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+    {"name":"🧸拜拜短剧","key":"Bddj","type":3,"api":"csp_BddjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+    {"name":"🎀围观短剧","key":"Wgdj","type":3,"api":"csp_WgdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+    {"name":"🐠锦鲤短剧","key":"JLdj","type":3,"api":"csp_JLdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+    {"name":"🍩甜圈短剧","key":"TQdj","type":3,"api":"csp_TQdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+    {"name":"🐱喵喵短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+    {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
+
     {
       "key": "云播",
       "name": "⛅️云播┃无搜索",
