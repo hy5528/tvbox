@@ -1,5 +1,5 @@
-{
-  "spider": "https://oss4liview.moji.com/thd_file/2026/02/20/b5bb5a60fbb9b26fe6f59ac609fca9ce.jpg;md5;32091ed00f3c6bab72ba657bdc1599c8",
+
+   "spider": "https://oss4liview.moji.com/thd_file/2026/02/20/b5bb5a60fbb9b26fe6f59ac609fca9ce.jpg;md5;32091ed00f3c6bab72ba657bdc1599c8",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
     {
@@ -28,6 +28,21 @@
         "danMu": "弹"
       }
     },
+	{
+            "key": "MTV1",
+            "name": "🎙️易听音乐┃带歌词",
+            "type": 3,
+            "api": "csp_MusicGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+		    "jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar"    
+	 },
     {
             "key": "演唱会",
             "name": "🎸音乐┃鉴赏",
