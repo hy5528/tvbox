@@ -28,20 +28,6 @@
         "danMu": "弹"
       }
     },
-	 {
-      "key": "MTV1",
-      "name": "🎙️易听┃音乐",
-      "type": 3,
-      "api": "csp_MusicGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0
-    },
     {
             "key": "演唱会",
             "name": "🎸音乐┃鉴赏",
@@ -118,17 +104,7 @@
     },	
 
     {
-      "key": "yyt",
-      "name": "🎵音悦台┃mv",
-      "type": 3,
-      "api": "csp_Yinyuetai",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 30,
-      "playerType": 1,
-      "jar":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/YT.txt"
-     },
+
 
 	{
       "key": "聚合资源",
