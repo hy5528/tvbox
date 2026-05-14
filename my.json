@@ -103,14 +103,12 @@
       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },	
 
-    {
-
 
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
       "type": 1,
-      "api": "https://vod.korge.cn/kapi.php/provide/vod/",
+      "api": "https://vod.7na7.com/",
       "searchable": 1,
       "quickSearch": 1,
       "categories": [
