@@ -113,26 +113,42 @@
             "changeable": 0,
 			"jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
         },
-	  {
-            "key": "ChuXin",
-            "name": "💜初心｜音乐",
-            "type": 3,
-            "api": "csp_ChuXin",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-		    "jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E6%91%B8%E9%B1%BC%E5%84%BF/spider.jar"
-        },
-        {
-            "key": "aiting",
-            "name": "💛爱听｜音乐",
-            "type": 3,
-            "api": "csp_AiTingMusic",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E6%91%B8%E9%B1%BC%E5%84%BF/spider.jar"
-        },
+	{
+			"key": "T4-tangdou",
+			"name": "🎵音乐-糖豆(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/tangdou.php"
+		},
+		{
+			"key": "T4-djuu",
+			"name": "🎵音乐-DJUU(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/djuu.php"
+		},
+		{
+			"key": "T4-qingting",
+			"name": "🎵音乐-蜻蜓(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/qingting.php"
+		},
+		{
+			"key": "T4-mvzb",
+			"name": "🎵音乐-MV(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/mvzb.php"
+		},
+		{
+			"key": "T4-aha",
+			"name": "🎵音乐-啊哈(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/aha.php"
+		},
+		{
+			"key": "T4-suishenting",
+			"name": "🎵其他-随身听(T4)",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/suishenting.php"
+		},
         
   {
       "key": "美食",
