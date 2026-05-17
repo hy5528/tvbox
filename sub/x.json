@@ -133,24 +133,7 @@
             "filterable": 0,
 			"jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E6%91%B8%E9%B1%BC%E5%84%BF/spider.jar"
         },
-        {
-            "key": "Music24bit",
-            "name": "🧡无损｜音乐",
-            "type": 3,
-            "api": "csp_Music24bit",
-            "searchable": 1,
-            "changeable": 1,
-			"jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E6%91%B8%E9%B1%BC%E5%84%BF/spider.jar",
-            "ext": {
-                "categories": [
-                    "周杰伦",
-                    "林俊杰",
-                    "陈奕迅",
-                    "邓紫棋",
-                    "薛之谦"
-                ]
-            }
-        },
+        
   {
       "key": "美食",
       "name": " 🧡吾爱┃美食",
