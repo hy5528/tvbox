@@ -117,24 +117,28 @@
 			"key": "T4-tangdou",
 			"name": "🎵音乐-糖豆(T4)",
 			"type": 4,
+		    "spider": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
 			"api": "https://catbox.n13.club/t9/tangdou.php"
 		},
 		{
 			"key": "T4-djuu",
 			"name": "🎵音乐-DJUU(T4)",
 			"type": 4,
+			"spider": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
 			"api": "https://catbox.n13.club/t9/djuu.php"
 		},
 		{
 			"key": "T4-qingting",
 			"name": "🎵音乐-蜻蜓(T4)",
 			"type": 4,
+			"spider": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
 			"api": "https://catbox.n13.club/t9/qingting.php"
 		},
 		{
 			"key": "T4-mvzb",
 			"name": "🎵音乐-MV(T4)",
 			"type": 4,
+			"spider": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
 			"api": "https://catbox.n13.club/t9/mvzb.php"
 		},
 		{
@@ -147,6 +151,7 @@
 			"key": "T4-suishenting",
 			"name": "🎵其他-随身听(T4)",
 			"type": 4,
+			"spider": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
 			"api": "https://catbox.n13.club/t9/suishenting.php"
 		},
         
