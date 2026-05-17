@@ -80,7 +80,7 @@
       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/wex.png;md5;74a1bf23b9d08ad9f3483d1d73105a93"
     },
   
-    {"key":"biliych","name":" 🅱‍哔哩NEW歌曲🅱‍","type":3,"api":"csp_WexNewBiLiGuard","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt","jar":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/wex.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"},
+    {"key":"biliych","name":" 🅱‍哔哩NEW歌曲🅱‍","type":3,"api":"csp_WexNewBiLiGuard","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt","spider": "https://daili.korice.eu.org/https://raw.githubusercontent.com/leexuben/BINGO-TV/main/jar/%E6%BD%87%E6%B4%92.jar","jar":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/wex.png;md5;96b3222e24cfb3d9a43a007b3e52f1c1"},
      {
       "key": "经典音乐",
       "name": "💜吾爱┃经典",
