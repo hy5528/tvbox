@@ -96,7 +96,7 @@
     },	
 {
             "key": "MusicQingTing",
-            "name": "🎼蜻蜓┃电台🎼",
+            "name": "🖤蜻蜓┃电台",
             "type": 3,
             "api": "csp_MusicQingTingGuard",
             "searchable": 1,
@@ -106,16 +106,29 @@
        
         {
             "key": "MusicKuWo",
-            "name": "🎼酷听┃音乐🎼",
+            "name": "💛酷听┃音乐",
             "type": 3,
             "api": "csp_MusicKuWoGuard",
             "searchable": 1,
             "changeable": 0,
 			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-	  {"key": "MTV","name": "🎶明星┃MV","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/mv.txt"}},
-      {"key": "演唱会","name": "🎶明星┃演唱会","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"}},
-  
+        {
+      "key": "MTV",
+      "name": "💜明星┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": {
+        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/mv.txt"
+      }
+    },
 	  
 	  {
       "key": "美食",
