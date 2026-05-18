@@ -79,22 +79,7 @@
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt",
       "jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
     },
-  {
-            "key": "csp_Bili",
-            "name": "🅱┃️哔哩┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "playerType": 2,
-	        "jar":"https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E8%82%A5%E7%8C%AB/spider.jar",
-            "ext": {
-                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt",
-                "cookie": ""
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.333
-            }
-        },
+ 
      {
       "key": "经典音乐",
       "name": "💜吾爱┃经典",
