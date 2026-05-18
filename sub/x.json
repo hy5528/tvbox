@@ -80,7 +80,24 @@
       "jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
     },
   
-   
+   {
+            "key": "biliych",
+            "name": " 🅱‍哔哩┃歌曲🅱‍",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+	        "jar":"https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+            }
+        },
      {
       "key": "经典音乐",
       "name": "💜吾爱┃经典",
