@@ -63,8 +63,8 @@
             "changeable": 0,
 			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-       {"key": "MTV","name": "💜明星┃MV","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/mv.txt"}},
- 
+       {"key": "演唱会","name": "💛明星┃演唱会","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"}},
+  
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
