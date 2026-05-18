@@ -113,6 +113,7 @@
             "changeable": 0,
 			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
+	  {"key": "MTV","name": "🎶明星┃MV","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
   {
       "key": "美食",
       "name": " 🧡吾爱┃美食",
