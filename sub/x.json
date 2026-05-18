@@ -101,7 +101,7 @@
             "api": "csp_MusicQingTingGuard",
             "searchable": 1,
             "changeable": 0,
-		    "jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
        
         {
@@ -111,7 +111,7 @@
             "api": "csp_MusicKuWoGuard",
             "searchable": 1,
             "changeable": 0,
-			"jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E7%8E%8B%E4%BA%8C%E5%B0%8F/spider.jar"
+			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
   {
       "key": "美食",
