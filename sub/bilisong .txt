@@ -16,6 +16,9 @@
       "type_name": "抖音神曲",
       "type_id": "抖音神曲超清"
     },
+    {"type_name":"快手音乐",
+     "type_id":"快手音乐MV"
+    },
     {
       "type_name": "经典老歌",
       "type_id": "经典老歌超清"
