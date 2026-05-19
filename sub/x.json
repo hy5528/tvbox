@@ -128,7 +128,23 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/mv.txt"
       }
     },
-	  
+	   {
+      "key": "biliych",
+      "name": " 🅱‍哔哩┃歌曲🅱‍",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
+      }
+	},
 	  {
       "key": "美食",
       "name": " 🧡吾爱┃美食",
