@@ -43,55 +43,6 @@
             "changeable": 0,
 		    "jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar"    
 	 },
-   {
-            "key": "演唱会",
-            "name": "🎸音乐┃鉴赏",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/ych.json",
-            "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105"
-   },		
-   
-   {
-      "key": "乐器",
-      "name": "🖤吾爱┃乐器",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105"
-    },
-
-      {
-      "key": "演唱会自定义",
-      "name": "💛吾爱┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/演唱会-哔哩0723.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },
-  
-
-     {
-      "key": "经典音乐",
-      "name": "💜吾爱┃经典",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱经典.json",
-      "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },	
     {
             "key": "MusicQingTing",
             "name": "🖤蜻蜓┃电台",
@@ -145,28 +96,7 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
       }
 	},
-	  {
-      "key": "美食",
-      "name": " 🧡吾爱┃美食",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食0804.json",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105"
-    },	
-  {
-      "key": "哔哩哔哩",
-      "name": "🅱️我的┃哔哩",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/我的Bili.json",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },	
+	  
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
