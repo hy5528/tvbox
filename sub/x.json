@@ -97,6 +97,17 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/mv.txt"
       }
     }, 
+	{
+			"key": "DJyyyyw",
+			"name": "🎵yyyyw｜音乐",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+		    "spider": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
+			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/DJyyyyw.json"
+		},
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
