@@ -105,8 +105,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-		    "jar": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar", 
-			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/深港音乐汇(歌手).json"
+		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar", 
+			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/深港音乐汇(歌手).json"
 		},
 	  {
 			"key": "深港音乐汇(歌单)",
@@ -116,8 +116,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-		    "jar": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
-			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/深港音乐汇(歌单).json"
+		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
+			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/深港音乐汇(歌单).json"
 		},
 		{
 			"key": "闪闪音乐网",
@@ -127,8 +127,19 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
-			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/闪闪音乐网.json"
+			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
+			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/闪闪音乐网.json"
+		},
+	{
+			"key": "DJyyyyw",
+			"name": "🎵DJ｜音乐",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+		    "jar": "https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
+			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/DJyyyyw.json"
 		},
 	{
 			"key": "DJyyyyw",
