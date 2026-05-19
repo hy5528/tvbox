@@ -137,6 +137,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
+	  "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
