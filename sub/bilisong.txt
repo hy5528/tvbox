@@ -19,6 +19,10 @@
     {"type_name":"快手音乐",
      "type_id":"快手音乐MV"
     },
+    {"type_name":"酷狗音乐","type_id":"酷狗音乐MV"},
+    {"type_name":"酷我音乐","type_id":"酷我音乐MV"},
+    {"type_name":"QQ音乐","type_id":"QQ音乐MV"},
+    {"type_name":"无损音乐","type_id":"无损音乐"},
     {
       "type_name": "经典老歌",
       "type_id": "经典老歌超清"
