@@ -102,7 +102,17 @@
             "changeable": 0,
 		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-       
+         {
+          "key": "MusicIKtv",
+          "name": "💜KTV┃音乐",
+          "type": 3,
+          "api": "csp_MusicIKtvGuard",
+          "searchable": 1,
+          "changeable": 0,
+		 "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+			  
+    },
+        
         {
             "key": "MusicKuWo",
             "name": "💛酷听┃音乐",
@@ -130,7 +140,7 @@
     },
 	   {
       "key": "biliych",
-      "name": " 🅱‍哔哩┃歌曲🅱‍",
+      "name": "🖤哔哩┃歌曲",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
