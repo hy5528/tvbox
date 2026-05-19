@@ -109,7 +109,7 @@
             "api": "csp_MusicIKtvGuard",
             "searchable": 1,
             "changeable": 0,
-		    "spider": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+		    "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
         },
         
         {
