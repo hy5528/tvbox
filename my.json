@@ -130,13 +130,6 @@
 			"jar": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
 			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/闪闪音乐网.json"
 		},
-	    {
-			"key": "HIFI音乐APP",
-			"name": "🎵HIFI｜音乐",
-			"type": 3,
-			"jar": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar",
-			"api": "https://xn--fjq53n.xyz/Ting/yinyue/HIFI音乐APP.py"
-		},
 	{
 			"key": "DJyyyyw",
 			"name": "🎵DJ｜音乐",
