@@ -58,12 +58,11 @@
       "key": "乐器",
       "name": "🖤吾爱┃乐器",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.json",
-	   "spider": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/公众号吾爱有三日月与卿0723.jar",
       "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105"
     },
 
