@@ -130,17 +130,7 @@
 			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
 			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/闪闪音乐网.json"
 		},
-	{
-			"key": "DJyyyyw",
-			"name": "🎵DJ｜音乐",
-			"type": 3,
-			"api": "csp_XYQHiker",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-		    "jar": "https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
-			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/DJyyyyw.json"
-		},
+
 	{
 			"key": "DJyyyyw",
 			"name": "🎵DJ｜音乐",
