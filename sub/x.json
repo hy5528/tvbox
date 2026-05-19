@@ -98,6 +98,17 @@
       }
     }, 
 	{
+			"key": "深港音乐汇(歌手)",
+			"name": "🎵深港｜歌手",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+		    "jar": "https://xn--fjq53n.xyz/Ting/jar/Lge.jar", 
+			"ext": "https://xn--fjq53n.xyz/Ting/yinyue/深港音乐汇(歌手).json"
+		},
+	{
 			"key": "DJyyyyw",
 			"name": "🎵yyyyw｜音乐",
 			"type": 3,
