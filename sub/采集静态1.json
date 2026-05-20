@@ -98,6 +98,15 @@
         "class_url": "1&2&3&4&6&7&8&9&10&11&12&13&14&15&16&20&21&22&23&24&25&30&31"
     },
     {
+      "key": "聚合资源",
+      "name": "🎀聚合┃影视",
+      "type": 1,
+      "api": "https://vod.7na7.com/",
+      "searchable": 1,
+      "quickSearch": 1,
+     
+      },
+    {
         "name": "卧龙资源",
         "url": "https://wolongzyw.com/api.php/provide/vod",
         "parse_url": "",
