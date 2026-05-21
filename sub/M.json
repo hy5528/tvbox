@@ -17,17 +17,24 @@
 {"key":"csp_woog2","name":"❤欧歌｜弹幕","type":3,"changeable":"0","api":"csp_Duopan","filterable":1,"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=og2;md5;dd19c67b72b708f567d94500d7d9ab4e ","ext":{"site_urls":["https://ogkk.nxog.fun","https://ogkk.nxog.eu.org"],"url_key":"woog2","threadinfo":{"chunksize":299,"threads":16}}},
 {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
-  {
-      "key": "哔哩哔哩",
+ {
+      "key": "bilibili",
       "name": "🅱️我的┃哔哩",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt",
-      "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93"
-    },	
+      "changeable": 0,
+	  "jar": "https://nos.netease.com/ysf/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
+      }
+	},
     
 	{
       "key": "聚合资源",
