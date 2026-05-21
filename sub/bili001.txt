@@ -38,6 +38,10 @@
       "type_id": "纪录片超清"
     },
     {
+      "type_name": "乐器",
+      "type_id": "乐器"
+    },
+    {
       "type_name": "演唱会",
       "type_id": "演唱会超清"
     },
