@@ -65,7 +65,7 @@
         
 	   {
       "key": "biliych",
-      "name": "🧡哔哩┃歌曲",
+      "name": "🧡吾爱┃歌曲",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
