@@ -4,9 +4,14 @@
       "type_name": "沙雕动漫",
       "type_id": "一口气沙雕动漫"
     },
+
     {
       "type_name": "动漫",
       "type_id": "动漫合集"
+    },
+    {
+      "type_name": "荒野求生",
+      "type_id": "荒野求生超清"
     },
     {
       "type_name": "纪录片",
@@ -88,10 +93,7 @@
       "type_name": "小姐姐",
       "type_id": "小姐姐超清"
     },
-    {
-      "type_name": "荒野求生",
-      "type_id": "荒野求生超清"
-    },
+    
     {
       "type_name": "健身",
       "type_id": "健身"
