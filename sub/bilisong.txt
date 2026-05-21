@@ -27,7 +27,14 @@
       "type_name": "经典老歌",
       "type_id": "经典老歌超清"
     },
-    {"type_name":"KTV热门","type_id":"KTV热门MV"},
+{
+  "type_name":"经典合集",
+  "type_id":"经典无损音乐合集"
+},
+{
+     "type_name":"KTV热门",
+      "type_id":"KTV热门MV"
+ },
     {"type_name":"滚石经典","type_id":"滚石MV"},
     {"type_name":"古风MV","type_id":"古风MV"},
     {"type_name":"时光音乐会","type_id":"时光音乐会MV"},
