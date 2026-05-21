@@ -65,7 +65,7 @@
         },
 	{
       "key": "biliych",
-      "name": "🧡哔哩┃歌曲",
+      "name": "🧡吾爱┃歌曲",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -79,6 +79,24 @@
       },
       "ext": {
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
+      }
+	},
+	{
+      "key": "bilibili",
+      "name": "🖤吾爱┃乐器",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili002.txt"
       }
 	},
 	{
