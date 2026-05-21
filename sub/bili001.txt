@@ -42,6 +42,10 @@
       "type_id": "乐器"
     },
     {
+      "type_name": "吉他",
+      "type_id": "吉他"
+    },
+    {
       "type_name": "演唱会",
       "type_id": "演唱会超清"
     },
