@@ -133,7 +133,7 @@
 		},
 	{
 			"key": "深港音乐汇(歌手)",
-			"name": "🧡深港｜歌手",
+			"name": "💛深港｜歌手",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -144,7 +144,7 @@
 		},
 	  {
 			"key": "深港音乐汇(歌单)",
-			"name": "🎵深港｜歌单",
+			"name": "💛深港｜歌单",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -155,7 +155,7 @@
 		},
 		{
 			"key": "闪闪音乐网",
-			"name": "🧡闪闪｜音乐",
+			"name": "🖤闪闪｜音乐",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
