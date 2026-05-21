@@ -320,7 +320,17 @@
       "filterable": 0,
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },
-	
+	{
+            "key": "裤佬央视PY",
+            "name": "👖裤佬丨央视丨PY",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
 	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
