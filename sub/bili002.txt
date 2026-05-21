@@ -1,6 +1,7 @@
 {
   "class": [
-    "type_name": "乐器",
+    {
+      "type_name": "乐器",
       "type_id": "乐器"
     },
     {
