@@ -143,7 +143,7 @@
 		},
 	  {
       "key": "bilibili",
-      "name": " 🅱‍哔哩┃合集🅱‍",
+      "name": "🅱️我的┃哔哩",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
