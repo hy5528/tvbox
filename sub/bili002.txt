@@ -1,6 +1,42 @@
 {
   "class": [
+    "type_name": "乐器",
+      "type_id": "乐器"
+    },
     {
+      "type_name": "吉他",
+      "type_id": "吉他"
+    },
+    {
+      "type_name": "小提琴",
+      "type_id": "小提琴"
+    },
+    {
+      "type_name": "钢琴",
+      "type_id": "钢琴"
+    },
+    {
+      "type_name": "口琴",
+      "type_id": "口琴"
+    },
+    {
+      "type_name": "古筝",
+      "type_id": "古筝"
+    },
+    {
+      "type_name": "二胡",
+      "type_id": "二胡"
+    },
+   {
+      "type_name": "笛子",
+      "type_id": "笛子"
+    },
+
+{
+      "type_name": "萨克斯",
+      "type_id": "萨克斯"
+    },
+  {
       "type_name": "沙雕动漫",
       "type_id": "一口气沙雕动漫"
     },
