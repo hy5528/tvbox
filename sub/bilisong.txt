@@ -1,10 +1,6 @@
 {
   "class": [
     {
-      "type_name": "演唱会筛选",
-      "type_id": "演唱会超清"
-    },
-    {
       "type_name": "粤语",
       "type_id": "粤语歌曲超清"
     },
@@ -32,6 +28,10 @@
   "type_name":"经典合集",
   "type_id":"经典无损音乐合集"
 },
+{
+      "type_name": "演唱会筛选",
+      "type_id": "演唱会超清"
+    },
 {
      "type_name":"KTV热门",
       "type_id":"KTV热门MV"
