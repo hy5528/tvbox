@@ -324,10 +324,18 @@
 {"key":"多多动漫","name":"🤣多多｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://app.cf4k.xyz/1.txt","dataKey":"qqqqqqqqqqqqqqqq","dataIv":"qqqqqqqqqqqqqqqq","deviceId":"","version":""}},
 
 //csp_XBPQ
-
-{"key":"巧技","name":"🐢聚搜┃搜索","type":3,"api":"csp_qiao2","playerType":2,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1749917849270/0615qj.jpg;md5;410ad21caad9e6f6d40c1ae5ca2be662","ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
-{"key":"采集之王","name":"🐢采集┃搜索","type":3,"api":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/采集静态1.json$1$1"}, 
-
+{"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%811.json$1$1"}, 
+   {
+            "key": "聚搜影",
+            "name": "🎀聚搜┃影视",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "api": "https://8877.kstore.space/jar/AppToV5.py",
+            "ext": "http://43.248.117.123:4680"
+        },
 {"key":"️小学","name":"🅰️小学┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小学课堂.json"},"style":{"type":"rect","ratio":1.597}},
 {"key":"️初中","name":"🅰️初中┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/初中课堂.json"},"style":{"type":"rect","ratio":1.597}},
 {"key":"️高中","name":"🅰️高中┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/高中课堂.json"},"style":{"type":"rect","ratio":1.597}},
