@@ -82,10 +82,9 @@
     },
     {
         "name": "️🎀极速┃资源",
-        "url": "https://jszyapi.com",
+        "url": "https://jszyapi.com/api.php/provide/vod",
         "parse_url": "",
         "cate_exclude": "电视剧|电影|动漫|综艺|短剧|伦理片",
-        "api": "/api.php/provide/vod/at/json/",
         "class_name": "H4sIAGJXhmYC/zVP0W7CMBD7m3znYKIQkICKUsaoxMsgsBUooEpQmn5N7i79iyVH+hTbsXw2JaVVEUglKClBXwXmipqpF9r9Gh8XRtujf3C1Y3bM8V54ZOo9zSOSQwHjg9GZRzS64ueAtTRzJtZUDM+XR9ib40fKv1IFH46+TCU9sucC9DLkYf0nIBpAxqecQAlHmMcJNjoYXCXM8o68q78JvWorKwGzAp8Nl9UL27/ZcmOqiYAf1a6j4HEhbmFH3ORZ0RFODIR6TfvdcON+TmnMy8YX0r/ceDcMG2l7cvf+AYiMpdZZAQAA",
         "class_url": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&20&23&24&25&26&27&28&29&30&31&32&33&34&35&36&37&38"
     },
