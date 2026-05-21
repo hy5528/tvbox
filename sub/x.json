@@ -355,6 +355,16 @@
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },
 	{
+      "key": "cctv",
+      "name": "📺┃央视┃大全",
+      "type": 3,
+      "api": "csp_CCTV",
+      "searchable": 0,
+      "filterable": 0,
+      "ext": "http://rihou.vip:88/hccx/央视大全.json",
+    "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
+    },
+	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
       "type": 1,
