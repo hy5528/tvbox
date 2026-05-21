@@ -360,16 +360,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
-            "key": "EmbyJS",
-            "name": "Emby丨JS",
-            "type": 3,
-            "api": "https://17264.kstore.space/Emby.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"spider": "https://wp.kayyw.com/f/YkNQho/%E6%9F%92%E8%B1%AA.jar"
-        },
+       
 	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
