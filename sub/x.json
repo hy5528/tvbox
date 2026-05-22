@@ -127,7 +127,7 @@
 	},
 	 {
       "key": "bilibiwd",
-      "name": "🅱️我的┃哔哩",
+      "name": "❤️‍我的┃哔哩",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -196,15 +196,7 @@
 		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
 			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/DJyyyyw.json"
 		},
-	  {
-            "key": "AiWan",
-            "name": "♦｜爱玩｜音乐",
-            "type": 3,
-            "api": "csp_AiWan",
-            "searchable": 1,
-            "changeable": 0,
-            "filterable": 1
-        },
+	 
         {
             "key": "爱听音乐",
             "name": "♦爱听丨音乐",
