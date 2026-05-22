@@ -196,7 +196,17 @@
 		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
 			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/DJyyyyw.json"
 		},
-	   
+	  
+        {
+            "key": "爱听音乐",
+            "name": "♦｜爱听丨音乐",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/b3284feb00815ddd5d7e71e1468d9cf1.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
