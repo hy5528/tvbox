@@ -637,19 +637,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "超全",
-      "name": "⚽超全┃看球",
-      "type": 3,
-      "api": "csp_ZbzGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": "uqGL1fpJNAUf8fdTwZCE5qSp+Q=="
-    },
+    
     {
       "key": "看球",
       "name": "⚽手机┃看球",
