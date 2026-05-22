@@ -35,7 +35,27 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-    
+    {
+            "key": "苹果",
+            "name": "🎀苹果｜APP",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		    "jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E6%BD%87%E6%B4%92/spider.jar",
+            "ext": {
+                "appName": "小苹果5",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.juechufsh.android.xpg1",
+                "host": "",
+                "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+                "version": "1.0.0.3",
+                "decrypt": "0"
+            }
+        },
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
@@ -84,41 +104,7 @@
         "斯诺克"
       ]
       },  
-     
-   {
-      "key": "卧龙",
-      "name": "🎀卧龙┃影视",
-      "type": 1,
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "动作片",
-        "科幻片",
-        "战争片",
-        "喜剧片",
-        "爱情片",
-        "恐怖片",
-        "犯罪片",
-        "剧情片",
-        "冒险片",
-        "记录片",
-        "韩剧",
-        "香港剧",
-        "台湾剧",
-        "欧美剧",
-        "日剧",
-        "马泰剧",
-		"短剧", 
-        "体育赛事",
-        "综艺",
-        "动画片",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ]
-     },
+  
 	 {
       "key": "如意资源",
       "name": "🎀如意┃影视",
@@ -162,90 +148,8 @@
         "体育赛事"
       ]
      },
-    {
-      "key": "魔爪资源",
-      "name": "🎀魔爪┃影视",
-      "type": 1,
-      "api": "https://mozhuazy.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-	 "奇幻片",      
-        "悬疑片",     
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "冒险片",
-        "纪录片",
-	"犯罪片",     
-	"恐怖片",     
-        "连续剧",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "动漫片",
-        "国产动漫",
-        "日韩动漫",
-        "港台动漫",
-        "海外动漫",
-        "综艺片",
-        "大陆综艺",
-        "港台综艺",
-        "欧美综艺",
-        "动画片",
-        "电影解说",
-        "体育赛事"
-      ]
-     },	
-	  {
-      "key": "豆瓣资源",
-      "name": "🎀豆瓣┃影视",
-      "type": 1,
-      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-	 "奇幻片",      
-        "悬疑片",     
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "冒险片",
-        "纪录片",
-	"犯罪片",     
-	"恐怖片",     
-        "连续剧",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "动漫片",
-        "国产动漫",
-        "日韩动漫",
-        "港台动漫",
-        "海外动漫",
-        "综艺片",
-        "大陆综艺",
-        "港台综艺",
-        "欧美综艺",
-        "动画片",
-        "电影解说",
-        "体育赛事"
-      ]
-     },
+    
+	  
       {
             "key": "小苹果弹幕",
             "name": "🥇小苹果✨｜弹幕",
@@ -283,8 +187,8 @@
             "filterable": 1,
             "ext": "https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/json/影视大全.json"
         },
-    {"key":"茅台资源","name":"🎀茅台┃影视","type":1,"api":"https://caiji.maotaizy.cc/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-    {"key":"量子资源","name":"🎀量子┃影视","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+    
+	{"key":"量子资源","name":"🎀量子┃影视","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
   
 	{"key": "魔都资源","name": "🎀魔都┃影院","type": 1,"api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作","喜剧","网络电影","恐怖","惊悚","爱情","剧情","战争","冒险","韩国剧","台湾剧剧","日本剧","欧美剧","泰国剧","短剧", "日本动漫","欧美动漫","港台综艺","日韩综艺","欧美综艺"]},
