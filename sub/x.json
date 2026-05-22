@@ -445,19 +445,7 @@
       {"name":"💮围观┃短剧","key":"Wgdj","type":3,"api":"csp_WgdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
       {"name":"🐱喵喵┃短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
       {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
-       
-	   {
-            "key": "✨PPTV✨",
-            "name": "✨PP短剧✨",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		   "jar": "https://cnb.cool/fish2018/duanju/-/git/raw/main/jar/短剧.jar",
-            "ext": "https://cnb.cool/fish2018/duanju/-/git/raw/main/ext/PP短剧.json"
-        },
-	  
+  
 	  {
       "key": "nndb",
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
