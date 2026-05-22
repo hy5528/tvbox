@@ -52,16 +52,6 @@
             "changeable": 0,
 		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-         
-        {
-            "key": "MusicKuWo",
-            "name": "💛酷听┃音乐",
-            "type": 3,
-            "api": "csp_MusicKuWoGuard",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
-        },
         
 	   {
       "key": "bilibigq",
@@ -153,6 +143,15 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
+	 {
+            "key": "MusicKuWo",
+            "name": "💛酷听┃音乐",
+            "type": 3,
+            "api": "csp_MusicKuWoGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
+        },
 	{
 			"key": "深港音乐汇(歌手)",
 			"name": "🧡深港｜歌手",
