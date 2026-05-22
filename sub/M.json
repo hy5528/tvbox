@@ -149,31 +149,17 @@
       ]
      },
     
-	  
-      {
-            "key": "小苹果弹幕",
-            "name": "🥇小苹果✨｜弹幕",
-            "type": 3,
-            "api": "csp_Xpg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "https://ghfast.top/https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": {
-                "danmu": true
-            }
-        },
 	   {
             "key": "爱你影视",
             "name": "✨爱你影视✨",
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/jar/xyqxbpq.jar",
+            "jar": "https://ghfast.top/https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/json/爱你影视.json"
+            "ext": "https://ghfast.top/https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/json/爱你影视.json"
         },
         {
             "key": "影视大全",
@@ -181,11 +167,11 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_XBPQ",
-            "jar": "https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/jar/xyqxbpq.jar",
+            "jar": "https://ghfast.top/https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/jar/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/json/影视大全.json"
+            "ext": "https://ghfast.top/https://raw.kkgithub.com/franksun1211/TXT/main/HTB/PG/json/影视大全.json"
         },
     
 	{"key":"量子资源","name":"🎀量子┃影视","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
