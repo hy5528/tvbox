@@ -53,18 +53,8 @@
             "changeable": 0,
 		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-       
         {
-            "key": "MusicKuWo",
-            "name": "💛酷听┃音乐",
-            "type": 3,
-            "api": "csp_MusicKuWoGuard",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
-        },
-	{
-      "key": "biliych",
+      "key": "bilibigq",
       "name": "🧡吾爱┃歌曲",
       "type": 3,
       "api": "csp_BiliGuard",
@@ -81,8 +71,8 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
       }
 	},
-	{
-      "key": "bilibili",
+	   {
+      "key": "bilibiyq",
       "name": "🖤吾爱┃乐器",
       "type": 3,
       "api": "csp_BiliGuard",
@@ -100,8 +90,8 @@
       }
 	},
 	{
-      "key": "bilibili",
-      "name": "💛吾爱┃MV",
+      "key": "bilibimv",
+      "name": "🧡吾爱┃MV",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -118,21 +108,51 @@
       }
 	}, 
 	{
-      "key": "MTV",
-      "name": "💜明星┃MV",
+      "key": "bilibims",
+      "name": "💛吾爱┃美食",
       "type": 3,
       "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "changeable": 0,
+	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
       "ext": {
-        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/mv.txt"
+        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
       }
-    },
+	},
+	 {
+      "key": "bilibiwd",
+      "name": "🅱️我的┃哔哩",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
+      }
+	},
+        {
+            "key": "MusicKuWo",
+            "name": "💛酷听┃音乐",
+            "type": 3,
+            "api": "csp_MusicKuWoGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
+        },
+	
 	{
 			"key": "深港音乐汇(歌手)",
 			"name": "🧡深港｜歌手",
@@ -178,24 +198,7 @@
 		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
 			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/DJyyyyw.json"
 		},
-	   {
-      "key": "bilibili",
-      "name": "🅱️我的┃哔哩",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
-      }
-	},
+	   
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
