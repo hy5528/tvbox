@@ -53,7 +53,7 @@
             "changeable": 0,
 		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-        {
+      {
       "key": "bilibigq",
       "name": "🧡吾爱┃歌曲",
       "type": 3,
@@ -73,7 +73,7 @@
 	},
 	   {
       "key": "bilibiyq",
-      "name": "💛吾爱┃乐器",
+      "name": "💖吾爱┃乐器",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -127,7 +127,7 @@
 	},
 	 {
       "key": "bilibiwd",
-      "name": "🅱️我的┃哔哩",
+      "name": "❤️‍我的┃哔哩",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -143,7 +143,7 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-        {
+	 {
             "key": "MusicKuWo",
             "name": "💛酷听┃音乐",
             "type": 3,
@@ -152,7 +152,6 @@
             "changeable": 0,
 			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-	
 	{
 			"key": "深港音乐汇(歌手)",
 			"name": "🧡深港｜歌手",
@@ -166,7 +165,7 @@
 		},
 	  {
 			"key": "深港音乐汇(歌单)",
-			"name": "💛深港｜歌单",
+			"name": "🧡深港｜歌单",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -177,7 +176,7 @@
 		},
 		{
 			"key": "闪闪音乐网",
-			"name": "💜闪闪｜音乐",
+			"name": "🖤闪闪｜音乐",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"searchable": 1,
@@ -186,10 +185,9 @@
 			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
 			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/闪闪音乐网.json"
 		},
-
 	{
 			"key": "DJyyyyw",
-			"name": "🧡DJ ｜音乐",
+			"name": "🧡DJ｜音乐",
 			"type": 3,
 			"api": "csp_XYQHiker",
 			"searchable": 1,
@@ -198,7 +196,17 @@
 		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
 			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/DJyyyyw.json"
 		},
-	   
+	 
+        {
+            "key": "爱听音乐",
+            "name": "💖爱听丨音乐",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/b3284feb00815ddd5d7e71e1468d9cf1.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
