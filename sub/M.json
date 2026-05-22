@@ -18,7 +18,7 @@
 {"key":"配置中心","name":"❤配置｜中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.597}},
 
  {
-      "key": "bilibili",
+      "key": "bilibiwd",
       "name": "🅱️我的┃哔哩",
       "type": 3,
       "api": "csp_BiliGuard",
