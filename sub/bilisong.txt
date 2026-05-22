@@ -76,12 +76,12 @@
      "type_id":"钢琴曲MV"
     },
     {
-      "type_name": "DJ",
-      "type_id": "DJ歌曲超清"
-    },
-    {
       "type_name": "网红翻唱",
       "type_id": "网红翻唱歌曲超清"
+    },
+    {
+      "type_name": "DJ",
+      "type_id": "DJ歌曲超清"
     },
     {
       "type_name": "韩国女团",
