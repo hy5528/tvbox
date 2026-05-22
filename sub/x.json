@@ -453,7 +453,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-		    "spider": "https://cnb.cool/fish2018/duanju/-/git/raw/main/jar/短剧.jar",
+		    "jar": "https://cnb.cool/fish2018/duanju/-/git/raw/main/jar/短剧.jar",
             "ext": "https://cnb.cool/fish2018/duanju/-/git/raw/main/ext/短剧大全.json"
         },
 	  
