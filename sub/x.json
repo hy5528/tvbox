@@ -117,22 +117,7 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
       }
 	}, 
-	 {
-      "key": "MTV",
-      "name": "💜明星┃MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/mv.txt"
-      }
-    }, 
+	
 	 {
       "key": "bilibili",
       "name": "🅱️我的┃哔哩",
