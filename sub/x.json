@@ -64,7 +64,7 @@
         },
         
 	   {
-      "key": "biliych",
+      "key": "bilibigq",
       "name": "🧡吾爱┃歌曲",
       "type": 3,
       "api": "csp_BiliGuard",
@@ -82,7 +82,7 @@
       }
 	},
 	   {
-      "key": "bilibilc",
+      "key": "bilibiyq",
       "name": "🖤吾爱┃乐器",
       "type": 3,
       "api": "csp_BiliGuard",
@@ -118,7 +118,7 @@
       }
 	}, 
 	{
-      "key": "bilibimc",
+      "key": "bilibims",
       "name": "💛吾爱┃美食",
       "type": 3,
       "api": "csp_BiliGuard",
@@ -136,7 +136,7 @@
       }
 	},
 	 {
-      "key": "bilibimy",
+      "key": "bilibiwd",
       "name": "🅱️我的┃哔哩",
       "type": 3,
       "api": "csp_BiliGuard",
