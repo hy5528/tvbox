@@ -41,6 +41,10 @@
     "type_id":"经典无损音乐合集"
   },
   {
+      "type_name": "音乐",
+      "type_id": "音乐"
+    },
+  {
       "type_name": "歌曲",
       "type_id": "歌曲"
   },
