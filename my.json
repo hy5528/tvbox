@@ -385,6 +385,46 @@
             "api": "https://8877.kstore.space/jar/AppToV5.py",
             "ext": "http://43.248.117.123:4680"
         },
+	  	{
+            "key": "裤佬央视PY",
+            "name": "👖裤佬丨央视丨PY",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+	   {
+            "key": "裤佬永乐JS",
+            "name": "👖裤佬丨永乐丨JS",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "界影PY",
+            "name": "👖裤佬丨界影丨PY",
+            "api": "https://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+        {
+            "key": "裤佬EmbyJS",
+            "name": "👖裤佬丨Emby丨JS",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
 	{
       "key": "直播转点播",
       "name": "📺电视┃点播",
