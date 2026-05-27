@@ -35,6 +35,17 @@
         "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
+	{
+            "key": "裤佬央视PY",
+            "name": "👖裤佬丨央视丨PY",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
