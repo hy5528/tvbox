@@ -288,6 +288,15 @@
         "漫剧"
       ]
     },
+	  {
+"key":"裤佬电视直播",
+"name":"👖裤佬丨电视丨直播",
+"type":3,
+"searchable":0,
+"changeable":0,
+"api":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/zbzdb.js",
+"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/zbzdb.json"
+},
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
