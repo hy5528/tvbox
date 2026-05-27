@@ -319,6 +319,15 @@
             "changeable": 1
             },
 	  {
+"key":"裤佬猎手PY",
+"name":"👖裤佬丨猎手丨PY",
+"api":"https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
+"filterable":1,
+"quickSearch":1,
+"searchable":1,
+"type":3
+},
+	  {
             "key": "苹果",
             "name": "🎀苹果｜APP",
             "type": 3,
