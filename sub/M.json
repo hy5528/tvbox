@@ -195,17 +195,7 @@
 
 //csp_XBPQ
 
-	 {
-            "key": "聚搜影",
-            "name": "🎀聚搜┃影视",
-            "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            },
-            "api": "https://8877.kstore.space/jar/AppToV5.py",
-            "ext": "http://43.248.117.123:4680"
-        },
+	
 {"key":"️小学","name":"🅰️小学┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小学课堂.json"},"style":{"type":"rect","ratio":1.597}},
 {"key":"️初中","name":"🅰️初中┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/初中课堂.json"},"style":{"type":"rect","ratio":1.597}},
 {"key":"️高中","name":"🅰️高中┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/高中课堂.json"},"style":{"type":"rect","ratio":1.597}},
