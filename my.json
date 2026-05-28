@@ -207,6 +207,36 @@
             "quickSearch": 1,
             "filterable": 1
         },
+	  {
+            "key": "裤佬爱玩音乐",
+            "name": "👖爱玩丨音乐",
+            "type": 3,
+            "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;a857d2c26e967488b422d536d145fe1f",
+            "api": "csp_AiWan",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 1
+        },
+{
+"key":"裤佬爱听音乐",
+"name":"👖爱听丨音乐",
+"type":3,
+"api":"https://mpimg.cn/down.php/b3284feb00815ddd5d7e71e1468d9cf1.py",
+"searchable":1,
+"changeable":1,
+"quickSearch":1,
+"filterable":1
+},
+{
+"key":"裤佬枫叶音乐",
+"name":"👖枫叶丨音乐",
+"type":3,
+"api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+"searchable":1,
+"changeable":1,
+"quickSearch":1,
+"filterable":1
+},
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
