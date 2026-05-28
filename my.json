@@ -427,15 +427,7 @@
       "filterable": 0,
       "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },
-	   {
-"key":"裤佬电视直播",
-"name":"👖电视丨直播",
-"type":3,
-"searchable":0,
-"changeable":0,
-"api":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/zbzdb.js",
-"ext":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/stymei/zbzdb.json"
-},
+	   
 	{
             "key": "裤佬央视PY",
             "name": "👖央视丨PY",
