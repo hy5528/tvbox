@@ -192,13 +192,10 @@
     
 //动漫
 {"key":"曼波动漫","name":"🤣曼波｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454","deviceId":"","version":""}},
-{"key":"魔都资源","name":"🤣魔都┃动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"稀饭动漫","name":"🤣稀饭｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://xfapp-1305390065.cos.ap-guangzhou.myqcloud.com/getapp.txt","dataKey":"1yZ2Spn9krnzVKoC","dataIv":"1yZ2Spn9krnzVKoC","deviceId":"","version":""}},
-{"key":"多多动漫","name":"🤣多多｜动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"","site":"https://app.cf4k.xyz/1.txt","dataKey":"qqqqqqqqqqqqqqqq","dataIv":"qqqqqqqqqqqqqqqq","deviceId":"","version":""}},
 
 //csp_XBPQ
-{"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%811.json$1$1"}, 
-   {
+
+	 {
             "key": "聚搜影",
             "name": "🎀聚搜┃影视",
             "type": 3,
