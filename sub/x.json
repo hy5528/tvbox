@@ -414,7 +414,10 @@
                 "ratio": 1.485
             },
             "api": "https://8877.kstore.space/jar/AppToV5.py",
-            "ext": "http://43.248.117.123:4680"
+            "ext": "
+  "domain": "http://122.228.193.211:18008",
+  "enabled": true
+   }"
         },
 	 {
       "key": "直播转点播",
