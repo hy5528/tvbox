@@ -591,26 +591,7 @@
             }
         },
 	   
-	  {
-            "key": "至臻",
-            "name": "💯至臻",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
-            "ext": {
-                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-                "siteUrl": [
-                    "https://zhizhen1.top",
-                    "https://pan.mihdr.top",
-                    "https://www.mihdr.top",
-                    "https://www.miqk.cc",
-                    "https://mihdr.top"
-                ],
-                "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-            }
-        },
+	
 	   {
             "key": "永乐",
             "name": "🍰永乐",
