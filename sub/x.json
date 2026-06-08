@@ -582,11 +582,37 @@
       {"name":"💮围观┃短剧","key":"Wgdj","type":3,"api":"csp_WgdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
       {"name":"🐱喵喵┃短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
       {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
-       {
-            "key": "php_电影天堂",
-            "name": "🍎 电影天堂(PHP)",
+        {
+            "key": "影视播放",
+            "name": "老张影视",
             "type": 4,
-            "api": "https://php.doube.eu.org/spider/php/电影天堂.php"
+            "api": "http://zhangqun1818.serv00.net/zh/2242.php"
+        },
+        {
+            "key": "影视单播放",
+            "name": "影视播放",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/2243.php"
+        },
+        {
+            "key": "热播影视",
+            "name": "热播┃影视",
+            "jar": "https://wp.kayyw.com/f/nOjVCX/%E7%83%AD%E6%92%AD%E8%B7%9F%E8%82%A56.jar",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "csp_Qiyou",
+            "name": "奇优┃肥六",
+            "jar": "https://wp.kayyw.com/f/nOjVCX/%E7%83%AD%E6%92%AD%E8%B7%9F%E8%82%A56.jar",
+            "type": 3,
+            "api": "csp_Qiyou"
         },
 	   {
             "key": "克隆合集",
