@@ -614,6 +614,20 @@
                 "简介": "简介：&&"
             }
         },
+	   {
+            "key": "片库",
+            "name": "🅿片库",
+            "type": 3,
+            "api": "csp_Qiwei",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+            "ext": {
+                "siteUrl": "https://www.qwnull.com",
+                "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
+            }
+        },
 	  {
             "key": "至臻",
             "name": "💯至臻",
