@@ -598,20 +598,20 @@
             }
         },
 	   {
-            "key": "二小",
-            "name": "😈二小",
+            "key": "面包",
+            "name": "🎁面包",
             "type": 3,
-            "api": "csp_kongbai",
+            "api": "csp_XBPQ",
             "searchable": 1,
-            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
 		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
             "ext": {
-                "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-                "siteUrl": [
-                    "https://www.2xiaopan.top",
-                    "https://2xiaopan.top"
-                ],
-                "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
+                "简介": "简介：&&"
             }
         },
 	  {
