@@ -584,6 +584,7 @@
             "api": "csp_kongbai",
             "searchable": 1,
             "changeable": 0,
+		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
             "ext": {
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "siteUrl": [
