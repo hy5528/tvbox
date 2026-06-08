@@ -584,6 +584,12 @@
       {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
 
 	   {
+            "key": "克隆合集",
+            "name": "克隆合集",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/klhj.php"
+        },
+	   {
             "key": "讴歌",
             "name": "0️⃣讴歌",
             "type": 3,
