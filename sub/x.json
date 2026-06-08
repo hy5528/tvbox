@@ -601,7 +601,7 @@
             "key": "克隆合集",
             "name": "克隆合集",
             "type": 4,
-            "api": "ttp://zhangqun1818.serv00.net/klhj.php"
+            "api": "http://zhangqun1818.serv00.net/klhj.php"
         },
 	    
 	   {
