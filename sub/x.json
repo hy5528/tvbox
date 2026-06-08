@@ -614,24 +614,7 @@
                 "简介": "简介：&&"
             }
         },
-	    {
-            "key": "闪电",
-            "name": "⚡闪电",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
-            "ext": {
-                "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-                "siteUrl": [
-                    "https://shandian.blog",
-                    "https://sd.sduc.site",
-                    "https://sduc.cloud/"
-                ],
-                "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-            }
-        },
+	   
 	  {
             "key": "至臻",
             "name": "💯至臻",
