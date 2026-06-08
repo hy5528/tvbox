@@ -584,7 +584,7 @@
             "api": "csp_kongbai",
             "searchable": 1,
             "changeable": 0,
-		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
             "ext": {
                 "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "siteUrl": [
@@ -605,7 +605,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -615,8 +615,8 @@
             }
         },
 	    {
-            "key": "木偶",
-            "name": "🧸木偶",
+            "key": "闪电",
+            "name": "⚡闪电",
             "type": 3,
             "api": "csp_kongbai",
             "searchable": 1,
@@ -625,12 +625,11 @@
             "ext": {
                 "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "siteUrl": [
-                    "https://123.666291.xyz",
-                    "https://666.666291.xyz",
-                    "https://www.muou.site",
-                    "https://www.muou.asia"
+                    "https://shandian.blog",
+                    "https://sd.sduc.site",
+                    "https://sduc.cloud/"
                 ],
-                "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
+                "filter": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
             }
         },
 	  {
@@ -640,7 +639,7 @@
             "api": "csp_kongbai",
             "searchable": 1,
             "changeable": 0,
-		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
             "ext": {
                 "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
                 "siteUrl": [
@@ -661,7 +660,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
