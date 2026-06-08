@@ -605,26 +605,6 @@
         },
 	    
 	   {
-            "key": "讴歌",
-            "name": "0️⃣讴歌",
-            "type": 3,
-            "api": "csp_kongbai",
-            "searchable": 1,
-            "changeable": 0,
-		    "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/Yoursmile.jar",
-            "ext": {
-                "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
-                "siteUrl": [
-                    "https://woog.nxog.eu.org",
-                    "https://woog.nxog.fun",
-                    "https://woog.430520.xyz",
-                    "https://woog.nxog.de5.net",
-                    "https://woog.装歌.de5.net"
-                ],
-                "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/wogg.json"
-            }
-        },
-	   {
             "key": "面包",
             "name": "🎁面包",
             "type": 3,
