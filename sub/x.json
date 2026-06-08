@@ -406,15 +406,21 @@
   
    {"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/%E9%87%87%E9%9B%86%E9%9D%99%E6%80%811.json$1$1"}, 
    {
-            "key": "聚搜影",
-            "name": "🎀聚搜┃影视",
+            "key": "枫叶电影",
+            "name": "枫叶电影",
             "type": 3,
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            },
-            "api": "https://8877.kstore.space/jar/AppToV5.py",
-            "ext": "https://vod.7na7.com/"
+            "api": "csp_XBPQ",
+            "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+            "ext": {
+                "副标题": "保护正版，人人有责",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.budaichuchen.net/label/qq.html",
+                "线路数组": "<i class=\"fa ds-dianying\">&&</span>",
+                "播放数组": "anthology-list-play size\">&&</ul>",
+                "分类url": "https://www.budaichuchen.net/cupfox-list/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+            }
         },
 	 {
       "key": "直播转点播",
