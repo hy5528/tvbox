@@ -585,13 +585,7 @@
                 "url": "http://v.rbotv.cn"
             }
         },
-        
-	   {
-            "key": "克隆合集",
-            "name": "克隆合集",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/klhj.php"
-        },
+     
 	{
             "key": "讴歌",
             "name": "0️⃣讴歌",
