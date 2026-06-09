@@ -545,15 +545,7 @@
             },
             "changeable": 1
         },
-        {
-            "key": "界影PY",
-            "name": "👖界影丨PY",
-            "api": "https://mpimg.cn/down.php/4440a9a56b6d222647a856452eefb21a.py",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
+
         {
             "key": "裤佬EmbyJS",
             "name": "👖Emby丨JS",
