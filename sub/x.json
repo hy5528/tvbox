@@ -422,6 +422,23 @@
                 "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
             }
         },
+	    {
+    "name": "无尽资源",
+    "homepage": "https://wujinzy.com",
+    "domains": [
+      "v1.ppqrrs.com",
+      "v11.ppqrrs.com",
+      "v12.ppqrrs.com",
+      "v2.ppqrrs.com",
+      "v3.ppqrrs.com",
+      "v4.ppqrrs.com",
+      "v5.ppqrrs.com",
+      "v6.ppqrrs.com",
+      "v7.ppqrrs.com",
+      "v8.ppqrrs.com",
+      "v9.ppqrrs.com"
+    ]
+  },
 	 {
       "key": "直播转点播",
       "name": "📺电视┃点播",
