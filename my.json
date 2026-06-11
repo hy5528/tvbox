@@ -875,7 +875,7 @@
     {
       "name": "develop202",
       "type": 0,
-      "url": "https://gh.llkk.cc/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "url": "https://gh-proxy.org/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
       "playerType": 2,
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
