@@ -41,7 +41,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-		    "jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar"    
+		    "jar": "https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar"    
 	 },
     
 	{
@@ -51,7 +51,7 @@
             "api": "csp_MusicQingTingGuard",
             "searchable": 1,
             "changeable": 0,
-		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
       {
       "key": "bilibigq",
@@ -62,13 +62,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
       }
 	},
 	   {
@@ -80,13 +80,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
       }
 	},
 	{
@@ -98,13 +98,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
       }
 	}, 
 	{
@@ -116,13 +116,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
       }
 	},
 	 {
@@ -134,13 +134,13 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
 	 {
@@ -150,7 +150,7 @@
             "api": "csp_MusicKuWoGuard",
             "searchable": 1,
             "changeable": 0,
-			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
 	{
 			"key": "深港音乐汇(歌手)",
@@ -160,8 +160,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar", 
-			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/深港音乐汇(歌手).json"
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar", 
+			"ext": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/深港音乐汇(歌手).json"
 		},
 	  {
 			"key": "深港音乐汇(歌单)",
@@ -171,8 +171,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
-			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/深港音乐汇(歌单).json"
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
+			"ext": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/深港音乐汇(歌单).json"
 		},
 		{
 			"key": "闪闪音乐网",
@@ -182,8 +182,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
-			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/闪闪音乐网.json"
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
+			"ext": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/闪闪音乐网.json"
 		},
 	{
 			"key": "DJyyyyw",
@@ -193,8 +193,8 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-		    "jar": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
-			"ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/DJyyyyw.json"
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/Lge.jar",
+			"ext": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/DJyyyyw.json"
 		},
 	 
         {
@@ -245,7 +245,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-		    "jar": "https://ghfast.top/https://github.com/ls125781003/tvboxtg/blob/main/%E6%BD%87%E6%B4%92/spider.jar",
+		    "jar": "https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/%E6%BD%87%E6%B4%92/spider.jar",
             "ext": {
                 "appName": "小苹果5",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
@@ -402,7 +402,7 @@
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作","喜剧","网络电影","恐怖","惊悚","爱情","剧情","战争","冒险","韩国剧","台湾剧剧","日本剧","欧美剧","泰国剧","短剧", "日本动漫","欧美动漫","港台综艺","日韩综艺","欧美综艺"]},
 	{"key": "电影天堂","name": "🎀电影┃天堂","type": 1,"api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","动画片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","短剧", "泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
-       {"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/采集静态1.json$1$1"}, 
+       {"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/采集静态1.json$1$1"}, 
    
 	{
             "key": "枫叶电影",
@@ -426,11 +426,11 @@
       "name": "📺电视┃点播",
       "playerType": 1,
       "type": 3,
-      "api": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
+      "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghfast.top/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
+      "ext": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"
     },
 	   
 	{
