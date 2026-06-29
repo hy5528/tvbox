@@ -52,7 +52,7 @@
             "changeable": 0,
 		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-        },
+        
         {
             "key": "Music163",
             "name": "🎼易听┃音乐🎼",
@@ -62,7 +62,7 @@
             "changeable": 0,
 		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-        },
+        
         {
             "key": "MusicKuWo",
             "name": "🎼酷听┃音乐🎼",
@@ -72,7 +72,7 @@
             "changeable": 0,
 		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
-        },
+        
 	{
             "key": "MusicQingTing",
             "name": "💜蜻蜓┃电台",
