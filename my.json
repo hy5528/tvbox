@@ -494,10 +494,10 @@
 		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
         {
-            "key": "Wexduanjusuipian",
-            "name": "🍉短剧┃速播🍉",
+              "key": "DuanJuHaoKan",
+            "name": "🍉短剧┃好看🍉",
             "type": 3,
-            "api": "csp_WexduanjusuipianGuard",
+            "api": "csp_DuanJuHaoKanGuard",
             "searchable": 1,
             "changeable": 1,
 			"jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
