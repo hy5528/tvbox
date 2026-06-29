@@ -28,6 +28,7 @@
         "danMu": "弹"
       }
     },
+	
 	{
             "key": "MusicQingTing",
             "name": "💜蜻蜓┃电台",
@@ -127,7 +128,7 @@
         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-	 
+	
 {
 "key":"裤佬枫叶音乐",
 "name":"👖枫叶丨音乐",
@@ -138,6 +139,15 @@
 "quickSearch":1,
 "filterable":1
 },
+	{
+            "key": "WexLunhuiDJ",
+            "name": "🎼轮回┃舞曲",
+            "type": 3,
+            "api": "csp_WexLunhuiDJGuard",
+            "searchable": 1,
+            "changeable": 0,
+		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
+        },
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
@@ -159,7 +169,7 @@
                 "decrypt": "0"
             }
         },
-	  {
+     {
             "key": "WexikanbotGuard",
             "name": "🎀爱看┃采集",
             "type": 3,
@@ -168,6 +178,7 @@
             "changeable": 1,
 		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
+	  
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
@@ -473,7 +484,24 @@
     {"name":"💮围观┃短剧","key":"Wgdj","type":3,"api":"csp_WgdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
     {"name":"🐱喵喵┃短剧","key":"Qmdj","type":3,"api":"csp_QmdjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
     {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
-
+     {
+            "key": "Wexduanjuvop",
+            "name": "🍉短剧┃秒播",
+            "type": 3,
+            "api": "csp_WexduanjuvopGuard",
+            "searchable": 1,
+            "changeable": 1,
+		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
+        },
+        {
+              "key": "DuanJuHaoKan",
+            "name": "🍉短剧┃好看",
+            "type": 3,
+            "api": "csp_DuanJuHaoKanGuard",
+            "searchable": 1,
+            "changeable": 1,
+			"jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
+        },
 	   {
             "key": "面包",
             "name": "🎁面包",
