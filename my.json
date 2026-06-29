@@ -486,7 +486,7 @@
     {"name":"⭐星星短剧","key":"Xydj","type":3,"api":"csp_XydjAmns","playerType":2,"searchable":1,"filterable":1,"quickSearch":1,"changeable":1,"genre":"shortdrama","jar":"https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"},
      {
             "key": "Wexduanjuvop",
-            "name": "🍉短剧┃秒播🍉",
+            "name": "🍉短剧┃秒播",
             "type": 3,
             "api": "csp_WexduanjuvopGuard",
             "searchable": 1,
@@ -495,7 +495,7 @@
         },
         {
               "key": "DuanJuHaoKan",
-            "name": "🍉短剧┃好看🍉",
+            "name": "🍉短剧┃好看",
             "type": 3,
             "api": "csp_DuanJuHaoKanGuard",
             "searchable": 1,
