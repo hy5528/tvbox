@@ -29,8 +29,8 @@
       }
     },
 	{
-            "key": "MTV1",
-            "name": "🎙️易听┃音乐",
+             "key": "MTV1",
+            "name": "🎙️易听音乐┃带歌词",
             "type": 3,
             "api": "csp_MusicGuard",
             "style": {
@@ -38,10 +38,10 @@
                 "ratio": 1
             },
             "playerType": 2,
-            "searchable": 1,
+            "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-		    "jar": "https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/%E9%A5%AD%E5%A4%AA%E7%A1%AC/spider.jar"    
+		    "jar": "https://zl.wpscdn.cn/2026/06/29/space_img/701df858-5fe4-4ac0-bc9a-f86a87a8cbf5.jpg;md5;0c32d054350e007ba83c2feacfc1f0ac"    
 	 },
     {
             "key": "MusicQingTing",
