@@ -154,7 +154,15 @@
 "quickSearch":1,
 "filterable":1
 },
-	
+	{
+            "key": "WexLunhuiDJ",
+            "name": "🎼轮回┃舞曲",
+            "type": 3,
+            "api": "csp_WexLunhuiDJGuard",
+            "searchable": 1,
+            "changeable": 0,
+		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
+        },
 	  {
             "key": "苹果",
             "name": "🎀苹果｜APP",
