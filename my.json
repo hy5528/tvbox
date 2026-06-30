@@ -358,19 +358,7 @@
                 "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
             }
         }, 	
-	    {
-            "key": "热播影视",
-            "name": "🌹热播┃影视",
-            "jar": "https://wp.kayyw.com/f/nOjVCX/%E7%83%AD%E6%92%AD%E8%B7%9F%E8%82%A56.jar",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
+	    
         
 	{
       "key": "直播转点播",
