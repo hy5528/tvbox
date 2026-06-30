@@ -504,7 +504,7 @@
         },
      {
             "key": "Wexduanjuvmp",
-            "name": "🍉短剧┃瞬播🍉",
+            "name": "🍉短剧┃瞬播",
             "type": 3,
             "api": "csp_WexduanjuvmpGuard",
             "searchable": 1,
@@ -512,7 +512,7 @@
 		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
 	   {
-            "name": "🏃‍♂️‍➡️追剧",
+            "name": "🏃‍♂️‍➡️┃追剧",
             "key": "AppV7Zjdr",
             "type": 3,
             "api": "csp_AppV7Amns",
