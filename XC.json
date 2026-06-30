@@ -347,7 +347,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+		    "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260629/LKSE/0X0/06291651.png",
+            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"  
         },
 	{
             "key": "枫叶电影",
