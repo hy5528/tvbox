@@ -530,6 +530,14 @@
             "changeable": 1,
 		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
+	  {
+            "key": "短剧网",
+            "name": "✨短剧网✨",
+            "type": 3,
+            "jar": "https://cnb.cool/fish2018/duanju/-/git/raw/main/jar/潇洒.jar",
+            "api": "csp_XBPQ",
+            "ext": "https://cnb.cool/fish2018/duanju/-/git/raw/main/ext/短剧网.json"
+        },
 	   {
             "name": "🏃‍♂️‍➡️┃追剧",
             "key": "AppV7Zjdr",
