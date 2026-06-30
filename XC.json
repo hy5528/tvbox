@@ -339,17 +339,7 @@
 	{"key": "电影天堂","name": "🎀电影┃天堂","type": 1,"api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","动画片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","短剧", "泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
     {"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/采集静态1.json$1$1"}, 
-    {
-            "key": "闪影",
-            "name": "闪影 • APP",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		    "jar": "https://img.51shazhu.com/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20260629/LKSE/0X0/06291651.png",
-            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"  
-        },
+    
 	{
             "key": "枫叶电影",
             "name": "💥枫叶┃电影",
