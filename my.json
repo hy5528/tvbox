@@ -338,8 +338,14 @@
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","动作","喜剧","网络电影","恐怖","惊悚","爱情","剧情","战争","冒险","韩国剧","台湾剧剧","日本剧","欧美剧","泰国剧","短剧", "日本动漫","欧美动漫","港台综艺","日韩综艺","欧美综艺"]},
 	{"key": "电影天堂","name": "🎀电影┃天堂","type": 1,"api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","动画片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","短剧", "泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
-       {"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/采集静态1.json$1$1"}, 
-   
+    {"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/采集静态1.json$1$1"}, 
+  
+	   {
+            "key": "克隆合集",
+            "name": "克隆合集",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/klhj.php"
+        },
 	{
             "key": "枫叶电影",
             "name": "💥枫叶┃电影",
@@ -357,6 +363,20 @@
                 "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
             }
         }, 	
+	    {
+            "key": "热播影视",
+            "name": "热播┃影视",
+            "jar": "https://wp.kayyw.com/f/nOjVCX/%E7%83%AD%E6%92%AD%E8%B7%9F%E8%82%A56.jar",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        
 	{
       "key": "直播转点播",
       "name": "📺电视┃点播",
@@ -533,7 +553,7 @@
             "ext": "3b135714a2413f05151fea6864509533510f64888873c9014549547c4b35cb1adeee20e0d57ba3751a77a841c05ab07707cfd47e5ce58300c4d76a63b36769f5ca194cdd372e6467113c881d77e743db16d7abe2ebd99e610047bc3a54b53b4f7bede852c8e349a047965ceded596e9c7cdb344a399e97218a77fdb81e930db1d2f09f2d4c2be1d6c471c80699fc615e8ec072aba54e4f79e9c56aeaa4461e497c6c381b699686935bb9dddf708e9d482bfc16e5aeae6235094fb4d8fa6741ca8318b2520013ff54ab8cb1203d078e4b8dc78abd041b48191ec6893734015fd08d2f4ebc76193de569e55f74a5397c5ea4213b9345bd027ac2986c63ce65636cd7f91f9d30d1ad37b9b4d6de92d545a1545924904a7a4c1b06d181b5dda5f13df8fd20d812125da97f030cf56d088e4ba52a074f50fabccfade34dc57f3c03ca2dc2231bca5a56800380d95dfa36f2cd731c7bd3c7cb97c8d3a027226b7841694066964d2811f51dcdcf51b44eec61fe79b3f778f338ac061b89290367806e3639e3e632c4422005eef3805f21c7c6eb2252646bdbd5fd668956526496a4927b626c15bd74d80fc0a58dd2647e719a0a8d21fd207b69b1c775523b08c70a3dee2aea405c877b5ce2c0674d0dc01bd6aa625299dd224946523dadeff0bc11857a9a979b6565b8ecf701e0bfa96ee984b04078080dd7d53f7fa0229f754d9b78ed48273863a6607bedc04fe48a7228d2a8a0c2c9fd06ba62744aa72542e8880e2b786bd00427d86827d1f075139a5d2e7f9067a5fa6e6972b419c9e2b81cda8ea188b786a63537414ace9159cdf2c0274643b0f560fcd0d528e802d16f2e9f16ea92569126ecc10dc9231c44d689bce4568300845e9232b3e68fc00985f86feaa70f1e72babc1f3e87848639935222bbcd3bdd34b30e5ae6e4f73c984fd222e3be4801099d57cc07289229665a18cc26c7d39e348ae8d7f667c2b6ce0d6fbe79557304c9a7dba512a888504bacb5e04438b2abb8433788567ac2781ec50192cfb98fb17f1b8a9a8d934316c9df70669b3087e9308809e3217ca885ab59d204875856bf085522982e2759df9c7d5e02d7d0b4427be9ce8c5dbb70ea28c979d9588b46a1c784590df6b43f6366d8ca751bb93f9cf2404fbc7c569bd7e1d82060a2e6e71a1254e0de46eae0edb7aaec777b67e745da3f743e6c5f9be0c70daac6cf191c1f32fa36f6b15653b63dfbb5609373a9ac77cae2d8d6407b8b8436f5109f63401fb292efe6310e2cdd3c7884dcc0ebf8633ff3c4348be910097ba9868ad7d8ccf17f7826b831cee3f4ff29a477dbaad861df953f6149b95927d52f95423fb74721ad712310bd9785d0138e2a91e6d61e0fda5737c71d910d0fdb2c1474c3bad1aea8d1ef29da7377fbb5eaeed74760a8631dad8cd515db4bc7437d4eba346cba5cca67c41d76c48590b3609dfd6cdd15b7af01b9392c95b5a287b7c5e4d47bf77ab80922b9f2d77b3d4eeed6b3cccb7e73276a35fe3a55430fb23a8ee5135175c29a8d72ee12eb878fdbfe8e7211e3bf23887e76ded8cbd6373d6114dc6e97c397dbc771f07324d7106bd3cf351962ea4d7c6b742954529b571b040f1c482b80b8c64e678e86528d664deceee1835225f210a6c5320bd30b0f12fc3e1f60d68d57d3e4dddb0e4b568011767cef2405cb2067e80c434798cc99ec33ab87784f95d88466cd7c4460119639591aeb0c6371921104d9134d1b86c064ea7eb99a7bc0f0c08698a269451420afe30b2c12620a96ab233ba78140250a5264948297a22f4cd2a67e513f6cd050e922c474513a498fb4f8ac190839688b0bc617145de9925789edb59ea8d78327853e845aee4f4e17a318b9176d5fdb7876a3bdaebca6278a1a378345dfb1e9ccb30061d09d933d9a518cc0544fb9daf6e7b24674412881d6433e24783aef0899542c9eb5c1b0c126284b1184ff67dfb7e7d001742176f993c326cb8370ac0959e220e4dfde1125faf8e384b499c98c5751c45a1b05f00f488c0d80e26bad47f93ed36f0f4ea3980923711bbc221de4848b17a7a61370398b03b6bcdf306e707b66bad4d4e70e46561b67f3ce787700687ec9023daa3fc0f87e59e2463f275796391b5f8be8cd5e9892d400032f3f8a97212a13f411d20e272dc1f9489e51b5546b93b238dcf3bf4b5ce7e54e4e3bca9884eea448e604b5343700c7e26b45ee2b46ccf23799e9da41bc81c8ade10c44685865d42accc3838fa4d1efe912e2a9f55776bd39d410ece3efa3eb160db8f83cfd70ede9f1bd680569e33c980e8963fde04a8094bff579dd326ab4f6d9e2b2fad0b4e68fee3c7a657558826463a747b8d8e54ead6c9cdebf30b28b134d7982a0072653937674f8db9ace504b98712f835c0dda1df82d90673f73fed71ffab1235f7fd6a45ce932c439018184c5b0e774259892ba6486735ada3f7e3f2a3589a18f9520380af129620fdd4fd5cfb3a97467f24d6b94126cb3b58207c5b724696b98d53f7e4af1e93b107484637b67efcdd49ed0f4413ae88571e863e1bb455e882ca83e1ea6a4d1d1f9e9be87a714b6cc7498303099b3a1adced48933519035f287764efbbc679acfe28958aaead545a0759127663be5b72ac8ff0d837fb7faa425c960577df76f6b18dd929cedf58088323be69f4659eea38dff065a08f1376c9e5708356a2dbafaa8515f938d1bcca9d8c7e79ea0d45476fdda42bd4230c117597dad47270cd6385636ac01f516abcad464839b669e3dd58b75352689c32e337d692c204b683a8dc4467f59f8bfca49044e3f504dd9dc1f3c13b7f89ae9f05a94b466b8742e372cb7b27e4f17eaa2d21114216611805598514cb74e487187e1876e6ef7db039b369786d8652126f02c8644c15bd8eb201b6230bdf61c335f11d93574184052f55d74809a5ba0dec468c6e4cb1bb56caa25e7381dc257f30f69b8590a3d02938d99c164068c10eadf100354a17eb1ee1796b3a185140e591bd181ae6438e9dd0ee69fe733767befaa53ca",
             "jar": "https://zl.wpscdn.cn/2026/06/29/space_img/4a8beae8-71b4-41a6-a2ab-f981bf71ba72.png"
         },
-        
+       
     {
       "key": "云播",
       "name": "⛅️云播┃无搜索",
