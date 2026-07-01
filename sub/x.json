@@ -28,6 +28,7 @@
         "danMu": "弹"
       }
     },
+	   {  "key": "hipy_js_KTV歌厅[听]",  "name": "💖分享歌厅",  "type": 3,  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",  "searchable": 1,  "quickSearch": 1,  "filterable": 1,  "order_num": 0,  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/KTV歌厅.js"}, 
 	{
              "key": "MTV1",
             "name": "🎙️易听┃音乐",
