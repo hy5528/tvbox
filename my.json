@@ -51,7 +51,7 @@
             "api": "csp_MusicQingTingGuard",
             "searchable": 1,
             "changeable": 0,
-		        "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
       {
       "key": "bilibigq",
@@ -183,6 +183,15 @@
                 "version": "1.0.0.3",
                 "decrypt": "0"
             }
+        },
+	  {
+            "key": "WexIkanBot",
+            "name": "🎇爱看┃采集🎇",
+            "type": 3,
+            "api": "csp_WexIkanBotGuard",
+            "searchable": 1,
+            "changeable": 1,
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
         },
      {
             "key": "WexikanbotGuard",
