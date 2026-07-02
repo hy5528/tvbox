@@ -186,12 +186,12 @@
         },
 	  {
       "key": "WexIkanBot",
-      "name": "🎇爱看┃采集🎇",
+      "name": "🎇爱看┃采集",
       "type": 3,
       "api": "csp_WexIkanBotGuard",
       "searchable": 1,
       "changeable": 1,
-	  "jar": "https://nos.netease.com/ysf/e3a2cf728803f1b3bf270cb55da4bed5.jar"
+	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/王二小.jar"
     },
      {
             "key": "WexikanbotGuard",
