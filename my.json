@@ -186,7 +186,7 @@
         },
 	  {
             "key": "WexIkanBot",
-            "name": "🎇爱看┃采集🎇",
+            "name": "🎇爱看┃采集",
             "type": 3,
             "api": "csp_WexIkanBotGuard",
             "searchable": 1,
