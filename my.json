@@ -517,7 +517,7 @@
         },
 	   {
             "key": "Wexduanjuhema",
-            "name": "🍉短剧┃仙品🍉",
+            "name": "🍉短剧┃仙品",
             "type": 3,
             "api": "csp_WexduanjuhemaGuard",
             "searchable": 1,
@@ -526,7 +526,7 @@
         },
         {
             "key": "Wexduanju001",
-            "name": "🍉短剧┃神品🍉",
+            "name": "🍉短剧┃神品",
             "type": 3,
             "api": "csp_Wexduanju001Guard",
             "searchable": 1,
