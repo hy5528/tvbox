@@ -515,15 +515,7 @@
             "changeable": 1,
 		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
-	   {
-            "key": "Wexduanjuhema",
-            "name": "🍉短剧┃仙品",
-            "type": 3,
-            "api": "csp_WexduanjuhemaGuard",
-            "searchable": 1,
-            "changeable": 1,
-		   "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
-        },
+	  
         {
             "key": "Wexduanju001",
             "name": "🍉短剧┃神品",
