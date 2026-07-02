@@ -43,7 +43,7 @@
             "changeable": 0,
 		    "jar": "https://zl.wpscdn.cn/2026/06/29/space_img/701df858-5fe4-4ac0-bc9a-f86a87a8cbf5.jpg;md5;0c32d054350e007ba83c2feacfc1f0ac"    
 	 },
-       
+ 
 	{
             "key": "MusicQingTing",
             "name": "💜蜻蜓┃电台",
@@ -51,7 +51,7 @@
             "api": "csp_MusicQingTingGuard",
             "searchable": 1,
             "changeable": 0,
-		        "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/spider.jar"
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/王二小.jar"
         },
       {
       "key": "bilibigq",
@@ -163,6 +163,15 @@
             "changeable": 0,
 		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
+	  {
+      "key": "WexIkanBot",
+      "name": "🎇爱看┃采集",
+      "type": 3,
+      "api": "csp_WexIkanBotGuard",
+      "searchable": 1,
+      "changeable": 1,
+	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/王二小.jar"
+    },
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
@@ -184,16 +193,8 @@
                 "decrypt": "0"
             }
         },
-     {
-            "key": "WexikanbotGuard",
-            "name": "🎀爱看┃采集",
-            "type": 3,
-            "api": "csp_WexikanbotGuard",
-            "searchable": 1,
-            "changeable": 1,
-		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
-        },
 	  
+
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
@@ -339,8 +340,9 @@
 	{"key": "电影天堂","name": "🎀电影┃天堂","type": 1,"api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,
 	"categories": ["短剧","国产剧","大陆综艺", "国产动漫","韩国剧","动作片","喜剧片","动画片","恐怖片","爱情片","剧情片","战争片","记录片","欧美剧","香港剧","台湾剧","日本剧","海外剧","短剧", "泰国剧","日韩动漫","欧美动漫","港台动漫","海外动漫","港台综艺","日韩综艺","欧美综艺"]},
     {"key":"采集之王","name":"🎀采集┃大全","type":3,"api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/drpy2.min.js","ext":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/采集之王.js?type=url&params=https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/采集静态1.json$1$1"}, 
-    
-	  {
+  
+  
+	{
             "key": "枫叶电影",
             "name": "💥枫叶┃电影",
             "type": 3,
@@ -357,7 +359,7 @@
                 "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
             }
         }, 	
-	   
+	    
         
 	{
       "key": "直播转点播",
