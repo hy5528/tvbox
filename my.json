@@ -143,15 +143,7 @@
         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-	 {
-            "key": "Iktv",
-            "name": "🎤KTV┃音乐🎤",
-            "type": 3,
-            "api": "csp_WexIktvGuard",
-            "searchable": 1,
-            "changeable": 0,
-		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
-        },
+	
 {
 "key":"裤佬枫叶音乐",
 "name":"👖枫叶丨音乐",
@@ -192,7 +184,15 @@
                 "decrypt": "0"
             }
         },
-	  
+	  {
+      "key": "WexIkanBot",
+      "name": "🎇爱看┃采集🎇",
+      "type": 3,
+      "api": "csp_WexIkanBotGuard",
+      "searchable": 1,
+      "changeable": 1,
+	  "jar": "https://nos.netease.com/ysf/e3a2cf728803f1b3bf270cb55da4bed5.jar"
+    },
      {
             "key": "WexikanbotGuard",
             "name": "🎀爱看┃采集",
