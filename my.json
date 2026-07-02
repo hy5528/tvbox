@@ -163,6 +163,15 @@
             "changeable": 0,
 		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
+	  {
+      "key": "WexIkanBot",
+      "name": "🎇爱看┃采集",
+      "type": 3,
+      "api": "csp_WexIkanBotGuard",
+      "searchable": 1,
+      "changeable": 1,
+	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/王二小.jar"
+    },
     {
             "key": "苹果",
             "name": "🎀苹果｜APP",
@@ -184,17 +193,8 @@
                 "decrypt": "0"
             }
         },
-	  {
-      "key": "WexIkanBot",
-      "name": "🎇爱看┃采集",
-      "type": 3,
-      "api": "csp_WexIkanBotGuard",
-      "searchable": 1,
-      "changeable": 1,
-	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/王二小.jar"
-    },
-     
 	  
+
 	{
       "key": "聚合资源",
       "name": "🎀聚合┃影视",
