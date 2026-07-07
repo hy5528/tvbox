@@ -1,0 +1,156 @@
+1、默认账号 root，默认密码 ecoo1234
+
+默认账号 ubuntu，默认密码 ecoo1234
+
+
+更改root密码
+sudo passwd root
+
+sudo passwd ubuntu
+
+sudo apt-get install nano
+
+
+
+apt-get update
+
+
+2、一键安装 docker 程序的脚本
+install-docker.sh
+
+sudo nano /etc/docker/daemon.json
+
+{
+    "registry-mirrors": [
+       "https://docker.1panel.dev",
+        "https://docker.1ms.run",
+        "https://docker.xuanyuan.me",
+        "https://doublezonline.cloud",
+        "https://xdark.top",
+        "https://hub.rat.dev",
+        "https://docker.m.daocloud.io"
+    ],
+    "storage-driver": "overlay2",
+    "exec-opts": ["native.cgroupdriver=systemd"],
+    "log-driver": "json-file",
+    "log-opts": {
+        "max-size": "10m",
+        "max-file": "3"
+    }
+}
+
+重启 Docker 服务：
+sudo systemctl restart docker
+更改docker 存储目录
+
+sudo nano /lib/systemd/system/docker.service
+
+ExecStart=/usr/bin/dockerd --data-root /mnt/mmcblk1p5/docker
+
+/mnt/mmcblk1p1/docker
+
+重启 Docker 服务：
+sudo systemctl restart docker
+
+
+
+验证Docker是否使用新的存储目录：
+
+
+docker info | grep "Docker Root Dir"
+
+
+
+--graph=/mnt/mmcblk1p5/docker
+
+3、修改mac及识别1G内存
+root@hi3798mv200:~# nano /etc/bootargs_input.txt
+baudrate=115200
+ethaddr=00:11:22:33:44:55
+ipaddr=192.168.1.10
+netmask=255.255.255.0
+gatewayip=192.168.1.1
+serverip=192.168.1.1
+bootcmd=mmc read 0 0x1FFFFC0 0x7000 0x14000;bootm 0x1FFFFC0
+bootargs_512M=mem=512M mmz=ddr,0,0,48M vmalloc=500M
+bootargs_1G=mem=1G mmz=ddr,0,0,48M vmalloc=500M
+bootargs_2G=mem=2G mmz=ddr,0,0,48M vmalloc=500M
+bootargs_768M=mem=768M mmz=ddr,0,0,48M vmalloc=500M
+bootargs_1536M=mem=1536M mmz=ddr,0,0,48M vmalloc=500M
+bootargs_3840M=mem=3840M mmz=ddr,0,0,48M vmalloc=500M
+bootargs=model=mv200 console=ttyAMA0,115200 root=/dev/mmcblk0p9 rootfstype=ext4 rootwait blkdevparts=mmcblk0:1M(boot),1M(bootargs),4M(baseparam),4M(pqparam),4M(logo),40M(kernel),64M(busybox),512M(backup),-(ubuntu)
+bootdelay=0
+stdin=serial
+stdout=serial
+stderr=serial
+
+自行修改第2行的ethaddr=00:11:22:33:44:55 例如为 ethaddr=00:21:26:4D:0F:31
+
+在-(ubuntu)后加 mem=1024M mmz=ddr,0,192M,32M
+成这样 -(ubuntu) mem=1024M mmz=ddr,0,192M,32M
+
+注意：这个mac地址必须是16进制的数字或字母，强烈建议你看机顶盒背后的标签来写。
+
+制作生成：
+
+mkbootargs -s 64 -r /etc/bootargs_input.txt -o bootargs.bin
+
+刷入第二分区：
+
+将上一步生成的bootargs.bin 刷入第2分区
+
+dd if=bootargs.bin of=/dev/mmcblk0p2 bs=1024 count=1024
+
+重启生效
+
+
+4、在日志目录下有很多历史累积的日志。
+Linux log日志清理
+
+检查当前journal使用磁盘量
+
+journalctl --disk-usage
+
+清理方法可以采用按照日期清理，或者按照允许保留的容量清理，只保存2天的日志，最大500M
+
+journalctl --vacuum-time=2d
+
+journalctl --vacuum-size=500M
+
+如果要手工删除日志文件，则在删除前需要先轮转一次journal日志
+
+systemctl kill --kill-who=main --signal=SIGUSR2 systemd-journald.service
+
+要启用日志限制持久化配置，可以修改 nano /etc/systemd/journald.conf
+
+SystemMaxUse=16M
+
+ForwardToSyslog=no
+
+这里取消前面的#（取消注释，否则无效）
+然后重启
+
+systemctl restart systemd-journald.service
+
+检查journal是否运行正常以及日志文件是否完整无损坏
+sudo du --max-depth=1 -h /var/log #查看目录下空间占用情况。
+基本都是/var/log/journal/占用的
+journalctl --vacuum-time=1h #保留一小时之内的日志，其余删除。
+
+journalctl --verify
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
