@@ -51,7 +51,7 @@
             "api": "csp_MusicQingTingGuard",
             "searchable": 1,
             "changeable": 0,
-		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/王二小.jar"
+		    "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
         },
       {
       "key": "bilibigq",
@@ -62,7 +62,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
@@ -80,7 +80,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
@@ -98,7 +98,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
@@ -116,7 +116,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
@@ -134,7 +134,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
-	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/858bdee43c91d50ebc32c0064f25fd34.txt;md5;bd30c2690ef97e79ddfe843c1efa6105",
+	  "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
@@ -154,25 +154,17 @@
 "quickSearch":1,
 "filterable":1
 },
-	{
-            "key": "WexLunhuiDJ",
-            "name": "🎼轮回┃舞曲",
+{
+            "key": "WexikanbotGuard",
+            "name": "🎇爱看┃采集🎇",
             "type": 3,
-            "api": "csp_WexLunhuiDJGuard",
+            "api": "csp_WexikanbotGuard",
             "searchable": 1,
-            "changeable": 0,
-		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
-        },
-	  {
-      "key": "WexIkanBot",
-      "name": "🎇爱看┃采集",
-      "type": 3,
-      "api": "csp_WexIkanBotGuard",
-      "searchable": 1,
-      "changeable": 1,
-	  "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/王二小.jar"
-    },
-    {
+            "changeable": 1,
+	        "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
+       },
+        
+      {
             "key": "苹果",
             "name": "🎀苹果｜APP",
             "type": 3,
@@ -515,7 +507,7 @@
             "changeable": 1,
 		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
-
+	  
         {
             "key": "Wexduanju001",
             "name": "🍉短剧┃神品",
