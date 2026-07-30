@@ -154,15 +154,7 @@
 "quickSearch":1,
 "filterable":1
 },
-	{
-            "key": "WexLunhuiDJ",
-            "name": "🎼轮回┃舞曲",
-            "type": 3,
-            "api": "csp_WexLunhuiDJGuard",
-            "searchable": 1,
-            "changeable": 0,
-		    "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
-        },
+
 	  {
       "key": "WexIkanBot",
       "name": "🎇爱看┃采集",
