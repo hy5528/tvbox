@@ -154,17 +154,17 @@
 "quickSearch":1,
 "filterable":1
 },
-
-	  {
-      "key": "WexIkanBot",
-      "name": "🎇爱看┃采集",
-      "type": 3,
-      "api": "csp_WexIkanBotGuard",
-      "searchable": 1,
-      "changeable": 1,
-	  "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
-    },
-    {
+{
+            "key": "WexikanbotGuard",
+            "name": "🎇爱看┃采集🎇",
+            "type": 3,
+            "api": "csp_WexikanbotGuard",
+            "searchable": 1,
+            "changeable": 1,
+	        "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
+       },
+        
+      {
             "key": "苹果",
             "name": "🎀苹果｜APP",
             "type": 3,
