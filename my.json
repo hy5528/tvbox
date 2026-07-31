@@ -44,13 +44,13 @@
 		    "jar": "https://zl.wpscdn.cn/2026/06/29/space_img/701df858-5fe4-4ac0-bc9a-f86a87a8cbf5.jpg;md5;0c32d054350e007ba83c2feacfc1f0ac"    
 	 },
      {
-            "key": "Iktv",
-            "name": "🎤KTV┃音乐🎤",
+            "key": "MusicQingTing",
+            "name": "🎼蜻蜓┃电台",
             "type": 3,
-            "api": "csp_WexIktvGuard",
+            "api": "csp_MusicQingTingGuard",
             "searchable": 1,
             "changeable": 0,
-		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;0c32d054350e007ba83c2feacfc1f0ac"   
+		    "spider": "https://zl.wpscdn.cn/2026/07/29/space_img/3a24811b-1e67-44f4-ac86-21660c46841b.png;md5;48534c2903b56915217484979218701c"
         },
 	
       {
