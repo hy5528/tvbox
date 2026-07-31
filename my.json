@@ -459,17 +459,7 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
-    {
-      "key": "咕咕",
-      "name": "🦉咕咕┃动漫",
-      "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
-    },
+
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
