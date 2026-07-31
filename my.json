@@ -110,15 +110,7 @@
             "changeable": 0,
 		    "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
         },
-	            {
-            "key": "MusicAiIKtv",
-            "name": "🎼KTV┃音乐🎼",
-            "type": 3,
-            "api": "csp_MusicAiIKtvGuard",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
-        },
+	            
       {
       "key": "bilibigq",
       "name": "🧡吾爱┃歌曲",
@@ -441,7 +433,27 @@
       "changeable": 0,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ=="
     },
-   
+           },
+        {
+            "key": "WexAiReBo",
+            "name": "💥热播┃秒播",
+            "type": 3,
+            "api": "csp_WexAiReBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "WexAiBoBo",
+            "name": "🎇伯伯┃秒播",
+            "type": 3,
+            "api": "csp_WexAiBoBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
     {
       "key": "文采",
       "name": "💮文采┃秒播",
