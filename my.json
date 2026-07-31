@@ -50,6 +50,54 @@
             "api": "https://chigua.eu.org/py/爱听音乐.py",
 		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
         },
+	   {
+            "key": "Buguyy",
+            "name": "🐦布谷┃音乐",
+            "type": 3,
+            "api": "csp_Buguyy",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+		    "jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7"
+        },
+        {
+            "key": "ChuXin",
+            "name": "💕初心┃音乐",
+            "type": 3,
+            "api": "csp_ChuXin",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7"
+        },
+        {
+            "key": "aiting",
+            "name": "🎧爱听┃音乐",
+            "type": 3,
+            "api": "csp_AiTingMusic",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7"
+        },
+        {
+            "key": "Music24bit",
+            "name": "🎼无损┃音乐",
+            "type": 3,
+            "api": "csp_Music24bit",
+            "searchable": 1,
+            "changeable": 1,
+			"jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7",
+            "ext": {
+                "categories": [
+                    "周杰伦",
+                    "林俊杰",
+                    "陈奕迅",
+                    "邓紫棋",
+                    "薛之谦"
+                ]
+            }
+        },
      {
             "key": "MusicQingTing",
             "name": "🎼蜻蜓┃电台",
