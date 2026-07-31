@@ -45,7 +45,7 @@
 	 },
 	 {
             "key": "MusicIKtv",
-            "name": "🎼KTV┃音",
+            "name": "🎼KTV┃音乐",
             "type": 3,
             "api": "csp_MusicIKtvGuard",
             "searchable": 1,
