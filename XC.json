@@ -94,7 +94,7 @@
 	  
      {
             "key": "MusicQingTing",
-            "name": "🎼蜻蜓┃电台",
+            "name": "🔔蜻蜓┃电台",
             "type": 3,
             "api": "csp_MusicQingTingGuard",
             "searchable": 1,
