@@ -52,15 +52,7 @@
             "changeable": 0,
 		    "jar": "https://zl.wpscdn.cn/2026/06/29/space_img/701df858-5fe4-4ac0-bc9a-f86a87a8cbf5.jpg;md5;0c32d054350e007ba83c2feacfc1f0ac"   
         },
-	{
-            "key": "MusicQingTing",
-            "name": "💜蜻蜓┃电台",
-            "type": 3,
-            "api": "csp_MusicQingTingGuard",
-            "searchable": 1,
-            "changeable": 0,
-		    "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
-        },
+	
       {
       "key": "bilibigq",
       "name": "🧡吾爱┃歌曲",
