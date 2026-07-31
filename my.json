@@ -298,16 +298,7 @@
       "categories": [
      "短剧"
       ]},
-	  {
-            "key": "红果短剧",
-            "name": "🍎┃红果┃短剧",
-            "type": 3,
-            "api": "csp_HongGuo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-		    "jar": "./lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca"
-        },
+	
         {
             "key": "DJHub",
             "name": "🎭短剧┃聚合",
