@@ -278,17 +278,7 @@
       "searchable":1,
       "type":3
      },
-	   {
-            "key": "裤佬永乐JS",
-            "name": "👖永乐丨JS",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+	  
         
         {
             "key": "裤佬EmbyJS",
