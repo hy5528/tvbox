@@ -1,7 +1,4 @@
-//      >>> 当前时间是：2026-07-31 08:36:27 <<<
-//     关注微信公众号【太太太硬了】有惊喜哦！！！
 
-//     当前接口：http://tvbox.xn--4kq62z5rby2qupq9ub.top
 {
     "spider": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2",
     "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
@@ -27,16 +24,7 @@
             "filterable": 0,
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
         },
-        {
-            "key": "Doubanaaa",
-            "name": "⬇️【网盘类先扫码】⬇️",
-            "type": 3,
-            "api": "csp_DoubanGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-        },
+        
         {
              "key": "MTV1",
             "name": "🎙️易听┃音乐",
@@ -51,6 +39,23 @@
             "quickSearch": 0,
             "changeable": 0
 	     },
+       
+		{
+            "key": "Iktv",
+            "name": "🎤KTV┃音乐🎤",
+            "type": 3,
+            "api": "csp_WexIktvGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+		{
+            "key": "WexLunhuiDJ",
+            "name": "🎼轮回┃舞曲🎼",
+            "type": 3,
+            "api": "csp_WexLunhuiDJGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
         {
             "key": "Wexhanxiaoquan",
             "name": "💥韩剧┃秒播💥",
@@ -275,14 +280,7 @@
                 "ratio": 2
             }
         },
-        {
-            "key": "Iktv",
-            "name": "🎤KTV┃音乐🎤",
-            "type": 3,
-            "api": "csp_WexIktvGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "自定义",
             "name": "🥇全能┃DIY🥇",
@@ -406,14 +404,7 @@
                 "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
             }
         },
-        {
-            "key": "WexLunhuiDJ",
-            "name": "🎼轮回┃舞曲🎼",
-            "type": 3,
-            "api": "csp_WexLunhuiDJGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "看球",
             "name": "🌐88┃体育🌐",
