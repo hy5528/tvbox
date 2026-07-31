@@ -310,34 +310,7 @@
      "短剧"
       ]},
 
-	  {
-            "key": "Wexduanjuvop",
-            "name": "🍉短剧┃秒播",
-            "type": 3,
-            "api": "csp_WexduanjuvopGuard",
-            "searchable": 1,
-            "changeable": 1,
-		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
-        },
-     {
-            "key": "Wexduanjuvmp",
-            "name": "🍉短剧┃瞬播",
-            "type": 3,
-            "api": "csp_WexduanjuvmpGuard",
-            "searchable": 1,
-            "changeable": 1,
-		    "jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
-        },
-	  
-        {
-            "key": "Wexduanju001",
-            "name": "🍉短剧┃神品",
-            "type": 3,
-            "api": "csp_Wexduanju001Guard",
-            "searchable": 1,
-            "changeable": 1,
-			"jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
-        },
+	
 	   {
             "key": "cj_暴风资源",
             "name": "🧞暴风┃短剧",
