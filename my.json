@@ -300,7 +300,7 @@
       ]},
         {
             "key": "DJHub",
-            "name": "🎭┆短剧┆聚合",
+            "name": "🎭短剧┃聚合",
             "type": 3,
             "api": "csp_DJHub",
             "searchable": 1,
@@ -310,7 +310,16 @@
             "changeable": 1,
 			"jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7"
         },
-	
+	     {
+            "key": "📺剧王┃短剧",
+            "name": "剧王┃短剧",
+            "type": 3,
+            "api": "https://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "jar": "https://tv.菜妮丝.top/jar/feimao0528.jar;md5;b81a5747f91e7169bdc7e3f68bd995e0"
+        },
 	   {
             "key": "cj_暴风资源",
             "name": "🧞暴风┃短剧",
