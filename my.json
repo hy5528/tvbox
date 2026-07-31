@@ -101,7 +101,15 @@
             "changeable": 0,
 		    "jar": "https://zl.wpscdn.cn/2026/07/29/space_img/3a24811b-1e67-44f4-ac86-21660c46841b.png;md5;48534c2903b56915217484979218701c"
         },
-	
+	  {
+            "key": "WexLunhuiDJ",
+            "name": "🎼轮回┃舞曲",
+            "type": 3,
+            "api": "csp_WexLunhuiDJGuard",
+            "searchable": 1,
+            "changeable": 0，
+		    "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
+        },
       {
       "key": "bilibigq",
       "name": "🧡吾爱┃歌曲",
