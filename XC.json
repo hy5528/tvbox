@@ -50,6 +50,30 @@
             "api": "https://chigua.eu.org/py/爱听音乐.py",
 		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
         },
+	  {
+            "key": "song_1a48b",
+            "name": "🗄️｜网络数据库KTV",
+            "type": 3,
+            "api": "csp_KTV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar",
+            "ext": ""
+        },
+        {
+            "key": "networkdb",
+            "name": "🗄️｜网络数据库合集",
+            "type": 3,
+            "api": "csp_NetworkDB",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar",
+            "ext": ""
+        },
      {
             "key": "MusicQingTing",
             "name": "🎼蜻蜓┃电台",
