@@ -45,7 +45,7 @@
 	 },
 	  {
             "key": "爱听音乐py",
-            "name": "♦｜爱听｜音乐",
+            "name": "♦爱听｜音乐",
             "type": 3,
             "api": "https://chigua.eu.org/py/爱听音乐.py",
 		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
