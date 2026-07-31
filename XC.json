@@ -301,7 +301,7 @@
       ]},
        {
             "key": "DJHub",
-            "name": "🎭┆短剧┆聚合",
+            "name": "🎭短剧┃聚合",
             "type": 3,
             "api": "csp_DJHub",
             "searchable": 1,
