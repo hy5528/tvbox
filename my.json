@@ -41,7 +41,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-		    "jar": "https://zl.wpscdn.cn/2026/06/29/space_img/701df858-5fe4-4ac0-bc9a-f86a87a8cbf5.jpg;md5;0c32d054350e007ba83c2feacfc1f0ac"    
+		    "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"  
 	 },
 	 
 	   {
@@ -219,7 +219,7 @@
             "api": "csp_WexikanbotGuard",
             "searchable": 1,
             "changeable": 1,
-	        "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
+	        "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
        },
         
       {
@@ -435,7 +435,7 @@
     },
         {
             "key": "WexHanXiaoQuan",
-            "name": "💥韩剧┃秒播💥",
+            "name": "💥韩剧┃秒播",
             "type": 3,
             "api": "csp_WexAiHanXiaoQuanGuard",
             "searchable": 1,
@@ -445,7 +445,7 @@
         },
         {
             "key": "WexAiGuaZi",
-            "name": "💥瓜子┃秒播💥",
+            "name": "💥瓜子┃秒播",
             "type": 3,
             "api": "csp_WexAiGuaZiGuard",
             "searchable": 1,
@@ -455,7 +455,7 @@
         },
         {
             "key": "WexAiDuBoKu",
-            "name": "💥独播┃秒播💥",
+            "name": "💥独播┃秒播",
             "type": 3,
             "api": "csp_WexAiDuBoKuGuard",
             "searchable": 1,
@@ -465,7 +465,7 @@
         },
         {
             "key": "WexAiYueYue",
-            "name": "💥闪电┃秒播💥",
+            "name": "💥闪电┃秒播",
             "type": 3,
             "api": "csp_WexAiYueYueGuard",
             "searchable": 1,
@@ -473,19 +473,10 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
         },
-        {
-            "key": "WexAiWenCai",
-            "name": "💥文才┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAiWenCaiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
-        },
+        
         {
             "key": "WexAiV6DaShiXiong",
-            "name": "💥师兄┃秒播💥",
+            "name": "💥师兄┃秒播",
             "type": 3,
             "api": "csp_WexAiV6DaShiXiongGuard",
             "searchable": 1,
@@ -495,7 +486,7 @@
         },
         {
             "key": "WexAiV6TeGou",
-            "name": "💥太狗┃秒播💥",
+            "name": "💥太狗┃秒播",
             "type": 3,
             "api": "csp_WexAiV6TeGouGuard",
             "searchable": 1,
@@ -505,7 +496,7 @@
         },
         {
             "key": "賤賤",
-            "name": "💥贱片┃秒播💥",
+            "name": "💥贱片┃秒播",
             "type": 3,
             "api": "csp_WexAiJianPianGuard",
             "searchable": 1,
@@ -515,7 +506,7 @@
         },
         {
             "key": "WexAiYiYs",
-            "name": "💥伊影┃秒播💥",
+            "name": "💥伊影┃秒播",
             "type": 3,
             "api": "csp_WexAiYiYsGuard",
             "searchable": 1,
