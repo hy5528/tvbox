@@ -298,7 +298,48 @@
       "categories": [
      "短剧"
       ]},
-	
+	   {
+            "key": "juheduanju",
+            "name": "🌟｜聚合｜短剧",
+            "type": 3,
+            "api": "csp_JuheShortDrama",
+            "changeable": 0,
+            "filterable": 1,
+		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
+        {
+            "key": "HeMa",
+            "name": "🌟｜盒马｜短剧",
+            "type": 3,
+            "api": "csp_HeMa",
+            "searchable": 0,
+            "changeable": 0,
+            "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
+        {
+            "key": "七星短剧",
+            "name": "🌟丨七星丨短剧",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
+        {
+            "key": "星芽短剧",
+            "name": "🌟丨星芽丨短剧",
+            "type": 3,
+            "api": "https://chigua.eu.org/py/星芽短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "genre": "shortdrama",
+			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
         {
             "key": "DJHub",
             "name": "🎭短剧┃聚合",
