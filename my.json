@@ -396,7 +396,27 @@
             "changeable": 1,
 			"jar": "https://nos.netease.com/ysf/955f5ebd9f96755c64decfe4ff53ea4f.jar"
         },
-	   
+	   {
+            "key": "cj_暴风资源",
+            "name": "🧞暴风┃短剧",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+		    "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar",
+            "categories": [
+                "反转爽文",
+                "穿越年代",
+                "重生民国",
+                "现代言情",
+                "女恋总裁",
+                "都市脑洞",
+                "闪婚离婚",
+                "古装仙侠"
+            ]
+        },
        
     {
       "key": "云播",
