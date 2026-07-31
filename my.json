@@ -76,7 +76,7 @@
         },
         {
             "key": "Music24bit",
-            "name": "🎼无损┃音乐",
+            "name": "♦无损┃音乐",
             "type": 3,
             "api": "csp_Music24bit",
             "searchable": 1,
