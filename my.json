@@ -417,7 +417,17 @@
                 "古装仙侠"
             ]
         },
-       
+        {
+            "key": "七猫",
+            "name": "七猫｜短剧",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		 "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
+        },
     {
       "key": "云播",
       "name": "⛅️云播┃无搜索",
