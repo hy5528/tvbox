@@ -28,27 +28,11 @@
         "danMu": "弹"
       }
     },
-	{
-            "key": "MusicAiQingTing",
-            "name": "🎼蜻蜓┃电台🎼",
-            "type": 3,
-            "api": "csp_MusicAiQingTingGuard",
-            "searchable": 1,
-            "changeable": 0,
-		    "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
-        },
-        {
-            "key": "MusicAiIKtv",
-            "name": "🎼KTV┃音乐🎼",
-            "type": 3,
-            "api": "csp_MusicAiIKtvGuard",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
-        },
+
+        
         {
             "key": "MusicAiKuWoa",
-            "name": "🎼小酷┃音乐🎼",
+            "name": "🎼小酷┃音乐",
             "type": 3,
             "api": "csp_MusicAiKuWoaGuard",
             "searchable": 1,
@@ -57,7 +41,7 @@
         },
         {
             "key": "MusicAi163",
-            "name": "🎼易听┃音乐🎼",
+            "name": "🎼易听┃音乐",
             "type": 3,
             "api": "csp_MusicAi163Guard",
             "searchable": 1,
@@ -66,7 +50,7 @@
         },
         {
             "key": "MusicAiKuWo",
-            "name": "🎼酷听┃音乐🎼",
+            "name": "🎼酷听┃音乐",
             "type": 3,
             "api": "csp_MusicAiKuWoGuard",
             "searchable": 1,
@@ -75,7 +59,7 @@
         },
         {
             "key": "MusicAiLunHui",
-            "name": "🎼轮回┃舞曲🎼",
+            "name": "🎼轮回┃舞曲",
             "type": 3,
             "api": "csp_MusicAiLunHuiGuard",
             "searchable": 1,
@@ -131,23 +115,15 @@
                 ]
             }
         },
-     {
-            "key": "MusicQingTing",
-            "name": "🔔蜻蜓┃电台",
+     
+		{
+            "key": "MusicAiQingTing",
+            "name": "🎼蜻蜓┃电台",
             "type": 3,
-            "api": "csp_MusicQingTingGuard",
+            "api": "csp_MusicAiQingTingGuard",
             "searchable": 1,
             "changeable": 0,
-		    "jar": "https://zl.wpscdn.cn/2026/07/29/space_img/3a24811b-1e67-44f4-ac86-21660c46841b.png;md5;48534c2903b56915217484979218701c"
-        },
-	  {
-            "key": "WexLunhuiDJ",
-            "name": "🎼轮回┃舞曲",
-            "type": 3,
-            "api": "csp_WexLunhuiDJGuard",
-            "searchable": 1,
-            "changeable": 0,
-		    "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
+		    "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
         },
 	            
       {
