@@ -28,9 +28,19 @@
         "danMu": "弹"
       }
     },
-       {
+      
+        {
+            "key": "MusicAiKuWoa",
+            "name": "🎼小酷┃音乐",
+            "type": 3,
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
+        },
+         {
             "key": "MTV1",
-            "name": "🎙️易听┃音乐",
+            "name": "🎼易听┃音乐",
             "type": 3,
             "api": "csp_MusicGuard",
             "style": {
@@ -42,24 +52,6 @@
             "quickSearch": 0,
             "changeable": 0
         },     
-        {
-            "key": "MusicAiKuWoa",
-            "name": "🎼小酷┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiKuWoaGuard",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        {
-            "key": "MusicAi163",
-            "name": "🎼易听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAi163Guard",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
          
         {
             "key": "MusicAiLunHui",
