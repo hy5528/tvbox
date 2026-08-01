@@ -28,21 +28,45 @@
         "danMu": "弹"
       }
     },
-	{
-             "key": "MTV1",
-            "name": "🎙️易听┃音乐",
+
+        
+        {
+            "key": "MusicAiKuWoa",
+            "name": "🎼小酷┃音乐",
             "type": 3,
-            "api": "csp_MusicGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "playerType": 2,
-            "searchable": 0,
-            "quickSearch": 0,
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
             "changeable": 0,
-		    "jar": "https://zl.wpscdn.cn/2026/06/29/space_img/701df858-5fe4-4ac0-bc9a-f86a87a8cbf5.jpg;md5;0c32d054350e007ba83c2feacfc1f0ac"    
-	 },
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "MusicAi163",
+            "name": "🎼易听┃音乐",
+            "type": 3,
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "MusicAiKuWo",
+            "name": "🎼酷听┃音乐",
+            "type": 3,
+            "api": "csp_MusicAiKuWoGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "MusicAiLunHui",
+            "name": "🎼轮回┃舞曲",
+            "type": 3,
+            "api": "csp_MusicAiLunHuiGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+    
 	   {
             "key": "Buguyy",
             "name": "🐦布谷┃音乐",
@@ -91,25 +115,17 @@
                 ]
             }
         },
-	  
-     {
-            "key": "MusicQingTing",
-            "name": "🔔蜻蜓┃电台",
+     
+		{
+            "key": "MusicAiQingTing",
+            "name": "🎼蜻蜓┃电台",
             "type": 3,
-            "api": "csp_MusicQingTingGuard",
+            "api": "csp_MusicAiQingTingGuard",
             "searchable": 1,
             "changeable": 0,
-		    "jar": "https://zl.wpscdn.cn/2026/07/29/space_img/3a24811b-1e67-44f4-ac86-21660c46841b.png;md5;48534c2903b56915217484979218701c"
+		    "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
         },
-	     {
-            "key": "WexLunhuiDJ",
-            "name": "🎼轮回┃舞曲",
-            "type": 3,
-            "api": "csp_WexLunhuiDJGuard",
-            "searchable": 1,
-            "changeable": 0,
-		    "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
-        },
+	            
       {
       "key": "bilibigq",
       "name": "🧡吾爱┃歌曲",
@@ -218,7 +234,7 @@
             "api": "csp_WexikanbotGuard",
             "searchable": 1,
             "changeable": 1,
-	        "jar": "https://zl.wpscdn.cn/2026/07/27/space_img/bd9abfbd-dfc5-491b-8ef1-646de859c326.png;md5;025affd3be07e5115778fbfeb346def2"
+	        "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
        },
         
       {
@@ -259,7 +275,7 @@
 
 	 {"key":"wsy资源","name":"🎀wsy┃影视","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["4K电影","Netflix自制剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","邵氏电影","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 	  
-         
+        
 	{
       "key": "直播转点播",
       "name": "📺电视┃点播",
@@ -316,7 +332,6 @@
       "type":3
      },
 	  
-        
         {
             "key": "裤佬EmbyJS",
             "name": "👖Emby丨JS",
@@ -336,7 +351,16 @@
       "categories": [
      "短剧"
       ]},
-	  {
+	   {
+            "key": "juheduanju",
+            "name": "🌟聚合｜短剧",
+            "type": 3,
+            "api": "csp_JuheShortDrama",
+            "changeable": 0,
+            "filterable": 1,
+		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
+        {
             "key": "HeMa",
             "name": "🌟盒马｜短剧",
             "type": 3,
@@ -369,7 +393,7 @@
             "genre": "shortdrama",
 			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
         },
-       {
+        {
             "key": "DJHub",
             "name": "🎭短剧┃聚合",
             "type": 3,
@@ -381,8 +405,7 @@
             "changeable": 1,
 			"jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7"
         },
-	
-	
+	    
 	   {
             "key": "cj_暴风资源",
             "name": "🧞暴风┃短剧",
@@ -425,7 +448,107 @@
       "changeable": 0,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ=="
     },
-   
+        {
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┃秒播",
+            "type": 3,
+            "api": "csp_WexAiHanXiaoQuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "WexAiGuaZi",
+            "name": "💥瓜子┃秒播",
+            "type": 3,
+            "api": "csp_WexAiGuaZiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "WexAiDuBoKu",
+            "name": "💥独播┃秒播",
+            "type": 3,
+            "api": "csp_WexAiDuBoKuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "WexAiYueYue",
+            "name": "💥闪电┃秒播",
+            "type": 3,
+            "api": "csp_WexAiYueYueGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        
+        {
+            "key": "WexAiV6DaShiXiong",
+            "name": "💥师兄┃秒播",
+            "type": 3,
+            "api": "csp_WexAiV6DaShiXiongGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "WexAiV6TeGou",
+            "name": "💥太狗┃秒播",
+            "type": 3,
+            "api": "csp_WexAiV6TeGouGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "賤賤",
+            "name": "💥贱片┃秒播",
+            "type": 3,
+            "api": "csp_WexAiJianPianGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "WexAiYiYs",
+            "name": "💥伊影┃秒播",
+            "type": 3,
+            "api": "csp_WexAiYiYsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "WexAiReBo",
+            "name": "💥热播┃秒播",
+            "type": 3,
+            "api": "csp_WexAiReBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "WexAiBoBo",
+            "name": "🎇伯伯┃秒播",
+            "type": 3,
+            "api": "csp_WexAiBoBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
     {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -460,7 +583,7 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
-    
+
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
