@@ -47,7 +47,15 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
         },
-        
+         {
+            "key": "MusicAiIKtv",
+            "name": "🎼KTV┃音乐🎼",
+            "type": 3,
+            "api": "csp_MusicAiIKtvGuard",
+            "searchable": 1,
+            "changeable": 0,
+			 "jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
+        },
         {
             "key": "MusicAiLunHui",
             "name": "🎼轮回┃舞曲",
