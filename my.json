@@ -228,14 +228,15 @@
 "filterable":1
 },
 {
-            "key": "WexikanbotGuard",
-            "name": "🎇爱看┃采集",
+            "key": "WexAiIkanBot",
+            "name": "🎇爱看┃采集🎇",
             "type": 3,
-            "api": "csp_WexikanbotGuard",
+            "api": "csp_WexAiIkanBotGuard",
             "searchable": 1,
-            "changeable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
 	        "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
-       },
+        },
         
       {
             "key": "苹果",
