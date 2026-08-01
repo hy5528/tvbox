@@ -29,21 +29,60 @@
       }
     },
 	{
-             "key": "MTV1",
-            "name": "🎙️易听┃音乐",
+            "key": "MusicAiQingTing",
+            "name": "🎼蜻蜓┃电台🎼",
             "type": 3,
-            "api": "csp_MusicGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "playerType": 2,
-            "searchable": 0,
-            "quickSearch": 0,
+            "api": "csp_MusicAiQingTingGuard",
+            "searchable": 1,
             "changeable": 0,
-		    "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"  
-	 },
-	 
+		    "jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "MusicAiIKtv",
+            "name": "🎼KTV┃音乐🎼",
+            "type": 3,
+            "api": "csp_MusicAiIKtvGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "MusicAiKuWoa",
+            "name": "🎼小酷┃音乐🎼",
+            "type": 3,
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "MusicAi163",
+            "name": "🎼易听┃音乐🎼",
+            "type": 3,
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "MusicAiKuWo",
+            "name": "🎼酷听┃音乐🎼",
+            "type": 3,
+            "api": "csp_MusicAiKuWoGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+        {
+            "key": "MusicAiLunHui",
+            "name": "🎼轮回┃舞曲🎼",
+            "type": 3,
+            "api": "csp_MusicAiLunHuiGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/07/29/2af019e75ed599c265aa9632c3fa10db.png;md5;4a1e9e6072d75cc4c52c36d0c59993f5"
+        },
+    
 	   {
             "key": "Buguyy",
             "name": "🐦布谷┃音乐",
