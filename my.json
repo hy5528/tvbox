@@ -323,15 +323,7 @@
       "type":3
      },
 	  
-        {
-            "key": "裤佬EmbyJS",
-            "name": "👖Emby丨JS",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/40d30fe3d9671e0d700f1c272bb20aaa.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+    
 	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
