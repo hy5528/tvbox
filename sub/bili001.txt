@@ -1,9 +1,5 @@
 {
   "class": [
-    {
-      "type_name": "沙雕动漫",
-      "type_id": "一口气沙雕动漫"
-    },
 
     {
       "type_name": "动漫",
@@ -24,6 +20,10 @@
     {
       "type_name": "食谱",
       "type_id": "食谱"
+    },
+        {
+      "type_name": "沙雕动漫",
+      "type_id": "一口气沙雕动漫"
     },
     {
       "type_name": "旅游",
