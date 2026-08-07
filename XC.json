@@ -532,16 +532,7 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
         },
-	    {
-            "key": "光影",
-            "name": "🌞光影┃不卡",
-            "type": 3,
-            "api": "csp_T4Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
-        },
+	    
 	   {
             "key": "视界",
             "name": "🌸茉莉┃多线",
