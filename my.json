@@ -274,18 +274,7 @@
 
 	 {"key":"无水印资源","name":"🎀无水印┃影视","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["4K电影","Netflix自制剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","邵氏电影","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 	  
-     {
-            "key": "哔哩幕2",
-            "name": "哔哩4K",
-            "type": 3,
-            "api": "csp_Bilimd",
-            "jar": "https://pan.szfx.top/down.php/14fce8ef9e7e8a40719c801ec3077b8c.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "cookie": "SESSDATA=8f3ff69f%2C1794310143%2C53c01%2A52CjBX4vniMP8UbH-FHHxtImWyVMCf_NkAmIFpLXuK3B9TH1uSPOG3A5ST5nKXpP5b06gSVmx2Q2FWY0xPY19yaGxqOUNoRnZuLVhselJhVXU5UWlQb093RnprU2xpLVk5bmpwWjZ6bEhLZWt2RTIwbVpHaFJsYXJVeGtGRnFMcTd1OHRoZ24zN2ZRIIEC; bili_jct=27dfcc874d1a3c0fe39b9651ca436394; DedeUserID=3546629682497943; DedeUserID__ckMd5=b11f007e7707c2a6; rpdid=|(J~lu)lmmlJ0J'u~~mRJJl)~; CURRENT_FNVAL=4048; CURRENT_QUALITY=0; ogv_device_support_dolby=0; ogv_device_support_hdr=0; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Nzk2OTI4MzEsImlhdCI6MTc3OTQzMzU3MSwicGx0IjotMX0.N5GA9xfkyd1WuAHIXqi7xtE_xI-GPeSepud6oIPi-34; bili_ticket_expires=1779692771; sid=dgwhna8v; b_lsid=7CB15BAC_19E4E82FA4D;"
-            },
+     
 		
 	{
       "key": "直播转点播",
