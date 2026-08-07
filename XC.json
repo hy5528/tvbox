@@ -28,7 +28,7 @@
         "danMu": "弹"
       }
     },
-            
+      
         {
             "key": "MusicAiKuWoa",
             "name": "🎼小酷┃音乐",
@@ -38,15 +38,20 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
         },
-        {
-            "key": "MusicAi163",
+         {
+            "key": "MTV1",
             "name": "🎼易听┃音乐",
             "type": 3,
-            "api": "csp_MusicAi163Guard",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
+            "api": "csp_MusicGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "playerType": 2,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },     
          
         {
             "key": "MusicAiLunHui",
@@ -66,7 +71,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-		    "jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7"
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
         },
         {
             "key": "ChuXin",
@@ -76,7 +81,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-			"jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7"
+			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
         },
         {
             "key": "aiting",
@@ -86,7 +91,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-			"jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7"
+			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
         },
         {
             "key": "Music24bit",
@@ -95,7 +100,7 @@
             "api": "csp_Music24bit",
             "searchable": 1,
             "changeable": 1,
-			"jar": "https://aly2.tuchuangyun.top/autoupload/k2fxc/20260731/hGQc/fish07310942.jar;md5;48f46191cf3a2a8d47e79c4e2f5e52b7",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar",
             "ext": {
                 "categories": [
                     "周杰伦",
@@ -250,10 +255,10 @@
                 "decrypt": "0"
             }
         },
-	  
-     {"key":"聚合资源","name":"🎀聚合┃影视","type":1,"api":"https://vod.7na7.com/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-     
-	 {"key":"非凡资源","name":"🎀非凡┃影视","type":1,"api":"https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+
+	{"key":"聚合资源","name":"🎀聚合┃影视","type":1,"api":"https://vod.7na7.com/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+
+	{"key":"非凡资源","name":"🎀非凡┃影视","type":1,"api":"https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
     
 	 {"key":"如意资源","name":"🎀如意┃影视","type":1,"api":"http://cj.rycjapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
@@ -318,6 +323,7 @@
       "type":3
      },
 	  
+    
 	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
@@ -526,6 +532,28 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
         },
+	    {
+            "key": "光影",
+            "name": "🌞光影┃不卡",
+            "type": 3,
+            "api": "csp_T4Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
+        },
+	   {
+            "key": "视界",
+            "name": "🌸茉莉┃多线",
+            "type": 3,
+            "api": "csp_App99Guard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
+        },
+	   
     {
       "key": "文采",
       "name": "💮文采┃秒播",
@@ -560,7 +588,17 @@
       "changeable": 0,
       "ext": "https://www.xb6v.com/"
     },
-
+    {
+            "key": "剧圈",
+            "name": "🐻剧圈┃多线",
+            "type": 3,
+            "api": "csp_AppSxGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+        },
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
