@@ -273,7 +273,52 @@
 	 {"key":"魔都资源","name":"🎀魔都┃影视","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
 	 {"key":"无水印资源","name":"🎀无水印┃影视","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["4K电影","Netflix自制剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","邵氏电影","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-	  
+	  {
+            "key": "腾讯备",
+            "name": "🦐腾讯",
+            "type": 3,
+            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
+        },
+        {
+            "key": "芒果备",
+            "name": "🦐芒果",
+            "type": 3,
+            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
+        },
+        {
+            "key": "哔哩",
+            "name": "🦐哔哩",
+            "type": 3,
+            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "https://fastlink.cokey.xyz/f/BbmbUe/%E5%93%94%E5%93%A9.js"
+        },
+        {
+            "key": "爱奇幕",
+            "name": "🦐奇异",
+            "type": 3,
+            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "https://fastlink.cokey.xyz/f/MAmbcW/%E5%A5%87%E5%BC%82.js"
+        },
+        {
+            "key": "优幕",
+            "name": "🦐优酷",
+            "type": 3,
+            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "https://fastlink.cokey.xyz/f/9Y0jHb/%E4%BC%98%E9%85%B7.js"
+        },
+        {
+            "key": "华数",
+            "name": "🦐华数",
+            "type": 3,
+            "api": "https://pan.29o.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py",
+            "changeable": 1
+        },
         
 	{
       "key": "直播转点播",
