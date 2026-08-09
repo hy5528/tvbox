@@ -123,7 +123,16 @@
                 ]
             }
         },
-     
+         {
+          "key":"裤佬枫叶音乐",
+         "name":"👖枫叶丨音乐",
+         "type":3,
+         "api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+         "searchable":1,
+         "changeable":1,
+         "quickSearch":1,
+         "filterable":1
+         },
         {
             "key": "MusicAiQingTing",
             "name": "🎼蜻蜓┃电台🎼",
