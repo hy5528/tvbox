@@ -9,7 +9,7 @@
     "sites": [
         {
             "key": "Douban",
-            "name": "🐮【王二小放牛娃】🐮",
+            "name": "🐮【王二小放牛娃】",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -20,7 +20,7 @@
         },
         {
             "key": "Doubanaaaa",
-            "name": "🐮【更新日期:20260808】🐮",
+            "name": "🐮【更新日期:20260808】",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
@@ -31,7 +31,7 @@
         },
         {
             "key": "Wexconfig",
-            "name": "🐮配置┃中心🐮",
+            "name": "🐮配置┃中心",
             "type": 3,
             "api": "csp_PanConfigGuard",
             "searchable": 0,
@@ -43,7 +43,7 @@
         },
           {
             "key": "MusicAiKuWo",
-            "name": "🎼酷听┃音乐🎼",
+            "name": "🎼酷听┃音乐",
             "type": 3,
             "api": "csp_MusicAiKuWoGuard",
             "searchable": 1,
@@ -52,7 +52,7 @@
 		
         {
             "key": "MusicAiIKtv",
-            "name": "🎼KTV┃音乐🎼",
+            "name": "🎼KTV┃音乐",
             "type": 3,
             "api": "csp_MusicAiIKtvGuard",
             "searchable": 1,
@@ -60,7 +60,7 @@
         },
         {
             "key": "MusicAi163",
-            "name": "🎼易听┃音乐🎼",
+            "name": "🎼易听┃音乐",
             "type": 3,
             "api": "csp_MusicAi163Guard",
             "searchable": 1,
@@ -69,7 +69,7 @@
        
         {
             "key": "MusicAiLunHui",
-            "name": "🎼轮回┃舞曲🎼",
+            "name": "🎼轮回┃舞曲",
             "type": 3,
             "api": "csp_MusicAiLunHuiGuard",
             "searchable": 1,
@@ -135,7 +135,7 @@
          },
         {
             "key": "MusicAiQingTing",
-            "name": "🎼蜻蜓┃电台🎼",
+            "name": "🎼蜻蜓┃电台",
             "type": 3,
             "api": "csp_MusicAiQingTingGuard",
             "searchable": 1,
@@ -249,7 +249,7 @@
         },
         {
             "key": "WexHanXiaoQuan",
-            "name": "💥韩剧┃秒播💥",
+            "name": "💥韩剧┃秒播",
             "type": 3,
             "api": "csp_WexAiHanXiaoQuanGuard",
             "searchable": 1,
@@ -258,7 +258,7 @@
         },
         {
             "key": "WexAiGuaZi",
-            "name": "💥瓜子┃秒播💥",
+            "name": "💥瓜子┃秒播",
             "type": 3,
             "api": "csp_WexAiGuaZiGuard",
             "searchable": 1,
@@ -267,7 +267,7 @@
         },
         {
             "key": "WexAiDuBoKu",
-            "name": "💥独播┃秒播💥",
+            "name": "💥独播┃秒播",
             "type": 3,
             "api": "csp_WexAiDuBoKuGuard",
             "searchable": 1,
@@ -276,7 +276,7 @@
         },
         {
             "key": "WexAiYueYue",
-            "name": "💥闪电┃秒播💥",
+            "name": "💥闪电┃秒播",
             "type": 3,
             "api": "csp_WexAiYueYueGuard",
             "searchable": 1,
@@ -285,7 +285,7 @@
         },
         {
             "key": "WexAiWenCai",
-            "name": "💥文才┃秒播💥",
+            "name": "💥文才┃秒播",
             "type": 3,
             "api": "csp_WexAiWenCaiGuard",
             "searchable": 1,
@@ -295,7 +295,7 @@
         
         {
             "key": "賤賤",
-            "name": "💥贱片┃秒播💥",
+            "name": "💥贱片┃秒播",
             "type": 3,
             "api": "csp_WexAiJianPianGuard",
             "searchable": 1,
@@ -304,7 +304,7 @@
         },
         {
             "key": "WexAiYiYs",
-            "name": "💥伊影┃秒播💥",
+            "name": "💥伊影┃秒播",
             "type": 3,
             "api": "csp_WexAiYiYsGuard",
             "searchable": 1,
@@ -313,7 +313,7 @@
         },
         {
             "key": "WexAiReBo",
-            "name": "💥热播┃秒播💥",
+            "name": "💥热播┃秒播",
             "type": 3,
             "api": "csp_WexAiReBoGuard",
             "searchable": 1,
@@ -322,7 +322,7 @@
         },
         {
             "key": "WexAiBoBo",
-            "name": "🎇伯伯┃秒播🎇",
+            "name": "🎇伯伯┃秒播",
             "type": 3,
             "api": "csp_WexAiBoBoGuard",
             "searchable": 1,
@@ -331,7 +331,7 @@
         },
         {
             "key": "WexAiIkanBot",
-            "name": "🎇爱看┃采集🎇",
+            "name": "🎇爱看┃采集",
             "type": 3,
             "api": "csp_WexAiIkanBotGuard",
             "searchable": 1,
@@ -888,7 +888,7 @@
         },
         {
             "key": "小学课堂",
-            "name": "📚小学┃课堂📚",
+            "name": "📚小学┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -904,7 +904,7 @@
         },
         {
             "key": "初中课堂",
-            "name": "📚初中┃课堂📚",
+            "name": "📚初中┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -920,7 +920,7 @@
         },
         {
             "key": "高中教育",
-            "name": "📚高中┃课堂📚",
+            "name": "📚高中┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -934,46 +934,7 @@
                 "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
             }
         },
-        {
-            "key": "SoAiHaiYin",
-            "name": "🎠盘搜┃综合🎠",
-            "type": 3,
-            "api": "csp_SoAiHaiYinGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoAiPanSoo",
-            "name": "🎠九七┃综合🎠",
-            "type": 3,
-            "api": "csp_SoAiPanSooGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoAiQuPanShe",
-            "name": "🎠趣搜┃百度🎠",
-            "type": 3,
-            "api": "csp_SoAiQuPanSheGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoAiAiPanSo",
-            "name": "🎠爱盘┃综合🎠",
-            "type": 3,
-            "api": "csp_SoAiAiPanSoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoHaoSo",
-            "name": "🎠好盘┃综合🎠",
-            "type": 3,
-            "api": "csp_SoHaoSoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+       
         {
             "key": "push_agent",
             "name": "推送",
