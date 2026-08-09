@@ -348,8 +348,6 @@
 
 	 {"key":"豆瓣资源","name":"🎀豆瓣┃影视","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动漫电影","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧大全", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
-     {"key":"电影天堂","name":"🎀电影┃天堂","type":1,"api":"https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
-
 	 {"key":"量子资源","name":"🎀量子┃影视","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
 	 {"key":"魔都资源","name":"🎀魔都┃影视","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
@@ -551,7 +549,7 @@
         },
         {
             "key": "LiveAiHuYa",
-            "name": "🐯‍虎牙┃直播🐯‍",
+            "name": "🐯‍虎牙┃直播",
             "type": 3,
             "api": "csp_LiveAiHuYaGuard",
             "searchable": 1,
@@ -559,7 +557,7 @@
         },
         {
             "key": "LiveAiDouYu",
-            "name": "🐳斗鱼┃直播🐳",
+            "name": "🐳斗鱼┃直播",
             "type": 3,
             "api": "csp_LiveAiDouYuGuard",
             "searchable": 1,
@@ -567,7 +565,7 @@
         },
         {
             "key": "LiveAiBiLi",
-            "name": "🅱️哔哩┃直播🅱️",
+            "name": "🅱️哔哩┃直播",
             "type": 3,
             "api": "csp_LiveAiBiLiGuard",
             "searchable": 1,
@@ -575,7 +573,7 @@
         },
         {
             "key": "ManJuAiHongGuo",
-            "name": "🍉漫短┃小红🍉",
+            "name": "🍉漫短┃小红",
             "type": 3,
             "类型": "短剧",
             "api": "csp_ManJuAiHongGuoGuard",
@@ -584,7 +582,7 @@
         },
         {
             "key": "ManJuAiHuoLong",
-            "name": "🍉漫剧┃小龙🍉",
+            "name": "🍉漫剧┃小龙",
             "type": 3,
             "类型": "短剧",
             "api": "csp_ManJuAiHuoLongGuard",
@@ -593,7 +591,7 @@
         },
         {
             "key": "ManJuAiQiMao",
-            "name": "🍉漫剧┃小猫🍉",
+            "name": "🍉漫剧┃小猫",
             "type": 3,
             "类型": "短剧",
             "api": "csp_ManJuAiQiMaoGuard",
@@ -602,25 +600,17 @@
         },
         {
             "key": "ManJuAiXiFan",
-            "name": "🍉漫短┃小喜🍉",
+            "name": "🍉漫短┃小喜",
             "type": 3,
             "类型": "短剧",
             "api": "csp_ManJuAiXiFanGuard",
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "ManJuAiHeMa",
-            "name": "🍉漫短┃小马🍉",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHeMaGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+       
         {
             "key": "DuanJuAiHaoKan",
-            "name": "🍉短剧┃好看🍉",
+            "name": "🍉短剧┃好看",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiHaoKanGuard",
@@ -629,7 +619,7 @@
         },
         {
             "key": "DuanJuAiQiMiao",
-            "name": "🍉短剧┃小猫🍉",
+            "name": "🍉短剧┃小猫",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiQiMiaoGuard",
@@ -638,7 +628,7 @@
         },
         {
             "key": "DuanJuAiXingYa",
-            "name": "🍉短剧┃星星🍉",
+            "name": "🍉短剧┃星星",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiXingYaGuard",
@@ -647,24 +637,17 @@
         },
         {
             "key": "DuanJuAiWeiGuan",
-            "name": "🍉短剧┃小薇🍉",
+            "name": "🍉短剧┃小薇",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiWeiGuanGuard",
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "AnimeXiFan",
-            "name": "🤡稀饭┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeXiFanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "AnimeCiYuanCheng",
-            "name": "🤡次元┃动漫🤡",
+            "name": "🤡次元┃动漫",
             "type": 3,
             "api": "csp_AnimeCiYuanChengGuard",
             "searchable": 1,
@@ -672,7 +655,7 @@
         },
         {
             "key": "AnimeAiMiaoWu",
-            "name": "🤡喵呜┃动漫🤡",
+            "name": "🤡喵呜┃动漫",
             "type": 3,
             "api": "csp_AnimeAiMiaoWuGuard",
             "searchable": 1,
@@ -680,23 +663,16 @@
         },
         {
             "key": "AnimeAiHuazi",
-            "name": "🤡花海┃动漫🤡",
+            "name": "🤡花海┃动漫",
             "type": 3,
             "api": "csp_AnimeAiHuaziGuard",
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "AnimeAiMoDu",
-            "name": "🤡魔都┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeAiMoDuGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "BookAiShiJie",
-            "name": "🎃‍极品┃听书🎃",
+            "name": "🎃‍极品┃听书",
             "type": 3,
             "api": "csp_BookAiShiJieGuard",
             "searchable": 1,
@@ -704,7 +680,7 @@
         },
         {
             "key": "BookAiYueTing",
-            "name": "🎃‍悦庭┃听书🎃",
+            "name": "🎃‍悦庭┃听书",
             "type": 3,
             "api": "csp_BookAiYueTingGuard",
             "searchable": 1,
@@ -713,7 +689,7 @@
         },
         {
             "key": "BookAi23TingShu",
-            "name": "🎃‍爱上┃听书🎃",
+            "name": "🎃‍爱上┃听书",
             "type": 3,
             "api": "csp_BookAi23TingShuGuard",
             "searchable": 1,
@@ -721,7 +697,7 @@
         },
         {
             "key": "ChildrenAiBaoBao",
-            "name": "👼宝宝┃儿歌👼",
+            "name": "👼宝宝┃儿歌",
             "type": 3,
             "api": "csp_ChildrenAiBaoBaoGuard",
             "searchable": 1,
@@ -733,7 +709,7 @@
         },
         {
             "key": "ChildrenAiBeiWa",
-            "name": "👼贝贝┃儿歌👼",
+            "name": "👼贝贝┃儿歌",
             "type": 3,
             "api": "csp_ChildrenAiBeiWaGuard",
             "searchable": 1,
@@ -745,7 +721,7 @@
         },
         {
             "key": "ChildrenAiTuTu",
-            "name": "👼兔兔┃儿歌👼",
+            "name": "👼兔兔┃儿歌",
             "type": 3,
             "api": "csp_ChildrenAiTuTuGuard",
             "searchable": 1,
@@ -757,7 +733,7 @@
         },
         {
             "key": "MusicAiTangDou",
-            "name": "💃跳舞┃教学💃",
+            "name": "💃跳舞┃教学",
             "type": 3,
             "api": "csp_MusicAiTangDouGuard",
             "searchable": 1,
@@ -769,7 +745,7 @@
         },
         {
             "key": "MusicAiLiYuan",
-            "name": "🎎戏曲┃秒播🎎",
+            "name": "🎎戏曲┃秒播",
             "type": 3,
             "api": "csp_MusicAiLiYuanGuard",
             "searchable": 1,
@@ -782,7 +758,7 @@
        
         {
             "key": "SportAiFeiQiu",
-            "name": "🌐飞球┃体育🌐",
+            "name": "🌐飞球┃体育",
             "type": 3,
             "api": "csp_SportAiFeiQiuGuard",
             "searchable": 1,
@@ -793,7 +769,7 @@
         },
         {
             "key": "SportAiGuaZi",
-            "name": "🌐瓜子┃体育🌐",
+            "name": "🌐瓜子┃体育",
             "type": 3,
             "api": "csp_SportAiGuaZiGuard",
             "searchable": 1,
@@ -804,7 +780,7 @@
         },
         {
             "key": "SportAiKanQiuTong",
-            "name": "🌐球通┃体育🌐",
+            "name": "🌐球通┃体育",
             "type": 3,
             "api": "csp_SportAiKanQiuTongGuard",
             "searchable": 1,
@@ -815,7 +791,7 @@
         },
         {
             "key": "SportAiKanqiu",
-            "name": "🌐八八┃体育🌐",
+            "name": "🌐八八┃体育",
             "type": 3,
             "api": "csp_SportAiKanqiuGuard",
             "searchable": 1,
@@ -823,7 +799,7 @@
         },
         {
             "key": "SportAiKaFei",
-            "name": "🌐咖啡┃体育🌐",
+            "name": "🌐咖啡┃体育",
             "type": 3,
             "api": "csp_SportAiKaFeiGuard",
             "searchable": 1,
@@ -834,7 +810,7 @@
         },
         {
             "key": "SportAiWwe",
-            "name": "🌐WWE┃体育🌐",
+            "name": "🌐WWE┃体育",
             "type": 3,
             "api": "csp_SportAiWweGuard",
             "searchable": 1,
@@ -845,7 +821,7 @@
         },
         {
             "key": "biliys",
-            "name": "🅱哔哩┃影视🅱",
+            "name": "🅱哔哩┃影视",
             "type": 3,
             "api": "csp_BiliYsGuard",
             "searchable": 1,
@@ -855,7 +831,7 @@
         
         {
             "key": "biliych",
-            "name": " 🅱‍哔哩┃歌曲🅱‍",
+            "name": " 🅱‍哔哩┃歌曲,
             "type": 3,
             "api": "csp_BiliGuard",
             "searchable": 1,
@@ -872,7 +848,7 @@
         },
         {
             "key": "少儿教育",
-            "name": "📚少儿┃教育📚",
+            "name": "📚少儿┃教育",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
