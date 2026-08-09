@@ -750,66 +750,6 @@
             }
         },
         {
-            "key": "FakeAi115Share",
-            "name": "💓115┃分享💓‍",
-            "type": 3,
-            "api": "csp_FakeAi115ShareGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "Emby",
-            "name": "💓Emby┃4K💓",
-            "type": 3,
-            "api": "csp_EmbyGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Emby001",
-            "name": "💓Emby001┃4K💓",
-            "type": 3,
-            "api": "csp_EmbyDiyGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "embynumber": 0
-            }
-        },
-        {
-            "key": "AList",
-            "name": "👁️Alist┃DIY👁️",
-            "type": 3,
-            "api": "csp_AListGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "webdav",
-            "name": "👁️WebDav┃DIY👁️",
-            "type": 3,
-            "api": "csp_WebDAVGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "DiyVod",
-            "name": "👁Vod┃DIY👁️",
-            "type": 3,
-            "api": "csp_DiyVodGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "biliys",
             "name": "🅱哔哩┃影视🅱",
             "type": 3,
@@ -818,40 +758,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "bilibili",
-            "name": " 🅱‍哔哩┃合集🅱‍",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
-            }
-        },
-        {
-            "key": "bilixiqu",
-            "name": " 🅱‍哔哩┃戏曲🅱‍",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt"
-            }
-        },
+        
         {
             "key": "biliych",
             "name": " 🅱‍哔哩┃歌曲🅱‍",
