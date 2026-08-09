@@ -41,11 +41,11 @@
                 "type": "list"
             }
         },
-          {
-            "key": "MusicAiKuWo",
-            "name": "🎼酷听┃音乐",
+{
+            "key": "MusicAiKuWoa",
+            "name": "🎼小酷┃音乐",
             "type": 3,
-            "api": "csp_MusicAiKuWoGuard",
+            "api": "csp_MusicAiKuWoaGuard",
             "searchable": 1,
             "changeable": 0
         },
