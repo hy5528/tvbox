@@ -51,14 +51,6 @@
         },
 		
         {
-            "key": "MusicAiIKtv",
-            "name": "🎼KTV┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiIKtvGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "MusicAi163",
             "name": "🎼易听┃音乐",
             "type": 3,
