@@ -120,6 +120,13 @@
             "searchable": 1,
             "changeable": 0
         },
+		{
+            "key": "哔哩",
+            "name": "💖哔哩┃音乐",
+            "type": 3,
+            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/music%E5%93%94%E5%93%A9.js"
+        },
 		 {
       "key": "bilibigq",
       "name": "🧡吾爱┃歌曲",
