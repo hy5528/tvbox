@@ -710,30 +710,7 @@
                 "ratio": 2
             }
         },
-        {
-            "key": "MusicAiTangDou",
-            "name": "💃跳舞┃教学",
-            "type": 3,
-            "api": "csp_MusicAiTangDouGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "MusicAiLiYuan",
-            "name": "🎎戏曲┃秒播",
-            "type": 3,
-            "api": "csp_MusicAiLiYuanGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
+        
        
         {
             "key": "SportAiFeiQiu",
