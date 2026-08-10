@@ -526,30 +526,7 @@
             "filterable": 1,
 		 "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
         },
-        {
-            "key": "LiveAiHuYa",
-            "name": "🐯‍虎牙┃直播",
-            "type": 3,
-            "api": "csp_LiveAiHuYaGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "LiveAiDouYu",
-            "name": "🐳斗鱼┃直播",
-            "type": 3,
-            "api": "csp_LiveAiDouYuGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "LiveAiBiLi",
-            "name": "🅱️哔哩┃直播",
-            "type": 3,
-            "api": "csp_LiveAiBiLiGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "ManJuAiHongGuo",
             "name": "🍉漫短┃小红",
@@ -623,7 +600,30 @@
             "searchable": 1,
             "changeable": 0
         },
-        
+        {
+            "key": "LiveAiHuYa",
+            "name": "🐯‍虎牙┃直播",
+            "type": 3,
+            "api": "csp_LiveAiHuYaGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "LiveAiDouYu",
+            "name": "🐳斗鱼┃直播",
+            "type": 3,
+            "api": "csp_LiveAiDouYuGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "LiveAiBiLi",
+            "name": "🅱️哔哩┃直播",
+            "type": 3,
+            "api": "csp_LiveAiBiLiGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
         {
             "key": "AnimeCiYuanCheng",
             "name": "🤡次元┃动漫",
