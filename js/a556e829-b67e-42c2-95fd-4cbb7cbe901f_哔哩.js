@@ -1,5 +1,5 @@
 var rule = {
-    title: '哔哩影视[官]',
+    title: '哔哩音乐[官]',
     host: 'https://api.bilibili.com',
     url: '/fyclass-fypage&vmid=$vmid',
     detailUrl: '/pgc/view/web/season?season_id=fyid',
@@ -24,8 +24,8 @@ var rule = {
     },
     tab_order: ['哔哩哔哩'],
     timeout: 5000,
-    class_name: '番剧&国创&电影&电视剧&纪录片&综艺&全部&追番&追剧&时间表',
-    class_url: '1&4&2&5&3&7&全部&追番&追剧&时间表',
+    class_name: '粤语&热榜&抖音神曲&无损音乐&经典合集&经典老歌&全部',
+    class_url: '1&2&3&4&5&6&全部&综合排序&最新发布&时间表',
 
     filter: {
         "全部": [
