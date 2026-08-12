@@ -434,6 +434,20 @@
             },
             "changeable": 1
         },
+		{
+            "key": "藤1藤",
+            "name": "🌟天神┃腾讯",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+        },
+        {
+            "key": "茫1茫",
+            "name": "🌟天神┃芒果",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+            "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+        },
 	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
