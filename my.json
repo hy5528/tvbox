@@ -465,6 +465,17 @@
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/zh/2243.php"
         },
+		{
+            "key": "永乐J",
+            "name": "🌟永乐┃影视",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
 	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
