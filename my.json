@@ -453,7 +453,12 @@
       "searchable":1,
       "type":3
      },
-	  
+	  {
+            "key": "影视播放",
+            "name": "🌟老张┃影视",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/2242.php"
+        }, 
     
 	{
       "key": "旺旺短剧",
