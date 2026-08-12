@@ -292,15 +292,18 @@
             "quickSearch": 1,
             "changeable": 0
         },
-		 {
-            "key": "WexAiWenCai",
-            "name": "💥文才┃秒播",
+		  {
+            "key": "文才影视",
+            "name": "🌾文才┃快看",
             "type": 3,
-            "api": "csp_WexAiWenCaiGuard",
+            "api": "https://fastlink.cokey.xyz/f/0LYlCj/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-		    "jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+            "filterable": 1,
+            "playerType": 2,
+            "ext": {
+                "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+            }
         },
         {
             "key": "WexAiBoBo",
