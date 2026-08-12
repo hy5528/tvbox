@@ -294,7 +294,7 @@
         },
 		  {
             "key": "文才影视",
-            "name": "🌾文才┃快看",
+            "name": "💥文才┃快看",
             "type": 3,
             "api": "https://fastlink.cokey.xyz/f/0LYlCj/%E6%96%87%E6%89%8D%E5%BD%B1%E8%A7%86.py",
             "searchable": 1,
@@ -307,9 +307,23 @@
         },
 		{
             "key": "金牌123",
-            "name": "🥇金牌｜影视",
+            "name": "💥金牌｜影视",
             "type": 3,
             "api": "https://fastlink.cokey.xyz/f/AGJeHm/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+        },
+		 {
+            "key": "鹊桥",
+            "name": "💥鹊桥｜影视 ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+            "ext": {
+                "副标题": "保护正版，人人有责",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "http://114bate.com/hdshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#日韩$6"
+            }
         },
         {
             "key": "WexAiBoBo",
