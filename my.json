@@ -292,18 +292,15 @@
             "quickSearch": 1,
             "changeable": 0
         },
-		{
-        "key": "文采",
-        "name": "💥文采┃秒播",
-        "type": 3,
-        "api": "csp_JpysGuard",
-        "timeout": 10,
-        "playerType": 2,
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
- 	   "jar": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a"
-      },
+		 {
+            "key": "WexAiWenCai",
+            "name": "💥文才┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAiWenCaiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
         {
             "key": "WexAiBoBo",
             "name": "🎇伯伯┃秒播",
