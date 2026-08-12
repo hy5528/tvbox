@@ -294,12 +294,13 @@
         },
 		 {
             "key": "WexAiWenCai",
-            "name": "💥文才┃秒播💥",
+            "name": "💥文才┃秒播",
             "type": 3,
             "api": "csp_WexAiWenCaiGuard",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
+            "changeable": 0,
+		    "jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
         },
         {
             "key": "WexAiBoBo",
