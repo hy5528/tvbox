@@ -325,6 +325,13 @@
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#日韩$6"
             }
         },
+		 {
+            "key": "肥猫的",
+            "name": "🥇️金牌┃影视",
+            "type": 3,
+            "jar": "https://wp.kayyw.com/f/EQ4Mu0/mao.jar",
+            "api": "csp_Jpys"
+        },
         {
             "key": "WexAiBoBo",
             "name": "🎇伯伯┃秒播",
