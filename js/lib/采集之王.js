@@ -92,7 +92,7 @@ var rule = {
                     if (_obj.cate_excludes && Array.isArray(_obj.cate_excludes) && _obj.cate_excludes.length > 0) {
                         json1 = json1.filter(cl => !_obj.cate_excludes.includes(cl.type_name));
                     } else if (_obj.cate_exclude) {
-                        json1 = json1.filter(cl => !new RegExp(_obj.cate_exclude, 'i').test(cl.type_name));
+                        json1 = json1.filter(cl => !cl.type_name.toLowerCase().includes(_obj.cate_exclude.toLowerCase()));
                     }
                     rule.filter[_obj.type_id] = [{
                         "key": "类型",
@@ -231,7 +231,7 @@ var rule = {
                                 }
                             }
                         });
-                        let rets = batchFetch(reqUrls);
+                        let rets = batchFetch(reqUrls.slice(0, rule.search_limit || 16));
                         let detailUrls = [];
                         let detailUrlCount = 0;
                         rets.forEach((ret, idx) => {
@@ -279,7 +279,7 @@ var rule = {
                                 }
                             }
                         });
-                        let rets2 = reqUrls2.length > 0 ? batchFetch(reqUrls2) : [];
+                        let rets2 = reqUrls2.length > 0 ? batchFetch(reqUrls2.slice(0, rule.search_limit || 16)) : [];
                         for (let k = 0; k < results_list.length; k++) {
                             let result_data = results_list[k].data;
                             if (!results_list[k].has_pic) {
@@ -289,9 +289,7 @@ var rule = {
                                     result_data.forEach((d, _seq) => {
                                         let detailVodPic = detailJson.list.find(vod => vod.vod_id.toString() === d.vod_id.split('$')[1]);
                                         if (detailVodPic) {
-                                            Object.assign(d, {
-                                                vod_pic: detailVodPic.vod_pic
-                                            });
+                                                d.vod_pic = detailVodPic.vod_pic;
                                         }
                                     });
                                 } catch (e) {
@@ -324,9 +322,7 @@ var rule = {
                                             data.forEach((d, _seq) => {
                                                 let detailVodPic = detailJson.list.find(vod => vod.vod_id.toString() === d.vod_id.split('$')[1]);
                                                 if (detailVodPic) {
-                                                    Object.assign(d, {
-                                                        vod_pic: detailVodPic.vod_pic
-                                                    });
+                                                    d.vod_pic = detailVodPic.vod_pic;
                                                 }
                                             });
                                         } catch (e) {
