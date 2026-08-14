@@ -1,5 +1,5 @@
 {
-   "spider": "https://zl.wpscdn.cn/2026/08/03/space_img/31c67f10-796e-4c4b-abe7-75fd4a527cc8.jpg;md5;9d90c83bc7504392dd02c2236f08713a",
+   "spider": "https://zl.wpscdn.cn/2026/08/14/space_img/2ffb55be-20c6-4c49-9008-553ffbe6663b.jpg;md5;0abc42670ded8012499d2e46f2bab7b0",
    "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
    "sites": [
     {
@@ -255,7 +255,124 @@
                 "decrypt": "0"
             }
         },
-
+     {
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┃秒播",
+            "type": 3,
+            "api": "csp_WexAiHanXiaoQuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+		    "jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
+        {
+            "key": "WexAiGuaZi",
+            "name": "💥瓜子┃秒播",
+            "type": 3,
+            "api": "csp_WexAiGuaZiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
+        {
+            "key": "WexAiDuBoKu",
+            "name": "💥独播┃秒播",
+            "type": 3,
+            "api": "csp_WexAiDuBoKuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
+        {
+            "key": "WexAiYueYue",
+            "name": "💥闪电┃秒播",
+            "type": 3,
+            "api": "csp_WexAiYueYueGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
+       
+        
+        {
+            "key": "賤賤",
+            "name": "💥贱片┃秒播",
+            "type": 3,
+            "api": "csp_WexAiJianPianGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
+        {
+            "key": "WexAiYiYs",
+            "name": "💥伊影┃秒播",
+            "type": 3,
+            "api": "csp_WexAiYiYsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
+        {
+            "key": "WexAiReBo",
+            "name": "💥热播┃秒播",
+            "type": 3,
+            "api": "csp_WexAiReBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
+		  
+		{
+            "key": "金牌123",
+            "name": "💥金牌｜影视",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/AGJeHm/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
+        },
+		{
+            "key": "电影先生1",
+            "name": "❤️电影┃先生",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://wp.kayyw.com/f/bobgtv/%E5%B0%B1%E5%87%A0%E4%B8%AA.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://silidm.com/",
+                "线路标题": "保护正版，人人有责",
+                "分类url": "https://silidm.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$dianying#剧集$juji#动漫$dongman#综艺$zongyi"
+            }
+        },
+		
+        {
+            "key": "WexAiBoBo",
+            "name": "🎇伯伯┃秒播",
+            "type": 3,
+            "api": "csp_WexAiBoBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
+        {
+            "key": "WexAiIkanBot",
+            "name": "🎇爱看┃采集",
+            "type": 3,
+            "api": "csp_WexAiIkanBotGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
+        },
 	{"key":"聚合资源","name":"🎀聚合┃影视","type":1,"api":"https://vod.7na7.com/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
 	{"key":"非凡资源","name":"🎀非凡┃影视","type":1,"api":"https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
@@ -362,13 +479,78 @@
 	  {
       "key":"裤佬猎手PY",
       "name":"👖猎手丨PY",
-      "api":"https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
+      "api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/T3%E7%8C%8E%E6%89%8B.py",
       "filterable":1,
       "quickSearch":1,
       "searchable":1,
       "type":3
      },
-	  
+	{
+            "key": "影视播放",
+            "name": "🌟老张┃影视",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/2242.php"
+        }, 
+    {
+            "key": "影视单播放",
+            "name": "🌟影视┃播放",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/zh/2243.php"
+        },
+		{
+            "key": "永乐J",
+            "name": "🌟永乐┃影视",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+	 {
+            "key": "爱营",
+            "name": "🌟爱影┃影视",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/nLaNhm/get.js",
+            "ext": {
+                "host": "http://222.211.75.252:16118",
+                "key": "0UKM8jkasM8tdzgW",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            },
+            "categories": [
+                "动漫",
+                "电视剧",
+                "电影",
+                "综艺",
+                "短剧",
+                "体育",
+                "少儿",
+                "纪录片"
+            ]
+        },
+		 {
+            "key": "雪落",
+            "name": "🌟雪落┃影视",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/f729b5a1d215a4cbaa147d67f85a410e.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		 {
+            "key": "山楂",
+            "name": "🌟山楂┃影视",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/393b1f31b4e5525ff2b9a73878a646ee.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0
+        },  
     
 	{
       "key": "旺旺短剧",
@@ -477,88 +659,20 @@
       "changeable": 0,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CKrShL75AiGhjhdkfX0cfnI/kIpThjDhEZ0lc8r7irE4mRMelQz4llfmVMCtjIFNIHP1T3XqwSmYZd34DfAtnkbgrpiMBiYW36CCI5rTkC3Rtg1wQQjazUZyVHx4Zz5bWbmPv4G8q7PfHWYStVeDannVT2lmLzKbGEDahyxvLhNZRjXO5rPlruB0ydDcR/e/g5nx8N3JhG0oucfv6xVDl0XxYy0K2bY3plgqx32kfnS63xa8sQDbGlYoPtdHQCi2cAvEOaqMb5a6r2D3yvcLXYLjk37CJgQObzK0bCggZPm3B3YenAuunxl5OQmXrzLHjys6I2isL5AwTS2YAjD/R3f4FYWBp+4RdwMBAChatxjEHcaFhCUb0nfTgYKQ4a1pZ4j6+d4YHa0GaMYHO5NZQ0tDRZfAZPcfYaWLSW8iIUx6G2e0JnI6bLAN1TR0AVer8lxfU0zAzAODbKVrt8Oafq0IQ6MeGFcFRGMu4QWrzaublQ=="
     },
-        {
-            "key": "WexHanXiaoQuan",
-            "name": "💥韩剧┃秒播",
+       {
+            "key": "立播",
+            "name": "🌟立播┃不卡",
             "type": 3,
-            "api": "csp_WexAiHanXiaoQuanGuard",
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        {
-            "key": "WexAiGuaZi",
-            "name": "💥瓜子┃秒播",
-            "type": 3,
-            "api": "csp_WexAiGuaZiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        {
-            "key": "WexAiDuBoKu",
-            "name": "💥独播┃秒播",
-            "type": 3,
-            "api": "csp_WexAiDuBoKuGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        {
-            "key": "WexAiYueYue",
-            "name": "💥闪电┃秒播",
-            "type": 3,
-            "api": "csp_WexAiYueYueGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        
-        
-        {
-            "key": "賤賤",
-            "name": "💥贱片┃秒播",
-            "type": 3,
-            "api": "csp_WexAiJianPianGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        {
-            "key": "WexAiYiYs",
-            "name": "💥伊影┃秒播",
-            "type": 3,
-            "api": "csp_WexAiYiYsGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        {
-            "key": "WexAiReBo",
-            "name": "💥热播┃秒播",
-            "type": 3,
-            "api": "csp_WexAiReBoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        {
-            "key": "WexAiBoBo",
-            "name": "🎇伯伯┃秒播",
-            "type": 3,
-            "api": "csp_WexAiBoBoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "siteUrl": "https://www.libvio.pw/"
+            }
+        }, 
 	    
 	   {
             "key": "视界",
@@ -583,7 +697,17 @@
       "quickSearch": 1,
       "changeable": 1
     },
-  
+     {
+            "key": "荐片",
+            "name": "🥝荐片┃多线",
+            "type": 3,
+            "api": "csp_JPJGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
     {
       "key": "糯米",
       "name": "🍓糯米┃多线",
