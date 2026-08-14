@@ -223,17 +223,7 @@
 "quickSearch":1,
 "filterable":1
 },
-{
-            "key": "WexAiIkanBot",
-            "name": "🎇爱看┃采集",
-            "type": 3,
-            "api": "csp_WexAiIkanBotGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-	        "jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
-        },
-        
+
       {
             "key": "苹果",
             "name": "🎀苹果｜APP",
