@@ -457,6 +457,15 @@
                 "纪录片"
             ]
         },
+		 {
+            "key": "雪落",
+            "name": "🌟雪落┃影视",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/f729b5a1d215a4cbaa147d67f85a410e.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
