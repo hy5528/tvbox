@@ -640,16 +640,18 @@
 		 "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
         },
      {
-            "key": "热播",
-            "name": "📺热播┃多线",
+            "key": "立播",
+            "name": "🌟立播┃不卡",
             "type": 3,
-            "api": "csp_AppTTGuard",
+            "api": "csp_LibvioGuard",
             "timeout": 10,
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "uqGL1bNENExT7/hGxpSE5qU="
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "siteUrl": "https://www.libvio.pw/"
+            }
         },
 	 {
             "key": "原创",
