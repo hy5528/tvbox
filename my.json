@@ -434,7 +434,18 @@
             },
             "changeable": 1
         },
-	
+	{
+            "key": "爱营",
+            "name": "🌟爱影┃影视",
+            "type": 3,
+            "api": "https://fastlink.cokey.xyz/f/nLaNhm/get.js",
+            "ext": {
+                "host": "http://222.211.75.252:16118",
+                "key": "0UKM8jkasM8tdzgW",
+                "init": "V122",
+                "api": 2,
+                "ua": "okhttp/3.10.0"
+            },
 	{
       "key": "旺旺短剧",
       "name": "😈旺旺┃短剧",
