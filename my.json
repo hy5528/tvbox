@@ -776,6 +776,28 @@
    "searchable": 1,
    "filterable": 1
   },
+  {
+   "key": "py_金牌影院",
+   "name": "🐞金牌┃py",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py",
+   "order_num": 5,
+   "ext": ""
+  }, 
+  {
+   "key": "py_TVB云播",
+   "name": "🐞云播┃py",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/TVB云播.py",
+   "order_num": 5,
+   "ext": ""
+  }, 
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
