@@ -31,7 +31,7 @@
       
         {
             "key": "MusicAiKuWoa",
-            "name": "🎼小酷┃音乐",
+            "name": "💕小酷┃音乐",
             "type": 3,
             "api": "csp_MusicAiKuWoaGuard",
             "searchable": 1,
@@ -40,7 +40,7 @@
         },
          {
             "key": "MTV1",
-            "name": "🎼易听┃音乐",
+            "name": "💕易听┃音乐",
             "type": 3,
             "api": "csp_MusicGuard",
             "style": {
@@ -55,7 +55,7 @@
          
         {
             "key": "MusicAiLunHui",
-            "name": "🎼轮回┃舞曲",
+            "name": "💕轮回┃舞曲",
             "type": 3,
             "api": "csp_MusicAiLunHuiGuard",
             "searchable": 1,
@@ -64,7 +64,7 @@
         },
         {
             "key": "Buguyy",
-            "name": "🐦┆布谷┆音乐",
+            "name": "💕布谷┃音乐",
             "type": 3,
             "api": "csp_Buguyy",
             "searchable": 1,
@@ -84,7 +84,7 @@
         },
         {
             "key": "aiting",
-            "name": "🎧爱听┃音乐",
+            "name": "💕爱听┃音乐",
             "type": 3,
             "api": "csp_AiTingMusic",
             "searchable": 1,
@@ -94,7 +94,7 @@
         },
         {
             "key": "Music24bit",
-            "name": "🎼无损┃音乐",
+            "name": "💕无损┃音乐",
             "type": 3,
             "api": "csp_Music24bit",
             "searchable": 1,
@@ -116,7 +116,7 @@
      
 		{
             "key": "MusicAiQingTing",
-            "name": "🎼蜻蜓┃电台",
+            "name": "💕蜻蜓┃电台",
             "type": 3,
             "api": "csp_MusicAiQingTingGuard",
             "searchable": 1,
