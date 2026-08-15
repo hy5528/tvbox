@@ -83,16 +83,7 @@
             "filterable": 0,
 			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
         },
-        {
-            "key": "aiting",
-            "name": "🎧爱听┃音乐",
-            "type": 3,
-            "api": "csp_AiTingMusic",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
-        },
+        {"key": "爱听音乐","name": "爱听 • 音乐","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
         {
             "key": "Music24bit",
             "name": "♦无损┃音乐",
