@@ -771,7 +771,7 @@
    "key": "py_4KAV",
    "name": "🐞4K┃py",
    "type": 3,
-   "api": "./py/4KAV.py",
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4KAV.py",
    "quickSearch": 1,
    "searchable": 1,
    "filterable": 1
