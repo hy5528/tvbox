@@ -127,9 +127,9 @@
         },
         {
             "key": "酷狗PY",
-            "name": "💕酷狗丨PY",
+            "name": "💕酷狗1丨PY",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/酷狗音乐.txt",
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/AAZ音乐.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
