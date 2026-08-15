@@ -114,6 +114,17 @@
         {"key": "爱听音乐","name": "💕爱听┃音乐py","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
        
 	   
+     {
+            "key": "酷我PY",
+            "name": "🌞酷我丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
      
 		{
             "key": "MusicAiQingTing",
