@@ -783,7 +783,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py",
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌.p",
    "order_num": 5,
    "ext": ""
   }, 
@@ -798,6 +798,17 @@
    "order_num": 5,
    "ext": ""
   }, 
+    {
+   "key": "py_骚火电影",
+   "name": "🐞骚火┃py",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/saohuo.py",
+   "order_num": 5,
+   "ext": ""
+  },   
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
