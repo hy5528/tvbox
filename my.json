@@ -71,7 +71,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
-		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
+		    "jar": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar"
         },
         {
             "key": "ChuXin",
@@ -81,7 +81,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
+			 "jar": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar"
         },
         {
             "key": "aiting",
@@ -91,7 +91,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
+			 "jar": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar"
         },
         {
             "key": "Music24bit",
@@ -100,7 +100,7 @@
             "api": "csp_Music24bit",
             "searchable": 1,
             "changeable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar",
+			"jar": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar",
             "ext": {
                 "categories": [
                     "周杰伦",
