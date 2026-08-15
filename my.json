@@ -70,7 +70,7 @@
             "api": "csp_Buguyy",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1，
+            "changeable": 1,
 			"jar": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar"
         },
         {
@@ -80,7 +80,7 @@
             "api": "csp_ChuXin",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0，
+            "filterable": 0,
 			"jar": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar"
         },
         {
@@ -90,7 +90,7 @@
             "api": "csp_AiTingMusic",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0，
+            "filterable": 0,
 			"jar": "https://qiniu.gongxueyun.com/upload/9005517/2026-08-11/visa_free/100397520_4_1786443941778.jar"
         },
         {
