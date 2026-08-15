@@ -125,18 +125,7 @@
             "filterable": 1,
             "playerType": 2
         },
-        {
-            "key": "酷狗PY",
-            "name": "💕酷狗1丨PY",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/AAZ音乐.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-	   
+        	   
 		{
             "key": "MusicAiQingTing",
             "name": "💕蜻蜓┃电台",
