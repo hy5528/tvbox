@@ -63,54 +63,7 @@
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
         },
     
-	   {
-            "key": "Buguyy",
-            "name": "🐦布谷┃音乐",
-            "type": 3,
-            "api": "csp_Buguyy",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
-        },
-        {
-            "key": "ChuXin",
-            "name": "💕初心┃音乐",
-            "type": 3,
-            "api": "csp_ChuXin",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
-        },
-        {
-            "key": "aiting",
-            "name": "🎧爱听┃音乐",
-            "type": 3,
-            "api": "csp_AiTingMusic",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
-        },
-        {
-            "key": "Music24bit",
-            "name": "♦无损┃音乐",
-            "type": 3,
-            "api": "csp_Music24bit",
-            "searchable": 1,
-            "changeable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar",
-            "ext": {
-                "categories": [
-                    "周杰伦",
-                    "林俊杰",
-                    "陈奕迅",
-                    "邓紫棋",
-                    "薛之谦"
-                ]
-            }
-        },
+	   
      
 		{
             "key": "MusicAiQingTing",
