@@ -824,7 +824,7 @@
    "key": "py_文才",
    "name": "🐞文才┃PY",
    "type": 3,
-   "api": "./py/文才影视.py",
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/文才影视.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
@@ -836,7 +836,7 @@
    "key": "py_高清电影",
    "name": "🐞高清┃PY",
    "type": 3,
-   "api": "./py/高清电影.py"
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清电影.py"
   },
     {
       "key": "Dm84",
