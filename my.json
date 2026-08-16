@@ -810,13 +810,13 @@
    "ext": ""
   },  
    {
-   "key": "py_爱看机器人",
-   "name": "🐞爱看┃py",
+   "key": "py_XY影视",
+   "name": "🐞XY┃PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/aikanbot.py",
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
    "order_num": 5,
    "ext": ""
   }, 
