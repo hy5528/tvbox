@@ -438,16 +438,7 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "LiveAiBiLi",
-            "name": "🅱️哔哩┃直播",
-            "type": 3,
-            "api": "csp_LiveAiBiLiGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        
-           
+               
         {
             "key": "DuanJuAiHaoKan",
             "name": "🍉短剧┃好看",
