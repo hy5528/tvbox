@@ -608,17 +608,7 @@
             "filterable": 1,
 		 "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
         },
-	    {
-           "key": "py_短剧聚合2.py",
-           "name": "🐞短剧┃PY",
-           "type": 3,
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/短剧聚合2.py",
-           "order_num": 5,
-           "ext": ""
-         }, 
+	    
 	   {
            "key": "py_XY影视",
            "name": "🐞星芽┃PY",
