@@ -852,20 +852,8 @@
    "ext": ""
   },  
    {
-   "key": "py_ysttv",
-   "name": "🐞天堂┃PY",
-   "type": 3,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/ysttv.py",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 1,
-   "ext": {
-    "host": "https://ysttv.com",
-    "pageFmt": "",
-    "searchFmt": ""
-   }
-  },
-	     {
+   
+   {
    "key": "py_shanzha",
    "name": "🐞山楂┃PY]",
    "type": 3,
@@ -875,7 +863,16 @@
    "filterable": 1,
    "ext": {}
   },
-	   
+	{
+   "key": "py_奇优影院",
+   "name": "🐞奇优┃PY]",
+   "type": 3,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/qiyoudy.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {}
+  },   
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
