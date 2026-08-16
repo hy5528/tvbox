@@ -816,10 +816,10 @@
    "ext": {}
   },
 	{
-   "key": "py_奇优影院",
-   "name": "🐞奇优┃PY",
+   "key": "py_豆瓣影院",
+   "name": "🐞豆瓣┃PY",
    "type": 3,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/qiyoudy.py",
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
