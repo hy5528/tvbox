@@ -517,7 +517,7 @@
             "api": "csp_JuheShortDrama",
             "changeable": 0,
             "filterable": 1,
-		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+		    
         },
         {
             "key": "HeMa",
@@ -526,8 +526,7 @@
             "api": "csp_HeMa",
             "searchable": 0,
             "changeable": 0,
-            "filterable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+            "filterable": 1
         },
         {
             "key": "七星短剧",
@@ -537,8 +536,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+            "filterable": 1
         },
         {
             "key": "星芽短剧",
