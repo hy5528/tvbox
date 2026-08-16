@@ -519,16 +519,7 @@
             "filterable": 1,
 		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
         },
-        {
-            "key": "HeMa",
-            "name": "🌟盒马｜短剧",
-            "type": 3,
-            "api": "csp_HeMa",
-            "searchable": 0,
-            "changeable": 0,
-            "filterable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
-        },
+        
         {
             "key": "七星短剧",
             "name": "🌟七星丨短剧",
