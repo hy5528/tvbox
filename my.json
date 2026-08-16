@@ -332,7 +332,17 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/08/b8d31fe80fe7a6115344ae8344894278.jpg;md5;2a6a34bbdb7a9e19a5caeae64af0320e"
         },
-		  
+		 {
+            "key": "云朵影视",
+            "name": "☁️云朵┃APP",
+            "type": 3,
+            "api": "csp_App3Q",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+		    "jar": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+            "ext": "https://max.moyu666666.top/app3q.php?site=yd"
+        }, 
 		{
             "key": "电影先生1",
             "name": "❤️电影┃先生",
