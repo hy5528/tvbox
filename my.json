@@ -15,7 +15,7 @@
             "filterable": 0,
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
         },
-       
+        
         {
             "key": "MusicAiKuWoa",
             "name": "🎼小酷┃音乐",
@@ -32,7 +32,7 @@
             "searchable": 1,
             "changeable": 0
         },
-        
+       
         {
             "key": "MusicAiLunHui",
             "name": "🎼轮回┃舞曲",
@@ -438,43 +438,7 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "LiveAiBiLi",
-            "name": "🅱️哔哩┃直播",
-            "type": 3,
-            "api": "csp_LiveAiBiLiGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiHongGuo",
-            "name": "🍉漫短┃小红",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHongGuoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiHuoLong",
-            "name": "🍉漫剧┃小龙",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHuoLongGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiQiMao",
-            "name": "🍉漫剧┃小猫",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiQiMaoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        
-       
+               
         {
             "key": "DuanJuAiHaoKan",
             "name": "🍉短剧┃好看",
@@ -520,16 +484,7 @@
             "filterable": 1,
 		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
         },
-        {
-            "key": "HeMa",
-            "name": "🌟盒马｜短剧",
-            "type": 3,
-            "api": "csp_HeMa",
-            "searchable": 0,
-            "changeable": 0,
-            "filterable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
-        },
+        
         {
             "key": "七星短剧",
             "name": "🌟七星丨短剧",
@@ -538,8 +493,7 @@
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+            "filterable": 1
         },
         {
             "key": "星芽短剧",
@@ -550,9 +504,20 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "genre": "shortdrama",
-			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+            "genre": "shortdrama"
+
         },
+		   {
+           "key": "py_XY影视",
+           "name": "🐞星芽┃PY",
+           "type": 3,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
+           "order_num": 5,
+           "ext": ""
+         },
 	   {
             "key": "HonHon",
             "name": "🍅红红┃短剧",
@@ -821,17 +786,7 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4kvms.py"
         },  
-	   {
-           "key": "py_XY影视",
-           "name": "🐞星芽┃PY",
-           "type": 3,
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
-           "order_num": 5,
-           "ext": ""
-         },
+	
         {
             "key": "AnimeCiYuanCheng",
             "name": "🤡次元┃动漫",
