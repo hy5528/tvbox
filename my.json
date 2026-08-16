@@ -654,7 +654,29 @@
             "filterable": 1,
 		 "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
         },
-    {
+	    {
+           "key": "py_XY影视",
+           "name": "🐞星芽┃PY",
+           "type": 3,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
+           "order_num": 5,
+           "ext": ""
+         }, 
+	   {
+           "key": "py_XY影视",
+           "name": "🐞星芽┃PY",
+           "type": 3,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
+           "order_num": 5,
+           "ext": ""
+         }, 
+       {
             "key": "立播",
             "name": "🌟立播┃不卡",
             "type": 3,
@@ -810,17 +832,7 @@
    "order_num": 5,
    "ext": ""
   },  
-   {
-   "key": "py_XY影视",
-   "name": "🐞星芽┃PY",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
-   "order_num": 5,
-   "ext": ""
-  }, 
+
 	  {
    "key": "py_文才",
    "name": "🐞文才┃PY",
