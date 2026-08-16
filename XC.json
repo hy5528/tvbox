@@ -446,33 +446,7 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "ManJuAiHongGuo",
-            "name": "🍉漫短┃小红",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHongGuoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiHuoLong",
-            "name": "🍉漫剧┃小龙",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHuoLongGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiQiMao",
-            "name": "🍉漫剧┃小猫",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiQiMaoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
            
         {
             "key": "DuanJuAiHaoKan",
