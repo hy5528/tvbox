@@ -550,6 +550,17 @@
             "genre": "shortdrama"
 
         },
+		   {
+           "key": "py_XY影视",
+           "name": "🐞星芽┃PY",
+           "type": 3,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
+           "order_num": 5,
+           "ext": ""
+         },
 	   {
             "key": "HonHon",
             "name": "🍅红红┃短剧",
