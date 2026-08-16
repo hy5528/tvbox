@@ -815,16 +815,7 @@
    "filterable": 1,
    "ext": {}
   },
-	{
-   "key": "py_豆瓣影院",
-   "name": "🐞豆瓣┃PY",
-   "type": 3,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/douban.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {}
-  },   
+
   {
             "key": "高清点播",
             "name": "🐞高清┃PY",
