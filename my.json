@@ -839,13 +839,13 @@
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py"
   },
 	    {
-   "key": "py_胖虎影视",
-   "name": "🐞胖虎┃PY",
+   "key": "py_小苹果影视",
+   "name": "🐞小苹果┃PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/胖虎APP.py",
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/小苹果APP.py",
    "order_num": 5,
    "ext": ""
   },     
