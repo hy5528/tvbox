@@ -461,29 +461,7 @@
             },
             "changeable": 1
         },
-	 {
-            "key": "爱营",
-            "name": "🌟爱影┃影视",
-            "type": 3,
-            "api": "https://fastlink.cokey.xyz/f/nLaNhm/get.js",
-            "ext": {
-                "host": "http://222.211.75.252:16118",
-                "key": "0UKM8jkasM8tdzgW",
-                "init": "V122",
-                "api": 2,
-                "ua": "okhttp/3.10.0"
-            },
-            "categories": [
-                "动漫",
-                "电视剧",
-                "电影",
-                "综艺",
-                "短剧",
-                "体育",
-                "少儿",
-                "纪录片"
-            ]
-        },
+	 
 		 {
             "key": "雪落",
             "name": "🌟雪落┃影视",
