@@ -584,7 +584,7 @@
             "quickSearch": 1,
             "genre": "shortdrama",
             "filterable": 1,
-		   "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar",
+		   "jar": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": {
                 "host": "https://short.fishcloud.top",
                 "quality": "1080p",
