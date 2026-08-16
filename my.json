@@ -885,13 +885,13 @@
    "ext": {}
   },   
 	{
-           "key": "py_爱奇艺视频",
-           "name": "🐞爱奇艺┃PY",
+           "key": "py_国外剧",
+           "name": "🐞国外剧┃PY",
            "type": 3,
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 1,
-           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/爱奇艺.py",
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/国外剧.py",
            "order_num": 5,
            "ext": ""
          }, 
