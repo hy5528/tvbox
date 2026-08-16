@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "Douban",
-            "name": "🐮【王二小放牛娃】🐮",
+            "name": "🐮王二小放牛娃",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
