@@ -411,17 +411,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-		 {
-            "key": "山楂",
-            "name": "🌟山楂┃影视",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/393b1f31b4e5525ff2b9a73878a646ee.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "order_num": 0,
-            "changeable": 0
-        },
+		
         {
             "key": "LiveAiHuYa",
             "name": "🐯‍虎牙┃直播",
