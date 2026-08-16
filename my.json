@@ -866,7 +866,7 @@
    
    {
    "key": "py_shanzha",
-   "name": "🐞山楂┃PY]",
+   "name": "🐞山楂┃PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/shanzha.py",
    "searchable": 1,
@@ -876,7 +876,7 @@
   },
 	{
    "key": "py_奇优影院",
-   "name": "🐞奇优┃PY]",
+   "name": "🐞奇优┃PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/qiyoudy.py",
    "searchable": 1,
