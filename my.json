@@ -2,17 +2,17 @@
    "spider": "https://zl.wpscdn.cn/2026/08/14/space_img/2ffb55be-20c6-4c49-9008-553ffbe6663b.jpg;md5;0abc42670ded8012499d2e46f2bab7b0",
    "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
    "sites": [
-         {
-   "key": "py_豆瓣影视",
-   "name": "💒豆瓣┃PY",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/douban.py",
-   "order_num": 5,
-   "ext": ""
-  },     
+      {
+        "key": "py_豆瓣影视",
+        "name": "💒豆瓣┃PY",
+        "type": 3,
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/douban.py",
+        "order_num": 5,
+        "ext": ""
+    },     
 	   
     {
       "key": "玩偶",
