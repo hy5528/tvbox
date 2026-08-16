@@ -884,17 +884,7 @@
    "filterable": 1,
    "ext": {}
   },   
-	{
-           "key": "py_yymp3.py",
-           "name": "🐞MP3┃PY",
-           "type": 3,
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/yymp3.py",
-           "order_num": 5,
-           "ext": ""
-         }, 
+
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
