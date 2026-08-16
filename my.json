@@ -473,15 +473,7 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "ManJuAiXiFan",
-            "name": "🍉漫短┃小喜",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiXiFanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
        
         {
             "key": "DuanJuAiHaoKan",
