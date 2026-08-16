@@ -813,15 +813,15 @@
   },   
   {
             "key": "高清点播",
-            "name": "高清点播",
+            "name": "🐞高清┃PY",
             "type": 3,
-            "api": "https://pan.29o.cn/down.php/323eba3848f29250c407a014113c784a.py"
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"
         },
         {
             "key": "还行",
-            "name": "还行",
+            "name": "🐞还行┃PY",
             "type": 3,
-            "api": "https://pan.29o.cn/down.php/58019eaac174bc33efa304e43e2898fb.py"
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4kvms.py"
         },
     {
       "key": "Dm84",
