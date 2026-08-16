@@ -885,13 +885,13 @@
    "ext": {}
   },   
 	{
-           "key": "py_视觉影视",
-           "name": "🐞视觉┃PY",
+           "key": "py_优酷视频",
+           "name": "🐞优酷┃PY",
            "type": 3,
            "searchable": 1,
            "quickSearch": 1,
            "filterable": 1,
-           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/视觉APP.py",
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/优酷视频.py",
            "order_num": 5,
            "ext": ""
          }, 
