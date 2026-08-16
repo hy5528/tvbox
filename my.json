@@ -107,6 +107,142 @@
             "filterable": 1,
             "playerType": 2
         },
+		 {
+            "key": "MusicAiKuWoa",
+            "name": "🎼小酷┃音乐",
+            "type": 3,
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
+            "changeable": 0,
+		    "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        {
+            "key": "MusicAi163",
+            "name": "🎼易听┃音乐",
+            "type": 3,
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+       
+        {
+            "key": "MusicAiLunHui",
+            "name": "🎼轮回┃舞曲",
+            "type": 3,
+            "api": "csp_MusicAiLunHuiGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        {
+            "key": "MusicAiQingTing",
+            "name": "🎼蜻蜓┃电台",
+            "type": 3,
+            "api": "csp_MusicAiQingTingGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+		{
+         "key":"裤佬枫叶音乐",
+         "name":"🌞枫叶丨音乐",
+         "type":3,
+         "api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+         "searchable":1,
+         "changeable":1,
+         "quickSearch":1,
+         "filterable":1
+         },
+		{
+      "key": "bilibigq",
+      "name": "🧡吾爱┃歌曲",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
+      }
+	},
+	   {
+      "key": "bilibiyq",
+      "name": "💖吾爱┃乐器",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	   "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
+      }
+	},
+	{
+      "key": "bilibimv",
+      "name": "🧡吾爱┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
+      }
+	}, 
+	{
+      "key": "bilibims",
+      "name": "💛吾爱┃美食",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
+      }
+	},
+	{
+      "key": "bilibiwd",
+      "name": "❤️‍我的┃哔哩",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
+      }
+	},
         {
             "key": "ALLLive",
             "name": "🌟┆星河┆共影",
