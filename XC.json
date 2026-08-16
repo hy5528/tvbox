@@ -12,6 +12,7 @@
       "quickSearch": 0,
       "changeable": 0
     },
+	   
     {
       "key": "玩偶",
       "name": "👽玩偶┃哥哥",
@@ -62,7 +63,7 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/01/c5e760d41551d7451805dcea364436a4.jpg;md5;c757d20156612d3c3e13f537a378aa24"
         },
-        {
+	   {
             "key": "Buguyy",
             "name": "💕布谷┃音乐",
             "type": 3,
@@ -113,7 +114,19 @@
 	   
         {"key": "爱听音乐","name": "💕爱听┃音乐py","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
        
-     
+	   
+     {
+            "key": "酷我PY",
+            "name": "💕酷我丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        	   
 		{
             "key": "MusicAiQingTing",
             "name": "💕蜻蜓┃电台",
@@ -321,12 +334,6 @@
         },
 		  
 		{
-            "key": "金牌123",
-            "name": "💥金牌｜影视",
-            "type": 3,
-            "api": "https://fastlink.cokey.xyz/f/AGJeHm/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
-        },
-		{
             "key": "电影先生1",
             "name": "❤️电影┃先生",
             "type": 3,
@@ -383,53 +390,7 @@
 
 	 {"key":"无水印资源","name":"🎀无水印┃影视","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["4K电影","Netflix自制剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","邵氏电影","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 	
-       {
-            "key": "腾讯备",
-            "name": "🦐腾讯┃影视",
-            "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://fastlink.cokey.xyz/f/1MOEc5/%E8%85%BE%E8%85%BE.js"
-        },
-        {
-            "key": "芒果备",
-            "name": "🦐芒果┃影视",
-            "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://fastlink.cokey.xyz/f/pm88tj/%E8%8A%92%E6%9E%9C.js"
-        },
-        {
-            "key": "哔哩",
-            "name": "🦐哔哩┃影视",
-            "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://fastlink.cokey.xyz/f/BbmbUe/%E5%93%94%E5%93%A9.js"
-        },
-        {
-            "key": "爱奇幕",
-            "name": "🦐奇异┃影视",
-            "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://fastlink.cokey.xyz/f/MAmbcW/%E5%A5%87%E5%BC%82.js"
-        },
-        {
-            "key": "优幕",
-            "name": "🦐优酷┃影视",
-            "type": 3,
-            "api": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "https://fastlink.cokey.xyz/f/9Y0jHb/%E4%BC%98%E9%85%B7.js"
-        },
-        {
-            "key": "华数",
-            "name": "🦐华数┃影视",
-            "type": 3,
-            "api": "https://pan.29o.cn/down.php/10b39f7bc2521aea8a4a091a0d86e2da.py",
-            "changeable": 1
-        },
-           
+                 
 	{
       "key": "直播转点播",
       "name": "📺电视┃点播",
@@ -641,7 +602,19 @@
             "filterable": 1,
 		 "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
         },
-    {
+	    
+	   {
+           "key": "py_XY影视",
+           "name": "🐞星芽┃PY",
+           "type": 3,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
+           "order_num": 5,
+           "ext": ""
+         }, 
+       {
             "key": "立播",
             "name": "🌟立播┃不卡",
             "type": 3,
@@ -666,18 +639,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-	    {
-            "key": "厂长",
-            "name": "📔厂长┃不卡",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        
+	    
       {
             "key": "奥特",
             "name": "🏝奥特┃多线",
@@ -755,6 +717,101 @@
             "changeable": 1,
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
+	{
+   "key": "py_4KAV",
+   "name": "🐞4K┃PY",
+   "type": 3,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4Kvm.py",
+   "quickSearch": 1,
+   "searchable": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_金牌影院",
+   "name": "🐞金牌┃PY",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌.py",
+   "order_num": 5,
+   "ext": ""
+  }, 
+  {
+   "key": "py_TVB云播",
+   "name": "🐞云播┃PY",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/TVB云播.py",
+   "order_num": 5,
+   "ext": ""
+  }, 
+    {
+   "key": "py_可可影视",
+   "name": "🐞可可┃PY",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kkys.py",
+   "order_num": 5,
+   "ext": ""
+  },  
+
+	  {
+   "key": "py_文才",
+   "name": "🐞文才┃PY",
+   "type": 3,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/文才影视.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"
+   }
+  },
+	   {
+   "key": "py_多多视频电影",
+   "name": "🐞多多┃PY",
+   "type": 3,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py"
+  },
+
+     {
+   "key": "py_瓜子影视",
+   "name": "🐞瓜子┃PY",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py",
+   "order_num": 5,
+   "ext": ""
+  }, 
+   
+   {
+   "key": "py_shanzha",
+   "name": "🐞山楂┃PY",
+   "type": 3,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/shanzha.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {}
+  },
+	{
+   "key": "py_奇优影院",
+   "name": "🐞奇优┃PY",
+   "type": 3,
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/qiyoudy.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {}
+  },   
+
     {
       "key": "Dm84",
       "name": "🚌巴士┃动漫",
