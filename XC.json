@@ -780,12 +780,7 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"
         },
-        {
-            "key": "还行",
-            "name": "🐞还行┃PY",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4kvms.py"
-        },  
+    
 	
         {
             "key": "AnimeCiYuanCheng",
