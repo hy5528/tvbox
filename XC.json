@@ -549,8 +549,8 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "genre": "shortdrama",
-			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+            "genre": "shortdrama"
+
         },
 	   {
             "key": "HonHon",
@@ -820,17 +820,7 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4kvms.py"
         },  
-	   {
-           "key": "py_XY影视",
-           "name": "🐞星芽┃PY",
-           "type": 3,
-           "searchable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
-           "order_num": 5,
-           "ext": ""
-         },
+	
         {
             "key": "AnimeCiYuanCheng",
             "name": "🤡次元┃动漫",
