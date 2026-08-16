@@ -15,14 +15,7 @@
             "filterable": 0,
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
         },
-        {
-            "key": "MusicAiIKtv",
-            "name": "🎼KTV┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiIKtvGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+       
         {
             "key": "MusicAiKuWoa",
             "name": "🎼小酷┃音乐",
@@ -39,14 +32,7 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "MusicAiKuWo",
-            "name": "🎼酷听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiKuWoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "MusicAiLunHui",
             "name": "🎼轮回┃舞曲",
