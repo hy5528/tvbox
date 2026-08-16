@@ -839,13 +839,13 @@
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py"
   },
 	    {
-   "key": "py_旺旺影视",
-   "name": "🐞旺旺┃PY",
+   "key": "py_豆瓣影视",
+   "name": "🐞豆瓣┃PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/旺旺影视.py",
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/douban.py",
    "order_num": 5,
    "ext": ""
   },     
