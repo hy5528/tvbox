@@ -126,6 +126,124 @@
             "filterable": 1,
             "playerType": 2
         },
+		{
+      "key": "bilibigq",
+      "name": "🧡吾爱┃歌曲",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
+      }
+	},
+	   {
+      "key": "bilibiyq",
+      "name": "💖吾爱┃乐器",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
+      }
+	},
+	{
+      "key": "bilibimv",
+      "name": "🧡吾爱┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
+      }
+	}, 
+	{
+      "key": "bilibims",
+      "name": "💛吾爱┃美食",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
+      }
+	},
+	{
+      "key": "bilibiwd",
+      "name": "❤️‍我的┃哔哩",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
+      }
+	},
+	
+{
+"key":"裤佬枫叶音乐",
+"name":"🌞枫叶丨音乐",
+"type":3,
+"api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+"searchable":1,
+"changeable":1,
+"quickSearch":1,
+"filterable":1
+},
+
+      {
+            "key": "苹果",
+            "name": "🎀苹果｜APP",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		    "jar": "https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/%E6%BD%87%E6%B4%92/spider.jar",
+            "ext": {
+                "appName": "小苹果5",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.juechufsh.android.xpg1",
+                "host": "",
+                "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+                "version": "1.0.0.3",
+                "decrypt": "0"
+            }
+        },
         {
             "key": "WexHanXiaoQuan",
             "name": "💥韩剧┃秒播",
@@ -339,14 +457,6 @@
             "changeable": 0
         },
         
-        {
-            "key": "BookAiShiJie",
-            "name": "🎃‍极品┃听书",
-            "type": 3,
-            "api": "csp_BookAiShiJieGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
         {
             "key": "BookAiYueTing",
             "name": "🎃‍悦庭┃听书",
