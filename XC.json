@@ -1,6 +1,3 @@
-//      >>> 当前时间是：2026-08-16 16:53:47 <<<
-//     关注微信公众号【太太太硬了】有惊喜哦！！！
-
 //     当前接口：https://9280.kstore.vip/aiwex.json
 {
     "spider": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
@@ -18,7 +15,54 @@
             "filterable": 0,
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
         },
-        
+        {
+            "key": "MusicAiIKtv",
+            "name": "🎼KTV┃音乐",
+            "type": 3,
+            "api": "csp_MusicAiIKtvGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiKuWoa",
+            "name": "🎼小酷┃音乐",
+            "type": 3,
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAi163",
+            "name": "🎼易听┃音乐",
+            "type": 3,
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiKuWo",
+            "name": "🎼酷听┃音乐",
+            "type": 3,
+            "api": "csp_MusicAiKuWoGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiLunHui",
+            "name": "🎼轮回┃舞曲",
+            "type": 3,
+            "api": "csp_MusicAiLunHuiGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiQingTing",
+            "name": "🎼蜻蜓┃电台",
+            "type": 3,
+            "api": "csp_MusicAiQingTingGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
         {
             "key": "WexHanXiaoQuan",
             "name": "💥韩剧┃秒播",
@@ -365,54 +409,7 @@
                 "ratio": 2
             }
         },
-        {
-            "key": "MusicAiQingTing",
-            "name": "🎼蜻蜓┃电台",
-            "type": 3,
-            "api": "csp_MusicAiQingTingGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MusicAiIKtv",
-            "name": "🎼KTV┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiIKtvGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MusicAiKuWoa",
-            "name": "🎼小酷┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiKuWoaGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MusicAi163",
-            "name": "🎼易听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAi163Guard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MusicAiKuWo",
-            "name": "🎼酷听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiKuWoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MusicAiLunHui",
-            "name": "🎼轮回┃舞曲",
-            "type": 3,
-            "api": "csp_MusicAiLunHuiGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "SportAiFeiQiu",
             "name": "🌐飞球┃体育",
