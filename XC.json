@@ -533,7 +533,121 @@
             "searchable": 1,
             "changeable": 0
         },
-       
+       {
+            "key": "juheduanju",
+            "name": "🌟聚合｜短剧",
+            "type": 3,
+            "api": "csp_JuheShortDrama",
+            "changeable": 0,
+            "filterable": 1,
+		    "jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
+        {
+            "key": "HeMa",
+            "name": "🌟盒马｜短剧",
+            "type": 3,
+            "api": "csp_HeMa",
+            "searchable": 0,
+            "changeable": 0,
+            "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
+        {
+            "key": "七星短剧",
+            "name": "🌟七星丨短剧",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/48e9d346cdf6da376c53136693bec95a.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
+        {
+            "key": "星芽短剧",
+            "name": "🌟星芽丨短剧",
+            "type": 3,
+            "api": "https://chigua.eu.org/py/星芽短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "genre": "shortdrama",
+			"jar": "https://gh-proxy.org/https://github.com/chitue/dongliTV/blob/main/jar/dongli-spider.jar"
+        },
+	   {
+            "key": "HonHon",
+            "name": "🍅红红┃短剧",
+            "type": 3,
+            "api": "csp_HonHon",
+            "searchable": 1,
+            "quickSearch": 1,
+            "genre": "shortdrama",
+            "filterable": 1,
+		   "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar",
+            "ext": {
+                "host": "https://short.fishcloud.top",
+                "quality": "1080p",
+                "danmu": false
+            }
+        },
+        {
+            "key": "DJHub",
+            "name": "🎭短剧┃聚合",
+            "type": 3,
+            "api": "csp_DJHub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "genre": "shortdrama",
+            "filterable": 1,
+            "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
+        },
+	    
+	   {
+            "key": "cj_暴风资源",
+            "name": "🧞暴风┃短剧",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+		    "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar",
+            "categories": [
+                "反转爽文",
+                "穿越年代",
+                "重生民国",
+                "现代言情",
+                "女恋总裁",
+                "都市脑洞",
+                "闪婚离婚",
+                "古装仙侠"
+            ]
+        },
+        {
+            "key": "七猫",
+            "name": "🐸七猫｜短剧",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		 "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
+        },
+	    
+	   {
+           "key": "py_XY影视",
+           "name": "🐞星芽┃PY",
+           "type": 3,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
+           "order_num": 5,
+           "ext": ""
+         },
         {
             "key": "AnimeCiYuanCheng",
             "name": "🤡次元┃动漫",
