@@ -839,13 +839,13 @@
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py"
   },
      {
-   "key": "py_农民影视",
-   "name": "🐞农民┃PY",
+   "key": "py_七味影视",
+   "name": "🐞七味┃PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/农民影视.py",
+   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/七味.py",
    "order_num": 5,
    "ext": ""
   },  
