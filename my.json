@@ -639,18 +639,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-	    {
-            "key": "厂长",
-            "name": "📔厂长┃不卡",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        
+	    
       {
             "key": "奥特",
             "name": "🏝奥特┃多线",
