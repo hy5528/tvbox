@@ -665,7 +665,17 @@
             "quickSearch": 1,
             "changeable": 1
         },
-	    
+	    {
+            "key": "瓜子",
+            "name": "👀瓜子┃不卡",
+            "type": 3,
+            "api": "csp_AppgzGuard",
+            "timeout": 15,
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
       {
             "key": "奥特",
             "name": "🏝奥特┃多线",
