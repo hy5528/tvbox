@@ -96,7 +96,7 @@
         },
 	 {
             "key": "原创",
-            "name": "👒原创┃不卡",
+            "name": "🌟原创┃不卡",
             "type": 3,
             "api": "csp_YCyzGuard",
             "timeout": 15,
@@ -108,7 +108,7 @@
         },
 		{
             "key": "奥特",
-            "name": "🏝奥特┃多线",
+            "name": "🌟奥特┃多线",
             "type": 3,
             "api": "csp_AueteGuard",
             "timeout": 10,
@@ -119,7 +119,7 @@
         },
 	   {
             "key": "视界",
-            "name": "🌸茉莉┃多线",
+            "name": "🌟茉莉┃多线",
             "type": 3,
             "api": "csp_App99Guard",
             "timeout": 10,
@@ -132,7 +132,7 @@
 	   
     {
       "key": "文采",
-      "name": "💮文采┃秒播",
+      "name": "🌟文采┃秒播",
       "type": 3,
       "api": "csp_JpysGuard",
       "timeout": 10,
@@ -144,7 +144,7 @@
     },
 		{
       "key": "糯米",
-      "name": "🍓糯米┃多线",
+      "name": "🌟糯米┃多线",
       "type": 3,
       "api": "csp_NmyswvGuard",
       "timeout": 15,
@@ -155,7 +155,7 @@
     },
     {
             "key": "剧圈",
-            "name": "🐻剧圈┃多线",
+            "name": "🌟剧圈┃多线",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
