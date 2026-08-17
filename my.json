@@ -831,67 +831,7 @@
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "ChildrenAiBaoBao",
-            "name": "👼宝宝┃儿歌",
-            "type": 3,
-            "api": "csp_ChildrenAiBaoBaoGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "ChildrenAiBeiWa",
-            "name": "👼贝贝┃儿歌",
-            "type": 3,
-            "api": "csp_ChildrenAiBeiWaGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "ChildrenAiTuTu",
-            "name": "👼兔兔┃儿歌",
-            "type": 3,
-            "api": "csp_ChildrenAiTuTuGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "MusicAiTangDou",
-            "name": "💃跳舞┃教学",
-            "type": 3,
-            "api": "csp_MusicAiTangDouGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "MusicAiLiYuan",
-            "name": "🎎戏曲┃秒播",
-            "type": 3,
-            "api": "csp_MusicAiLiYuanGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        
+         
         {
             "key": "SportAiFeiQiu",
             "name": "🌐飞球┃体育",
