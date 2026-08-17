@@ -667,7 +667,7 @@
 	  
 	{
    "key": "py_4KAV",
-   "name": "🐞4K┃PY",
+   "name": "💝4K┃PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4Kvm.py",
    "quickSearch": 1,
@@ -676,7 +676,7 @@
   },
   {
    "key": "py_金牌影院",
-   "name": "🐞金牌┃PY",
+   "name": "💝金牌┃PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -687,7 +687,7 @@
   }, 
   {
    "key": "py_TVB云播",
-   "name": "🐞云播┃PY",
+   "name": "💝云播┃PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -698,7 +698,7 @@
   }, 
     {
    "key": "py_可可影视",
-   "name": "🐞可可┃PY",
+   "name": "💝可可┃PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -710,7 +710,7 @@
 
 	  {
    "key": "py_文才",
-   "name": "🐞文才┃PY",
+   "name": "💝文才┃PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/文才影视.py",
    "searchable": 1,
@@ -722,14 +722,14 @@
   },
 	   {
    "key": "py_多多视频电影",
-   "name": "🐞多多┃PY",
+   "name": "💝多多┃PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py"
   },
 
      {
    "key": "py_瓜子影视",
-   "name": "🐞瓜子┃PY",
+   "name": "💝瓜子┃PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -741,7 +741,7 @@
    
    {
    "key": "py_shanzha",
-   "name": "🐞山楂┃PY",
+   "name": "💝山楂┃PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/shanzha.py",
    "searchable": 1,
@@ -752,20 +752,20 @@
 
   {
             "key": "高清点播",
-            "name": "🐞高清┃PY",
+            "name": "💝高清┃PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"
         },
        {
             "key": "歪比巴卜",
-            "name": "🐞巴卜┃PY",
+            "name": "💝巴卜┃PY",
             "type": 3,
             "playerType": 2,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/歪比巴卜4K.py"
         },
 	{
             "key": "耐看",
-            "name": "🐞耐看┃PY",
+            "name": "💝耐看┃PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/耐看.py"
         },
