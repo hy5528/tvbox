@@ -15,7 +15,81 @@
             "filterable": 0,
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
         },
+        {
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┃秒播",
+            "type": 3,
+            "api": "csp_WexAiHanXiaoQuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiGuaZi",
+            "name": "💥瓜子┃秒播",
+            "type": 3,
+            "api": "csp_WexAiGuaZiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiDuBoKu",
+            "name": "💥独播┃秒播",
+            "type": 3,
+            "api": "csp_WexAiDuBoKuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiYueYue",
+            "name": "💥闪电┃秒播",
+            "type": 3,
+            "api": "csp_WexAiYueYueGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
         
+        {
+            "key": "賤賤",
+            "name": "💥贱片┃秒播",
+            "type": 3,
+            "api": "csp_WexAiJianPianGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiYiYs",
+            "name": "💥伊影┃秒播",
+            "type": 3,
+            "api": "csp_WexAiYiYsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexAiReBo",
+            "name": "💥热播┃秒播",
+            "type": 3,
+            "api": "csp_WexAiReBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+		
+        {
+            "key": "WexAiBoBo",
+            "name": "🎇伯伯┃秒播",
+            "type": 3,
+            "api": "csp_WexAiBoBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+		
         {
             "key": "MusicAiKuWoa",
             "name": "🎼小酷┃音乐",
@@ -230,81 +304,7 @@
                 "decrypt": "0"
             }
         },
-        {
-            "key": "WexHanXiaoQuan",
-            "name": "💥韩剧┃秒播",
-            "type": 3,
-            "api": "csp_WexAiHanXiaoQuanGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiGuaZi",
-            "name": "💥瓜子┃秒播",
-            "type": 3,
-            "api": "csp_WexAiGuaZiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiDuBoKu",
-            "name": "💥独播┃秒播",
-            "type": 3,
-            "api": "csp_WexAiDuBoKuGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiYueYue",
-            "name": "💥闪电┃秒播",
-            "type": 3,
-            "api": "csp_WexAiYueYueGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
         
-        {
-            "key": "賤賤",
-            "name": "💥贱片┃秒播",
-            "type": 3,
-            "api": "csp_WexAiJianPianGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiYiYs",
-            "name": "💥伊影┃秒播",
-            "type": 3,
-            "api": "csp_WexAiYiYsGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiReBo",
-            "name": "💥热播┃秒播",
-            "type": 3,
-            "api": "csp_WexAiReBoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-		
-        {
-            "key": "WexAiBoBo",
-            "name": "🎇伯伯┃秒播",
-            "type": 3,
-            "api": "csp_WexAiBoBoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-		
         {
             "key": "WexAiIkanBot",
             "name": "🎇爱看┃采集",
