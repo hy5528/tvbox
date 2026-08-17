@@ -681,39 +681,16 @@
 		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4",
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
-		{
-            "key": "csp_XYQHikerNm",
-            "name": "💖分享在线",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/八戒影视.py",
-            "searchable": 1,
-            "changeable": 0,
-            "quickSearch": 0,   
-			"filterable": 0
-		}, 
-		 {
-      "key": "高清点播",
-      "name": "💝分享高清",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/高清点播🍀TG @hshsjk9.py",
-      "changeable": 0
-    },
-    {
-      "key": "草莓影视",
-      "name": "💝分享草莓",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/草莓影视🍀TG @hshsjk9.py",
-      "changeable": 0
-    },
+	
 	 {
       "key": "蝶卡影视",
-      "name": "💝分享蝶卡",
+      "name": "💝分享┃蝶卡",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"
     },
 	 {
       "key": "多多",
-      "name": "💝分享多多",
+      "name": "💝分享┃多多",
       "type": 3,
       "api": "https://mpimg.cn/down.php/e6c2f2043c93824f4762996844e72bf5.py"
     },
@@ -724,53 +701,39 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/腾爱优b站.js",
       "changeable": 0
     }, 
-    {
-      "key": "网盘",
-      "name": "💝分享网盘",
-      "type": 4,
-      "api": "http://101.42.104.195:7123/api/tvbox/source/2050160339265261568?token=OLFNw46CpJpG9fP2Y2zBW0tvbcLJ9Si2"},
+    
 
   {
       "key": "厂长影视",
-      "name": "💝分享厂长",
+      "name": "💝分享┃厂长",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/厂长影视.py"
     },
     {
       "key": "豆花影视",
-      "name": "💝分享豆花",
+      "name": "💝分享┃豆花",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/豆花影视.py"
     },
-    {
-      "key": "初见影视",
-      "name": "💝分享初见",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/初见影视.py"
-    },
+    
      {
       "key": "追影",
-      "name": "💝分享追影",
+      "name": "💝分享┃追影",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/追影.py",
       "changeable": 0
     },
 	 {
       "key": "枫叶4K",
-      "name": "💝分享枫叶",
+      "name": "💝分享┃枫叶",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枫叶4K.py",
       "changeable": 0
     },
-     {
-      "key": "GZ",
-      "name": "💝分享瓜子",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/瓜子APP.py"
-    },
+    
 	  {
       "key": "V5影视",
-      "name": "💝分享威武",
+      "name": "💝分享┃威武",
       "type": 3,
       "api": "https://dogpan.com/f/98X1c2/V5影视.py",
       "ext": "http://43.248.117.123:4680"
