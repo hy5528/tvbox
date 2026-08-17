@@ -487,21 +487,10 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "星芽短剧",
-            "name": "🌟星芽丨短剧",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/星芽短剧.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "genre": "shortdrama"
-
-        },
+        
 		   {
            "key": "py_XY影视",
-           "name": "🐞星芽┃PY",
+           "name": "🌟星芽┃短剧,
            "type": 3,
            "searchable": 1,
            "quickSearch": 1,
@@ -510,22 +499,7 @@
            "order_num": 5,
            "ext": ""
          },
-	   {
-            "key": "HonHon",
-            "name": "🍅红红┃短剧",
-            "type": 3,
-            "api": "csp_HonHon",
-            "searchable": 1,
-            "quickSearch": 1,
-            "genre": "shortdrama",
-            "filterable": 1,
-		   "jar": "https://qiniu.gongxueyun.com/upload/2175753/2026-08-15/report/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
-            "ext": {
-                "host": "https://short.fishcloud.top",
-                "quality": "1080p",
-                "danmu": false
-            }
-        },
+	  
         {
             "key": "DJHub",
             "name": "🎭短剧┃聚合",
@@ -569,7 +543,7 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-		 "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
+		    "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
         },
 	   {
             "key": "立播",
@@ -696,7 +670,7 @@
     },
 	{
       "key": "腾爱优b站.js",
-      "name": "💝分享AYTM",
+      "name": "💝分享┃AYTM",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/腾爱优b站.js",
       "changeable": 0
