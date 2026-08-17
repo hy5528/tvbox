@@ -508,7 +508,7 @@
                
         {
             "key": "DuanJuAiHaoKan",
-            "name": "🍉短剧┃好看",
+            "name": "🎭短剧┃好看",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiHaoKanGuard",
@@ -517,7 +517,7 @@
         },
         {
             "key": "DuanJuAiQiMiao",
-            "name": "🍉短剧┃小猫",
+            "name": "🎭短剧┃小猫",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiQiMiaoGuard",
@@ -526,7 +526,7 @@
         },
         {
             "key": "DuanJuAiXingYa",
-            "name": "🍉短剧┃星星",
+            "name": "🎭短剧┃星星",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiXingYaGuard",
@@ -535,7 +535,7 @@
         },
         {
             "key": "DuanJuAiWeiGuan",
-            "name": "🍉短剧┃小薇",
+            "name": "🎭短剧┃小薇",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiWeiGuanGuard",
@@ -544,7 +544,7 @@
         },
        {
             "key": "juheduanju",
-            "name": "🌟聚合｜短剧",
+            "name": "🎭聚合｜短剧",
             "type": 3,
             "api": "csp_JuheShortDrama",
             "changeable": 0,
@@ -554,7 +554,7 @@
         
         {
             "key": "七星短剧",
-            "name": "🌟七星丨短剧",
+            "name": "🎭七星丨短剧",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/七星短剧.py",
             "searchable": 1,
@@ -565,7 +565,7 @@
         
 		   {
            "key": "py_XY影视",
-           "name": "🌟星芽┃短剧",
+           "name": "🎭星芽┃短剧",
            "type": 3,
            "searchable": 1,
            "quickSearch": 1,
@@ -590,7 +590,7 @@
 	    
 	   {
             "key": "cj_暴风资源",
-            "name": "🧞暴风┃短剧",
+            "name": "🎭暴风┃短剧",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 0,
@@ -611,7 +611,7 @@
         },
         {
             "key": "七猫",
-            "name": "🐸七猫｜短剧",
+            "name": "🎭七猫｜短剧",
             "type": 3,
             "api": "https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py",
             "searchable": 1,
