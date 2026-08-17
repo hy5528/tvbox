@@ -770,7 +770,13 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"
         },
-    
+       {
+            "key": "歪比巴卜",
+            "name": "🐞巴卜┃PY",
+            "type": 3,
+            "playerType": 2,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/歪比巴卜4K.py"
+        },
 	
         {
             "key": "AnimeCiYuanCheng",
