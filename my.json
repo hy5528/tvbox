@@ -777,7 +777,12 @@
             "playerType": 2,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/歪比巴卜4K.py"
         },
-	
+	{
+            "key": "耐看",
+            "name": "🐞耐看┃",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/耐看.pyy"
+        },
         {
             "key": "AnimeCiYuanCheng",
             "name": "🤡次元┃动漫",
