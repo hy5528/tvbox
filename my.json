@@ -843,17 +843,7 @@
                 "type": "list"
             }
         },
-        {
-            "key": "SportAiKanQiuTong",
-            "name": "🌐球通┃体育",
-            "type": 3,
-            "api": "csp_SportAiKanQiuTongGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
+        
         {
             "key": "SportAiKanqiu",
             "name": "🌐八八┃体育",
