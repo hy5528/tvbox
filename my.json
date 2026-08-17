@@ -257,8 +257,18 @@
                 ]
             }
         },
-	   
-        {"key": "爱听音乐","name": "💕爱听┃PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
+	   	
+   {
+   "key":"裤佬枫叶音乐",
+   "name":"💕枫叶丨音乐",
+   "type":3,
+   "api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+   "searchable":1,
+   "changeable":1,
+   "quickSearch":1,
+   "filterable":1
+   },
+ {"key": "爱听音乐","name": "💕爱听┃PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
        
 	   
      {
@@ -357,17 +367,6 @@
         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-	
-{
-"key":"裤佬枫叶音乐",
-"name":"🌞枫叶丨音乐",
-"type":3,
-"api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
-"searchable":1,
-"changeable":1,
-"quickSearch":1,
-"filterable":1
-},
 
       {
             "key": "苹果",
