@@ -309,7 +309,17 @@
       "filterable": 1,
       "playerType": 2
     },
-  
+  {
+            "key": "布布",
+            "name": "💝分享┃布布",
+            "type": 3,
+            "api": "https://pan.szfx.top/down.php/254f42dd986cccf7bec7c7f069ef5346.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
   {
    "key": "py_金牌影院",
    "name": "💝金牌┃PY",
