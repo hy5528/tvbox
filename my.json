@@ -49,20 +49,7 @@
         },
        
        
-        {
-            "key": "Kan360",
-            "name": "🫐┆三六┆影视",
-            "type": 3,
-            "api": "csp_Kan360",
-            "searchable": 1,
-            "filterable": 1,
-            "ext": {
-                "filter": "https://open.wya6.com/d/down/2026/json/360.json",
-                "fishjx": [
-                    "https://jx.xmflv.com/?url="
-                ]
-            }
-        },
+        
         {
             "key": "Rebo",
             "name": "🍓┆热播┆APP",
@@ -73,24 +60,6 @@
             "filterable": 0,
             "ext": {
                 "url": "http://v.rbotv.cn"
-            }
-        },
-        
-        
-        {
-            "key": "Libvio",
-            "name": "📺┆立播┆4K",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": [
-                    "https://libviofabu.com",
-                    "https://libvio.app",
-                    "https://libfabu.com",
-                    "https://libviogroup.github.io"
-                ]
             }
         },
         
