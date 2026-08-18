@@ -176,199 +176,6 @@
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
         
-		
-        {
-            "key": "MusicAiKuWoa",
-            "name": "💕小酷┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiKuWoaGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MusicAi163",
-            "name": "💕易听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAi163Guard",
-            "searchable": 1,
-            "changeable": 0
-        },
-       
-        {
-            "key": "MusicAiLunHui",
-            "name": "💕轮回┃舞曲",
-            "type": 3,
-            "api": "csp_MusicAiLunHuiGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "MusicAiQingTing",
-            "name": "💕蜻蜓┃电台",
-            "type": 3,
-            "api": "csp_MusicAiQingTingGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Buguyy",
-            "name": "💕布谷┃音乐",
-            "type": 3,
-            "api": "csp_Buguyy",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
-        },
-        {
-            "key": "ChuXin",
-            "name": "💕初心┃音乐",
-            "type": 3,
-            "api": "csp_ChuXin",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
-        },
-        {
-            "key": "aiting",
-            "name": "💕爱听┃音乐",
-            "type": 3,
-            "api": "csp_AiTingMusic",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
-        },
-        {
-            "key": "Music24bit",
-            "name": "💕无损┃音乐",
-            "type": 3,
-            "api": "csp_Music24bit",
-            "searchable": 1,
-            "changeable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar",
-            "ext": {
-                "categories": [
-                    "周杰伦",
-                    "林俊杰",
-                    "陈奕迅",
-                    "邓紫棋",
-                    "薛之谦"
-                ]
-            }
-        },
-	   	
-   {
-   "key":"裤佬枫叶音乐",
-   "name":"💕枫叶丨音乐",
-   "type":3,
-   "api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
-   "searchable":1,
-   "changeable":1,
-   "quickSearch":1,
-   "filterable":1
-   },
- {"key": "爱听音乐","name": "💕爱听┃PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
-       
-	   
-     {
-            "key": "酷我PY",
-            "name": "💕酷我丨PY",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-		{
-      "key": "bilibigq",
-      "name": "🧡吾爱┃歌曲",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
-      }
-	},
-	   {
-      "key": "bilibiyq",
-      "name": "💖吾爱┃乐器",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
-      }
-	},
-	{
-      "key": "bilibimv",
-      "name": "🧡吾爱┃MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
-      }
-	}, 
-	{
-      "key": "bilibims",
-      "name": "💛吾爱┃美食",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
-      }
-	},
-	{
-      "key": "bilibiwd",
-      "name": "❤️‍我的┃哔哩",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
-      }
-	},
-
       {
             "key": "苹果",
             "name": "🎀苹果｜APP",
@@ -747,7 +554,197 @@
 		    "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
         },
 	              	
-	    
+	    {
+            "key": "MusicAiKuWoa",
+            "name": "💕小酷┃音乐",
+            "type": 3,
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAi163",
+            "name": "💕易听┃音乐",
+            "type": 3,
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0
+        },
+       
+        {
+            "key": "MusicAiLunHui",
+            "name": "💕轮回┃舞曲",
+            "type": 3,
+            "api": "csp_MusicAiLunHuiGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "MusicAiQingTing",
+            "name": "💕蜻蜓┃电台",
+            "type": 3,
+            "api": "csp_MusicAiQingTingGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Buguyy",
+            "name": "💕布谷┃音乐",
+            "type": 3,
+            "api": "csp_Buguyy",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
+        },
+        {
+            "key": "ChuXin",
+            "name": "💕初心┃音乐",
+            "type": 3,
+            "api": "csp_ChuXin",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
+        },
+        {
+            "key": "aiting",
+            "name": "💕爱听┃音乐",
+            "type": 3,
+            "api": "csp_AiTingMusic",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
+        },
+        {
+            "key": "Music24bit",
+            "name": "💕无损┃音乐",
+            "type": 3,
+            "api": "csp_Music24bit",
+            "searchable": 1,
+            "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar",
+            "ext": {
+                "categories": [
+                    "周杰伦",
+                    "林俊杰",
+                    "陈奕迅",
+                    "邓紫棋",
+                    "薛之谦"
+                ]
+            }
+        },
+	   	
+   {
+   "key":"裤佬枫叶音乐",
+   "name":"💕枫叶丨音乐",
+   "type":3,
+   "api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
+   "searchable":1,
+   "changeable":1,
+   "quickSearch":1,
+   "filterable":1
+   },
+ {"key": "爱听音乐","name": "💕爱听┃PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
+       
+	   
+     {
+            "key": "酷我PY",
+            "name": "💕酷我丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+		{
+      "key": "bilibigq",
+      "name": "🧡吾爱┃歌曲",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
+      }
+	},
+	   {
+      "key": "bilibiyq",
+      "name": "💖吾爱┃乐器",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
+      }
+	},
+	{
+      "key": "bilibimv",
+      "name": "🧡吾爱┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
+      }
+	}, 
+	{
+      "key": "bilibims",
+      "name": "💛吾爱┃美食",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
+      }
+	},
+	{
+      "key": "bilibiwd",
+      "name": "❤️‍我的┃哔哩",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
+      }
+	},
         {
             "key": "AnimeCiYuanCheng",
             "name": "🤡次元┃动漫",
