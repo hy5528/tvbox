@@ -226,16 +226,7 @@
 		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4",
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
-		{
-            "key": "WexAiGuaZi",
-            "name": "💥瓜子┃秒播",
-            "type": 3,
-            "api": "csp_WexAiGuaZiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			
-        },
+		
         {
             "key": "WexAiDuBoKu",
             "name": "💥独播┃秒播",
