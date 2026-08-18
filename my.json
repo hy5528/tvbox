@@ -279,7 +279,16 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枫叶4K.py",
       "changeable": 0
     },
-    
+   {
+            "key": "kktd",
+            "name": "💝分享糖豆",
+            "type": 1,
+            "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        }, 
 	  
 	{
    "key": "py_4KAV",
