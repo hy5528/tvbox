@@ -1220,6 +1220,7 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
+		{"name": "🥚┃tang收集「自家」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/1626907/miguevent/refs/heads/main/migu.php","playerType":1},	
 		{
             "name": "Kimentanm",
             "type": 0,
