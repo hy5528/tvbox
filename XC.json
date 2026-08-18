@@ -249,15 +249,7 @@
       "type": 3,
       "api": "https://mpimg.cn/down.php/e6c2f2043c93824f4762996844e72bf5.py"
     },
-	{
-      "key": "腾爱优b站.js",
-      "name": "💝分享┃AYTM",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/腾爱优b站.js",
-      "changeable": 0
-    }, 
-    
-
+		
   {
       "key": "厂长影视",
       "name": "💝分享┃厂长",
@@ -302,14 +294,20 @@
       "key": "4K电影网",
       "name": "💝分享┃电影",
       "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4K影院.py",
+      "api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
     },
-   
+	{
+            "key": "爱剧",
+            "name": "💝分享┃爱剧",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
+            "ext": "http://43.248.117.123:4680"
+        },
   {
    "key": "py_金牌影院",
    "name": "💝金牌┃PY",
@@ -392,13 +390,7 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"
         },
-       {
-            "key": "歪比巴卜",
-            "name": "💝巴卜┃PY",
-            "type": 3,
-            "playerType": 2,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/歪比巴卜4K.py"
-        },
+       
 	{
             "key": "耐看",
             "name": "💝耐看┃PY",
@@ -428,8 +420,7 @@
             "key": "裤佬央视PY",
             "name": "💝央视丨PY",
             "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/分享央视.py
-",
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/分享央视.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1215,10 +1206,13 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
+        {"name": "🪼┃老汤TV「直播」","type": 0,"ua": "okhttp","url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"},
+		{"name": "📡┃涛涛TV「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png","playerType":1},
+		{"name": "🐦┃广西移动直播","type": 0,"url": "https://gitee.com/hyx2230/IPTV/raw/master/tv.m3u","ua": "Herissmon/2016","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 		{
             "name": "Kimentanm",
             "type": 0,
-            "url": "https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "playerType": 2
         },
         {
