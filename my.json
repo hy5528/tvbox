@@ -1214,7 +1214,7 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
-		{"name": "📠┃咪咕LITV「直播」","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/main/my.txt","playerType":1},
+
 		{"name": "🦀️┃TVsmile「自家」","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/TVsmile/refs/heads/main/组播优选.txt","playerType":1},
 		{
             "name": "Kimentanm",
