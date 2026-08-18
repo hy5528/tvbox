@@ -396,6 +396,17 @@
             "filterable": 1,
             "playerType": 2
         },
+		{
+            "key": "裤佬央视PY",
+            "name": "💝综艺丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/央视综艺.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
 	 {
             "key": "雪落",
             "name": "💝雪落┃PY",
