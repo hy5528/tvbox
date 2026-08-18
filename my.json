@@ -115,14 +115,14 @@
         },
         {
             "key": "Guazi",
-            "name": "🍉┆瓜子┆影视",
+            "name": "🍉瓜子┆影视",
             "type": 3,
             "api": "csp_Guazi",
             "searchable": 1
         },
         {
             "key": "TvDy",
-            "name": "👼┆天堂┆影视",
+            "name": "👼天堂┆影视",
             "type": 3,
             "api": "csp_TvDy",
             "searchable": 1,
@@ -150,7 +150,7 @@
         },
         {
             "key": "原创",
-            "name": "🌟原创┃不卡",
+            "name": "🌟原创┆不卡",
             "type": 3,
             "api": "csp_YCyzGuard",
             "timeout": 15,
@@ -162,7 +162,7 @@
         },
 		{
             "key": "奥特",
-            "name": "🌟奥特┃多线",
+            "name": "🌟奥特┆多线",
             "type": 3,
             "api": "csp_AueteGuard",
             "timeout": 10,
@@ -173,7 +173,7 @@
         },
 	   {
             "key": "视界",
-            "name": "🌟茉莉┃多线",
+            "name": "🌟茉莉┆多线",
             "type": 3,
             "api": "csp_App99Guard",
             "timeout": 10,
@@ -185,7 +185,7 @@
         },
 		{
             "key": "剧圈",
-            "name": "🌟剧圈┃多线",
+            "name": "🌟剧圈┆多线",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -197,7 +197,7 @@
         },
 		{
             "key": "立播",
-            "name": "🌟立播┃不卡",
+            "name": "🌟立播┆不卡",
             "type": 3,
             "api": "csp_LibvioGuard",
             "timeout": 10,
@@ -212,7 +212,7 @@
         },
         {
             "key": "WexAiDuBoKu",
-            "name": "💥独播┃秒播",
+            "name": "💥独播┆秒播",
             "type": 3,
             "api": "csp_WexAiDuBoKuGuard",
             "searchable": 1,
@@ -222,7 +222,7 @@
         },
         {
             "key": "WexAiYueYue",
-            "name": "💥闪电┃秒播",
+            "name": "💥闪电┆秒播",
             "type": 3,
             "api": "csp_WexAiYueYueGuard",
             "searchable": 1,
@@ -233,7 +233,7 @@
         
         {
             "key": "賤賤",
-            "name": "💥贱片┃秒播",
+            "name": "💥贱片┆秒播",
             "type": 3,
             "api": "csp_WexAiJianPianGuard",
             "searchable": 1,
@@ -243,7 +243,7 @@
         },
         {
             "key": "WexAiYiYs",
-            "name": "💥伊影┃秒播",
+            "name": "💥伊影┆秒播",
             "type": 3,
             "api": "csp_WexAiYiYsGuard",
             "searchable": 1,
@@ -253,7 +253,7 @@
         },
         {
             "key": "WexAiReBo",
-            "name": "💥热播┃秒播",
+            "name": "💥热播┆秒播",
             "type": 3,
             "api": "csp_WexAiReBoGuard",
             "searchable": 1,
@@ -263,7 +263,7 @@
         },
 		{
             "key": "WexAiBoBo",
-            "name": "💥伯伯┃秒播",
+            "name": "💥伯伯┆秒播",
             "type": 3,
             "api": "csp_WexAiBoBoGuard",
             "searchable": 1,
@@ -273,7 +273,7 @@
         },
 		{
             "key": "WexHanXiaoQuan",
-            "name": "💥韩剧┃秒播",
+            "name": "💥韩剧┆秒播",
             "type": 3,
             "api": "csp_WexAiHanXiaoQuanGuard",
             "searchable": 1,
@@ -283,7 +283,7 @@
         },
 		{
             "key": "苹果",
-            "name": "🎀苹果｜APP",
+            "name": "🎀苹果┆APP",
             "type": 3,
             "api": "csp_AppDrama",
             "searchable": 1,
@@ -305,7 +305,7 @@
         
         {
             "key": "WexAiIkanBot",
-            "name": "🎀爱看┃采集",
+            "name": "🎀爱看┆采集",
             "type": 3,
             "api": "csp_WexAiIkanBotGuard",
             "searchable": 1,
@@ -314,11 +314,11 @@
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
         },
 		
-		{"key":"聚合资源","name":"🎀聚合┃影视","type":1,"api":"https://vod.7na7.com/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+		{"key":"聚合资源","name":"🎀聚合┆影视","type":1,"api":"https://vod.7na7.com/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
-	{"key":"非凡资源","name":"🎀非凡┃影视","type":1,"api":"https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+	{"key":"非凡资源","name":"🎀非凡┆影视","type":1,"api":"https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
     
-	 {"key":"如意资源","name":"🎀如意┃影视","type":1,"api":"http://cj.rycjapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+	 {"key":"如意资源","name":"🎀如意┆影视","type":1,"api":"http://cj.rycjapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
 	 {"key":"360资源","name":"🎀360┃影视","type":1,"api":"https://360zyzz.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","古装片","历史片","家庭篇","犯罪片","灾难片","悬疑片","纪录片","短片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","爽文短剧","古装仙侠","现代都市","年代穿越","脑洞悬疑","女频恋爱","成长逆袭","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
