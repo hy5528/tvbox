@@ -281,7 +281,7 @@
     },
    {
             "key": "kktd",
-            "name": "💝分享糖豆",
+            "name": "💝分享┃糖豆",
             "type": 1,
             "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
             "searchable": 1,
@@ -289,7 +289,15 @@
             "quickSearch": 0,
             "filterable": 0
         }, 
-	  
+	   {
+   "key": "py_yunduo",
+   "name": "💝分享┃云朵",
+   "type": 3,
+   "api": "https://clun.top/py/yunduo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
 	{
    "key": "py_4KAV",
    "name": "💝分享┃4K",
