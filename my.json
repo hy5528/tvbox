@@ -299,6 +299,32 @@
    "filterable": 1
   },
   {
+      "key": "4K电影网",
+      "name": "💝分享电影",
+      "type": 3,
+      "api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+   {
+            "key": "爬虫影视",
+            "name": "💝分享爬虫",
+            "type": 1,
+            "api": "https://dy.7772888.xyz/api.php/tvbox",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	 {
+      "key": "CO4K",
+      "name": "💝分享咖啡",
+      "type": 4,
+      "api": "http://8.134.205.252:39466/pz/co4k.php/api.php/provide/vod/?ac=list"
+    },
+  {
    "key": "py_金牌影院",
    "name": "💝金牌┃PY",
    "type": 3,
