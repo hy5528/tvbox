@@ -393,6 +393,25 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/耐看.py"
         },  
+	
+	 {
+            "key": "雪落",
+            "name": "💝雪落┃PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/雪落.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+	  {
+      "key":"裤佬猎手PY",
+      "name":"💝猎手丨PY",
+      "api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/T3%E7%8C%8E%E6%89%8B.py",
+      "filterable":1,
+      "quickSearch":1,
+      "searchable":1,
+      "type":3
+     },
 	{
             "key": "裤佬央视PY",
             "name": "💝央视丨PY",
@@ -417,24 +436,6 @@
             "playerType": 2,
 			"timeout": 60
         },
-	 {
-            "key": "雪落",
-            "name": "💝雪落┃PY",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/雪落.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-	  {
-      "key":"裤佬猎手PY",
-      "name":"💝猎手丨PY",
-      "api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/T3%E7%8C%8E%E6%89%8B.py",
-      "filterable":1,
-      "quickSearch":1,
-      "searchable":1,
-      "type":3
-     },
 	{
             "key": "影视播放",
             "name": "🌟老张┃影视",
