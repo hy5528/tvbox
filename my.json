@@ -244,31 +244,7 @@
             "searchable": 1,
             "filterable": 1
         },
-        {
-            "key": "JSo",
-            "name": "🐾┆珈珈┆搜索",
-            "type": 3,
-            "api": "csp_JSo",
-            "searchable": 1,
-            "ext": {
-                "site": [
-                    "https://j-so.com"
-                ]
-            }
-        },
-        {
-            "key": "Tiu6",
-            "name": "🍭┆Tiu6┆搜索",
-            "type": 3,
-            "api": "csp_Tiu6",
-            "searchable": 1,
-            "filterable": 1,
-            "ext": {
-                "site": [
-                    "https://www.tiu6.cn"
-                ]
-            }
-        },
+        
         {
             "key": "Buguyy",
             "name": "🐦┆布谷┆音乐",
@@ -566,7 +542,60 @@
             "type": 0,
             "url": "http://127.0.0.1:5266/iptv.m3u",
             "playerType": 2
-        }
+        },
+         {"name": "🪼┃老汤TV「直播」","type": 0,"ua": "okhttp","url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"},
+		{"name": "📡┃涛涛TV「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png","playerType":1},
+		{"name": "🐦┃广西移动直播","type": 0,"url": "https://gitee.com/hyx2230/IPTV/raw/master/tv.m3u","ua": "Herissmon/2016","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+		{
+            "name": "Kimentanm",
+            "type": 0,
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "http://193.123.86.190:14888/TV/iptv.php",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+		{
+      "name": "央卫视直播",
+      "type": 0,
+      "url": "http://43.251.226.110:9991/1dek6c",
+      "playerType": 2
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
     ],
     "parses": [],
     "flags": [],
