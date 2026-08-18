@@ -279,8 +279,16 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枫叶4K.py",
       "changeable": 0
     },
-    
-	  
+   
+	   {
+   "key": "py_yunduo",
+   "name": "💝分享┃云朵",
+   "type": 3,
+   "api": "https://clun.top/py/yunduo.py",
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1
+  },
 	{
    "key": "py_4KAV",
    "name": "💝分享┃4K",
@@ -290,6 +298,18 @@
    "searchable": 1,
    "filterable": 1
   },
+  {
+      "key": "4K电影网",
+      "name": "💝分享┃电影",
+      "type": 3,
+      "api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+   
   {
    "key": "py_金牌影院",
    "name": "💝金牌┃PY",
@@ -385,17 +405,7 @@
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/耐看.py"
         },  
-	{
-            "key": "裤佬央视PY",
-            "name": "💝央视丨PY",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+	
 	 {
             "key": "雪落",
             "name": "💝雪落┃PY",
@@ -414,6 +424,31 @@
       "searchable":1,
       "type":3
      },
+	{
+            "key": "裤佬央视PY",
+            "name": "💝央视丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/分享央视.py
+",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+		    "timeout": 60
+        },
+		{
+            "key": "央视综艺PY",
+            "name": "💝综艺丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+			"timeout": 60
+        },
 	{
             "key": "影视播放",
             "name": "🌟老张┃影视",
