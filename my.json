@@ -394,7 +394,8 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2
+            "playerType": 2,
+		    "timeout": 60
         },
 		{
             "key": "央视综艺PY",
@@ -405,7 +406,8 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2
+            "playerType": 2,
+			"timeout": 60
         },
 	 {
             "key": "雪落",
