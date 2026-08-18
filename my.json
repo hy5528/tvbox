@@ -416,7 +416,8 @@
             "key": "裤佬央视PY",
             "name": "💝央视丨PY",
             "type": 3,
-            "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/分享央视.py
+",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -428,7 +429,7 @@
             "key": "央视综艺PY",
             "name": "💝综艺丨PY",
             "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/央视综艺.py",
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
