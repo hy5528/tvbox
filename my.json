@@ -711,17 +711,7 @@
         },
 	
       {"key": "爱听音乐","name": "💕爱听┆PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
-       {
-			"key": "py_枫叶音乐",
-			"name": "💖枫叶┆PY",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://github.com/hy5528/tvbox/blob/main/py/枫叶音乐.py",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"filterable": 0,
-			"timeout": 60
-		},
+       
 	   
        {
             "key": "酷我PY",
