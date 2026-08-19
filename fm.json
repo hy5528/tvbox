@@ -19,41 +19,7 @@
             "api": "csp_AppRJ",
             "ext": "http://v.rbotv.cn"
         },
-        {
-            "key": "肥猫",
-            "name": "🐼┃肥猫┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://cms140.yhg.one|bM7iC9eA3oZ1nB7z"
-        },
-        {
-            "key": "干饭",
-            "name": "🍚┃干饭┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://mk1080.top/get.txt|c60d88b2eep53za8"
-        },
-        {
-            "key": "光盘",
-            "name": "📀┃光盘┃APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M"
-        },
-        {
-            "key": "行动",
-            "name": "😌┃行动┃APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "ext": "https://qj4.catbb.xyz|eecbio48dsq13kkk"
-        },
-        {
-            "key": "再来",
-            "name": "✌️┃再来┃APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "ext": "https://vv.229d.cn|8888888888888888"
-        },
+
         {
             "key": "一碗",
             "name": "🥣┃一碗┃APP",
