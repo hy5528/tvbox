@@ -560,17 +560,7 @@
             },
             "changeable": 1
         }, 
-        {
-            "key": "DJHub",
-            "name": "🎭短剧┆聚合",
-            "type": 3,
-            "api": "csp_DJHub",
-            "searchable": 1,
-            "quickSearch": 1,
-            "genre": "shortdrama",
-            "filterable": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "七星短剧",
             "name": "🎭七星┆短剧",
