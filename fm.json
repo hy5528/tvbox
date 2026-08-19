@@ -83,36 +83,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "配置中心",
-            "name": "配置中心",
-            "type": 3,
-            "api": "csp_Config",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "弹幕",
-            "name": "弹幕配置",
-            "type": 3,
-            "api": "csp_Huban",
-            "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTCR.jar",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "弹幕1",
-            "name": "弹幕测试.",
-            "type": 3,
-            "api": "csp_SecureDanmu",
-            "jar": "https://wp.kayyw.com/f/mLbwU9/danmu.jar",
-            "index": 1
-        },
+        
         {
             "key": "腾爱优b站",
             "name": "腾爱优b站",
@@ -131,15 +102,7 @@
             "type": 3,
             "api": "https://mpimg.cn/down.php/dcdcff871e1139b45b15efe353872cc5.py"
         },
-        {
-            "key": "漫闪",
-            "name": "漫闪",
-            "type": 3,
-            "api": "https://mpimg.cn/down.php/37a8852cebefc099a91b65fcccb5a375.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         {
             "key": "还行",
             "name": "还行",
