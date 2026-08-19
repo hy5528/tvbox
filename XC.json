@@ -302,6 +302,27 @@
       "playerType": 2
     },
 	{
+            "key": "kktd",
+            "name": "💝分享糖豆",
+            "type": 1,
+            "api": "https://kk.666888.club/vod/cibn_api.php/provide/vod/",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+		    "jar":"http://rihou.cc:88/jar/vox.jar"
+        },
+	{
+      "key": "t4直播转点播",
+      "name": "💝分享教育",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp16",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+	  "jar":"http://rihou.cc:88/jar/vox.jar",
+    },
+	{
             "key": "爱剧",
             "name": "💝分享┃爱剧",
             "type": 3,
