@@ -290,7 +290,7 @@
                  
 	{
       "key": "直播转点播",
-      "name": "📺电视v点播",
+      "name": "📺电视┆点播",
       "playerType": 1,
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
