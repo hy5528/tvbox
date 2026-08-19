@@ -6,19 +6,12 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🐼┃公众号：我不是肥猫┃",
+            "name": "🐼我不是肥猫",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
         },
-        
-        {
-            "key": "config",
-            "name": "🐼┃配置┃中心",
-            "type": 3,
-            "api": "csp_Config",
-            "playerType": 2
-        },
+    
         {
             "key": "csp_FeiMaoUC",
             "name": "⚡┃闪电┃优汐",
