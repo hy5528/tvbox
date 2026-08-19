@@ -198,6 +198,37 @@
             "quickSearch": 1,
             "changeable": 1
         },
+		{
+            "key": "WexAiDuBoKu",
+            "name": "💥独播┆秒播",
+            "type": 3,
+            "api": "csp_WexAiDuBoKuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			 "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        {
+            "key": "WexAiYueYue",
+            "name": "💥闪电┆秒播",
+            "type": 3,
+            "api": "csp_WexAiYueYueGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        
+        {
+            "key": "WexAiYiYs",
+            "name": "💥伊影┆秒播",
+            "type": 3,
+            "api": "csp_WexAiYiYsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
         {
             "key": "WexAiReBo",
             "name": "💥热播┆秒播",
