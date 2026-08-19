@@ -213,6 +213,7 @@
             "api": "csp_AppGet",
             "searchable": 1,
             "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
         },
         {
@@ -220,6 +221,7 @@
             "name": "😗长泽┆4K",
             "type": 3,
             "api": "csp_App88",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
         },
         
@@ -231,6 +233,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": {
                 "url": "http://v.rbotv.cn"
             }
@@ -244,6 +247,7 @@
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "https://vip.wwgz.cn:5200"
         },
         
@@ -253,6 +257,7 @@
             "type": 3,
             "api": "csp_WenCai",
             "searchable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
         },
         {
@@ -260,7 +265,8 @@
             "name": "🍉瓜子┆影视",
             "type": 3,
             "api": "csp_Guazi",
-            "searchable": 1
+            "searchable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
         {
             "key": "TvDy",
@@ -268,7 +274,8 @@
             "type": 3,
             "api": "csp_TvDy",
             "searchable": 1,
-            "filterable": 1
+            "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
        
         {
@@ -278,7 +285,8 @@
             "api": "csp_Duboku",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
 		{
             "key": "VideoX",
@@ -287,44 +295,10 @@
             "api": "csp_VideoX",
             "searchable": 1,
             "changeable": 1,
-            "filterable": 1
+            "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
-        {
-            "key": "原创",
-            "name": "🌟原创┆不卡",
-            "type": 3,
-            "api": "csp_YCyzGuard",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4"
-        },
-		{
-            "key": "奥特",
-            "name": "🌟奥特┆多线",
-            "type": 3,
-            "api": "csp_AueteGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4"
-        },
-	   {
-            "key": "视界",
-            "name": "🌟茉莉┆多线",
-            "type": 3,
-            "api": "csp_App99Guard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4",
-            "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
-        },
-
+       
         {
             "key": "WexAiDuBoKu",
             "name": "💥独播┆秒播",
@@ -708,7 +682,8 @@
             "quickSearch": 1,
             "genre": "shortdrama",
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1，
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
         {
             "key": "七星短剧",
@@ -766,22 +741,6 @@
 		    "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
         },
         
-        {
-            "key": "Jianpian",
-            "name": "🧲荐片┆磁力",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Xb6v",
-            "name": "🔋6V┆磁力",
-            "type": 3,
-            "api": "csp_Xb6v",
-            "searchable": 1,
-            "filterable": 1
-        },
         
         {
             "key": "Buguyy",
@@ -790,7 +749,8 @@
             "api": "csp_Buguyy",
             "searchable": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1，
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
         {
             "key": "ChuXin",
@@ -799,7 +759,8 @@
             "api": "csp_ChuXin",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0，
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
         {
             "key": "aiting",
@@ -808,7 +769,8 @@
             "api": "csp_AiTingMusic",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0，
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
         {
             "key": "Music24bit",
@@ -817,6 +779,7 @@
             "api": "csp_Music24bit",
             "searchable": 1,
             "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": {
                 "categories": [
                     "周杰伦",
@@ -974,6 +937,7 @@
             "name": "✨双星┆动漫",
             "type": 3,
             "api": "csp_App88",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "AcT3r+Yx4xV/LlB7Os5BUaHRLhSxKWwSAgpq3V+7Eo/lCbgRu4w9WaFSZNmvzIyEv57jMmi3y9UyfY2V3hG6r2ZXOYxjb2VtNGcc31qnT/0V8c5RhLl5yhVOC1di9IjfQ/w+842AXS7IaMxh6737IMQrO04oidEfNkqKs39imu3vmC7Qu0fR1zcCk4JWmurxw4V7qab1Sc/gkANOoml0aHP4VRJJ+vIuIb9yQZNRyOjKUjC0XQmPKJbcexNyZqnRghr5ADZOAN3NMjlQzd914ixCDj5ME+wlkvmbTjL+ECb0EG5LfX/ATTYr8e0EWLfOBzVon/BrbJdZU5m3k4jVSQwEjREWtS1z9bbii6G9ts77nx3P3smsdE9Mu4dEYZaSkekI62B98hP4gLCvw7qw8wZlymehntj/MTc7KupQ9sCKzPMiu8yz4eed4PGdfc6HMg=="
         },
         
@@ -985,6 +949,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM="
         },
         {
@@ -995,6 +960,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "ARKK6LQnl4dB2QciLugEzZ8QD2WdbeK23tPAre1QOEbbL5BfB8cV39JNfSd2+Xhcqr/z+V5To0krLYHUX7NtRtwYBC44/9ayncZMomdbv4ZCBNOUsBEedUQx7SWf1J0pE0BsLG9QlR8tURwRwx/sqT0="
         },
 		 {
@@ -1004,6 +970,7 @@
             "api": "csp_TingBook",
             "searchable": 1,
             "indexs": 0,
+			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "https://app.365ting.com",
             "style": {
                 "type": "list"
@@ -1017,6 +984,7 @@
             "searchable": 1,
             "filterable": 1,
             "indexs": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "https://m.ting15.com",
             "style": {
                 "type": "list"
@@ -1029,6 +997,7 @@
             "api": "csp_TingShijie",
             "searchable": 1,
             "indexs": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "list"
             }
@@ -1040,6 +1009,7 @@
             "api": "csp_TingYou",
             "searchable": 1,
             "indexs": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "list"
             }
@@ -1052,6 +1022,7 @@
             "searchable": 0,
             "filterable": 1,
             "indexs": 0,
+			 "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "ext": "http://www.88kanqiu.one",
             "style": {
                 "type": "list"
@@ -1065,6 +1036,7 @@
             "searchable": 0,
             "filterable": 1,
             "indexs": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "list"
             }
@@ -1077,7 +1049,8 @@
             "api": "csp_GuaziTY",
             "searchable": 0,
             "filterable": 0,
-            "changeable": 1
+            "changeable": 1，
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
         
         {
@@ -1087,7 +1060,8 @@
             "api": "csp_TuXiaoBei",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 0，
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
         },
         {
             "key": "BeiLeHu",
@@ -1096,13 +1070,15 @@
             "api": "csp_BeiLeHu",
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
+            "filterable": 0，
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
         },
         {
             "key": "少儿教育",
             "name": "🧒少儿┆教育",
             "type": 3,
             "api": "csp_Bili",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1119,6 +1095,7 @@
             "name": "📚小学┆课堂",
             "type": 3,
             "api": "csp_Bili",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1135,6 +1112,7 @@
             "name": "📐初中┆课堂",
             "type": 3,
             "api": "csp_Bili",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -1151,6 +1129,7 @@
             "name": "🎓高中┆课堂",
             "type": 3,
             "api": "csp_Bili",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
