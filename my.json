@@ -320,22 +320,22 @@
     
 	 {"key":"如意资源","name":"🎀如意┆影视","type":1,"api":"http://cj.rycjapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
-	 {"key":"360资源","name":"🎀360┃影视","type":1,"api":"https://360zyzz.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","古装片","历史片","家庭篇","犯罪片","灾难片","悬疑片","纪录片","短片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","爽文短剧","古装仙侠","现代都市","年代穿越","脑洞悬疑","女频恋爱","成长逆袭","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+	 {"key":"360资源","name":"🎀360┆影视","type":1,"api":"https://360zyzz.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","古装片","历史片","家庭篇","犯罪片","灾难片","悬疑片","纪录片","短片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","爽文短剧","古装仙侠","现代都市","年代穿越","脑洞悬疑","女频恋爱","成长逆袭","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
-	 {"key":"豆瓣资源","name":"🎀豆瓣┃影视","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动漫电影","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧大全", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+	 {"key":"豆瓣资源","name":"🎀豆瓣┆影视","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动漫电影","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧大全", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
-     {"key":"暴风影视","name":"🎀暴风┃影视","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧大全", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+     {"key":"暴风影视","name":"🎀暴风┆影视","type":1,"api":"https://bfzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧大全", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
-	 {"key":"量子资源","name":"🎀量子┃影视","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+	 {"key":"量子资源","name":"🎀量子┆影视","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
-	 {"key":"魔都资源","name":"🎀魔都┃影视","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+	 {"key":"魔都资源","name":"🎀魔都┆影视","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 
-	 {"key":"无水印资源","name":"🎀无水印┃影视","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["4K电影","Netflix自制剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","邵氏电影","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
+	 {"key":"无水印资源","name":"🎀无水印┆影视","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod","searchable":1,"quickSearch": 1,"filterable": 1,"changeable":1,"categories":["4K电影","Netflix自制剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","邵氏电影","动画片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","短剧", "女频恋爱","反转爽剧","古装仙侠","年代穿越","脑洞悬疑","现代都市","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫"]},
 	 
                  
 	{
       "key": "直播转点播",
-      "name": "📺电视┃点播",
+      "name": "📺电视v点播",
       "playerType": 1,
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js",
@@ -346,26 +346,26 @@
     },
 	  {
       "key": "蝶卡影视",
-      "name": "💝分享┃蝶卡",
+      "name": "💝分享┆蝶卡",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"
     },
 	 {
       "key": "多多",
-      "name": "💝分享┃多多",
+      "name": "💝分享┆多多",
       "type": 3,
       "api": "https://mpimg.cn/down.php/e6c2f2043c93824f4762996844e72bf5.py"
     },
 		
   {
       "key": "厂长影视",
-      "name": "💝分享┃厂长",
+      "name": "💝分享┆厂长",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/厂长影视.py"
     },
     {
       "key": "豆花影视",
-      "name": "💝分享┃豆花",
+      "name": "💝分享┆豆花",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/豆花影视.py"
     },
@@ -373,7 +373,7 @@
      
 	 {
       "key": "枫叶4K",
-      "name": "💝分享┃枫叶",
+      "name": "💝分享┆枫叶",
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/枫叶4K.py",
       "changeable": 0
@@ -381,7 +381,7 @@
    
 	   {
    "key": "py_yunduo",
-   "name": "💝分享┃云朵",
+   "name": "💝分享┆云朵",
    "type": 3,
    "api": "https://clun.top/py/yunduo.py",
    "searchable": 1,
@@ -390,7 +390,7 @@
   },
 	{
    "key": "py_4KAV",
-   "name": "💝分享┃4K",
+   "name": "💝分享┆4K",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4Kvm.py",
    "quickSearch": 1,
@@ -399,7 +399,7 @@
   },
   {
       "key": "4K电影网",
-      "name": "💝分享┃电影",
+      "name": "💝分享┆电影",
       "type": 3,
       "api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
       "searchable": 1,
@@ -410,14 +410,14 @@
     },
 	{
             "key": "爱剧",
-            "name": "💝分享┃爱剧",
+            "name": "💝分享┆爱剧",
             "type": 3,
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
             "ext": "http://43.248.117.123:4680"
         },
   {
    "key": "py_金牌影院",
-   "name": "💝金牌┃PY",
+   "name": "💝金牌┆PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -428,7 +428,7 @@
   }, 
   {
    "key": "py_TVB云播",
-   "name": "💝云播┃PY",
+   "name": "💝云播┆PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -439,7 +439,7 @@
   }, 
     {
    "key": "py_可可影视",
-   "name": "💝可可┃PY",
+   "name": "💝可可┆PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -451,7 +451,7 @@
 
 	  {
    "key": "py_文才",
-   "name": "💝文才┃PY",
+   "name": "💝文才┆PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/文才影视.py",
    "searchable": 1,
@@ -463,14 +463,14 @@
   },
 	   {
    "key": "py_多多视频电影",
-   "name": "💝多多┃PY",
+   "name": "💝多多┆PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py"
   },
 
      {
    "key": "py_瓜子影视",
-   "name": "💝瓜子┃PY",
+   "name": "💝瓜子┆PY",
    "type": 3,
    "searchable": 1,
    "quickSearch": 1,
@@ -482,7 +482,7 @@
    
    {
    "key": "py_shanzha",
-   "name": "💝山楂┃PY",
+   "name": "💝山楂┆PY",
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/shanzha.py",
    "searchable": 1,
@@ -493,21 +493,21 @@
 
   {
             "key": "高清点播",
-            "name": "💝高清┃PY",
+            "name": "💝高清┆PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"
         },
        
 	{
             "key": "耐看",
-            "name": "💝耐看┃PY",
+            "name": "💝耐看┆PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/耐看.py"
         },  
 	
 	 {
             "key": "雪落",
-            "name": "💝雪落┃PY",
+            "name": "💝雪落┆PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/雪落.py",
             "searchable": 1,
@@ -516,7 +516,7 @@
         },
 	  {
       "key":"裤佬猎手PY",
-      "name":"💝猎手丨PY",
+      "name":"💝猎手┆PY",
       "api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/T3%E7%8C%8E%E6%89%8B.py",
       "filterable":1,
       "quickSearch":1,
@@ -525,7 +525,7 @@
      },
 	{
             "key": "裤佬央视PY",
-            "name": "💝央视丨PY",
+            "name": "💝央视┆PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/分享央视.py",
             "searchable": 1,
@@ -537,7 +537,7 @@
         },
 		{
             "key": "央视综艺PY",
-            "name": "💝综艺丨PY",
+            "name": "💝综艺┆PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py",
             "searchable": 1,
@@ -549,19 +549,19 @@
         },
 	{
             "key": "影视播放",
-            "name": "🌟老张┃影视",
+            "name": "🌟老张┆影视",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/zh/2242.php"
         }, 
     {
             "key": "影视单播放",
-            "name": "🌟影视┃播放",
+            "name": "🌟影视┆播放",
             "type": 4,
             "api": "http://zhangqun1818.serv00.net/zh/2243.php"
         },
 		{
             "key": "永乐J",
-            "name": "🌟永乐┃影视",
+            "name": "🌟永乐┆影视",
             "type": 3,
             "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
             "style": {
@@ -583,7 +583,7 @@
         },
         {
             "key": "七星短剧",
-            "name": "🎭七星丨短剧",
+            "name": "🎭七星┆短剧",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/七星短剧.py",
             "searchable": 1,
@@ -594,7 +594,7 @@
         
 		   {
            "key": "py_XY影视",
-           "name": "🎭星芽┃短剧",
+           "name": "🎭星芽┆短剧",
            "type": 3,
            "searchable": 1,
            "quickSearch": 1,
@@ -605,7 +605,7 @@
          },
 		{
             "key": "cj_暴风资源",
-            "name": "🎭暴风┃短剧",
+            "name": "🎭暴风┆短剧",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 0,
@@ -627,7 +627,7 @@
         },
         {
             "key": "七猫",
-            "name": "🎭七猫｜短剧",
+            "name": "🎭七猫┆短剧",
             "type": 3,
             "api": "https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py",
             "searchable": 1,
@@ -727,7 +727,7 @@
         },
 		{
             "key": "MusicAiKuWoa",
-            "name": "💕小酷┃音乐",
+            "name": "💕小酷┆音乐",
             "type": 3,
             "api": "csp_MusicAiKuWoaGuard",
             "searchable": 1,
@@ -736,7 +736,7 @@
         },
         {
             "key": "MusicAi163",
-            "name": "💕易听┃音乐",
+            "name": "💕易听┆音乐",
             "type": 3,
             "api": "csp_MusicAi163Guard",
             "searchable": 1,
@@ -746,7 +746,7 @@
        
         {
             "key": "MusicAiLunHui",
-            "name": "💕轮回┃舞曲",
+            "name": "💕轮回┆舞曲",
             "type": 3,
             "api": "csp_MusicAiLunHuiGuard",
             "searchable": 1,
@@ -755,7 +755,7 @@
         },
         {
             "key": "MusicAiQingTing",
-            "name": "💕蜻蜓┃电台",
+            "name": "💕蜻蜓┆电台",
             "type": 3,
             "api": "csp_MusicAiQingTingGuard",
             "searchable": 1,
@@ -764,7 +764,7 @@
         },
 		{
    "key":"裤佬枫叶音乐",
-   "name":"💕枫叶丨音乐",
+   "name":"💕枫叶┆音乐",
    "type":3,
    "api":"https://mpimg.cn/down.php/2090fedb67387ea1a1ad908a94eb0aa6.py",
    "searchable":1,
@@ -772,12 +772,12 @@
    "quickSearch":1,
    "filterable":1
    },
- {"key": "爱听音乐","name": "💕爱听┃PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
+ {"key": "爱听音乐","name": "💕爱听┆PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
        
 	   
      {
             "key": "酷我PY",
-            "name": "💕酷我丨PY",
+            "name": "💕酷我┆PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py",
             "searchable": 1,
@@ -788,7 +788,7 @@
         },
 		{
       "key": "bilibigq",
-      "name": "🧡吾爱┃歌曲",
+      "name": "🧡吾爱┆歌曲",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -806,7 +806,7 @@
 	},
 	   {
       "key": "bilibiyq",
-      "name": "💖吾爱┃乐器",
+      "name": "💖吾爱┆乐器",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -824,7 +824,7 @@
 	},
 	{
       "key": "bilibimv",
-      "name": "🧡吾爱┃MV",
+      "name": "🧡吾爱┆MV",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -842,7 +842,7 @@
 	}, 
 	{
       "key": "bilibims",
-      "name": "💛吾爱┃美食",
+      "name": "💛吾爱┆美食",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -860,7 +860,7 @@
 	},
 	{
       "key": "bilibiwd",
-      "name": "💖吾爱┃哔哩",
+      "name": "💖吾爱┆哔哩",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
