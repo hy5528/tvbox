@@ -458,7 +458,341 @@
    "type": 3,
    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py"
   },
+	{
+    "key": "py_瓜子影视",
+    "name": "💝瓜子┆PY",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py",
+    "order_num": 5,
+    "ext": ""
+  }, 
+   
+   {
+    "key": "py_shanzha",
+    "name": "💝山楂┆PY",
+    "type": 3,
+    "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/shanzha.py",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {}
+  },
+
+  {
+     "key": "高清点播",
+     "name": "💝高清┆PY",
+     "type": 3,
+     "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"
+        },
+       
+	{
+       "key": "耐看",
+        "name": "💝耐看┆PY",
+         "type": 3,
+         "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/耐看.py"
+        },  
 	
+	 {
+        "key": "雪落",
+        "name": "💝雪落┆PY",
+         "type": 3,
+         "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/雪落.py",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1
+        },
+	  {
+       "key":"裤佬猎手PY",
+       "name":"💝猎手┆PY",
+       "api":"https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/T3%E7%8C%8E%E6%89%8B.py",
+       "filterable":1,
+       "quickSearch":1,
+       "searchable":1,
+       "type":3
+     },
+	 {
+       "key": "裤佬央视PY",
+       "name": "💝央视┆PY",
+       "type": 3,
+       "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/分享央视.py",
+       "searchable": 1,
+       "changeable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "playerType": 2,
+	   "timeout": 60
+     },
+	  {
+        "key": "央视综艺PY",
+        "name": "💝综艺┆PY",
+        "type": 3,
+        "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py",
+        "searchable": 1,
+        "changeable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "playerType": 2,
+		"timeout": 60
+    },
+	{
+        "key": "影视播放",
+        "name": "🌟老张┆影视",
+        "type": 4,
+        "api": "http://zhangqun1818.serv00.net/zh/2242.php"
+    }, 
+     {
+         "key": "影视单播放",
+         "name": "🌟影视┆播放",
+         "type": 4,
+         "api": "http://zhangqun1818.serv00.net/zh/2243.php"
+        },
+		{
+            "key": "永乐J",
+            "name": "🌟永乐┆影视",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        }, 
+        {
+            "key": "DJHub",
+            "name": "🎭短剧┆聚合",
+            "type": 3,
+            "api": "csp_DJHub",
+            "searchable": 1,
+            "quickSearch": 1,
+            "genre": "shortdrama",
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "七星短剧",
+            "name": "🎭七星┆短剧",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/七星短剧.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        
+		   {
+           "key": "py_XY影视",
+           "name": "🎭星芽┆短剧",
+           "type": 3,
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py",
+           "order_num": 5,
+           "ext": ""
+         },
+		{
+            "key": "cj_暴风资源",
+            "name": "🎭暴风┆短剧",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+		    "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar",
+            "categories": [
+                "短剧大全",
+				"反转爽文",
+                "穿越年代",
+                "重生民国",
+                "现代言情",
+                "女恋总裁",
+                "都市脑洞",
+                "闪婚离婚",
+                "古装仙侠"
+            ]
+        },
+        {
+            "key": "七猫",
+            "name": "🎭七猫┆短剧",
+            "type": 3,
+            "api": "https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		    "jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"
+        },
+        
+        
+        
+        {
+            "key": "Buguyy",
+            "name": "💕布谷┆音乐",
+            "type": 3,
+            "api": "csp_Buguyy",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "ChuXin",
+            "name": "💕初心┆音乐",
+            "type": 3,
+            "api": "csp_ChuXin",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "aiting",
+            "name": "💕爱听┆音乐",
+            "type": 3,
+            "api": "csp_AiTingMusic",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
+            "key": "Music24bit",
+            "name": "💕无损┆音乐",
+            "type": 3,
+            "api": "csp_Music24bit",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "categories": [
+                    "周杰伦",
+                    "林俊杰",
+                    "陈奕迅",
+                    "邓紫棋",
+                    "薛之谦"
+                ]
+            }
+        },
+		{
+            "key": "MusicAiKuWoa",
+            "name": "💕小酷┆音乐",
+            "type": 3,
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        {
+            "key": "MusicAi163",
+            "name": "💕易听┆音乐",
+            "type": 3,
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+       
+        {
+            "key": "MusicAiLunHui",
+            "name": "💕轮回┆舞曲",
+            "type": 3,
+            "api": "csp_MusicAiLunHuiGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        {
+            "key": "MusicAiQingTing",
+            "name": "💕蜻蜓┆电台",
+            "type": 3,
+            "api": "csp_MusicAiQingTingGuard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+	
+      {"key": "爱听音乐","name": "💕爱听┆PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
+       
+	   
+       {
+            "key": "酷我PY",
+            "name": "💕酷我┆PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+		{
+          "key": "bilibigq",
+          "name": "🧡吾爱┆歌曲",
+          "type": 3,
+         "api": "csp_BiliGuard",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "changeable": 0,
+	     "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+	     "style": {
+         "type": "rect",
+         "ratio": 1.433
+       },
+         "ext": {
+         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
+       }
+ 	},
+	   {
+         "key": "bilibiyq",
+         "name": "💖吾爱┆乐器",
+         "type": 3,
+         "api": "csp_BiliGuard",
+         "searchable": 1,
+         "quickSearch": 1,
+         "filterable": 1,
+         "changeable": 0,
+	     "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+	     "style": {
+         "type": "rect",
+         "ratio": 1.433
+       },
+        "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
+       }
+	 },
+	{
+      "key": "bilibimv",
+      "name": "🧡吾爱┆MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
+      }
+	}, 
+	{
+      "key": "bilibims",
+      "name": "💛吾爱┆美食",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
         {
             "key": "Dm84",
             "name": "🚌巴士┃动漫",
