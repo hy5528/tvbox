@@ -199,26 +199,34 @@
             "changeable": 1
         },
         {
-            "key": "新6V",
-            "name": "🧲新6V┃磁力",
+            "key": "WexAiReBo",
+            "name": "💥热播┆秒播",
             "type": 3,
-            "api": "csp_SixVGuard",
-            "timeout": 10,
+            "api": "csp_WexAiReBoGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "ext": "https://www.xb6v.com/"
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
         },
-        {
-            "key": "咕咕",
-            "name": "🦉咕咕┃动漫",
+		{
+            "key": "WexAiBoBo",
+            "name": "💥伯伯┆秒播",
             "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
+            "api": "csp_WexAiBoBoGuard",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+		{
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┆秒播",
+            "type": 3,
+            "api": "csp_WexAiHanXiaoQuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
         },
         {
             "key": "Dm84",
@@ -230,16 +238,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "Anime1",
-            "name": "🐾日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1Guard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
+        
         {
             "key": "看球",
             "name": "⚽八八┃看球",
@@ -366,102 +365,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
-        {
-            "key": "ZPan",
-            "name": "🎈盘搜┃四盘",
-            "type": 3,
-            "api": "csp_S_zpsGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "siteUrl": "http://107.173.211.148/"
-            },
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "JPan",
-            "name": "🦋易搜┃四盘",
-            "type": 3,
-            "api": "csp_S_zpsGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "siteUrl": "https://so.252035.xyz/"
-            },
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "YpanSo",
-            "name": "🐌盘她┃夸父",
-            "type": 3,
-            "api": "csp_YpanSoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
-            }
-        },
-        {
-            "key": "BpanSo",
-            "name": "🐞盘他┃嘟嘟",
-            "type": 3,
-            "api": "csp_BpanSoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
-            }
-        },
-        {
-            "key": "抠搜",
-            "name": "🍄抠抠┃搜搜",
-            "type": 3,
-            "api": "csp_KkSsGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
-            }
-        },
-        {
-            "key": "UC",
-            "name": "🌈优汐┃搜搜",
-            "type": 3,
-            "api": "csp_UuSsGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt"
-            }
-        },
-        {
-            "key": "Bili",
-            "name": "🅱哔哔合集┃弹幕",
-            "type": 3,
-            "api": "csp_BiliGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
-            }
-        },
+        
         {
             "key": "Biliych",
             "name": "🅱哔哔演唱会┃弹幕",
