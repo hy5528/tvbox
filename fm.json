@@ -11,67 +11,7 @@
             "api": "csp_Douban",
             "searchable": 0
         },
-    
-        {
-            "key": "csp_FeiMaoUC",
-            "name": "⚡┃闪电┃优汐",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://shandian.blog/",
-                    "http://sd.sduc.site/"
-                ],
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                },
-                "url_key": "FeiMaoUC"
-            }
-        },
-        {
-            "key": "csp_Duopan",
-            "name": "🖍︎┃蜡笔┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "http://tvpanpan.site",
-                    "http://feimo.fun",
-                    "http://xiaocgege.shop",
-                    "http://www.xiaocgege.shop",
-                    "https://www.xiaocge.fun"
-                ],
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                },
-                "url_key": "Duopan2"
-            }
-        },
-        {
-            "key": "csp_Netfixtv",
-            "name": "💌┃️至臻┃影视",
-            "type": 3,
-            "api": "csp_Duopan",
-            "filterable": 1,
-            "ext": {
-                "site_urls": [
-                    "https://www.zhizhen8.click",
-                    "https://pan.mihdr.top",
-                    "https://www.zhizhen1.top",
-                    "https://www.mihdr.top",
-                    "https://www.miqk.cc"
-                ],
-                "url_key": "Netfixtv2",
-                "threadinfo": {
-                    "chunksize": 512,
-                    "threads": 16
-                }
-            }
-        },
+
         {
             "key": "潮流",
             "name": "🏜┃潮流┃APP",
