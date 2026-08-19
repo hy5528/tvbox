@@ -908,15 +908,7 @@
                 "type": "list"
             }
         },
-        {
-            "key": "QiutongTY",
-            "name": "🏀球通┆体育",
-            "type": 3,
-            "api": "csp_QiutongTY",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 1
-        },
+    
         {
             "key": "GuaziTY",
             "name": "🥜瓜子┆体育",
@@ -926,15 +918,7 @@
             "filterable": 0,
             "changeable": 1
         },
-        {
-            "key": "919TY",
-            "name": "🏅919┆体育",
-            "type": 3,
-            "api": "csp_C919TY",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 1
-        },
+        
         {
             "key": "TuXiaoBei",
             "name": "🐰小兔┆少儿",
