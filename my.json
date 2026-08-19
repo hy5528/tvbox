@@ -372,18 +372,7 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
             "ext": "http://43.248.117.123:4680"
         },
-		{
-      "key": "大马猴",
-      "name": "💝分享大马",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/大马猴🍀TG @hshsjk9.py"
-    },
-    {
-      "key": "pomo",
-      "name": "💝分享pomo",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/pomo🍀TG @hshsjk9.py"
-    },
+		
     {
       "key": "FoFo影院",
       "name": "💝分享FoFo",
