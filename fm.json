@@ -780,10 +780,9 @@
       "ext": {
         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
       }
-	}, 
-	{
-      "key": "bilibims",
-      "name": "💛吾爱┆美食",
+{
+      "key": "bilibiwd",
+      "name": "💖吾爱┆哔哩",
       "type": 3,
       "api": "csp_BiliGuard",
       "searchable": 1,
@@ -795,6 +794,10 @@
         "type": "rect",
         "ratio": 1.433
       },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
+      }
+	},
         {
             "key": "Dm84",
             "name": "🚌巴士┃动漫",
