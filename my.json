@@ -365,6 +365,12 @@
       "filterable": 1,
       "playerType": 2
     },
+	  {
+      "key": "FoFo影院",
+      "name": "💝分享┆FoFo",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/FoFo影院🍀TG @hshsjk9.py"
+    },
 	{
             "key": "爱剧",
             "name": "💝分享┆爱剧",
@@ -373,12 +379,6 @@
             "ext": "http://43.248.117.123:4680"
         },
 		
-    {
-      "key": "FoFo影院",
-      "name": "💝分享FoFo",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/FoFo影院🍀TG @hshsjk9.py"
-    },
   {
    "key": "py_金牌影院",
    "name": "💝金牌┆PY",
