@@ -161,7 +161,68 @@
 		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4",
             "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
         },
+       {
+            "key": "huaisang",
+            "name": "🎄怀桑┆4K",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+            "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
+        },
+        {
+            "key": "枫眠",
+            "name": "🍁枫眠┆4K",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+            "ext": "AWfUDttOwxKXIsxIZto8I5pb8v1yk+QgFQrqkJTMegeLMTRfs9C/EkFDgcQYoGmzdlmg8nek2YH5Oc89IMbRw57jIX3I+pJ82euuxi0ywouJ4IOWiVeQIwKEbV4EejQSdrC22e7dnmi8/WHMY19IRndGP2Aews4RcVt+MnJwibWI"
+        },
+        {
+            "key": "长泽",
+            "name": "😗长泽┆4K",
+            "type": 3,
+            "api": "csp_App88",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+            "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
+        },
         
+        {
+            "key": "Rebo",
+            "name": "🍓热播┆APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+		{
+            "key": "TvDy",
+            "name": "👼天堂┆影视",
+            "type": 3,
+            "api": "csp_TvDy",
+            "searchable": 1,
+            "filterable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
+        },
+       
+        {
+            "key": "Duboku",
+            "name": "🎯独播┆影视",
+            "type": 3,
+            "api": "csp_Duboku",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
+        },
       {
             "key": "苹果",
             "name": "🎀苹果｜APP",
