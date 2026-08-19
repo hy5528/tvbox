@@ -149,22 +149,7 @@
 		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4",
             "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
         },
-		
-		{
-            "key": "立播",
-            "name": "🌟立播┆不卡",
-            "type": 3,
-            "api": "csp_LibvioGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4",
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "siteUrl": "https://www.libvio.pw/"
-            }
-        },
+
         {
             "key": "WexAiDuBoKu",
             "name": "💥独播┆秒播",
