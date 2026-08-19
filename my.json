@@ -363,6 +363,12 @@
       "filterable": 1,
       "playerType": 2
     },
+	 {
+      "key": "橘汁",
+      "name": "💝分享┆橘汁",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/dcdcff871e1139b45b15efe353872cc5.py"
+    },
     {
       "key": "FoFo影院",
       "name": "💝分享┆FoFo",
