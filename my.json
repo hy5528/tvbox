@@ -83,28 +83,7 @@
             "changeable": 1,
             "ext": "https://vip.wwgz.cn:5200"
         },
-        {
-            "key": "CZ",
-            "name": "🏭厂长┆影视",
-            "type": 3,
-            "api": "csp_CZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "cookie": "",
-                "username": "",
-                "password": "",
-                "site": [
-                    "https://www.4kcz.com",
-                    "https://www.cz4k.com",
-                    "https://cz01.tv",
-                    "https://cz01.vip",
-                    "https://www.czzy.site",
-                    "https://czzy.top"
-                ]
-            }
-        },
+        
         {
             "key": "wencai",
             "name": "✏️文才┆影视",
