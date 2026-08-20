@@ -625,15 +625,7 @@
             },
             "changeable": 1
         },
-		{
-            "key": "MusicAi163",
-            "name": "💕易听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAi163Guard",
-            "searchable": 1,
-            "changeable": 0,
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
-        },
+		
        {
             "key": "MusicAiKuWoa",
             "name": "💕小酷┃音乐",
@@ -642,6 +634,15 @@
             "searchable": 1,
             "changeable": 0,
 		   "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+		{
+            "key": "MusicAi163",
+            "name": "💕易听┃音乐",
+            "type": 3,
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
         },
         {
             "key": "MusicAiLunHui",
