@@ -24,6 +24,40 @@
             "quickSearch": 1,
             "changeable": 1
         },
+		{
+            "key": "糯米",
+            "name": "🍓糯米┆秒播",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 15,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "key": "文采",
+            "name": "💮文采┆秒播",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        
+        {
+            "key": "热播",
+            "name": "📺热播┆多线",
+            "type": 3,
+            "api": "csp_AppTTGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "uqGL1bNENExT7/hGxpSE5qU="
+        },
         {
             "key": "光影",
             "name": "🌞光影┆不卡",
@@ -82,40 +116,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "糯米",
-            "name": "🍓糯米┆秒播",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "文采",
-            "name": "💮文采┆秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
         
-        {
-            "key": "热播",
-            "name": "📺热播┆多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "uqGL1bNENExT7/hGxpSE5qU="
-        },
         {
             "key": "视界",
             "name": "🌸茉莉┆多线",
