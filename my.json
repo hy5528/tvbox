@@ -231,16 +231,7 @@
 			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
        
-        {
-            "key": "Duboku",
-            "name": "🎯独播┆影视",
-            "type": 3,
-            "api": "csp_Duboku",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
-        },
+        
 		{
             "key": "WexAiDuBoKu",
             "name": "💥独播┆秒播",
