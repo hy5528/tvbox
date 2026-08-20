@@ -1061,7 +1061,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
         {
             "key": "BeiLeHu",
@@ -1071,7 +1071,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
-			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
         {
             "key": "少儿教育",
