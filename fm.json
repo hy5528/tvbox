@@ -489,7 +489,6 @@
             "name": "📚少儿┃教育",
             "type": 3,
             "api": "csp_BiliGuard",
-		    "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -506,7 +505,6 @@
             "name": "📚小学┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -523,7 +521,6 @@
             "name": "📚初中┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -540,7 +537,6 @@
             "name": "📚高中┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
-			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
