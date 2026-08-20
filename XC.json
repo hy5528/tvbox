@@ -1183,9 +1183,9 @@
       "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
-        {"name": "🪼┃老汤TV「直播」","type": 0,"ua": "okhttp","url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"},
-		{"name": "📡┃涛涛TV「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png","playerType":1},
-		{"name": "🐦┃广西移动直播","type": 0,"url": "https://gitee.com/hyx2230/IPTV/raw/master/tv.m3u","ua": "Herissmon/2016","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+        {"name": "老汤TV「直播」","type": 0,"ua": "okhttp","url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"},
+		{"name": "涛涛TV「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png","playerType":1},
+		{"name": "广西移动直播","type": 0,"url": "https://gitee.com/hyx2230/IPTV/raw/master/tv.m3u","ua": "Herissmon/2016","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
 		{
             "name": "Kimentanm",
             "type": 0,
