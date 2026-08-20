@@ -752,17 +752,7 @@
             "filterable": 1,
             "playerType": 2
         },
-      {
-            "key": "yymp3PY",
-            "name": "💕MP3┆PY",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/yymp3.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
+      
 		
 		{
       "key": "bilibigq",
