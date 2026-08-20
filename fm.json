@@ -266,6 +266,77 @@
             "changeable": 1,
 			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186"
         },
+		{
+            "key": "WexAiDuBoKu",
+            "name": "💥独播┆秒播",
+            "type": 3,
+            "api": "csp_WexAiDuBoKuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			 "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        {
+            "key": "WexAiYueYue",
+            "name": "💥闪电┆秒播",
+            "type": 3,
+            "api": "csp_WexAiYueYueGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        
+        {
+            "key": "賤賤",
+            "name": "💥贱片┆秒播",
+            "type": 3,
+            "api": "csp_WexAiJianPianGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        {
+            "key": "WexAiYiYs",
+            "name": "💥伊影┆秒播",
+            "type": 3,
+            "api": "csp_WexAiYiYsGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+        {
+            "key": "WexAiReBo",
+            "name": "💥热播┆秒播",
+            "type": 3,
+            "api": "csp_WexAiReBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+		{
+            "key": "WexAiBoBo",
+            "name": "💥伯伯┆秒播",
+            "type": 3,
+            "api": "csp_WexAiBoBoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
+		{
+            "key": "WexHanXiaoQuan",
+            "name": "💥韩剧┆秒播",
+            "type": 3,
+            "api": "csp_WexAiHanXiaoQuanGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+			"jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b"
+        },
        {
             "key": "MTV1",
             "name": "🎙️易听┃音乐",
