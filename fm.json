@@ -486,24 +486,31 @@
         },
        
         {
-            "key": "dr_兔小贝",
-            "name": "📚儿童┃启蒙",
+            "key": "TuXiaoBei",
+            "name": "🐰小兔┆少儿",
             "type": 3,
-            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
+            "api": "csp_TuXiaoBei",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
+        },
+        {
+            "key": "BeiLeHu",
+            "name": "🐯小虎┆少儿",
+            "type": 3,
+            "api": "csp_BeiLeHu",
             "searchable": 0,
             "quickSearch": 0,
-            "changeable": 0
+            "filterable": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
         },
         {
             "key": "少儿教育",
-            "name": "📚少儿┃教育",
+            "name": "🧒少儿┆教育",
             "type": 3,
-            "api": "csp_BiliGuard",
+            "api": "csp_Bili",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -517,9 +524,10 @@
         },
         {
             "key": "小学课堂",
-            "name": "📚小学┃课堂",
+            "name": "📚小学┆课堂",
             "type": 3,
-            "api": "csp_BiliGuard",
+            "api": "csp_Bili",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -533,9 +541,10 @@
         },
         {
             "key": "初中课堂",
-            "name": "📚初中┃课堂",
+            "name": "📐初中┆课堂",
             "type": 3,
-            "api": "csp_BiliGuard",
+            "api": "csp_Bili",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -549,9 +558,10 @@
         },
         {
             "key": "高中教育",
-            "name": "📚高中┃课堂",
+            "name": "🎓高中┆课堂",
             "type": 3,
-            "api": "csp_BiliGuard",
+            "api": "csp_Bili",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -563,6 +573,7 @@
                 "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
             }
         },
+		
         {
             "key": "push_agent",
             "name": "🛴手机┃推送",
