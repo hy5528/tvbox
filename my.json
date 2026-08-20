@@ -13,19 +13,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
-       
-        
-        {
-            "key": "seed",
-            "name": "💡聚剧┃四盘",
-            "type": 3,
-            "api": "csp_SeedhubGuard",
-            "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "indexs": 0
-        },
+      
         {
             "key": "光影",
             "name": "🌞光影┃不卡",
