@@ -3,7 +3,7 @@
 
 //     当前接口：https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg
 {
-    "spider": "./jar/easy.jar",
+    "spider": "https://gh-proxy.com/https://github.com/EasyXC/EasyTVbox/blob/main/jar/easy.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
     "logo": "./logo.gif",
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
