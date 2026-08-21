@@ -923,6 +923,21 @@
             "quickSearch": 0,
             "changeable": 0
         }, 
+		{
+            "key": "阅读助手",
+            "name": "💖阅读┆助手",
+            "type": 3,
+            "api": "csp_ProxySpider",
+			"jar": "http://zhangqun1818.serv00.net/zq/pro.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "ReaderHelper"
+            }
+        },
         {
             "key": "咕咕",
             "name": "🦉咕咕┆动漫",
