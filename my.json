@@ -497,7 +497,42 @@
    "order_num": 5,
    "ext": ""
   },  
-
+  {
+            "key": "VIP兔",
+            "name": "VIP兔 | 影视",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/VIP兔.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+		 {
+            "key": "好剧影视",
+            "name": "好剧 | 影视",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/好剧影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "可可影视",
+            "name": "可可 | 影视1",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/可可影视.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "FreeOK",
+            "name": "FreeOK | 影视",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/FreeOK.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 	  {
    "key": "py_文才",
    "name": "💝文才┆PY",
