@@ -428,17 +428,43 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
             "ext": "http://43.248.117.123:4680"
         },
-  {
-   "key": "py_金牌影院",
-   "name": "💝金牌┆PY",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py",
-   "order_num": 5,
-   "ext": ""
-  }, 
+
+       {
+            "key": "py_金牌",
+            "name": "💝金牌┆PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
+            }
+        },
+        {
+            "key": "py_华数",
+            "name": "华数ᵖʸ",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/华数.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "py_独播库",
+            "name": "独播ᵖʸ",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/独播库.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+
   {
    "key": "py_TVB云播",
    "name": "💝云播┆PY",
