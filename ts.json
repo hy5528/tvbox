@@ -32,8 +32,19 @@
         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-	{"key":"py_sync","name":"💖分享茫然","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/py/Mang.py","searchable":1,"filterable":1,"changeable":1},
-     {"key":"py_bili","name":"💖分享哔哩","type":3,"api":"https://gh-proxy.com/https://raw.githubusercontent.com/cluntop/cluntop.github.io/refs/heads/main/py/哔哩视频.py","searchable":1,"filterable":1,"changeable":1},
+	{
+			"key": "csp_Ikanbot",
+			"name": "💖分享机器",
+			"type": 3,
+			"api": "csp_Ikanbot",
+			"changeable": 1,
+			"playerType": 2,
+			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt",
+			"ext":"https://v.aikanbot.com"
+		},
+
+
+		
      {
             "key": "裤佬央视PY",
             "name": "💝央视丨PY",
