@@ -560,6 +560,15 @@
             "playerType": 2,
 			"timeout": 60
         },
+		{
+            "key": "首映網",
+            "name": "❇️首映┆PY",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "api": "https://gitlab.com/lemon52030/BOX/-/raw/main/py_vod/首映網.py"
+        },
 	{
             "key": "影视播放",
             "name": "🌟老张┆影视",
