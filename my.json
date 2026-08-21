@@ -497,15 +497,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "可可影视",
-            "name": "💝可可1┆PY",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/可可影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
         
 	  {
    "key": "py_文才",
