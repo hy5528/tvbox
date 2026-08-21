@@ -2,10 +2,6 @@
   "class": [
 
     {
-      "type_name": "动漫",
-      "type_id": "动漫合集"
-    },
-    {
       "type_name": "荒野求生",
       "type_id": "荒野求生超清"
     },
