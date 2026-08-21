@@ -32,16 +32,7 @@
         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-	{
-			"key": "csp_Ikanbot",
-			"name": "💖分享机器",
-			"type": 3,
-			"api": "csp_Ikanbot",
-			"changeable": 1,
-			"playerType": 2,
-			"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/Xiang.txt",
-			"ext":"https://v.aikanbot.com"
-		},
+	{"key": "永乐","name": "💝分享永乐","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/alantang1977/X/main/py/永乐视频.py","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": ""},
 
 
 		
