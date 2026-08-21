@@ -748,22 +748,7 @@
         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-        {
-            "key": "AnimeCiYuanCheng",
-            "name": "🤡次元┃动漫",
-            "type": 3,
-            "api": "csp_AnimeCiYuanChengGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "AnimeJiongCiYuanGuard",
-            "name": "🤡小囧┃动漫",
-            "type": 3,
-            "api": "csp_AnimeJiongCiYuanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "AnimeAiMiaoWu",
             "name": "🤡喵呜┃动漫",
