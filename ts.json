@@ -45,62 +45,7 @@
 			"ext": "https://d.kstore.dev/download/4127/js/飞牛影视.js"
 		},
 		
-         {
-			"key": "py_网易云音乐",
-			"name": "💖分享网易",
-			"type": 3,
-			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/网易云音乐.py",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"filterable": 0,
-			"timeout": 60
-		},
-
-         {"key":"高清影视","name":"💝分享高清","type":1,"api":"https://api.yzzy-api.com/inc/apijson.php","searchable":1,"quickSearch":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","动画片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","日韩动漫","国产动漫","欧美动漫"]},
-      {
-  "key": "hipy_js_KTV歌厅[听]",
-  "name": "💖分享歌厅",
-  "type": 3,
-  "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/KTV歌厅.js"
-},    
-{
-      "key": "py_ MiFunP动漫",
-      "name": "💖分享MiFunP",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/PY/MiFunP动漫.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-	 {
-      "key": "闪影视界",
-      "name": "💝分享闪影",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
-    },
-   
-         {
-            "key": "土豆浏览器",
-            "name": "💝分享土豆",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/PY/土豆浏览器.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "changeable": 1
-        },
+         
 	 {
       "key": "西瓜",
       "name": "💝分享西瓜",
@@ -111,7 +56,7 @@
       "filterable": 1,
       "api": "csp_XBPQ",
       "jar":
-"https://ghfast.top/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
+"https://gh-proxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/XBPQ.jar",
       "ext": {
         "分类": "电影$20#连续剧$37#动漫$43#综艺$45",
         "分类url": "https://sszzyy.com/index.php/vod/type/id/{cateId}/page/{catePg}.html",
