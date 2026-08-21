@@ -497,27 +497,10 @@
    "order_num": 5,
    "ext": ""
   },  
-    {
-            "key": "新影视",
-            "name": "New | 影视",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/新影视.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-		{
-            "key": "VIP兔",
-            "name": "VIP兔 | 影视",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/VIP兔.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+   
 		 {
             "key": "好剧影视",
-            "name": "好剧 | 影视",
+            "name": "💝好剧┆PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/好剧影视.py",
             "searchable": 1,
@@ -526,7 +509,7 @@
         },
         {
             "key": "可可影视",
-            "name": "可可 | 影视1",
+            "name": "💝可可1┆PY",
             "type": 3,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/可可影视.py",
             "searchable": 1,
