@@ -459,17 +459,6 @@
             "playerType": 2
         },
 
-
-    {"key": "TVB云播","name": "💝分享云播","type": 3,"api": "https://gh-proxy.com/raw.githubusercontent.com/qist/tvbox/master/py/TVB云播.py","searchable": 0,"quickSearch": 1,"filterable": 0,"changeable": 0},
-	{
-   "key": "py_duoduo",
-   "name": "💝分享多多",
-   "type": 3,
-   "api": "https://clun.top/py/duoduo.py",
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1
-  },	
     {
    "key": "py_可可影视",
    "name": "💝可可┆PY",
