@@ -569,6 +569,15 @@
             "changeable": 0,
             "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/首映網.py"
         },
+		{
+            "key": "小豬看看",
+            "name": "❇️小豬┆PY",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/小豬看看.py"
+        },
 	{
             "key": "影视播放",
             "name": "🌟老张┆影视",
