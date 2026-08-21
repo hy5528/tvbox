@@ -428,7 +428,17 @@
             "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
             "ext": "http://43.248.117.123:4680"
         },
-
+      {
+			"key": "飞牛影视",
+			"name": "💝分享┆飞牛",
+			"type": 3,
+			"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://d.kstore.dev/download/4127/js/飞牛影视.js"
+		},
        {
             "key": "py_金牌",
             "name": "💝金牌┆PY",
