@@ -32,7 +32,7 @@
         "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
       }
 	},
-	{ "key": "全片源", "name": "💖分享全网", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": 2, "ext": "http://chaoqianys.top:91/api.php/app/" } , 	
+	
      {
             "key": "裤佬央视PY",
             "name": "💝央视丨PY",
