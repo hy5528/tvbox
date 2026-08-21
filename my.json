@@ -506,15 +506,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "FreeOK",
-            "name": "FreeOK | 影视",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/FreeOK.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+        
 	  {
    "key": "py_文才",
    "name": "💝文才┆PY",
