@@ -1,194 +1,635 @@
-//      >>> 当前时间是：2026-08-21 12:00:20 <<<
-//     关注微信公众号【太太太硬了】有惊喜哦！！！
-
-//     当前接口：http://43.138.212.149:8866/api.json
+//     当前接口：https://9280.kstore.vip/aiwex.json
 {
-    "wallpaper": "https://wp.upx8.com/api.php",
-    "spider": "http://43.138.212.149:8866/spider.jar",
+    "spider": "http://oss4liview.moji.com/thd_file/2026/08/20/cfd3c93bcaeba483f8bf7a4a834254a6.jpg;md5;5dae36d8839a6d07d094c761f54a271f",
+    "wallpaper": "http://王二小放牛娃牛逼.999888987.xyz",
+    "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
     "sites": [
         {
-            "key": "芒果",
-            "name": "芒果",
+            "key": "Douban",
+            "name": "🐮王二小放牛娃",
             "type": 3,
-            "api": "http://43.138.212.149:8866/api/drpy2.min.js",
-            "ext": "http://43.138.212.149:8866/js/芒果.js"
+            "api": "csp_NewDouBanGuard",
+            "indexs": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
         },
         {
-            "key": "芒果视频",
-            "name": "芒",
+        "key": "bilibiwd",
+        "name": "💖吾爱┃哔哩",
+        "type": 3,
+        "api": "csp_BiliGuard",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "changeable": 0,
+	    "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
+      }
+	},
+     {
+            "key": "裤佬央视PY",
+            "name": "💝央视丨PY",
             "type": 3,
-            "api": "http://43.138.212.149:8866/js/drpy2.min.js",
-            "ext": "http://43.138.212.149:8866/js/芒果视频.js"
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/分享央视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+		    "timeout": 60
+        },
+		{
+            "key": "央视综艺PY",
+            "name": "💝综艺丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+			"timeout": 60
+        },            
+           	
+	    {
+            "key": "MusicAiKuWoa",
+            "name": "💕小酷┃音乐",
+            "type": 3,
+            "api": "csp_MusicAiKuWoaGuard",
+            "searchable": 1,
+            "changeable": 0
         },
         {
-            "key": "腾讯",
-            "name": "腾讯",
+            "key": "MusicAi163",
+            "name": "💕易听┃音乐",
             "type": 3,
-            "api": "http://43.138.212.149:8866/api/drpy2.min.js",
-            "ext": "http://43.138.212.149:8866/js/腾讯.js"
+            "api": "csp_MusicAi163Guard",
+            "searchable": 1,
+            "changeable": 0
+        },
+       
+        {
+            "key": "MusicAiLunHui",
+            "name": "💕轮回┃舞曲",
+            "type": 3,
+            "api": "csp_MusicAiLunHuiGuard",
+            "searchable": 1,
+            "changeable": 0
         },
         {
-            "key": "腾讯视频",
-            "name": "腾",
+            "key": "MusicAiQingTing",
+            "name": "💕蜻蜓┃电台",
             "type": 3,
-            "api": "http://43.138.212.149:8866/js/drpy2.min.js",
-            "ext": "http://43.138.212.149:8866/js/腾讯视频.js"
+            "api": "csp_MusicAiQingTingGuard",
+            "searchable": 1,
+            "changeable": 0
         },
         {
-            "key": "优酷",
-            "name": "优酷",
+            "key": "Buguyy",
+            "name": "💕布谷┃音乐",
             "type": 3,
-            "api": "http://43.138.212.149:8866/api/drpy2.min.js",
-            "ext": "http://43.138.212.149:8866/js/优酷.js"
+            "api": "csp_Buguyy",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
         },
         {
-            "key": "优酷视频",
-            "name": "优",
+            "key": "ChuXin",
+            "name": "💕初心┃音乐",
             "type": 3,
-            "api": "http://43.138.212.149:8866/js/drpy2.min.js",
-            "ext": "http://43.138.212.149:8866/js/优酷视频.js"
+            "api": "csp_ChuXin",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
         },
         {
-            "key": "奇艺",
-            "name": "奇艺",
+            "key": "aiting",
+            "name": "💕爱听┃音乐",
             "type": 3,
-            "api": "http://43.138.212.149:8866/api/drpy2.min.js",
-            "ext": "http://43.138.212.149:8866/js/奇艺.js"
+            "api": "csp_AiTingMusic",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"
         },
         {
-            "key": "爱奇艺",
-            "name": "奇",
+            "key": "Music24bit",
+            "name": "💕无损┃音乐",
             "type": 3,
-            "api": "http://43.138.212.149:8866/js/drpy2.min.js",
-            "ext": "http://43.138.212.149:8866/js/奇艺视频.js"
-        },
-        {
-            "key": "py_金牌",
-            "name": "金牌ᵖʸ",
-            "type": 3,
-            "api": "http://43.138.212.149:8866/py/金牌影视.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
+            "api": "csp_Music24bit",
+            "searchable": 1,
+            "changeable": 1,
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar",
             "ext": {
-                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
+                "categories": [
+                    "周杰伦",
+                    "林俊杰",
+                    "陈奕迅",
+                    "邓紫棋",
+                    "薛之谦"
+                ]
+            }
+        },
+	   	
+   
+ {"key": "爱听音乐","name": "💕爱听┃PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
+       
+	   
+     {
+            "key": "酷我PY",
+            "name": "💕酷我丨PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+		{
+      "key": "bilibigq",
+      "name": "🧡吾爱┃歌曲",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
+      }
+	},
+	   {
+      "key": "bilibiyq",
+      "name": "💖吾爱┃乐器",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
+      }
+	},
+	{
+      "key": "bilibimv",
+      "name": "🧡吾爱┃MV",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
+      }
+	}, 
+	{
+      "key": "bilibims",
+      "name": "💛吾爱┃美食",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+	  "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
+      }
+	},
+	
+        
+        {
+            "key": "AnimeAiMiaoWu",
+            "name": "🤡喵呜┃动漫",
+            "type": 3,
+            "api": "csp_AnimeAiMiaoWuGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "AnimeAiHuazi",
+            "name": "🤡花海┃动漫",
+            "type": 3,
+            "api": "csp_AnimeAiHuaziGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        
+       
+        {
+            "key": "SportAiFeiQiu",
+            "name": "🌐飞球┃体育",
+            "type": 3,
+            "api": "csp_SportAiFeiQiuGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
             }
         },
         {
-            "key": "py_华数",
-            "name": "华数ᵖʸ",
+            "key": "SportAiGuaZi",
+            "name": "🌐瓜子┃体育",
             "type": 3,
-            "api": "http://43.138.212.149:8866/py/华数.py",
+            "api": "csp_SportAiGuaZiGuard",
             "searchable": 1,
-            "changeable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        
+        {
+            "key": "SportAiKanqiu",
+            "name": "🌐八八┃体育",
+            "type": 3,
+            "api": "csp_SportAiKanqiuGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "SportAiKaFei",
+            "name": "🌐咖啡┃体育",
+            "type": 3,
+            "api": "csp_SportAiKaFeiGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "SportAiWwe",
+            "name": "🌐WWE┃体育",
+            "type": 3,
+            "api": "csp_SportAiWweGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+       
+        {
+            "key": "bilibili",
+            "name": " 🅱‍哔哩┃合集",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "py_独播库",
-            "name": "独播ᵖʸ",
-            "type": 3,
-            "api": "http://43.138.212.149:8866/py/独播库.py",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2
-        },
-        {
-            "key": "Cat_聚合短剧",
-            "name": " 聚合ᶜᵃᵗ丨短剧",
-            "type": 3,
-            "api": "http://43.138.212.149:8866/open/duanju_juhe.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "Cat_百度短剧",
-            "name": " 百度ᶜᵃᵗ丨短剧",
-            "type": 3,
-            "api": "http://43.138.212.149:8866/open/baidu_dj.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-        {
-            "key": "py_哔哩",
-            "name": "哔哩ᵖʸ｜直播",
-            "type": 3,
-            "api": "http://43.138.212.149:8866/py/哔哩直播.py"
-        },
-        {
-            "key": "cat布谷音乐",
-            "name": "音乐ᶜᵃᵗ",
-            "type": 3,
-            "api": "http://43.138.212.149:8866/js/布谷音乐.js",
+            "changeable": 0,
             "style": {
                 "type": "rect",
-                "ratio": 1
+                "ratio": 1.433
             },
-            "changeable": 1
+            "ext": {
+                "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
+            }
         },
+        
         {
-            "key": "Cat_喜马拉雅",
-            "name": "听书ᶜᵃᵗ",
+            "key": "少儿教育",
+            "name": "📚少儿┃教育",
             "type": 3,
-            "api": "http://43.138.212.149:8866/open/ximalaya_ting.js",
-            "searchable": 1,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "changeable": 0,
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/3C3AB7A_773_ertong_20250828171550247newMediaImage.txt"
+            }
         },
         {
-            "key": "Cat_梨园戏",
-            "name": "戏曲ᶜᵃᵗ",
+            "key": "小学课堂",
+            "name": "📚小学┃课堂",
             "type": 3,
-            "api": "http://43.138.212.149:8866/open/liyuan_xi.js",
-            "searchable": 1,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "changeable": 0,
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/4A3AA71_773_xiaoxue_20250828171535645newMediaImage.txt"
+            }
         },
         {
-            "key": "Cat_聚合儿歌",
-            "name": "儿歌ᶜᵃᵗ",
+            "key": "初中课堂",
+            "name": "📚初中┃课堂",
             "type": 3,
-            "api": "http://43.138.212.149:8866/open/erge_juhe.js",
-            "searchable": 1,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "changeable": 0,
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/19B1839_773_chuzhong_20250828171521929newMediaImage.txt"
+            }
         },
         {
-            "key": "Cat_聚合知识",
-            "name": "知识ᶜᵃᵗ",
+            "key": "高中教育",
+            "name": "📚高中┃课堂",
             "type": 3,
-            "api": "http://43.138.212.149:8866/open/zhishi_juhe.js",
-            "searchable": 1,
+            "api": "csp_BiliGuard",
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            },
+            "searchable": 0,
             "quickSearch": 0,
-            "filterable": 1
+            "changeable": 0,
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
+            }
         },
+       
         {
-            "key": "晴天",
-            "name": "备用",
+            "key": "push_agent",
+            "name": "推送",
             "type": 3,
-            "api": "csp_AppYsV2",
+            "api": "csp_PushGuard",
             "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://43.138.212.149:8877/api.php/app/"
+            "changeable": 0
         }
+    ],
+    "parses": [
+        {
+            "name": "王",
+            "type": 1,
+            "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
+        },
+        {
+            "name": "二",
+            "type": 1,
+            "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
+        },
+        {
+            "name": "小",
+            "type": 1,
+            "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
+        },
+        {
+            "name": "帅",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
+        }
+    ],
+    "doh": [
+        {
+            "name": "Google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "Cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "AdGuard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "DNSWatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "Quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "proxy",
+            "hosts": [
+                "hlsztemgsplive.miguvideo.com=hlsztemgsplive.188766.xyz",
+                "cache.ott.fifalive.itv.cmvideo.cn=fifalive.188766.xyz",
+                "iptv.huuc.edu.cn=huucv6.188766.xyz",
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
+        {
+            "name": "海外看",
+            "hosts": [
+                "haiwaikan"
+            ],
+            "regex": [
+                "10.0099",
+                "10.3333",
+                "16.0599",
+                "8.1748",
+                "12.33",
+                "10.85"
+            ]
+        },
+        {
+            "name": "火山嗅探",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "抖音嗅探",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "農民嗅探",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "新视觉嗅探",
+            "hosts": [
+                "muzhi-video.bj.bcebos.com"
+            ],
+            "regex": [
+                "202403/"
+            ]
+        },
+        {
+            "name": "七新嗅探",
+            "hosts": [
+                "api.52wyb.com"
+            ],
+            "regex": [
+                "m3u8?pt=m3u8"
+            ]
+        },
+        {
+            "name": "夜市點擊",
+            "hosts": [
+                "yeslivetv.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('vjs-big-play-button')[0].click()"
+            ]
+        },
+        {
+            "name": "毛驢點擊",
+            "hosts": [
+                "www.maolvys.com"
+            ],
+            "script": [
+                "document.getElementsByClassName('swal-button swal-button--confirm')[0].click()"
+            ]
+        }
+    ],
+    "ads": [
+        "mozai.4gtv.tv",
+        "pv.vipwm.cc",
+        "static-mozai.4gtv.tv"
     ],
     "lives": [
-        {
-            "name": "live",
+      {
+      "name": "develop202",
+      "type": 0,
+      "url": "https://gh-proxy.org/http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
+      "playerType": 2,
+      "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      },
+        {"name": "老汤TV「直播」","type": 0,"ua": "okhttp","url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"},
+		{"name": "涛涛TV「直播」","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png","playerType":1},
+		{"name": "广西移动直播","type": 0,"url": "https://gitee.com/hyx2230/IPTV/raw/master/tv.m3u","ua": "Herissmon/2016","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
+		{
+            "name": "Kimentanm",
             "type": 0,
-            "url": "http://43.138.212.149:8866/lives/34202007.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "playerType": 2
+        },
+        {
+            "name": "综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "http://193.123.86.190:14888/TV/iptv.php",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+		{
+      "name": "央卫视直播",
+      "type": 0,
+      "url": "http://43.251.226.110:9991/1dek6c",
+      "playerType": 2
+    },
+    {
+      "name": "虎牙一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "斗鱼一起看",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "B站直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/bililive.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    },
+    {
+      "name": "YY轮播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+      "playerType": 2,
+      "timeout": 10,
+      "ua": "okHttp/Mod-1.5.0.0"
+    }
     ],
-    "parses": []
+    "headers": [
+        {
+            "host": "hlsztemgsplive.miguvideo.com",
+            "header": {
+                "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+            }
+        }
+    ]
 }
