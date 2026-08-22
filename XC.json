@@ -984,7 +984,21 @@
             "searchable": 1,
             "changeable": 0
         },
-        
+        {
+            "key": "阅读助手",
+            "name": "💖阅读┆助手",
+            "type": 3,
+            "api": "csp_ProxySpider",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/pro.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "ReaderHelper"
+            }
+        },
        
         {
             "key": "SportAiFeiQiu",
