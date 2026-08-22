@@ -15,17 +15,7 @@
             "filterable": 0,
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
         },
-		{
-            "key": "Doubanaaaa",
-            "name": "🐮豆瓣┃DO",
-            "type": 3,
-            "api": "csp_NewDouBanGuard",
-            "indexs": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
-        },
+	
 		{
             "key": "WexAiGuaZi",
             "name": "💥瓜子┃秒播",
