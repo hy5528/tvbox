@@ -15,7 +15,15 @@
             "filterable": 0,
             "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
         },
-        
+            {
+            "key": "WexAiDuBoKu",
+            "name": "💥独播┃秒播",
+            "type": 3,
+            "api": "csp_WexAiDuBoKuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
         {
             "key": "WexAiGuaZi",
             "name": "💥瓜子┃秒播",
@@ -25,15 +33,7 @@
             "quickSearch": 1,
             "changeable": 0
         },
-        {
-            "key": "WexAiDuBoKu",
-            "name": "💥独播┃秒播",
-            "type": 3,
-            "api": "csp_WexAiDuBoKuGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+    
         {
             "key": "WexAiYueYue",
             "name": "💥闪电┃秒播",
