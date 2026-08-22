@@ -103,6 +103,17 @@
 		    "jar": "https://zl.wpscdn.cn/2026/08/16/space_img/319d8350-dadc-4c0e-9555-15c65fd6dbdb.jpg;md5;ea8ab37f3d7bedd2bfa2b4b1e4d1eca4"
         },
 		{
+            "key": "瓜子",
+            "name": "👀瓜子┆不卡",
+            "type": 3,
+            "api": "csp_AppgzGuard",
+            "timeout": 15,
+            "playerType": "2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+		{
             "key": "奥特",
             "name": "🌟奥特┃多线",
             "type": 3,
