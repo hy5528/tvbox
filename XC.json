@@ -725,7 +725,7 @@
 		
         {
             "key": "MusicAiKuWoa",
-            "name": "🎼小酷┃音乐",
+            "name": "💕小酷┃音乐",
             "type": 3,
             "api": "csp_MusicAiKuWoaGuard",
             "searchable": 1,
@@ -733,23 +733,16 @@
         },
         {
             "key": "MusicAi163",
-            "name": "🎼易听┃音乐",
+            "name": "💕易听┃音乐",
             "type": 3,
             "api": "csp_MusicAi163Guard",
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "MusicAiKuWo",
-            "name": "🎼酷听┃音乐",
-            "type": 3,
-            "api": "csp_MusicAiKuWoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+       
         {
             "key": "MusicAiLunHui",
-            "name": "🎼轮回┃舞曲",
+            "name": "💕轮回┃舞曲",
             "type": 3,
             "api": "csp_MusicAiLunHuiGuard",
             "searchable": 1,
@@ -757,7 +750,7 @@
         },
 		 {
             "key": "MusicAiQingTing",
-            "name": "🎼蜻蜓┃电台",
+            "name": "💕蜻蜓┃电台",
             "type": 3,
             "api": "csp_MusicAiQingTingGuard",
             "searchable": 1,
