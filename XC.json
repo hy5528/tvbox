@@ -823,7 +823,7 @@
         
         {
             "key": "SportAiKanqiu",
-            "name": "🌐八八┃体育🌐",
+            "name": "🌐八八┃体育",
             "type": 3,
             "api": "csp_SportAiKanqiuGuard",
             "searchable": 1,
@@ -831,7 +831,7 @@
         },
         {
             "key": "SportAiKaFei",
-            "name": "🌐咖啡┃体育🌐",
+            "name": "🌐咖啡┃体育",
             "type": 3,
             "api": "csp_SportAiKaFeiGuard",
             "searchable": 1,
@@ -842,7 +842,7 @@
         },
         {
             "key": "SportAiWwe",
-            "name": "🌐WWE┃体育🌐",
+            "name": "🌐WWE┃体育",
             "type": 3,
             "api": "csp_SportAiWweGuard",
             "searchable": 1,
@@ -854,7 +854,7 @@
         
         {
             "key": "biliys",
-            "name": "🅱哔哩┃影视🅱",
+            "name": "🅱哔哩┃影视",
             "type": 3,
             "api": "csp_BiliYsGuard",
             "searchable": 1,
@@ -863,7 +863,7 @@
         },
         {
             "key": "bilibili",
-            "name": " 🅱‍哔哩┃合集🅱‍",
+            "name": " 🅱‍哔哩┃合集",
             "type": 3,
             "api": "csp_BiliGuard",
             "searchable": 1,
@@ -880,7 +880,7 @@
         },
         {
             "key": "bilixiqu",
-            "name": " 🅱‍哔哩┃戏曲🅱‍",
+            "name": " 🅱‍哔哩┃戏曲",
             "type": 3,
             "api": "csp_BiliGuard",
             "searchable": 1,
@@ -897,7 +897,7 @@
         },
         {
             "key": "biliych",
-            "name": " 🅱‍哔哩┃歌曲🅱‍",
+            "name": " 🅱‍哔哩┃歌曲",
             "type": 3,
             "api": "csp_BiliGuard",
             "searchable": 1,
@@ -914,7 +914,7 @@
         },
         {
             "key": "少儿教育",
-            "name": "📚少儿┃教育📚",
+            "name": "📚少儿┃教育",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -930,7 +930,7 @@
         },
         {
             "key": "小学课堂",
-            "name": "📚小学┃课堂📚",
+            "name": "📚小学┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -946,7 +946,7 @@
         },
         {
             "key": "初中课堂",
-            "name": "📚初中┃课堂📚",
+            "name": "📚初中┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -962,7 +962,7 @@
         },
         {
             "key": "高中教育",
-            "name": "📚高中┃课堂📚",
+            "name": "📚高中┃课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -976,46 +976,7 @@
                 "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/345A587_773_gaozhong_20250828171449997newMediaImage.txt"
             }
         },
-        {
-            "key": "SoAiHaiYin",
-            "name": "🎠盘搜┃综合🎠",
-            "type": 3,
-            "api": "csp_SoAiHaiYinGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoAiPanSoo",
-            "name": "🎠九七┃综合🎠",
-            "type": 3,
-            "api": "csp_SoAiPanSooGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoAiQuPanShe",
-            "name": "🎠趣搜┃百度🎠",
-            "type": 3,
-            "api": "csp_SoAiQuPanSheGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoAiAiPanSo",
-            "name": "🎠爱盘┃综合🎠",
-            "type": 3,
-            "api": "csp_SoAiAiPanSoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "SoHaoSo",
-            "name": "🎠好盘┃综合🎠",
-            "type": 3,
-            "api": "csp_SoHaoSoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+       
         {
             "key": "push_agent",
             "name": "推送",
