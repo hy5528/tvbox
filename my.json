@@ -547,6 +547,28 @@
       "type":3
      },
 	{
+            "key": "py_6V",
+            "name": "💝6V┆PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/6v.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+     {
+            "key": "py_永乐",
+            "name": "💝永乐┆PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/永乐视频.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+	{
             "key": "裤佬央视PY",
             "name": "💝央视┆PY",
             "type": 3,
