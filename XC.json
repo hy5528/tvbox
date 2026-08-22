@@ -24,15 +24,7 @@
             "quickSearch": 1,
             "changeable": 0
         },
-        {
-            "key": "WexAiGuaZi",
-            "name": "💥瓜子┃秒播",
-            "type": 3,
-            "api": "csp_WexAiGuaZiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+        
     
         {
             "key": "WexAiYueYue",
@@ -111,7 +103,8 @@
             "playerType": "2",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "changeable": 1,
+			"jar": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1",
         },
 		{
             "key": "奥特",
