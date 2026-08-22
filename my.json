@@ -171,16 +171,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-         {
-            "key": "huaisang",
-            "name": "🎄怀桑┆4K",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-		    "jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/529190385_3_1786835441319.jar;md5;994e3d1888d79b7203fe8d91dc2d6186",
-            "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
-        },
+         
         {
             "key": "枫眠",
             "name": "🍁枫眠┆4K",
