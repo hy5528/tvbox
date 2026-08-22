@@ -66,7 +66,7 @@
         },
         {
             "key": "WexAiYiYs",
-            "name": "💥伊影┃秒播💥",
+            "name": "💥伊影┃秒播",
             "type": 3,
             "api": "csp_WexAiYiYsGuard",
             "searchable": 1,
@@ -499,53 +499,8 @@
         },
        
         {
-            "key": "ManJuAiHongGuo",
-            "name": "🍉漫短┃小红🍉",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHongGuoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiHuoLong",
-            "name": "🍉漫剧┃小龙🍉",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHuoLongGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiQiMao",
-            "name": "🍉漫剧┃小猫🍉",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiQiMaoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiXiFan",
-            "name": "🍉漫短┃小喜🍉",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiXiFanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "ManJuAiHeMa",
-            "name": "🍉漫短┃小马🍉",
-            "type": 3,
-            "类型": "短剧",
-            "api": "csp_ManJuAiHeMaGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "DuanJuAiHaoKan",
-            "name": "🍉短剧┃好看🍉",
+            "name": "🍉短剧┃好看",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiHaoKanGuard",
@@ -554,7 +509,7 @@
         },
         {
             "key": "DuanJuAiQiMiao",
-            "name": "🍉短剧┃小猫🍉",
+            "name": "🍉短剧┃小猫",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiQiMiaoGuard",
@@ -563,7 +518,7 @@
         },
         {
             "key": "DuanJuAiXingYa",
-            "name": "🍉短剧┃星星🍉",
+            "name": "🍉短剧┃星星",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiXingYaGuard",
@@ -572,25 +527,17 @@
         },
         {
             "key": "DuanJuAiWeiGuan",
-            "name": "🍉短剧┃小薇🍉",
+            "name": "🍉短剧┃小薇",
             "type": 3,
             "类型": "短剧",
             "api": "csp_DuanJuAiWeiGuanGuard",
             "searchable": 1,
             "changeable": 0
         },
-		 
-        {
-            "key": "MusicAiIKtv",
-            "name": "🎼KTV┃音乐🎼",
-            "type": 3,
-            "api": "csp_MusicAiIKtvGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+		
         {
             "key": "MusicAiKuWoa",
-            "name": "🎼小酷┃音乐🎼",
+            "name": "🎼小酷┃音乐",
             "type": 3,
             "api": "csp_MusicAiKuWoaGuard",
             "searchable": 1,
@@ -598,7 +545,7 @@
         },
         {
             "key": "MusicAi163",
-            "name": "🎼易听┃音乐🎼",
+            "name": "🎼易听┃音乐",
             "type": 3,
             "api": "csp_MusicAi163Guard",
             "searchable": 1,
@@ -606,7 +553,7 @@
         },
         {
             "key": "MusicAiKuWo",
-            "name": "🎼酷听┃音乐🎼",
+            "name": "🎼酷听┃音乐",
             "type": 3,
             "api": "csp_MusicAiKuWoGuard",
             "searchable": 1,
@@ -614,7 +561,7 @@
         },
         {
             "key": "MusicAiLunHui",
-            "name": "🎼轮回┃舞曲🎼",
+            "name": "🎼轮回┃舞曲",
             "type": 3,
             "api": "csp_MusicAiLunHuiGuard",
             "searchable": 1,
@@ -622,7 +569,7 @@
         },
 		 {
             "key": "MusicAiQingTing",
-            "name": "🎼蜻蜓┃电台🎼",
+            "name": "🎼蜻蜓┃电台",
             "type": 3,
             "api": "csp_MusicAiQingTingGuard",
             "searchable": 1,
@@ -785,7 +732,7 @@
 	},
 		 {
             "key": "LiveAiHuYa",
-            "name": "🐯‍虎牙┃直播🐯‍",
+            "name": "🐯‍虎牙┃直播",
             "type": 3,
             "api": "csp_LiveAiHuYaGuard",
             "searchable": 1,
@@ -793,7 +740,7 @@
         },
         {
             "key": "LiveAiDouYu",
-            "name": "🐳斗鱼┃直播🐳",
+            "name": "🐳斗鱼┃直播",
             "type": 3,
             "api": "csp_LiveAiDouYuGuard",
             "searchable": 1,
@@ -801,31 +748,16 @@
         },
         {
             "key": "LiveAiBiLi",
-            "name": "🅱️哔哩┃直播🅱️",
+            "name": "🅱️哔哩┃直播",
             "type": 3,
             "api": "csp_LiveAiBiLiGuard",
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "AnimeXiFan",
-            "name": "🤡稀饭┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeXiFanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "AnimeCiYuanCheng",
-            "name": "🤡次元┃动漫🤡",
-            "type": 3,
-            "api": "csp_AnimeCiYuanChengGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
+    
         {
             "key": "AnimeAiHuazi",
-            "name": "🤡花海┃动漫🤡",
+            "name": "🤡花海┃动漫",
             "type": 3,
             "api": "csp_AnimeAiHuaziGuard",
             "searchable": 1,
@@ -833,7 +765,7 @@
         },
         {
             "key": "AnimeAiMoDu",
-            "name": "🤡魔都┃动漫🤡",
+            "name": "🤡魔都┃动漫",
             "type": 3,
             "api": "csp_AnimeAiMoDuGuard",
             "searchable": 1,
@@ -841,7 +773,7 @@
         },
         {
             "key": "BookAiShiJie",
-            "name": "🎃‍极品┃听书🎃",
+            "name": "🎃‍极品┃听书",
             "type": 3,
             "api": "csp_BookAiShiJieGuard",
             "searchable": 1,
@@ -849,85 +781,26 @@
         },
         {
             "key": "BookAiYueTing",
-            "name": "🎃‍悦庭┃听书🎃",
+            "name": "🎃‍悦庭┃听书",
             "type": 3,
             "api": "csp_BookAiYueTingGuard",
             "searchable": 1,
             "changeable": 0,
             "timeout": 120
         },
-        {
+         {
             "key": "BookAi23TingShu",
-            "name": "🎃‍爱上┃听书🎃",
+            "name": "🎃‍爱上┃听书",
             "type": 3,
             "api": "csp_BookAi23TingShuGuard",
             "searchable": 1,
             "changeable": 0
         },
-        {
-            "key": "ChildrenAiBaoBao",
-            "name": "👼宝宝┃儿歌👼",
-            "type": 3,
-            "api": "csp_ChildrenAiBaoBaoGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "ChildrenAiBeiWa",
-            "name": "👼贝贝┃儿歌👼",
-            "type": 3,
-            "api": "csp_ChildrenAiBeiWaGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "ChildrenAiTuTu",
-            "name": "👼兔兔┃儿歌👼",
-            "type": 3,
-            "api": "csp_ChildrenAiTuTuGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "MusicAiTangDou",
-            "name": "💃跳舞┃教学💃",
-            "type": 3,
-            "api": "csp_MusicAiTangDouGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "MusicAiLiYuan",
-            "name": "🎎戏曲┃秒播🎎",
-            "type": 3,
-            "api": "csp_MusicAiLiYuanGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
+        
        
         {
             "key": "SportAiFeiQiu",
-            "name": "🌐飞球┃体育🌐",
+            "name": "🌐飞球┃体育",
             "type": 3,
             "api": "csp_SportAiFeiQiuGuard",
             "searchable": 1,
@@ -938,7 +811,7 @@
         },
         {
             "key": "SportAiGuaZi",
-            "name": "🌐瓜子┃体育🌐",
+            "name": "🌐瓜子┃体育",
             "type": 3,
             "api": "csp_SportAiGuaZiGuard",
             "searchable": 1,
@@ -947,17 +820,7 @@
                 "type": "list"
             }
         },
-        {
-            "key": "SportAiKanQiuTong",
-            "name": "🌐球通┃体育🌐",
-            "type": 3,
-            "api": "csp_SportAiKanQiuTongGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
+        
         {
             "key": "SportAiKanqiu",
             "name": "🌐八八┃体育🌐",
@@ -988,66 +851,7 @@
                 "type": "list"
             }
         },
-        {
-            "key": "FakeAi115Share",
-            "name": "💓115┃分享💓‍",
-            "type": 3,
-            "api": "csp_FakeAi115ShareGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "timeout": 50,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "Emby",
-            "name": "💓Emby┃4K💓",
-            "type": 3,
-            "api": "csp_EmbyGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Emby001",
-            "name": "💓Emby001┃4K💓",
-            "type": 3,
-            "api": "csp_EmbyDiyGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "embynumber": 0
-            }
-        },
-        {
-            "key": "AList",
-            "name": "👁️Alist┃DIY👁️",
-            "type": 3,
-            "api": "csp_AListGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "webdav",
-            "name": "👁️WebDav┃DIY👁️",
-            "type": 3,
-            "api": "csp_WebDAVGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "DiyVod",
-            "name": "👁Vod┃DIY👁️",
-            "type": 3,
-            "api": "csp_DiyVodGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
+        
         {
             "key": "biliys",
             "name": "🅱哔哩┃影视🅱",
@@ -1400,12 +1204,47 @@
             "url": "https://down.nigx.cn/raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
             "playerType": 2
         },
+		 {"name": "老汤TV直播","type": 0,"ua": "okhttp","url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"},
+		{"name": "涛涛TV直播","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png","playerType":1},
+		{"name": "广西移动直播","type": 0,"url": "https://gitee.com/hyx2230/IPTV/raw/master/tv.m3u","ua": "Herissmon/2016","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},
         {
             "name": "综合直播",
             "type": 0,
             "playerType": 2,
             "url": "http://193.123.86.190:14888/TV/iptv.php",
             "ua": "bingcha/1.1 (mianfeifenxiang) "
+        },
+		 {
+            "name": "虎牙一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+        {
+            "name": "斗鱼一起看",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+        {
+            "name": "B站直播",
+            "type": 0,
+            "url": "https://file.icve.com.cn/file_doc/220/1003/370FAE41BD301F89BA1FCD6FDB8D5BD6.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
+        },
+       {
+            "name": "YY轮播",
+            "type": 0,
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
+            "playerType": 2,
+            "timeout": 10,
+            "ua": "okHttp/Mod-1.5.0.0"
         }
     ],
     "headers": [
