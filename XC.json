@@ -312,7 +312,7 @@
         },
         {
             "key": "WexAiIkanBot",
-            "name": "🎇爱看┃采集🎇",
+            "name": "🎀爱看┃采集",
             "type": 3,
             "api": "csp_WexAiIkanBotGuard",
             "searchable": 1,
