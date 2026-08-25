@@ -5,9 +5,31 @@
       "type_name": "荒野求生",
       "type_id": "荒野求生超清"
     },
-     {
+    {
       "type_name": "儿童",
       "type_id": "儿童超清"
+    },
+    {
+      "type_name": "英雄联盟",
+      "type_id": "英雄联盟"
+    },
+    {
+      "type_name": "王者荣耀",
+      "type_id": "王者荣耀"
+    },
+    {
+      "type_name": "知名UP主",
+      "type_id": "知名UP主"
+    },
+    {
+      "type_name": "探索发现",
+      "type_id": "探索发现超清"
+    },
+    
+     
+    {
+      "type_name": "百家讲坛",
+      "type_id": "百家讲坛"
     },
     {
       "type_name": "美食",
