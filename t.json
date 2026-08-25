@@ -30,30 +30,9 @@
 {"key": "糯米","name": "🍓糯米┆秒播","type": 3,"api": "csp_NmyswvGuard","timeout": 15,"searchable": 1, "quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7" },
 {"key": "文采", "name": "💮文采┆秒播","type": 3,"api": "csp_JpysGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"},
 {"key": "光影","name": "🌞光影┆不卡","type": 3,"api": "csp_T4Guard","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7", "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
-{
-            "key": "厂长",
-            "name": "📔厂长┆不卡",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
-        {
-            "key": "海绵",
-            "name": "🐬海绵┆不卡",
-            "type": 3,
-            "api": "csp_HmysGuard",
-            "timeout": 10,
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
+{"key": "厂长","name": "📔厂长┆不卡","type": 3,"api": "csp_NewCzGuard", "timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c7
+{ "key": "海绵","name": "🐬海绵┆不卡","type": 3,"api": "csp_HmysGuard","timeout": 10, "playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"},
+	
         {
             "key": "立播",
             "name": "🌟立播┆不卡",
