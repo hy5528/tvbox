@@ -43,15 +43,7 @@
             "quickSearch": 1,
             "changeable": 0
         },
-        {
-            "key": "WexAiWenCai",
-            "name": "💥文才┃秒播",
-            "type": 3,
-            "api": "csp_WexAiWenCaiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
+        
         {
             "key": "賤賤",
             "name": "💥贱片┃秒播",
@@ -108,7 +100,18 @@
             "changeable": 1,
 			"jar": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1"
         },
-    
+        {
+            "key": "文采",
+            "name": "💮文采┆秒播",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 10,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+			"jar": "https://zl.wpscdn.cn/2026/08/19/space_img/3494f72d-11fa-4b7d-934a-3bb976851336.jpg;md5;1fb66ff185ea35252d2ae2a07d058ec1"
+        },
         
         {
             "key": "热播",
