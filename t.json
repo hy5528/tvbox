@@ -33,56 +33,10 @@
 {"key": "厂长","name": "📔厂长┆不卡","type": 3,"api": "csp_NewCzGuard", "timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"},
 { "key": "海绵","name": "🐬海绵┆不卡","type": 3,"api": "csp_HmysGuard","timeout": 10, "playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"},
 {"key": "立播", "name": "🌟立播┆不卡","type": 3,"api": "csp_LibvioGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7","ext": { "Cloud-drive": "tvfan/Cloud-drive.txt","siteUrl": "https://www.libvio.pw/"}},
-        
-        {
-            "key": "比特",
-            "name": "🍄比特┆不卡",
-            "type": 3,
-            "api": "csp_BttwooGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
-        
-        
-        {
-            "key": "播客",
-            "name": "🦊播客┆多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-        },
-        {
-            "key": "剧圈",
-            "name": "🐻剧圈┆多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
-            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
-        },
-       
-        {
-            "key": "奥特",
-            "name": "🏝奥特┆多线",
-            "type": 3,
-            "api": "csp_AueteGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        }, 
+{"key": "比特","name": "🍄比特┆不卡","type": 3,"api": "csp_BttwooGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"},
+{"key": "播客","name": "🦊播客┆多线","type": 3,"api": "csp_AppSxGuard","timeout": 10,"searchable": 1,"quickSearch": 1, "changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7","ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"},
+{"key": "剧圈","name": "🐻剧圈┆多线","type": 3,"api": "csp_AppSxGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7","ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
+{ "key": "奥特", "name": "🏝奥特┆多线","type": 3, "api": "csp_AueteGuard", "timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"}, 
 
         
 {"key":"毒舌影视","name":"🥇毒舌｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/毒舌影视.js"},
