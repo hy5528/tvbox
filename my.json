@@ -506,7 +506,9 @@
             "filterable": 1,
             "playerType": 2
         },
-	{
+        {"key": "看剧影视", "name": "🥇看剧丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py","ext": "http://43.248.117.123:4680"},
+		
+    	{
             "key": "裤佬央视PY",
             "name": "💝央视┆PY",
             "type": 3,
