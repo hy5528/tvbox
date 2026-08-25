@@ -106,6 +106,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 0,
+	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
 	  "style": {
         "type": "rect",
         "ratio": 1.433
