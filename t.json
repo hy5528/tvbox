@@ -38,7 +38,43 @@
 {"key": "剧圈","name": "🐻剧圈┆多线","type": 3,"api": "csp_AppSxGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7","ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
 { "key": "奥特", "name": "🏝奥特┆多线","type": 3, "api": "csp_AueteGuard", "timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"}, 
 
-
+{"key": "蝶卡影视","name": "💝分享┆蝶卡","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"},
+{"key": "厂长影视","name": "💝分享┆厂长","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/厂长影视.py"},
+{"key": "豆花影视","name": "💝分享┆豆花","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/豆花影视.py"},
+{"key": "py_yunduo","name": "💝分享┆云朵","type": 3,"api": "https://clun.top/py/yunduo.py","searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "py_4KAV","name": "💝分享┆4K","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4Kvm.py","quickSearch": 1,"searchable": 1,"filterable": 1},
+  {
+      "key": "4K电影网",
+      "name": "💝分享┆电影",
+      "type": 3,
+      "api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+	{
+            "key": "爱剧",
+            "name": "💝分享┆爱剧",
+            "type": 3,
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
+            "ext": "http://43.248.117.123:4680"
+        },
+      
+       {
+            "key": "py_金牌",
+            "name": "💝金牌┆PY",
+            "type": 3,
+            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "ext": {
+                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
+            }
+        },
 {"key":"华数","name":"🥇华数｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py","changeable":1},
 {"key": "看剧影视", "name": "🥇看剧丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py","ext": "http://43.248.117.123:4680"},
 {"key": "猎手","name": "🥇猎手丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py"},
