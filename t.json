@@ -44,33 +44,15 @@
 {"key": "py_yunduo","name": "💝分享┆云朵","type": 3,"api": "https://clun.top/py/yunduo.py","searchable": 1,"quickSearch": 1,"changeable": 1},
 {"key": "py_4KAV","name": "💝分享┆4K","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4Kvm.py","quickSearch": 1,"searchable": 1,"filterable": 1},
 {"key": "4K电影网","name": "💝分享┆电影","type": 3,"api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
-{
-            "key": "爱剧",
-            "name": "💝分享┆爱剧",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py",
-            "ext": "http://43.248.117.123:4680"
-        },
-      
-       {
-            "key": "py_金牌",
-            "name": "💝金牌┆PY",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "ext": {
-                "site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"
-            }
-        },
-{"key":"华数","name":"🥇华数｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py","changeable":1},
-{"key": "看剧影视", "name": "🥇看剧丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py","ext": "http://43.248.117.123:4680"},
-{"key": "猎手","name": "🥇猎手丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py"},
-{"key": "央视","name": "🥇央视丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py"},
-{"key":"py_文才","name":"🥇文才｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"}},
-{"key": "枫叶","name": "🥇枫叶丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/枫叶.py"},
+{"key": "爱剧","name": "💝分享┆爱剧","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py","ext": "http://43.248.117.123:4680"},
+{"key": "py_金牌","name": "💝金牌┆PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py","style": { "type": "rect","ratio": 1},"ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"}},
+        
+{"key":"华数","name":"💝华数｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/华数.py","changeable":1},
+{"key": "看剧影视", "name": "💝看剧丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/AppToV5.py","ext": "http://43.248.117.123:4680"},
+{"key": "猎手","name": "💝猎手丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py"},
+{"key": "央视","name": "💝央视丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py"},
+{"key":"py_文才","name":"💝文才｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"}},
+{"key": "枫叶","name": "💝枫叶丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/枫叶.py"},
         
 {"key":"毒舌影视","name":"🥇毒舌｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/毒舌影视.js"},
 {"key":"瓜子影视","name":"🥇瓜子｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/GZYS.py","changeable":1},
