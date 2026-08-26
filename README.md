@@ -6,7 +6,7 @@
 -  tvbox下载：https://github.com/o0HalfLife0o/TVBoxOSC/releases
 -  OK影视系列下载 ：
 -https://github.com/ediart/tvbox/releases
--  https://github.com/FongMi/Release
+-  https://github.com/FongMi/Release/tree/fongmi/apk
 -  https://github.com/Silent1566/webhtv/releases
 -  https://github.com/ingriddaleusag-dotcom/PickTV/releases
 
