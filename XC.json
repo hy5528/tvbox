@@ -377,97 +377,16 @@
 {"key": "酷我PY","name": "💕酷我┆PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key":"啊哈DJ网","name":"💕啊哈┆DJ","type":3,"api":"csp_XBPQ","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/啊哈DJ.json","jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5"},
 
+{"key": "bilibigq","name": "🧡吾爱┆歌曲","type": 3,"api": "csp_BiliGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"}},
+{"key": "bilibiyq","name": "💖吾爱┆乐器","type": 3,"api": "csp_BiliGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"}},
+{"key": "bilibimv","name": "🧡吾爱┆MV","type": 3,"api": "csp_BiliGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"}}, 
+{"key": "bilibims","name": "💛吾爱┆美食","type": 3,"api": "csp_BiliGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"}},
+{"key": "bilibiwd","name": "💖吾爱┆哔哩","type": 3,"api": "csp_BiliGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433 },"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"}},
+{"key": "央视","name": "💝央视┆影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/央视.py"},
+{"key": "央视综艺PY","name": "💝央视┆综艺","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"timeout": 60},
       
 		
-		{
-      "key": "bilibigq",
-      "name": "🧡吾爱┆歌曲",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"
-      }
-	},
-	   {
-      "key": "bilibiyq",
-      "name": "💖吾爱┆乐器",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	   "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"
-      }
-	},
-	{
-      "key": "bilibimv",
-      "name": "🧡吾爱┆MV",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"
-      }
-	}, 
-	{
-      "key": "bilibims",
-      "name": "💛吾爱┆美食",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"
-      }
-	},
-	{
-      "key": "bilibiwd",
-      "name": "💖吾爱┆哔哩",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-	  "jar": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
-	  "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"
-      }
-	},
+
 		 {
             "key": "LiveAiHuYa",
             "name": "🐯‍虎牙┃直播",
