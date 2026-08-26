@@ -7,7 +7,8 @@
 -  OK影视系列下载 ：
 -https://github.com/ediart/tvbox/releases
 -  https://github.com/FongMi/Release
--  https://github.com/ingriddaleusag-dotcom/PickTV
+-  https://github.com/Silent1566/webhtv/releases
+-  https://github.com/ingriddaleusag-dotcom/PickTV/releases
 
 
 
