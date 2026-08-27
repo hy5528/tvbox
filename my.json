@@ -272,16 +272,7 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/26/aef2d2a71e866a9a486fac4e4dafe5bb.jpg;md5;05471033e6e8df5c87af5e97d20ee495"
         },
-		{
-      "key": "ylsp_ghpages",
-      "name": "永乐视频(在线·GitHub静态)",
-      "type": 0,
-      "api": "https://simonxu09notion.github.io/ylsp-tvbox/api.json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": ""
-    },
+		
 		{
             "key": "苹果",
             "name": "🎀苹果┆APP",
@@ -540,7 +531,7 @@
        
         {
             "key": "Bili",
-            "name": "🅱哔哔合集┃弹幕",
+            "name": "🅱哔哔┃合集",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -556,7 +547,7 @@
         },
         {
             "key": "Biliych",
-            "name": "🅱哔哔演唱会┃弹幕",
+            "name": "🅱哔哔┃演唱会",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
