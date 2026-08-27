@@ -15,7 +15,7 @@
         },
         {
             "key": "立播",
-            "name": "🌟立播┃不卡",
+            "name": "🌟立播┆不卡",
             "type": 3,
             "api": "csp_LibvioGuard",
             "timeout": 10,
@@ -29,7 +29,7 @@
         },
         {
             "key": "光影",
-            "name": "🌞光影┃不卡",
+            "name": "🌞光影┆不卡",
             "type": 3,
             "api": "csp_T4Guard",
             "searchable": 1,
@@ -39,7 +39,7 @@
         },
         {
             "key": "原创",
-            "name": "👒原创┃不卡",
+            "name": "👒原创┆不卡",
             "type": 3,
             "api": "csp_YCyzGuard",
             "timeout": 15,
@@ -50,7 +50,7 @@
         },
         {
             "key": "厂长",
-            "name": "📔厂长┃不卡",
+            "name": "📔厂长┆不卡",
             "type": 3,
             "api": "csp_NewCzGuard",
             "timeout": 10,
@@ -61,7 +61,7 @@
         },
         {
             "key": "海绵",
-            "name": "🐬海绵┃不卡",
+            "name": "🐬海绵┆不卡",
             "type": 3,
             "api": "csp_HmysGuard",
             "timeout": 10,
@@ -73,7 +73,7 @@
         
         {
             "key": "瓜子",
-            "name": "👀瓜子┃不卡",
+            "name": "👀瓜子┆不卡",
             "type": 3,
             "api": "csp_AppgzGuard",
             "timeout": 15,
@@ -84,7 +84,7 @@
         },
         {
             "key": "比特",
-            "name": "🍄比特┃不卡",
+            "name": "🍄比特┆不卡",
             "type": 3,
             "api": "csp_BttwooGuard",
             "timeout": 10,
@@ -94,7 +94,7 @@
         },
         {
             "key": "糯米",
-            "name": "🍓糯米┃秒播",
+            "name": "🍓糯米┆秒播",
             "type": 3,
             "api": "csp_NmyswvGuard",
             "timeout": 15,
@@ -104,7 +104,7 @@
         },
         {
             "key": "文采",
-            "name": "💮文采┃秒播",
+            "name": "💮文采┆秒播",
             "type": 3,
             "api": "csp_JpysGuard",
             "timeout": 10,
@@ -115,7 +115,7 @@
         },
         {
             "key": "奶酪",
-            "name": "🧀奶酪┃秒播",
+            "name": "🧀奶酪┆秒播",
             "type": 3,
             "api": "csp_T4Guard",
             "searchable": 1,
@@ -125,7 +125,7 @@
         },
         {
             "key": "热播",
-            "name": "📺热播┃多线",
+            "name": "📺热播┆多线",
             "type": 3,
             "api": "csp_AppTTGuard",
             "timeout": 10,
@@ -137,7 +137,7 @@
         },
         {
             "key": "视界",
-            "name": "🌸茉莉┃多线",
+            "name": "🌸茉莉┆多线",
             "type": 3,
             "api": "csp_App99Guard",
             "timeout": 10,
@@ -148,7 +148,7 @@
         },
         {
             "key": "播客",
-            "name": "🦊播客┃多线",
+            "name": "🦊播客┆多线",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -159,7 +159,7 @@
         },
         {
             "key": "剧圈",
-            "name": "🐻剧圈┃多线",
+            "name": "🐻剧圈┆多线",
             "type": 3,
             "api": "csp_AppSxGuard",
             "timeout": 10,
@@ -170,7 +170,7 @@
         },
         {
             "key": "荐片",
-            "name": "🥝荐片┃多线",
+            "name": "🥝荐片┆多线",
             "type": 3,
             "api": "csp_JPJGuard",
             "timeout": 10,
@@ -181,7 +181,7 @@
         },
         {
             "key": "奥特",
-            "name": "🏝奥特┃多线",
+            "name": "🏝奥特┆多线",
             "type": 3,
             "api": "csp_AueteGuard",
             "timeout": 10,
@@ -352,7 +352,7 @@
 {"key": "央视综艺PY","name": "💝央视┆综艺","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"timeout": 60},
          {
             "key": "MTV1",
-            "name": "🎙️易听┃音乐",
+            "name": "🎙️易听┆音乐",
             "type": 3,
             "api": "csp_MusicGuard",
             "style": {
