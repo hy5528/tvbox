@@ -13,18 +13,19 @@
             "quickSearch": 0,
             "changeable": 0
         },
-       
-       
         {
-            "key": "seed",
-            "name": "💡聚剧┃四盘",
+            "key": "立播",
+            "name": "🌟立播┃不卡",
             "type": 3,
-            "api": "csp_SeedhubGuard",
-            "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
+            "api": "csp_LibvioGuard",
+            "timeout": 10,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0,
-            "indexs": 0
+            "changeable": 1,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt",
+                "siteUrl": "https://www.libvio.pw/"
+            }
         },
         {
             "key": "光影",
@@ -69,20 +70,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-        {
-            "key": "立播",
-            "name": "🌟立播┃不卡",
-            "type": 3,
-            "api": "csp_LibvioGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "siteUrl": "https://www.libvio.pw/"
-            }
-        },
+        
         {
             "key": "瓜子",
             "name": "👀瓜子┃不卡",
