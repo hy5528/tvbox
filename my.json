@@ -382,7 +382,7 @@
        
         {
             "key": "Dm84",
-            "name": "🚌巴士┃动漫",
+            "name": "🚌巴士┆动漫",
             "type": 3,
             "api": "csp_Dm84Guard",
             "timeout": 10,
@@ -392,7 +392,7 @@
         },
         {
             "key": "看球",
-            "name": "⚽八八┃看球",
+            "name": "⚽八八┆看球",
             "type": 3,
             "api": "csp_KanqiuGuard",
             "timeout": 10,
@@ -404,7 +404,7 @@
         },
         {
             "key": "多多",
-            "name": "🏀多多┃回放",
+            "name": "🏀多多┆回放",
             "type": 3,
             "api": "csp_DoubaoGuard",
             "searchable": 0,
@@ -416,7 +416,7 @@
         },
         {
             "key": "吃瓜",
-            "name": "🏐吃瓜┃看球",
+            "name": "🏐吃瓜┆看球",
             "type": 3,
             "api": "csp_LiveGzGuard",
             "searchable": 0,
@@ -428,7 +428,7 @@
         },
         {
             "key": "alllive",
-            "name": "🎮一直播┃直播",
+            "name": "🎮一直播┆直播",
             "type": 3,
             "api": "csp_AllliveGuard",
             "style": {
@@ -444,7 +444,7 @@
         },
         {
             "key": "MTV",
-            "name": "🎶明星┃MV",
+            "name": "🎶明星┆MV",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -460,7 +460,7 @@
         },
         {
             "key": "有声小说",
-            "name": "🎧有声┃小说",
+            "name": "🎧有声┆小说",
             "type": 3,
             "api": "csp_Tingshu275Guard",
             "style": {
@@ -473,7 +473,7 @@
         },
         {
             "key": "Aid",
-            "name": "🚑急救┃教学",
+            "name": "🚑急救┆教学",
             "type": 3,
             "api": "csp_FirstAidGuard",
             "searchable": 0,
@@ -486,7 +486,7 @@
         },
         {
             "key": "虎牙js",
-            "name": "🐯虎牙┃直播",
+            "name": "🐯虎牙┆直播",
             "type": 3,
             "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/虎牙.js",
@@ -502,7 +502,7 @@
         },
         {
             "key": "斗鱼js",
-            "name": "🐟斗鱼┃直播",
+            "name": "🐟斗鱼┆直播",
             "type": 3,
             "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/斗鱼直播.js",
@@ -519,7 +519,7 @@
        
         {
             "key": "Bili",
-            "name": "🅱哔哔┃合集",
+            "name": "🅱哔哔┆合集",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -535,7 +535,7 @@
         },
         {
             "key": "Biliych",
-            "name": "🅱哔哔┃演唱会",
+            "name": "🅱哔哔┆演唱会",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -551,7 +551,7 @@
         },
         {
             "key": "dr_兔小贝",
-            "name": "📚儿童┃启蒙",
+            "name": "📚儿童┆启蒙",
             "type": 3,
             "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
@@ -565,7 +565,7 @@
         },
         {
             "key": "少儿教育",
-            "name": "📚少儿┃教育",
+            "name": "📚少儿┆教育",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -581,7 +581,7 @@
         },
         {
             "key": "小学课堂",
-            "name": "📚小学┃课堂",
+            "name": "📚小学┆课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -597,7 +597,7 @@
         },
         {
             "key": "初中课堂",
-            "name": "📚初中┃课堂",
+            "name": "📚初中┆课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -613,7 +613,7 @@
         },
         {
             "key": "高中教育",
-            "name": "📚高中┃课堂",
+            "name": "📚高中┆课堂",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
@@ -629,7 +629,7 @@
         },
         {
             "key": "push_agent",
-            "name": "🛴手机┃推送",
+            "name": "🛴手机┆推送",
             "type": 3,
             "api": "csp_PushGuard",
             "searchable": 0,
