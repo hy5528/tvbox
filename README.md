@@ -9,6 +9,9 @@
 -  https://github.com/FongMi/Release/tree/fongmi/apk
 -  https://github.com/Silent1566/webhtv/releases
 -  https://github.com/ingriddaleusag-dotcom/PickTV/releases
+-  全能接口解密:https://fty.888484.xyz/jm/
+-  王二小第三代接口： 1、 https://9280.kstore.vip/aiwex.json 2、 https://9280.kstore.space/aiwex.json
+-  欧歌 https://xn--jory77o.v.nxog.top/m/
 
 
 
