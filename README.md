@@ -12,6 +12,8 @@
 -  全能接口解密:https://fty.888484.xyz/jm/
 -  王二小第三代接口： 1、 https://9280.kstore.vip/aiwex.json 2、 https://9280.kstore.space/aiwex.json
 -  欧歌 https://xn--jory77o.v.nxog.top/m/
-
+-  饭太硬 http://www.饭太硬.net/tv
+-  摸鱼儿 http://我不是.摸鱼儿.top
+-  哈基米 https://17264.kstore.space/哈基米.png
 
 
