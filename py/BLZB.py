@@ -122,7 +122,7 @@ class Spider(Spider):
         result = {}
         result = {"class": [{"type_id": "舞", "type_name": "舞蹈"},
                             {"type_id": "音乐", "type_name": "音乐"},
-                            {"type_id": "无损音乐", "type_name": "无损音乐"},
+                            {"type_id": "经典无损音乐合集", "type_name": "经典合集"},
                             {"type_id": "手游", "type_name": "手游"},
                             {"type_id": "网游", "type_name": "网游"},
                             {"type_id": "单机游戏", "type_name": "单机游戏"},
