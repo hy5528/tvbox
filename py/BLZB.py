@@ -122,6 +122,8 @@ class Spider(Spider):
         result = {}
         result = {"class": [{"type_id": "舞", "type_name": "舞蹈"},
                             {"type_id": "音乐", "type_name": "音乐"},
+                            {"type_id": "MV4K", "type_name": "MV"},
+                            {"type_id": "歌曲", "type_name": "歌曲"},
                             {"type_id": "粤语歌曲超清", "type_name": "粤语"},
                             {"type_id": "手游", "type_name": "手游"},
                             {"type_id": "网游", "type_name": "网游"},
