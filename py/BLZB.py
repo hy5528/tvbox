@@ -122,7 +122,6 @@ class Spider(Spider):
         result = {}
         result = {"class": [{"type_id": "舞", "type_name": "舞蹈"},
                             {"type_id": "音乐", "type_name": "音乐"},
-                            {"type_id": "2026年热们歌曲超清", "type_name": "热榜"},
                             {"type_id": "歌曲", "type_name": "歌曲"},
                             {"type_id": "粤语歌曲超清", "type_name": "粤语"},
                             {"type_id": "手游", "type_name": "手游"},
