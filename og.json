@@ -4,8 +4,8 @@
 "spider":"https://ncstatic-file.clewm.net/rsrc/2026/0820/00/fabb11d153077bd3f42e017a99d88e9e.jpg;md5;445f75929716e42ffc40a31cec0f9fe0","warningText":"双龙提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wallpaper","danmaku":"http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 "sites": [
-{"key":"豆瓣2","name":"📢🌕️豆瓣！严谨用于任何商业用途！","type":3,"api":"csp_Douban","searchable":0},
-        
+{"key":"豆瓣2","name":"📢🌕️豆瓣！严谨用于任何商业用途！","type":3,"api":"csp_Douban","searchable":0,"quickSearch": 0,"filterable": 0},
+      
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
 {"key":"农民影视","name":"💡农民｜影视","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
 {"key":"骚火影视","name":"💡骚火｜影视","type":3,"api":"csp_SaoHuo","playerType":2,"ext":"https://shdy5.us"},
