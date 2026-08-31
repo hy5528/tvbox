@@ -3,7 +3,7 @@
 "spider":"https://ncstatic-file.clewm.net/rsrc/2026/0820/00/fabb11d153077bd3f42e017a99d88e9e.jpg;md5;445f75929716e42ffc40a31cec0f9fe0","warningText":"双龙提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wallpaper","danmaku":"http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 "sites": [
-{"key":"豆瓣2","name":"📢🌕️豆瓣！严谨用于任何商业用途！","type":3,"api":"csp_Douban","searchable":0},
+//  {"key":"豆瓣2","name":"📢🌕️豆瓣！严谨用于任何商业用途！","type":3,"api":"csp_Douban","searchable":0},
 
         
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
@@ -51,7 +51,7 @@
 {"key": "py_独播库","name": "💝独播丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/独播库.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key": "py_可可影视","name": "💝可可丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kkys.py","order_num": 5,"ext": ""}, 
 
-// {"key": "py_瓜子影视","name": "💝瓜子丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py","order_num": 5,"ext": ""}, 
+{"key": "py_瓜子影视","name": "💝瓜子丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py","order_num": 5,"ext": ""}, 
 
 {"key": "py_shanzha","name": "💝山楂丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/shanzha.py","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {}},
 {"key": "高清点播","name": "💝高清丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"},
