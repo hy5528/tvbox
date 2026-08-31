@@ -57,8 +57,9 @@
 {"key": "py_金牌","name": "💝金牌丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py","style": { "type": "rect","ratio": 1},"ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"}},
 {"key": "py_独播库","name": "💝独播丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/独播库.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key": "py_可可影视","name": "💝可可丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kkys.py","order_num": 5,"ext": ""}, 
-{"key": "py_多多视频电影","name": "💝多多丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/duoduo.py"},
+
 {"key": "py_瓜子影视","name": "💝瓜子丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py","order_num": 5,"ext": ""}, 
+
 {"key": "py_shanzha","name": "💝山楂丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/shanzha.py","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {}},
 {"key": "高清点播","name": "💝高清丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"},
 {"key": "耐看","name": "💝耐看丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/耐看.py"},  
