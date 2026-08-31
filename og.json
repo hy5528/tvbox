@@ -153,7 +153,22 @@
 {"key": "bilibimv","name": "🧡吾爱┆MV","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"}}, 
 {"key": "bilibims","name": "💛吾爱┆美食","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"}},
 {"key": "bilibiwd","name": "💖吾爱┆哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433 },"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"}},
-
+{
+            "key": "阅读助手",
+            "name": "💖阅读┆助手",
+            "type": 3,
+            "api": "csp_ProxySpider",
+			"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/pro.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1,
+            "ext": {
+                "class": "ReaderHelper"
+            }
+        },
+	
 {"key":"急救教学","name":"🚑急救｜教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"},
 {"key":"本地","name":"🚤本地｜视频","type":3,"api":"csp_LocalFile"},
 
