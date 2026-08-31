@@ -550,6 +550,12 @@
 {"key": "爱听音乐","name": "💕爱听┆PY","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"},
 {"key": "酷我PY","name": "💕酷我┆PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kuwo.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 
+{"key": "bilibigq","name": "🧡吾爱┆歌曲","type": 3,"api": "csp_BiliYS","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bilisong.txt"}},
+{"key": "bilibiyq","name": "💖吾爱┆乐器","type": 3,"api": "csp_BiliYS","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱乐器.txt"}},
+{"key": "bilibimv","name": "🧡吾爱┆MV","type": 3,"api": "csp_BiliYS","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱MV.txt"}}, 
+{"key": "bilibims","name": "💛吾爱┆美食","type": 3,"api": "csp_BiliYS","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/吾爱美食.txt"}},
+{"key": "bilibiwd","name": "💖吾爱┆哔哩","type": 3,"api": "csp_BiliYS","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433 },"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"}},
+{"key":	  
     {
       "key": "急救教学",
       "name": "🚑急救｜教学",
