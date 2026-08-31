@@ -29,7 +29,14 @@
 {"key":"茉莉","name":"👑茉莉丨APP","type":3,"api":"csp_AppGet","searchable":1,"changeable":1,"ext":{"site":"https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt","dataKey":"88689667dce61725","dataIv":"88689667dce61725"}},
 {"key":"荐片","name":"👑荐片｜影视","api":"csp_JianPian","type":3,"ext": "https://api.ztcgi.com"},
 
-
+{"key": "WexAiDuBoKu","name": "💥独播┃秒播","type": 3,"api": "csp_WexAiDuBoKuGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/31/2be76beb140cc1b3f9b234a447b5c2d1.jpg;md5;5d6d2aa56462376588fd72c19243e92e"},
+{"key": "WexAiYueYue","name": "💥闪电┃秒播","type": 3,"api": "csp_WexAiYueYueGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/31/2be76beb140cc1b3f9b234a447b5c2d1.jpg;md5;5d6d2aa56462376588fd72c19243e92e"},
+{"key": "賤賤","name": "💥贱片┃秒播","type": 3,"api": "csp_WexAiJianPianGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/31/2be76beb140cc1b3f9b234a447b5c2d1.jpg;md5;5d6d2aa56462376588fd72c19243e92e"},
+{"key": "WexAiYiYs","name": "💥伊影┃秒播","type": 3,"api": "csp_WexAiYiYsGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/31/2be76beb140cc1b3f9b234a447b5c2d1.jpg;md5;5d6d2aa56462376588fd72c19243e92e"},
+{"key": "WexAiReBo","name": "💥热播┃秒播","type": 3,"api": "csp_WexAiReBoGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/31/2be76beb140cc1b3f9b234a447b5c2d1.jpg;md5;5d6d2aa56462376588fd72c19243e92e"},
+{"key": "WexAiBoBo","name": "💥伯伯┃秒播","type": 3,"api": "csp_WexAiBoBoGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/31/2be76beb140cc1b3f9b234a447b5c2d1.jpg;md5;5d6d2aa56462376588fd72c19243e92e"},
+{"key": "WexHanXiaoQuan","name": "💥韩剧┃秒播","type": 3,"api": "csp_WexAiHanXiaoQuanGuard","searchable": 1,"quickSearch": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/31/2be76beb140cc1b3f9b234a447b5c2d1.jpg;md5;5d6d2aa56462376588fd72c19243e92e"},
+	
  { "key": "苹果","name": "🎀苹果┆APP","type": 3,"api": "csp_AppDrama","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/%E6%BD%87%E6%B4%92/spider.jar",
   "ext": {"appName": "小苹果5","publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
   "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==","dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E","pkg": "com.juechufsh.android.xpg1","host": "","site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt","version": "1.0.0.3","decrypt": "0"}
