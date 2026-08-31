@@ -163,17 +163,15 @@
 //动漫
 
 {"key":"魔都资源","name":"🤣魔都┃动漫","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Anime1","name":"🤣A1 ┃动漫","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/Anime1.js"},
 {"key":"方舟动漫","name":"🤣方舟┃动漫","type":3,"searchable":1,"api":"csp_AppGet","ext":{"url":"https://www.cyfz.top","dataKey":"e72cdfd629e8895d","dataIv":"e72cdfd629e8895d"}},
 {"key":"曼波动漫","name":"🤣曼波┃动漫","type":3,"searchable":1,"api":"csp_AppGet","ext":{"url":"https://app.omofun1.top","dataKey":"66dc309cbeeca454","dataIv":"66dc309cbeeca454"}},
 {"key":"巴士动漫","name":"🤣巴士┃动漫","type":3,"api":"csp_XYQHiker","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/BSDM.json"},
 {"key":"路漫漫","name":"🤣路漫漫┃动漫","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/drpy2.min.js","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/LMM.js"},
-{"key":"哆啦新番社","name":"🤣哆啦┃新番社","type":3,"api":"csp_XBPQ","style":{"type":"list"},"ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/json/DLXFS.json"},
+
 //学习
 
 {"key":"Cat_聚合儿歌","name":"👶聚合丨儿童","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/erge_juhe.js","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"Cat_聚合知识","name":"👶聚合丨知识","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/zhishi_juhe.js","searchable":1,"quickSearch":0,"filterable":1},
-{"key":"哔️软件","name":"🅰️软件┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/软件教程.json"},"style":{"type":"rect","ratio":1.597}},
 {"key":"哔哩学堂","name":"🅰学堂┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/学堂教育.json"},"style":{"type":"rect","ratio":1.597}},
 {"key":"哔哩少儿","name":"🅰少儿┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/少儿合集.json"},"style":{"type":"rect","ratio":1.597}},
 {"key":"️小学","name":"🅰️小学┃哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":0,"ext":{"cookie":"http://127.0.0.1:9978/file/TVBox/bili_cookie.txt","json":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/Bil/小学课堂.json"},"style":{"type":"rect","ratio":1.597}},
