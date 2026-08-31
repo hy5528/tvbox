@@ -7,7 +7,7 @@
   "sites" : [
     {
       "key": "豆瓣2",
-      "name": "📢豆瓣，请勿演示贩卖购买，谨防上当受骗！",
+      "name": "📢豆瓣，请勿演示贩卖购买！",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
