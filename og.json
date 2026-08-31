@@ -7,7 +7,7 @@
   "sites" : [
     {
       "key": "豆瓣2",
-      "name": "📢仅限测试用，请勿演示贩卖购买，谨防上当受骗！",
+      "name": "📢豆瓣，请勿演示贩卖购买，谨防上当受骗！",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -342,7 +342,7 @@
       "key": "枫叶",
       "name": "🥇枫叶丨影视",
       "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/枫叶.py"
+      "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/maple.py"
     },
     {
       "key": "星河",
