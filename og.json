@@ -1152,20 +1152,7 @@
         "ratio": 1.597
       }
     },
-    {
-      "key": "Nostr",
-      "name": "🐉Nostr推荐",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "https://v.nxog.top/nostr/nostr.html"
-    },
-    {
-      "key": "Nostr2",
-      "name": "🐉Nostr玩偶集",
-      "type": 3,
-      "api": "csp_Nostr",
-      "homePage": "https://v.nxog.top/nostr/ouge2.html"
-    },
+   
     {
       "key": "push_agent",
       "name": "📢手机｜推送",
@@ -1298,6 +1285,9 @@
       "playerType": 2,
       "timeout": 10
     },
+	{"name": "老汤TV直播","type": 0,"ua": "okhttp","url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"},
+	{"name": "涛涛TV直播","type": 0,"url": "https://gh-proxy.org/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png","playerType":1},
+    {"name": "广西移动直播","type": 0,"url": "https://gitee.com/hyx2230/IPTV/raw/master/tv.m3u","ua": "Herissmon/2016","epg": "http://epg.112114.xyz/?ch={name}&date={date}"},  
     {
       "name": "冰茶",
       "type": 0,
