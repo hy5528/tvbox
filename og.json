@@ -5,7 +5,7 @@
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wallpaper",
 "danmaku":"http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 "sites": [
-{"key":"豆瓣2","name":"📢万事顺意、喜气洋洋、阖家幸福、岁岁平安！","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣2","name":"📢豆瓣｜影视",,"type":3,"api":"csp_Douban","searchable":0},
 
 //jar
 
