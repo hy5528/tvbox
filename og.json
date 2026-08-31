@@ -30,7 +30,7 @@
 {"key":"荐片","name":"👑荐片｜影视","api":"csp_JianPian","type":3,"ext": "https://api.ztcgi.com"},
 
 
-// { "key": "苹果","name": "🎀苹果┆APP","type": 3,"api": "csp_AppDrama","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/%E6%BD%87%E6%B4%92/spider.jar",
+{ "key": "苹果","name": "🎀苹果┆APP","type": 3,"api": "csp_AppDrama","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://gh-proxy.org/https://github.com/ls125781003/tvboxtg/blob/main/%E6%BD%87%E6%B4%92/spider.jar",
   "ext": {"appName": "小苹果5","publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
   "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==","dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E","pkg": "com.juechufsh.android.xpg1","host": "","site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt","version": "1.0.0.3","decrypt": "0"}
  },
@@ -51,7 +51,7 @@
 {"key": "py_独播库","name": "💝独播丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/独播库.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key": "py_可可影视","name": "💝可可丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kkys.py","order_num": 5,"ext": ""}, 
 
-{"key": "py_瓜子影视","name": "💝瓜子丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py","order_num": 5,"ext": ""}, 
+// {"key": "py_瓜子影视","name": "💝瓜子丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py","order_num": 5,"ext": ""}, 
 
 {"key": "py_shanzha","name": "💝山楂丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/shanzha.py","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {}},
 {"key": "高清点播","name": "💝高清丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/高清点播4K.py"},
