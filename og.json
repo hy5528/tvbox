@@ -4,17 +4,7 @@
 "wallpaper":"http://127.0.0.1:9978/proxy?do=wallpaper","danmaku":"http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 "sites": [
 {"key":"豆瓣2","name":"📢🌕️豆瓣！严谨用于任何商业用途！","type":3,"api":"csp_Douban","indexs": 1,"searchable":0},
-{
-            "key": "点我切源",
-            "name": "🌕️豆瓣┆精选",
-            "type": 3,
-            "api": "csp_DouDouGuard",
-            "indexs": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-	        "jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-},
+
         
 {"key":"热播影视","name":"💡热播｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.rbotv.cn"}},
 {"key":"农民影视","name":"💡农民｜影视","type":3,"api":"csp_Wwys","ext":"https://vip.wwgz.cn:5200"},
