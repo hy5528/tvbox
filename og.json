@@ -47,13 +47,7 @@
 	 
 {"key": "直播转点播","name": "📺电视┆点播","playerType": 1,"type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/js/lib/zb.min.js","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/zb.json"},
         
-{"key": "蝶卡影视","name": "💝分享丨蝶卡","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/蝶卡影视.py"},
-{"key": "厂长影视","name": "💝分享丨厂长","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/厂长影视.py"},
-{"key": "豆花影视","name": "💝分享丨豆花","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/FGBLH/HKL/refs/heads/main/py/豆花影视.py"},
-{"key": "py_yunduo","name": "💝分享丨云朵","type": 3,"api": "https://clun.top/py/yunduo.py","searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key": "py_4KAV","name": "💝分享丨4K","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/4Kvm.py","quickSearch": 1,"searchable": 1,"filterable": 1},
-{"key": "4K电影网","name": "💝分享丨电影","type": 3,"api": "https://15487.kstore.space/4K%E7%94%B5%E5%BD%B1%E7%BD%91.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
-{"key": "爱剧","name": "💝分享丨爱剧","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/tt/refs/heads/0/ppx.py","ext": "http://43.248.117.123:4680"},
+
 {"key": "py_金牌","name": "💝金牌丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/金牌影视.py","style": { "type": "rect","ratio": 1},"ext": {"site": "https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.sizhengxt.com"}},
 {"key": "py_独播库","name": "💝独播丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/独播库.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2},
 {"key": "py_可可影视","name": "💝可可丨PY","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/kkys.py","order_num": 5,"ext": ""}, 
