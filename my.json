@@ -248,7 +248,72 @@
             "changeable": 0,
 			"jar": "http://oss4liview.moji.com/thd_file/2026/08/26/aef2d2a71e866a9a486fac4e4dafe5bb.jpg;md5;05471033e6e8df5c87af5e97d20ee495"
         },
-		
+		{
+      "key" : "热播影视",
+      "name" : "💡热播｜影视",
+      "type" : 3,
+      "api" : "csp_AppRJ",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 0,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : {
+        "url" : "http://v.rbotv.cn"
+      }
+    },
+    {
+      "key" : "农民影视",
+      "name" : "💡农民｜影视",
+      "type" : 3,
+      "api" : "csp_Wwys",
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2", 
+      "ext" : "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key" : "三六零",
+      "name" : "💡三六｜视频",
+      "type" : 3,
+      "api" : "csp_SP360",
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2"
+    },
+    {
+      "key" : "骚火影视",
+      "name" : "💡骚火｜影视",
+      "type" : 3,
+      "api" : "csp_SaoHuo",
+      "playerType" : 2,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : "https://shdy5.us"
+    },
+    {
+      "key" : "金牌影视",
+      "name" : "💡金牌｜影视",
+      "type" : 3,
+      "api" : "csp_Jpys",
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },
+    {
+      "key" : "爱看机器人",
+      "name" : "💡爱看｜影视",
+      "type" : 3,
+      "api" : "csp_Ikanbot",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2"
+    },
+    {
+      "key" : "1905",
+      "name" : "💡1905｜影视",
+      "type" : 3,
+      "api" : "csp_Web1905",
+      "searchable" : 1,
+      "quickSearch" : 0,
+      "filterable" : 0,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2"
+    },
+    
 		{
             "key": "苹果",
             "name": "🎀苹果┆APP",
