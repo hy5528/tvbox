@@ -499,8 +499,7 @@
 		
 {"key": "七星短剧","name": "🎭七星┆短剧","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/七星短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},        
 {"key": "py_XY影视","name": "🎭星芽┆短剧","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py","order_num": 5,"ext": ""},
-{"key": "DJHub","name": "🎭短剧┆聚合","type": 3,"api": "csp_DJHub","searchable": 1, "quickSearch": 1,"genre": "shortdrama","filterable": 1,"changeable": 1,"jar": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/jar/fish08022249.jar"},
-{"key": "cj_暴风资源","name": "🎭暴风┆短剧","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 0,"quickSearch": 1,"filterable": 1,"playerType": 2,"jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar","categories": ["短剧大全","反转爽文","穿越年代","重生民国","现代言情","女恋总裁","都市脑洞","闪婚离婚","古装仙侠"]},
+{"key": "cj_暴风资源","name": "🎭暴风┆短剧","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 0,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["短剧大全","反转爽文","穿越年代","重生民国","现代言情","女恋总裁","都市脑洞","闪婚离婚","古装仙侠"]},
 { "key": "七猫","name": "🎭七猫┆短剧","type": 3,"api": "https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"},
 	
 {"key": "MusicAiKuWoa","name": "💕小酷┆音乐","type": 3,"api": "csp_MusicAiKuWoaGuard","searchable": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/26/aef2d2a71e866a9a486fac4e4dafe5bb.jpg;md5;05471033e6e8df5c87af5e97d20ee495"},
