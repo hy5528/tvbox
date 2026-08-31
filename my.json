@@ -309,7 +309,20 @@
 {"key": "猎手","name": "💝猎手┆PY","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/猎手.py"},
 {"key":"py_文才","name":"💝文才┆PY","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"}},
 {"key": "枫叶","name": "💝枫叶丨PY","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/maple.py"},
-        
+
+{
+      "key": "python集合",
+      "name": "python集合",
+      "type": 4,
+      "api": "https://zhangqun1818.serv00.net/py.php",
+      "searchable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "changeable": 1
+    },
+		
 {"key": "影视播放","name": "🌟老张┆影视","type": 4,"api": "http://zhangqun1818.serv00.net/zh/2242.php"}, 
 {"key": "影视单播放","name": "🌟影视┆播放","type": 4,"api": "http://zhangqun1818.serv00.net/zh/2243.php"},
 		
