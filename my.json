@@ -8,7 +8,6 @@
             "name": "🌕️豆瓣┆精选",
             "type": 3,
             "api": "csp_DouDouGuard",
-            "indexs": 1,
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0
