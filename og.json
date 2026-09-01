@@ -134,7 +134,7 @@
 {"key": "七星短剧","name": "🎭七星┆短剧","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/七星短剧.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},        
 {"key": "py_XY影视","name": "🎭星芽┆短剧","type": 3,"searchable": 1,"quickSearch": 1, "filterable": 1,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/XYDJ.py","order_num": 5,"ext": ""},
 {"key": "cj_暴风资源","name": "🎭暴风┆短剧","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 0,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["短剧大全","反转爽文","穿越年代","重生民国","现代言情","女恋总裁","都市脑洞","闪婚离婚","古装仙侠"]},
-{"key": "豆瓣资源","name": "🎭豆瓣┆短剧","type": 1,"api": "https://caiji.dbzy5.com/api.php/provide/vod","searchable": 0,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["短剧大全","反转爽剧","穿越现代","重生民国","现代都市","言情总裁","悬疑烧脑","古装仙侠"]},	
+{"key":"豆瓣资源","name":"🎭豆瓣┆短剧","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod","searchable":1,"changeable":1,"categories": ["短剧大全","反转爽剧","穿越现代","重生民国","现代都市","言情总裁","悬疑烧脑","古装仙侠"]},	
 { "key": "七猫","name": "🎭七猫┆短剧","type": 3,"api": "https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"},
 
 //音乐	
