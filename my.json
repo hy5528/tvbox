@@ -502,8 +502,9 @@
 {"key": "暴风短剧","name": "🎭暴风┆短剧","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","searchable": 0,"quickSearch": 1,"filterable": 1,"playerType": 2,"categories": ["短剧大全","反转爽文","穿越年代","重生民国","现代言情","女恋总裁","都市脑洞","闪婚离婚","古装仙侠"]},
 {"key":"豆瓣短剧","name":"🎭豆瓣┆短剧","type":1,"api":"https://caiji.dbzy5.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["短剧大全", "反转爽剧","穿越现代","重生民国","现代都市","言情总裁","悬疑烧脑","古装仙侠"]},
 {"key":"360短剧","name":"🎭360┆短剧","type":1,"api":"https://360zyzz.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["爽文短剧","年代穿越","重生民国","现代都市","女频恋爱","成长逆袭","古装仙侠"]},		
+{"key":"高清短剧","name":"🎭高清┆短剧","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod","searchable":1,"changeable":1,"categories":["爽文短剧","年代穿越","反转爽剧","脑洞悬疑","现代都市","女频恋爱","古装仙侠"]},		
 { "key": "七猫","name": "🎭七猫┆短剧","type": 3,"api": "https://mpimg.cn/down.php/fd932d46caef0995cb0b6936f0413946.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://mpimg.cn/down.php/c59de26e29fde1eba9fe6b0f79772e8f.jar"},
-	
+
 {"key": "MusicAiKuWoa","name": "💕小酷┆音乐","type": 3,"api": "csp_MusicAiKuWoaGuard","searchable": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/26/aef2d2a71e866a9a486fac4e4dafe5bb.jpg;md5;05471033e6e8df5c87af5e97d20ee495"},
 {"key": "MusicAi163","name": "💕易听┆音乐","type": 3,"api": "csp_MusicAi163Guard","searchable": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/26/aef2d2a71e866a9a486fac4e4dafe5bb.jpg;md5;05471033e6e8df5c87af5e97d20ee495"},
 {"key": "MusicAiLunHui","name": "💕轮回┆舞曲","type": 3,"api": "csp_MusicAiLunHuiGuard","searchable": 1,"changeable": 0,"jar": "http://oss4liview.moji.com/thd_file/2026/08/26/aef2d2a71e866a9a486fac4e4dafe5bb.jpg;md5;05471033e6e8df5c87af5e97d20ee495"},
