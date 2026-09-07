@@ -89,166 +89,189 @@
             "quickSearch": 1,
             "changeable": 0
         },
-		{
-            "key": "糯米",
-            "name": "🍓糯米┆秒播",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
-        {
-            "key": "文采",
-            "name": "💮文采┆秒播",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
-        
-        {
-            "key": "热播",
-            "name": "📺热播┆多线",
-            "type": 3,
-            "api": "csp_AppTTGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
-            "ext": "uqGL1bNENExT7/hGxpSE5qU="
-        },
-        {
-            "key": "光影",
-            "name": "🌞光影┆不卡",
-            "type": 3,
-            "api": "csp_T4Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
-            "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
-        },
-        
-        {
-            "key": "厂长",
-            "name": "📔厂长┆不卡",
-            "type": 3,
-            "api": "csp_NewCzGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
-        {
-            "key": "海绵",
-            "name": "🐬海绵┆不卡",
-            "type": 3,
-            "api": "csp_HmysGuard",
-            "timeout": 10,
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
-        {
-            "key": "立播",
-            "name": "🌟立播┆不卡",
-            "type": 3,
-            "api": "csp_LibvioGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
-            "ext": {
-                "Cloud-drive": "tvfan/Cloud-drive.txt",
-                "siteUrl": "https://www.libvio.pw/"
-            }
-        },
-        
-        {
-            "key": "比特",
-            "name": "🍄比特┆不卡",
-            "type": 3,
-            "api": "csp_BttwooGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
-        
-        {
-            "key": "视界",
-            "name": "🌸茉莉┆多线",
-            "type": 3,
-            "api": "csp_App99Guard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
-            "ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="
-        },
-        {
-            "key": "播客",
-            "name": "🦊播客┆多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
-            "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
-        },
-        {
-            "key": "剧圈",
-            "name": "🐻剧圈┆多线",
-            "type": 3,
-            "api": "csp_AppSxGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7",
-            "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
-        },
-        {
-            "key": "荐片",
-            "name": "🥝荐片┆多线",
-            "type": 3,
-            "api": "csp_JPJGuard",
-            "timeout": 10,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
-        {
-            "key": "奥特",
-            "name": "🏝奥特┆多线",
-            "type": 3,
-            "api": "csp_AueteGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-			"jar": "https://zl.wpscdn.cn/2026/08/25/space_img/e04925c9-bc41-4181-b3fb-6655891c8a0c.jpg;md5;608d621640f5ed5ae8c78158ca61bff7"
-        },
+	{
+      "key" : "农民影视",
+      "name" : "💡农民｜影视",
+      "type" : 3,
+      "api" : "csp_Wwys",
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2", 
+      "ext" : "https://vip.wwgz.cn:5200"
+    },
+    {
+      "key" : "三六零",
+      "name" : "💡三六｜视频",
+      "type" : 3,
+      "api" : "csp_SP360",
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2"
+    },
+    {
+      "key" : "骚火影视",
+      "name" : "💡骚火｜影视",
+      "type" : 3,
+      "api" : "csp_SaoHuo",
+      "playerType" : 2,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : "https://shdy5.us"
+    },
+    {
+      "key" : "金牌影视",
+      "name" : "💡金牌｜影视",
+      "type" : 3,
+      "api" : "csp_Jpys",
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+    },
+    {
+      "key" : "爱看机器人",
+      "name" : "💡爱看｜影视",
+      "type" : 3,
+      "api" : "csp_Ikanbot",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2"
+    },
+    {
+      "key" : "1905",
+      "name" : "💡1905｜影视",
+      "type" : 3,
+      "api" : "csp_Web1905",
+      "searchable" : 1,
+      "quickSearch" : 0,
+      "filterable" : 0,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2"
+    },
+    {
+      "key" : "移动",
+      "name" : "💡移动｜影视",
+      "type" : 3,
+      "api" : "csp_Yidong4K",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 1,
+      "timeout" : 60,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2"
+    },
+    
+    {
+      "key" : "柠檬",
+      "name" : "💡柠檬｜影视",
+      "type" : 3,
+      "api" : "csp_Nmvod",
+      "playerType" : 2,
+      "jar" : "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext" : "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+    },
+    {
+      "key" : "剧评",
+      "name" : "💡剧评┃影视",
+      "type" : 3,
+      "api" : "csp_Jpys",
+      "playerType" : 1,
+      "jar" : "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext" : "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
+    },
+   
+    {
+      "key" : "一起影视",
+      "name" : "💡一起┃影视",
+      "type" : 3,
+      "api" : "csp_AppYQK",
+      "searchable" : 1,
+      "quickSearch" : 1,
+      "filterable" : 0,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2"
+    },
+    {
+      "key" : "王子",
+      "name" : "👑王子丨APP",
+      "type" : 3,
+      "api" : "csp_AppGet",
+      "searchable" : 1,
+      "changeable" : 1,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : {
+        "url" : "https://app.95112475.xyz",
+        "dataKey" : "5a9w6x58dsq6z3a6",
+        "dataIv" : "5a9w6x58dsq6z3a6"
+      }
+    },
+    {
+      "key" : "剧圈99",
+      "name" : "👑剧圈丨APP",
+      "type" : 3,
+      "api" : "csp_App99",
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : {
+        "host" : "http://124.221.3.182:19987/app/bn",
+        "appkey" : "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName" : "1.2.0",
+        "name" : "剧圈圈",
+        "package" : "com.qingtangxiaozhuan.xyz",
+        "buildNumber" : "2002",
+        "buildSignature" : "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
+    },
+    {
+      "key" : "半日99",
+      "name" : "👑半日丨APP",
+      "type" : 3,
+      "api" : "csp_App99",
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : {
+        "host" : "http://103.217.190.91:19987/app/bn",
+        "appkey" : "24d625a8a29b4700a1a294c6f3b29e2c",
+        "versionName" : "3.5.8",
+        "name" : "半日闲",
+        "package" : "com.yf.lelian",
+        "buildNumber" : "2001",
+        "buildSignature" : "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
+    },
+    {
+      "key" : "蓝鹰",
+      "name" : "👑蓝鹰丨APP",
+      "type" : 3,
+      "api" : "csp_AppQi",
+      "searchable" : 1,
+      "changeable" : 1,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : {
+        "url" : "http://103.217.190.91:5566",
+        "dataKey" : "hagYExMdMkeWfemK",
+        "dataIv" : "hagYExMdMkeWfemK",
+        "init" : "initV122",
+        "ua" : "okhttp/3.10.0"
+      }
+    },
+    {
+      "key" : "世界",
+      "name" : "👑世界丨APP",
+      "type" : 3,
+      "api" : "csp_AppGet",
+      "searchable" : 1,
+      "changeable" : 1,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : {
+        "url" : "https://appcms.4ksj.app",
+        "dataKey" : "O3K6rYx75Q4xtiIE",
+        "dataIv" : "O3K6rYx75Q4xtiIE"
+      }
+    },
+    {
+      "key" : "魔方",
+      "name" : "👑魔方丨APP",
+      "type" : 3,
+      "api" : "csp_AppGet",
+      "searchable" : 1,
+      "changeable" : 1,
+	  "jar" : "https://ncstatic-file.clewm.net/rsrc/2026/0820/00/6f1e49c30e53b2af23c1598713e5e808.jpg;md5;367b30616fb382b237c4b9105e41d5f2",
+      "ext" : {
+        "url" : "https://www.douy32mf.top",
+        "dataKey" : "1234567887654321",
+        "dataIv" : "1234567887654321"
+      }
+    },
 
 		 {
             "key": "苹果",
