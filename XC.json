@@ -18,7 +18,7 @@
         
         {
             "key": "WexAiGuaZi",
-            "name": "💥瓜子┃秒播",
+            "name": "💥瓜子┃秒播💥",
             "type": 3,
             "api": "csp_WexAiGuaZiGuard",
             "searchable": 1,
@@ -27,7 +27,7 @@
         },
         {
             "key": "WexAiDuBoKu",
-            "name": "💥独播┃秒播",
+            "name": "💥独播┃秒播💥",
             "type": 3,
             "api": "csp_WexAiDuBoKuGuard",
             "searchable": 1,
@@ -36,17 +36,34 @@
         },
         {
             "key": "WexAiYueYue",
-            "name": "💥闪电┃秒播",
+            "name": "💥闪电┃秒播💥",
             "type": 3,
             "api": "csp_WexAiYueYueGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
         },
-        
+        {
+            "key": "WexAiWenCai",
+            "name": "💥文才┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAiWenCaiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
+        {
+            "key": "WexFengYe4K",
+            "name": "💥小枫┃秒播💥",
+            "type": 3,
+            "api": "csp_WexFengYe4KGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        },
         {
             "key": "賤賤",
-            "name": "💥贱片┃秒播",
+            "name": "💥贱片┃秒播💥",
             "type": 3,
             "api": "csp_WexAiJianPianGuard",
             "searchable": 1,
@@ -54,8 +71,138 @@
             "changeable": 0
         },
         {
+            "key": "AppV7 | 大师兄",
+            "name": "💥师兄┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Dsx",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 粉猪追剧",
+            "name": "💥粉猪┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Fz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 咸鱼",
+            "name": "💥咸鱼┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xy",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 追剧达人",
+            "name": "💥追剧┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Zjdr",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柚子",
+            "name": "💥柚子┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xyz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柠檬",
+            "name": "💥柠檬┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xnm",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 蒙太奇",
+            "name": "💥太奇┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Mtq",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 零零七影视",
+            "name": "💥零七┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Llq",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小柿子",
+            "name": "💥柿子┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xsz",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
+            "key": "AppV7 | 小黄人",
+            "name": "💥黄人┃秒播💥",
+            "type": 3,
+            "api": "csp_WexAppV7Guard",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "config": "AppV7Xhr",
+                "proxyImg": false
+            },
+            "timeout": 120
+        },
+        {
             "key": "WexAiYiYs",
-            "name": "💥伊影┃秒播",
+            "name": "💥伊影┃秒播💥",
             "type": 3,
             "api": "csp_WexAiYiYsGuard",
             "searchable": 1,
@@ -64,18 +211,9 @@
         },
         {
             "key": "WexAiReBo",
-            "name": "💥热播┃秒播",
+            "name": "💥热播┃秒播💥",
             "type": 3,
             "api": "csp_WexAiReBoGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiBoBo",
-            "name": "💥伯伯┃秒播",
-            "type": 3,
-            "api": "csp_WexAiBoBoGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0
