@@ -13,7 +13,7 @@
     {
       "key": "LZzy",
       "name": "量子资源",
-      "type": 3,
+      "type": 4,
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "search": 1,
       "quickSearch": 1,
