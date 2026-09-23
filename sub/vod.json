@@ -10,6 +10,15 @@
       "quickSearch": 1,
       "filterable": 1
     }
+    {
+      "key": "LZzy",
+      "name": "量子资源",
+      "type": 3,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
   ],
   "lives": [
     {
