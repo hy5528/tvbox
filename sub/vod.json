@@ -2,10 +2,10 @@
   "spider": "",
   "sites": [
     {
-      "key": "7na7",
-      "name": "聚合资源",
+      "key": "ryzy",
+      "name": "如意资源",
       "type": 3,
-      "api": "https://vod.7na7.com/",
+      "api": "https://bycj.rytvapi.com//api.php/provide/vod",
       "search": 1,
       "quickSearch": 1,
       "filterable": 1
