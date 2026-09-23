@@ -2,10 +2,10 @@
   "spider": "",
   "sites": [
     {
-      "key": "ryzy",
-      "name": "如意资源",
+      "key": "bfzy",
+      "name": "暴风资源",
       "type": 3,
-      "api": "https://bycj.rytvapi.com//api.php/provide/vod",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "search": 1,
       "quickSearch": 1,
       "filterable": 1
