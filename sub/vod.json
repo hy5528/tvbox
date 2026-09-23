@@ -1,102 +1,21 @@
-[
-  {
-    "id": "kgziyuan",
-    "name": "联合影视",
-    "api": "https://vod.7na7.com/",
-    "nsfw": false,
-    "logo": "",
-    "type": 0,
-    "extra": {
-      "gfw": false
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "7na7",
+      "name": "聚合资源",
+      "type": 3,
+      "api": "https://vod.7na7.com/",
+      "search": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
-  },
-  {
-    "id": "mdziyuan",
-    "name": "魔都影视",
-    "api": "https://www.mdzyapi.com/api.php/provide/vod",
-    "nsfw": false,
-    "logo": "",
-    "type": 0,
-    "extra": {
-      "gfw": false
+  ],
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/alantang1977/alan/main/proxy/mg.m3u"
     }
-  },
-  {
-    "id": "dbziyuan",
-    "name": "豆瓣影视",
-    "api": "https://caiji.dbzy5.com/api.php/provide/vod",
-    "nsfw": false,
-    "logo": "",
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
-  {
-    "id": "hhziyuan",
-    "name": "豪华影视",
-    "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
-    "nsfw": false,
-    "logo": "",
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
-  {
-    "id": "wlziyuan",
-    "name": "卧龙影视",
-    "api": "https://wolongzyw.com/api.php/provide/vod",
-    "nsfw": false,
-    "logo": "",
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
-  {
-    "id": "niuniuziyuan",
-    "name": "牛牛视频",
-    "api": "https://api.niuniuzy.me/api.php/provide/vod",
-    "nsfw": false,
-    "logo": "https://api.niuniuzy.me/template/niuniuzy/static/images/logo.png",
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
-  {
-    "id": "wwziyuan",
-    "name": "旺旺视频",
-    "api": "https://wwzy.tv/api.php/provide/vod",
-    "nsfw": false,
-    "logo": "",
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
-  {
-    "id": "dtziyuan",
-    "name": "天堂影视",
-    "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/?ac=list",
-    "nsfw": false,
-    "logo": "",
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  },
-
-  {
-    "id": "feifanziyuan",
-    "name": "非凡资源",
-    "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
-    "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
-    "nsfw": false,
-    "type": 0,
-    "extra": {
-      "gfw": false
-    }
-  }
-]
+  ]
+}
