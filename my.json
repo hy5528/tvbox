@@ -124,19 +124,7 @@
       "changeable" : 1,
       "ext" : "uqGL1bNENExT7/hGxpSE5qU="
     },
-    {
-      "key" : "风云",
-      "name" : "☁️风云┃多线",
-      "type" : 3,
-      "api" : "csp_FyGuard",
-      "ext" : {
-        "type" : "video",
-        "name" : "Fy"
-      },
-      "quickSearch" : 1,
-      "searchable" : 1,
-      "changeable" : 1
-    },
+    
     {
       "key" : "视界",
       "name" : "🌸茉莉┃多线",
