@@ -13,20 +13,7 @@
             "quickSearch": 0,
             "changeable": 0
         },
-		{
-      "key" : "MTV1",
-      "name" : "🎙️易听┃音乐",
-      "type" : 3,
-      "api" : "csp_MusicGuard",
-      "style" : {
-        "type" : "rect",
-        "ratio" : 1
-      },
-      "playerType" : 2,
-      "searchable" : 0,
-      "quickSearch" : 0,
-      "changeable" : 0
-    },
+		
 		{
       "key" : "光影",
       "name" : "🌞光影┃不卡",
@@ -558,19 +545,19 @@
 {"key": "央视综艺PY","name": "💝央视┆综艺","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"timeout": 60},
 
 		{
-            "key": "MTV1",
-            "name": "🎙️易听┆音乐",
-            "type": 3,
-            "api": "csp_MusicGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "playerType": 2,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
+      "key" : "MTV1",
+      "name" : "🎙️易听┃音乐",
+      "type" : 3,
+      "api" : "csp_MusicGuard",
+      "style" : {
+        "type" : "rect",
+        "ratio" : 1
+      },
+      "playerType" : 2,
+      "searchable" : 0,
+      "quickSearch" : 0,
+      "changeable" : 0
+    },
         {
             "key": "阅读助手",
             "name": "💖阅读┆助手",
