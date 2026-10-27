@@ -159,43 +159,7 @@
       "changeable" : 1,
       "ext" : "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
     },
-    {
-      "key" : "荐片",
-      "name" : "🥝荐片┃多线",
-      "type" : 3,
-      "api" : "csp_JPJGuard",
-      "timeout" : 10,
-      "playerType" : 2,
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "changeable" : 0
-    },
-    {
-      "key" : "奥特",
-      "name" : "🏝奥特┃多线",
-      "type" : 3,
-      "api" : "csp_AueteGuard",
-      "timeout" : 10,
-      "searchable" : 1,
-      "quickSearch" : 1,
-      "changeable" : 1
-    },
     
-    {
-      "key" : "AiDj",
-      "name" : "❤️AI┃短漫剧",
-      "type" : 3,
-      "api" : "csp_AiDjGuard",
-      "ext" : {
-        "type" : "video",
-        "name" : "短剧",
-        "danMu" : false
-      },
-      "indexs" : 0,
-      "quickSearch" : 1,
-      "searchable" : 1,
-      "changeable" : 0
-    },
         {
             "key": "WexAiDuBoKu",
             "name": "💥独播┆秒播",
