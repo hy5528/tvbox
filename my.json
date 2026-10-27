@@ -432,25 +432,7 @@
         "dataIv" : "1234567887654321"
       }
     },
-		 {
-      "key": "奈飞中文",
-      "name": "🎗奈飞┆秒播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://qrh.yimkj.cn/ym/lib/nfzw.json",
-      "jar": "http://qrh.yimkj.cn/ym/lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949"
-    },
-		 {
-      "key": "赛文",
-      "name": "🍩赛文┆资源",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "ext": "http://xiutan.shiyifacai.com/zuoan/api.php/app/",
-      "jar": "http://xiaohu.xzam.cn/jar/1.jar;md5;6120d08f4eb1edce507bfcd1b339c482"
-    },
+		
 		{
             "key": "苹果",
             "name": "🎀苹果┆APP",
