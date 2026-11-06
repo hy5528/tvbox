@@ -496,7 +496,7 @@
 
 {
             "key": "新影视",
-            "name": "New | 影视",
+            "name": "💖New|影视",
             "type": 3,
             "api": "https://easy888.dpdns.org/py/新影视.py",
             "searchable": 1,
@@ -505,7 +505,7 @@
         },
         {
             "key": "VIP兔",
-            "name": "VIP兔 | 影视",
+            "name": "💖VIP兔|影视",
             "type": 3,
             "api": "https://easy888.dpdns.org/py/VIP兔.py",
             "searchable": 1,
@@ -514,7 +514,7 @@
         },
         {
             "key": "可可影视",
-            "name": "可可 | 影视",
+            "name": "💖可可|影视",
             "type": 3,
             "api": "https://easy888.dpdns.org/py/可可影视.py",
             "searchable": 1,
@@ -523,7 +523,7 @@
         },
         {
             "key": "FreeOK",
-            "name": "FreeOK | 影视",
+            "name": "💖FreeOK|影视",
             "type": 3,
             "api": "https://easy888.dpdns.org/py/FreeOK.py",
             "searchable": 1,
@@ -532,7 +532,7 @@
         },
 		{
             "key": "红果短剧",
-            "name": "红果 | 短剧",
+            "name": "💖红果|短剧",
             "type": 3,
             "api": "https://easy888.dpdns.org/py/红果短剧.py",
             "genre": "shortdrama"
