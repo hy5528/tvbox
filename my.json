@@ -494,13 +494,7 @@
 {"key": "bilibiwd","name": "💖吾爱┆哔哩","type": 3,"api": "csp_BiliGuard","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"style": {"type": "rect","ratio": 1.433 },"ext": {"json": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/sub/bili001.txt"}},
 {"key": "央视综艺PY","name": "💝央视┆综艺","type": 3,"api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/央视综艺.py","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"timeout": 60},
 
- {
-            "key": "huangguo_fongmi",
-            "name": "🎭黄果┆短剧",
-            "type": 3,
-            "api": "csp_hjkk",
-            "ext": "https://gh-proxy.org/https://github.com/jinshengchan/huangguo-fongmi/raw/refs/heads/main/huangguo_fongmi.js"
-        },
+
 		{
       "key" : "MTV1",
       "name" : "🎙️易听┃音乐",
